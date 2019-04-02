@@ -1,0 +1,215 @@
+{
+    "Name": "The Fate of Wilderland",
+    "Cycle": "Ered Mithrin",
+    "SetType": "Adventure_Pack",
+    "cards": [
+        {
+            "Title": "Radagast",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Radagast.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Istari."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "You may use resources from Radagast`s pool to pay for Creature allies of any sphere.",
+                    "Response: After you play a Creature card, Radagast does not exhaust to quest this round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`..he has much lore of herbs and beasts, and birds are especially his friends.`\r\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 145,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Messenger Raven",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Messenger-Raven.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack, defend, of have attachments.",
+                    "Action: Return Messenger Raven to your hand and name a card type. Choose a player to look at the top card of his deck. If the looked at card is of the named type, add it to its owners hand. If not, discard it."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 146,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Loyal Hound",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Loyal-Hound.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.",
+                    "Response: Discard Loyal Hound to cancel up to 2 damage just dealt to a hero you control."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 149,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Mithril Shirt",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Mithril-Shirt.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Guarded (location)."
+                ],
+                "Text": [
+                    "Attach to a hero.",
+                    "Response: When attached hero would take any amount of damage, reduce that damage by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 151,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Gwaihir's Debt",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Gwaihir's-Debt.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique character with the Istari trait and another unique character with the Eagle trait.",
+                    "Action: Search the top 5 cards your deck for an Eagle or Istari ally and put it into play. Shuffle your deck. At the end of the round, if that ally is still in play, return it to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 153,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Radagast's Staff",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fate-of-Wilderland/Radagast's-Staff.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Staff."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Radagast.",
+                    "Action: Exhaust Radagast`s Staff to choose one: Reduce the cost of the next Creature ally you play this phase by 2, ready a Creature ally, or return a non-unique Creature enemy engaged with you to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fate of Wilderland",
+            "EncounterInfo": null,
+            "Number": 154,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "Categories": null
+        }
+    ]
+}
