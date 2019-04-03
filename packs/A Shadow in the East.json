@@ -1,0 +1,192 @@
+{
+    "Name": "A Shadow in the East",
+    "Cycle": null,
+    "SetType": "Deluxe_Expansion",
+    "cards": [
+        {
+            "Title": "Sméagol",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Sméagol.jpg",
+                "Stats": {
+                    "ThreatCost": "3",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gollum."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.",
+                    "Setup: Shuffle 2 copies of Stinker into the encounter deck.",
+                    "Response: After you travel to a location, raise your threat by 1 to draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Martin de Diego Sádaba",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "The One Ring",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-One-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Ring.",
+                    "Master."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Immune to non-Master card effects.",
+                    "Setup: Attach to a hero you control and search your deck for a Master card. Add it to your hand and shuffle your deck. Your threat elimination level is reduced by 5.",
+                    "If The One Ring leaves play, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "The Master Ring",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Master-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust The One Ring and raise your threat by 1 to cancel the effects of an encounter card just revealed from the encounter deck and discard that card. Then, reveal an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire.`\r\n-Frodo, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Stinker",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Stinker.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Gollum."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "When Revealed: Gollum makes an immediate attack. If no attach was made this way, discard all tokens from Sméagol and flip him to Gollum."
+                ],
+                "Shadow": "Shadow: Raise your threat by 2 (by 4 instead if Gollum is engaged with you). Shuffle Stinker back into the encounter deck.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Gollum and Smeagol",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 71,
+            "Quantity": 2,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "Categories": null
+        },
+        {
+            "Title": "Gollum",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Gollum.jpg",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gollum."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to non-Gollum card effects.",
+                    "Gollum engages the first player.",
+                    "Forced: When Gollum is defeated, flip him to Sméagol and return him to his owner`s control, exhausted."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Gollum and Smeagol",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "Categories": null
+        }
+    ]
+}
