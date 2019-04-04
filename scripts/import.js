@@ -23,20 +23,10 @@ const doImport = async () => {
     console.log('\tgetting the cards...')
     const cards = await axios.get(cardsUrl);
     console.log('\tgot all cards. Saving json...')
-    pack.cards = cards.data;
+    pack.cards = cards.data instanceof Array ? cards.data : [];
     fs.writeFileSync(path.join(packDir, pack.Name + '.json'), JSON.stringify(pack, null, 4));
     console.log('\tSaved json.')
   }
-
-  // hobSets.data.forEach((async set => {
-  //   //Check if the hob set is in rings db
-  //   // console.log(set.Name);
-  //   // First, remove any Hobbit prefix
-  //   const name = set.Name.replace('The Hobbit:', '').trim();
-  //   // 
-  //   // const cards = await axios.get(cardsUrl);
-  //   // console.log(`${set.Name}: ${cards.data.length}`);
-  // }));
 
 }
 
