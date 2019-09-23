@@ -86,13 +86,15 @@
                 "Traits": [
                     "Item."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Restricted."
+                ],
                 "Text": [
-                    "Attach to a Lore character.",
-                    "While attached character is defending, cancel any shadow effects on cards dealt to the attacking enemy."
+                    "Attach to a Lore character. Restricted.",
+                    "Response: Exhaust A Burning Brand to cancel a shadow effect just triggered during an attack that attached character is defending."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Keep close to the fire, with your faces outward!` cried Strider. `Keep some of th elonger sticks ready in your hands.` -The Fellowship of the Ring"
+                "FlavorText": "`Keep close to the fire, with your faces outward!` cried Strider. `Keep some of the longer sticks ready in your hands.` -The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Conflict at the Carrock",
@@ -100,7 +102,7 @@
             "Number": 33,
             "Quantity": 3,
             "Artist": "Toni Justamante Jacobs",
-            "HasErrata": false,
+            "HasErrata": true,
             "Categories": null
         },
         {
