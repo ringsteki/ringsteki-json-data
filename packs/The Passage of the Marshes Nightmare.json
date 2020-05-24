@@ -1,10 +1,14 @@
 {
     "Name": "The Passage of the Marshes Nightmare",
+    "Slug": "The-Passage-of-the-Marshes-Nightmare",
+    "Abbreviation": "TPotMN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Passage of the Marshes Nightmare",
+            "Slug": "The-Passage-of-the-Marshes-Nightmare-TPotMN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -48,10 +52,15 @@
             "Quantity": 1,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Festering Mire",
+            "Slug": "Festering-Mire-TPotMN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -71,6 +80,7 @@
                     "Victory 2."
                 ],
                 "Text": [
+                    "Mire 2.",
                     "Forced: When Festering Mire is discarded by the Mire keyword, each player discards his hand.",
                     "Travel: Each player discard 1 random card from his hand to travel here."
                 ],
@@ -90,10 +100,15 @@
             "Quantity": 3,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Candle-lit Pool",
+            "Slug": "Candle-lit-Pool-TPotMN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -106,13 +121,14 @@
                     "QuestPoints": "5"
                 },
                 "Traits": [
-                    "Marhs."
+                    "Marsh."
                 ],
                 "Keywords": [
                     "Mire 3.",
                     "Victory 3."
                 ],
                 "Text": [
+                    "Mire 3.",
                     "Forced: When Candle-lit Pool is discarded by the Mire keyword, each player searches the encounter deck and discard pile for an Undead enemy and puts it into play engaged with him.",
                     "Travel: Spend 2 Fellowship resources to travel here."
                 ],
@@ -132,10 +148,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Reed Thicket",
+            "Slug": "Great-Reed-Thicket-TPotMN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -155,6 +176,7 @@
                     "Victory 2."
                 ],
                 "Text": [
+                    "Mire 2.",
                     "Forced: When Great Reed Thicket is discarded by the Mire keyword, either flip Sméagol to Gollum, or Gollum makes an immediate attack.",
                     "Travel: Exhaust Sméagol to travel here."
                 ],
@@ -174,10 +196,15 @@
             "Quantity": 2,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pale Faces",
+            "Slug": "Pale-Faces-TPotMN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -216,10 +243,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rotting Thing",
+            "Slug": "Rotting-Thing-TPotMN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -259,10 +291,15 @@
             "Quantity": 3,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rot and Vapors",
+            "Slug": "Rot-and-Vapors-TPotMN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -292,10 +329,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum's Rage",
+            "Slug": "Gollum's-Rage-TPotMN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -310,6 +352,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Peril. Surge.",
                     "When Revealed: Deal Gollum`s Rage to Gollum as a facedown shadow card, if able."
                 ],
                 "Shadow": "Shadow: If attacking enemy is Gollum, it gets +1 Attack and makes an additional attack against you after this one.",
@@ -328,6 +371,10 @@
             "Quantity": 2,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

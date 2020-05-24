@@ -1,10 +1,85 @@
 {
     "Name": "Mount Gundabad",
+    "Slug": "Mount-Gundabad",
+    "Abbreviation": "MG",
     "Cycle": "Ered Mithrin",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Drinking Song",
+            "Slug": "Drinking-Song-MG",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Drinking-Song.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Count the number of cards in your hand and shuffle your hand into your deck. Then, draw an equal number of cards. Draw 1 additional card if you control a unique Hobbit character."
+                ],
+                "Shadow": null,
+                "FlavorText": "Ho! Ho! Ho! to the bottle I go\r\nTo heal my heart and drown my woe.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 116,
+            "Quantity": 3,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "3502e51b-bc7a-4e8c-81c7-dfc7b3c09cbc",
+            "RingsDbCardId": "19116",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 722,
+            "Categories": null
+        },
+        {
+            "Title": "The Shirefolk",
+            "Slug": "The-Shirefolk-MG",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Shirefolk.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if each of your heroes is a Hobbit.",
+                    "Action: Reduce your threat by 4."
+                ],
+                "Shadow": null,
+                "FlavorText": "`If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.`\r\n-Thorin Oakenshield, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 121,
+            "Quantity": 3,
+            "Artist": "Carmen Cianelti",
+            "HasErrata": false,
+            "OctgnGuid": "35acc13d-fc10-458f-bacb-99f4979956ce",
+            "RingsDbCardId": "19121",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 454,
+            "Categories": null
+        },
+        {
             "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-MG",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -37,75 +112,15 @@
             "Quantity": 1,
             "Artist": "Tropa Entertainment",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Greenwood Defender",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Greenwood-Defender.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "0",
-                    "Attack": "0",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Greenwood Defender enters play, it does not exhaust to defend until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "...after the coming of Men they took ever more and more to the gloaming and the dusk.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 113,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Elf Guide",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Elf-Guide.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Return a Silvan ally you control to your hand to choose a hero. Add 1 resource to that hero`s pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 114,
-            "Quantity": 3,
-            "Artist": "John Howe",
-            "HasErrata": false,
+            "OctgnGuid": "3844dc9e-8235-4eda-8799-e18fe2af44d4",
+            "RingsDbCardId": "19112",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 54,
             "Categories": null
         },
         {
             "Title": "Gaffer Gamgee",
+            "Slug": "Gaffer-Gamgee-MG",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -137,79 +152,15 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Drinking Song",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Drinking-Song.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Count the number of cards in your hand and shuffle your hand into your deck. Then, draw an equal number of cards. Draw 1 additional card if you control a unique Hobbit character."
-                ],
-                "Shadow": null,
-                "FlavorText": "Ho! Ho! Ho! to the bottle I go\r\nTo heal my heart and drown my woe.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 116,
-            "Quantity": 3,
-            "Artist": "Romana Kendelic",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Sting",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Sting.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Guarded (enemy).",
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Hobbit hero.",
-                    "Attached hero gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Response: After attached hero is declared as an attacker or defender against an enemy, deal 1 damage to that enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 117,
-            "Quantity": 3,
-            "Artist": "Tropa Entertainment",
-            "HasErrata": false,
+            "OctgnGuid": "3ea6d276-cdff-4520-a590-9c79f57e5791",
+            "RingsDbCardId": "19115",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 291,
             "Categories": null
         },
         {
             "Title": "Round Shield",
+            "Slug": "Round-Shield-MG",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -241,10 +192,15 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "7ebbd831-3bd6-4d40-9d86-4b0a4e85ed57",
+            "RingsDbCardId": "19118",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 244,
             "Categories": null
         },
         {
             "Title": "Erebor Toymaker",
+            "Slug": "Erebor-Toymaker-MG",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -277,10 +233,59 @@
             "Quantity": 3,
             "Artist": "Ryan Valle",
             "HasErrata": false,
+            "OctgnGuid": "8b68c5b5-1e86-487f-9fca-3b47ce6c6a9d",
+            "RingsDbCardId": "19119",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 191,
+            "Categories": null
+        },
+        {
+            "Title": "Sting",
+            "Slug": "Sting-MG",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Sting.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Guarded (enemy).",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Guarded (enemy).",
+                    "Attach to a Hobbit hero. Restricted.",
+                    "Attached hero gets +1 Willpower, +1 Attack, and +1 Defense.",
+                    "Response: After attached hero is declared as an attacker or defender against an enemy, deal 1 damage to that enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 117,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "4c23f4d0-fbf4-4c07-bb1d-0f5507647e0f",
+            "RingsDbCardId": "19117",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 177,
             "Categories": null
         },
         {
             "Title": "Armor of Erebor",
+            "Slug": "Armor-of-Erebor-MG",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -299,7 +304,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Dale or Dwarf character.",
+                    "Attach to a Dale or Dwarf character. Restricted.",
                     "Attached character gets +1 Defense and gains sentinel."
                 ],
                 "Shadow": null,
@@ -312,40 +317,90 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "4c77565a-475e-4f57-9360-8f0a2916607f",
+            "RingsDbCardId": "19120",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 172,
             "Categories": null
         },
         {
-            "Title": "The Shirefolk",
+            "Title": "Greenwood Defender",
+            "Slug": "Greenwood-Defender-MG",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Greenwood-Defender.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Greenwood Defender enters play, it does not exhaust to defend until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "...after the coming of Men they took ever more and more to the gloaming and the dusk.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 113,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "be817106-0e2f-4fa2-a3ca-35c0dc21671f",
+            "RingsDbCardId": "19113",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 123,
+            "Categories": null
+        },
+        {
+            "Title": "Elf Guide",
+            "Slug": "Elf-Guide-MG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
-            "Sphere": null,
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Shirefolk.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Elf-Guide.jpg",
                 "Stats": {
                     "ResourceCost": "0"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Play only if each of your heroes is a Hobbit.",
-                    "Action: Reduce your threat by 4."
+                    "Action: Return a Silvan ally you control to your hand to choose a hero. Add 1 resource to that hero`s pool."
                 ],
                 "Shadow": null,
-                "FlavorText": "`If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.`\r\n-Thorin Oakenshield, The Hobbit"
+                "FlavorText": "...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows.\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Mount Gundabad",
             "EncounterInfo": null,
-            "Number": 121,
+            "Number": 114,
             "Quantity": 3,
-            "Artist": "Carmen Cianelti",
+            "Artist": "John Howe",
             "HasErrata": false,
+            "OctgnGuid": "f1c81942-39e6-4107-ba02-e6d0b68e15be",
+            "RingsDbCardId": "19114",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 83,
             "Categories": null
         },
         {
             "Title": "The First Forge",
+            "Slug": "The-First-Forge-MG",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -384,10 +439,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "71060c15-34c0-44ad-885b-4b6c18d2962a",
+            "RingsDbCardId": "19122",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dagnir's Hoard",
+            "Slug": "Dagnir's-Hoard-MG",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -425,10 +485,15 @@
             "Quantity": 1,
             "Artist": "Nele Diel",
             "HasErrata": false,
+            "OctgnGuid": "9d1daee2-2d6e-4d9a-87e4-b706779555d4",
+            "RingsDbCardId": "19123",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Throat of the Mountain",
+            "Slug": "Throat-of-the-Mountain-MG",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -466,10 +531,15 @@
             "Quantity": 1,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "ea5faa85-5a47-4ab3-a623-3f88df71f7fd",
+            "RingsDbCardId": "19124",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dagnir",
+            "Slug": "Dagnir-MG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -491,7 +561,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Immune to player card effects. X is 1 more than the number of quest cards in the victory display.",
+                    "Indestructible. Immune to player card effects. X is 1 more than the number of quest cards in the victory display.",
                     "Cannot take more than X damage each round.",
                     "While there are 5 or more quest cards in the victory display, Dagnir cannot leave the staging area and is considered to be engaged with each player."
                 ],
@@ -511,10 +581,15 @@
             "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "fe2c30ae-dd35-48de-a2c2-4886a0c0783e",
+            "RingsDbCardId": "19125",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Guardian of Gundabad",
+            "Slug": "Guardian-of-Gundabad-MG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -553,10 +628,15 @@
             "Quantity": 3,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "3cbe2fe1-e7ab-4213-85dd-fd9b6244479f",
+            "RingsDbCardId": "19126",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dagnir's Slave",
+            "Slug": "Dagnir's-Slave-MG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -595,10 +675,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "475d31c0-45d5-4a9f-aaac-c23b93c73f03",
+            "RingsDbCardId": "19127",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep-dweller",
+            "Slug": "Deep-dweller-MG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -638,10 +723,15 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "d3bd47e5-cf59-4097-9cec-92a15fe56bf4",
+            "RingsDbCardId": "19128",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mines of Gundabad",
+            "Slug": "Mines-of-Gundabad-MG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -661,6 +751,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "Dagnir gets -10 engagement cost."
                 ],
                 "Shadow": "Shadow: If attacking enemy is Dagnir, the defending player must assign X damage among characters he controls, where X is 1 more than the number of quest cards in the victory display.",
@@ -679,10 +770,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "a802fd4f-0a1b-440e-8648-ff44601bda2c",
+            "RingsDbCardId": "19129",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Narrow Stair",
+            "Slug": "Narrow-Stair-MG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -701,6 +797,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "When faced with the option to travel, the players must travel to Narrow Stair."
                 ],
                 "Shadow": "Shadow: Until the end of the round, defending character cannot be readied by player card effects.",
@@ -719,10 +816,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "f77ffb66-297c-49e0-8ed5-9cc3bd715926",
+            "RingsDbCardId": "19130",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Desecrated Ruins",
+            "Slug": "Desecrated-Ruins-MG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -742,6 +844,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "While there are 3 or more quest cards in the victory display, Desecrated Ruins gets +2 Threat."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, each player discards a random card from his hand.",
@@ -760,10 +863,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "34c61d95-cb2e-49c4-b85e-5d3c32b02342",
+            "RingsDbCardId": "19131",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wilderland's Bane",
+            "Slug": "Wilderland's-Bane-MG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -793,10 +901,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "62d5807c-caef-49bd-8cbc-cb6429647fce",
+            "RingsDbCardId": "19132",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Suffocating Shadows",
+            "Slug": "Suffocating-Shadows-MG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -826,10 +939,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "fd06cd6e-5741-4bd2-b50c-52052f973208",
+            "RingsDbCardId": "19133",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Side Door",
+            "Slug": "The-Side-Door-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -837,7 +955,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Side-Door-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -850,8 +970,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Side-Door-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -864,7 +987,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -872,10 +1001,15 @@
             "Quantity": 1,
             "Artist": "Andreas Adamek",
             "HasErrata": false,
+            "OctgnGuid": "8eae3ce5-c37e-4092-b91d-02c0721ffc0d",
+            "RingsDbCardId": "19134",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-The-Upper-Levels-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -883,7 +1017,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Upper-Levels-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -897,8 +1033,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Upper-Levels-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -913,7 +1052,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -921,10 +1066,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19135",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-The-Lower-Deeps-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -932,7 +1082,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Lower-Deeps-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -946,8 +1098,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Lower-Deeps-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -962,7 +1117,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -970,10 +1131,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19137",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-Frenzied-Warrens-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -981,7 +1147,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Frenzied-Warrens-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -995,8 +1163,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Frenzied-Warrens-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1011,7 +1182,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1019,10 +1196,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19138",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-Dagnir's-Wrath-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1030,7 +1212,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Dagnir's-Wrath-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -1044,8 +1228,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Dagnir's-Wrath-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "7"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1060,7 +1247,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1068,10 +1261,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19139",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-Foreboding-Darkness-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1079,7 +1277,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Foreboding-Darkness-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -1093,8 +1293,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Foreboding-Darkness-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1109,7 +1312,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1117,10 +1326,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19140",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-Imminent-Pursuit-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1128,7 +1342,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Imminent-Pursuit-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -1142,8 +1358,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-Imminent-Pursuit-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1158,7 +1377,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1166,10 +1391,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19141",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exploring Gundabad",
+            "Slug": "Exploring-Gundabad-The-Great-Worm-MG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1177,7 +1407,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Great-Worm-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -1191,8 +1423,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Exploring-Gundabad-The-Great-Worm-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1207,7 +1442,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Gundabad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Lost Caves",
+                    "Dragon Might"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1215,10 +1456,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19142",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wormsbane",
+            "Slug": "Wormsbane-Broken-MG",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1236,7 +1482,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero.",
+                    "Attach to a hero. Restricted.",
                     "Attached hero gets +1 Attack.",
                     "If attached hero leaves play, the players lose the game."
                 ],
@@ -1256,10 +1502,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19143",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wormsbane",
+            "Slug": "Wormsbane-Reforged-MG",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1277,7 +1528,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero.",
+                    "Attach to a hero. Restricted.",
                     "Attached hero gets +X Attack, where X is 1 more than the number of quest cards in the victory display.",
                     "If attached hero leaves play, the players lose the game."
                 ],
@@ -1297,6 +1548,10 @@
             "Quantity": 1,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19144",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

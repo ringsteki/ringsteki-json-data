@@ -1,10 +1,52 @@
 {
     "Name": "The Black Serpent",
+    "Slug": "The-Black-Serpent",
+    "Abbreviation": "TBS",
     "Cycle": "Haradrim",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Dúnedain Pipe",
+            "Slug": "Dunedain-Pipe-TBS",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Dúnedain-Pipe.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Pipe."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dúnedain character. Limit 1 per character.",
+                    "Action: Exhaust Dúnedain Pipe and place a card from your hand on the bottom of your deck to draw a card."
+                ],
+                "Shadow": null,
+                "FlavorText": "He had a tall tankard in front of him, and was smoking a long-stemmed pipe curiously carved.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Serpent",
+            "EncounterInfo": null,
+            "Number": 88,
+            "Quantity": 3,
+            "Artist": "Dani Hartel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17088",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 428,
+            "Categories": null
+        },
+        {
             "Title": "Fastred",
+            "Slug": "Fastred-TBS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -37,78 +79,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Dúnedain Pipe",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Dúnedain-Pipe.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Pipe."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Dúnedain character. Limit 1 per character.",
-                    "Action: Exhaust Dúnedain Pipe and place a card from your hand on the bottom of your deck to draw a card."
-                ],
-                "Shadow": null,
-                "FlavorText": "He had a tall tankard in front of him, and was smoking a long-stemmed pipe curiously carved.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Serpent",
-            "EncounterInfo": null,
-            "Number": 88,
-            "Quantity": 3,
-            "Artist": "Dani Hartel",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Southron Refugee",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Southron-Refugee.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Harad."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Southron Refugee to reduce the cost of the next Harad ally you play this phase by 1."
-                ],
-                "Shadow": null,
-                "FlavorText": "...to the land of the Haradrim came only a tale from far off...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Black Serpent",
-            "EncounterInfo": null,
-            "Number": 90,
-            "Quantity": 3,
-            "Artist": "Nikolas Hagialas",
-            "HasErrata": false,
+            "OctgnGuid": "d87344c3-d234-44c8-89b1-249f5c88bfab",
+            "RingsDbCardId": "17081",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 114,
             "Categories": null
         },
         {
             "Title": "Defender of Cair Andros",
+            "Slug": "Defender-of-Cair-Andros-TBS",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -142,10 +121,15 @@
             "Quantity": 3,
             "Artist": "Kim Sokol",
             "HasErrata": false,
+            "OctgnGuid": "0238e687-61a4-4e2f-a858-70251cc88552",
+            "RingsDbCardId": "17084",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 266,
             "Categories": null
         },
         {
             "Title": "Song of Hope",
+            "Slug": "Song-of-Hope-TBS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -174,10 +158,55 @@
             "Quantity": 3,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "69a257ff-3223-4511-a20f-81cb08655081",
+            "RingsDbCardId": "17082",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 263,
+            "Categories": null
+        },
+        {
+            "Title": "Southron Refugee",
+            "Slug": "Southron-Refugee-TBS",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Southron-Refugee.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Harad."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Southron Refugee to reduce the cost of the next Harad ally you play this phase by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "...to the land of the Haradrim came only a tale from far off...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Black Serpent",
+            "EncounterInfo": null,
+            "Number": 90,
+            "Quantity": 3,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": "2872a8fb-53e6-4e0d-855d-4e1f32cdcfa0",
+            "RingsDbCardId": "17090",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 227,
             "Categories": null
         },
         {
             "Title": "Rally the West",
+            "Slug": "Rally-the-West-TBS",
             "IsUnique": false,
             "CardType": "Player_Side_Quest",
             "CardSubType": "None",
@@ -185,7 +214,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Rally-the-West.jpg",
-                "Stats": {},
+                "Stats": {
+                    "ResourceCost": "1"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -204,10 +235,50 @@
             "Quantity": 3,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "97d09901-724d-4932-ac51-59df1ef1dbec",
+            "RingsDbCardId": "17087",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 217,
+            "Categories": null
+        },
+        {
+            "Title": "Oath of Eorl",
+            "Slug": "Oath-of-Eorl-TBS",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Oath-of-Eorl.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique character with the Rohan trait and another unique character with the Gondor trait.",
+                    "Response: At the beginning of the combat phase, you resolve the step in which you attack enemies before resolving enemy attacks this phase. (Each other player resolves the combat phase as normal after you resolve your attacks.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Black Serpent",
+            "EncounterInfo": null,
+            "Number": 85,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "ae807a4c-d656-42a1-bf2c-024eaffc9fc6",
+            "RingsDbCardId": "17085",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 125,
             "Categories": null
         },
         {
             "Title": "Old Toby",
+            "Slug": "Old-Toby-TBS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -235,40 +306,15 @@
             "Quantity": 3,
             "Artist": "Jason Juta",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Oath of Eorl",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Oath-of-Eorl.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only if you control a unique character with the Rohan trait and another unique character with the Gondor trait.",
-                    "Response: At the beginning of the combat phase, you resolve the step in which you attack enemies before resolving enemy attacks this phase. (Each other player resolves the combat phase as normal after you resolve your attacks.)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Black Serpent",
-            "EncounterInfo": null,
-            "Number": 85,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
+            "OctgnGuid": "c7c503b9-a804-4e37-8554-927d0095e7b1",
+            "RingsDbCardId": "17089",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 113,
             "Categories": null
         },
         {
             "Title": "Burst into Song",
+            "Slug": "Burst-into-Song-TBS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -294,10 +340,15 @@
             "Quantity": 3,
             "Artist": "Javier Charro Martinez",
             "HasErrata": false,
+            "OctgnGuid": "a73ea798-1d91-4bda-86d9-1085739d9cb4",
+            "RingsDbCardId": "17083",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 72,
             "Categories": null
         },
         {
             "Title": "Fearless Scout",
+            "Slug": "Fearless-Scout-TBS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -327,10 +378,15 @@
             "Quantity": 3,
             "Artist": "Andreia Ugrai",
             "HasErrata": false,
+            "OctgnGuid": "168c62d8-bb38-4258-9d2b-6b46aef6c700",
+            "RingsDbCardId": "17086",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 27,
             "Categories": null
         },
         {
             "Title": "Banner of the Serpent",
+            "Slug": "Banner-of-the-Serpent-TBS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -347,6 +403,7 @@
                     "Guarded (enemy or location)."
                 ],
                 "Text": [
+                    "Guarded (enemy or location).",
                     "While Banner of the Serpent is attached to an encounter card, each Harad enemy gets +1 Attack.",
                     "Action: Exhaust Banner of the Serpent and raise your threat by 1 to give each Harad enemy engaged with you -1 Attack until the end of the phase."
                 ],
@@ -366,10 +423,15 @@
             "Quantity": 1,
             "Artist": "Maggie Ivy",
             "HasErrata": false,
+            "OctgnGuid": "d6d4ea3a-402c-413b-9732-a07a21dd15b0",
+            "RingsDbCardId": "17091",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Serpent's Garb",
+            "Slug": "The-Serpent's-Garb-TBS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -386,6 +448,7 @@
                     "Guarded (enemy)."
                 ],
                 "Text": [
+                    "Guarded (enemy).",
                     "Attached encounter card gets +2 Threat and is immune to player card effects.",
                     "Action: Exhaust The Serpent`s Garb and raise your threat by 1 to give a Harad enemy in the staging area -2 Threat until the end of the phase."
                 ],
@@ -405,10 +468,15 @@
             "Quantity": 1,
             "Artist": "Christine Mitzuk",
             "HasErrata": false,
+            "OctgnGuid": "50e62ade-1958-439d-9314-383d8621ecf5",
+            "RingsDbCardId": "17092",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Summons from Mordor",
+            "Slug": "Summons-from-Mordor-TBS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -425,6 +493,7 @@
                     "Guarded (location)."
                 ],
                 "Text": [
+                    "GUarded (location).",
                     "While Summons from Mordor is attached to an encounter card, each player’s threat cannot be reduced.",
                     "Action: Exhaust Summons from Mordor and raise your threat by 1 to add 1 resource to attached hero`s pool."
                 ],
@@ -442,12 +511,17 @@
             },
             "Number": 93,
             "Quantity": 1,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "8174f1b9-6fd0-4eeb-971d-98b2d7a4eaf4",
+            "RingsDbCardId": "17093",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Black Serpent",
+            "Slug": "The-Black-Serpent-TBS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -487,10 +561,15 @@
             "Quantity": 1,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "6bfd4958-3d16-444d-9fce-d95ed07990b4",
+            "RingsDbCardId": "17094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Serpent Guard",
+            "Slug": "Serpent-Guard-TBS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -528,10 +607,15 @@
             "Quantity": 4,
             "Artist": "Kim Sokol",
             "HasErrata": false,
+            "OctgnGuid": "97f3e5c2-8ba8-44f9-a3e3-3bad40fd67e8",
+            "RingsDbCardId": "17095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Serpent's Redoubt",
+            "Slug": "The-Serpent's-Redoubt-TBS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -568,10 +652,15 @@
             "Quantity": 2,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "7ac077eb-0879-4230-8e27-97549f46eb4b",
+            "RingsDbCardId": "17096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Roofless Tower",
+            "Slug": "Roofless-Tower-TBS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -608,10 +697,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "c9b1ad84-a3ea-4ab5-9db1-4addb4ae383d",
+            "RingsDbCardId": "17097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Desert Bastion",
+            "Slug": "Desert-Bastion-TBS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -647,10 +741,15 @@
             "Quantity": 3,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "e8c78f25-00d0-4b3b-8cac-03e533edfe41",
+            "RingsDbCardId": "17098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southron Camp",
+            "Slug": "Southron-Camp-TBS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -687,10 +786,15 @@
             "Quantity": 3,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "5855e76e-e807-4a8c-9035-de7b9cb4366e",
+            "RingsDbCardId": "17099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Broken Courtyard",
+            "Slug": "Broken-Courtyard-TBS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -710,6 +814,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While Broken Courtyard is in the staging area, the main quest cannot have progress tokens beyond its printed quest points value."
                 ],
                 "Shadow": "Shadow: Either remove 2 progress from main quest, or return attacking enemy to staging area after this attack.",
@@ -728,10 +833,15 @@
             "Quantity": 3,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "a53e4587-03e4-4120-8aa5-9601a7069edd",
+            "RingsDbCardId": "17100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bold and Grim",
+            "Slug": "Bold-and-Grim-TBS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -746,6 +856,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Surge. Doomed 1.",
                     "When Revealed: Deal 1 damage to each hero with an objective attached."
                 ],
                 "Shadow": "Shadow: If attacking enemy is non-unique, either attach a Harad objective you control to attacking enemy, or it makes an additional attack after this one.",
@@ -764,10 +875,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "1a3d3725-9451-4c97-a8c7-5d2fa8e35c4c",
+            "RingsDbCardId": "17101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "No Quarter",
+            "Slug": "No-Quarter-TBS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -797,10 +913,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "49e857d2-b78f-4b5f-8c07-604af73fd616",
+            "RingsDbCardId": "17102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chaos in the Night",
+            "Slug": "Chaos-in-the-Night-TBS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -830,10 +951,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "3ef57050-0209-46de-8815-0c4d52b1aaf7",
+            "RingsDbCardId": "17103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Don't Let Them Escape!",
+            "Slug": "Don't-Let-Them-Escape-TBS",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -860,10 +986,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Crossroads Fort",
+            "Slug": "The-Crossroads-Fort-TBS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -871,7 +1002,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/The-Crossroads-Fort-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -882,8 +1015,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/The-Crossroads-Fort-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -897,7 +1033,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Black Serpent",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Harad Soldiers"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -905,10 +1043,15 @@
             "Quantity": 1,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Battle in the Camp",
+            "Slug": "Battle-in-the-Camp-TBS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -916,7 +1059,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Battle-in-the-Camp-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -927,8 +1072,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Battle-in-the-Camp-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -943,7 +1091,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Black Serpent",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Harad Soldiers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -951,10 +1101,15 @@
             "Quantity": 1,
             "Artist": "Alexander Gustafson",
             "HasErrata": false,
+            "OctgnGuid": "e3bc9212-fbc0-48e0-b1c5-42b80ee58b5e",
+            "RingsDbCardId": "17107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Defeat the Serpent",
+            "Slug": "Defeat-the-Serpent-TBS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -962,7 +1117,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Defeat-the-Serpent-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -973,8 +1130,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Serpent/Defeat-the-Serpent-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -989,7 +1149,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Black Serpent",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Harad Soldiers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -997,6 +1159,10 @@
             "Quantity": 1,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "9d451960-2db3-43df-9cd8-d525ef58cf55",
+            "RingsDbCardId": "17108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

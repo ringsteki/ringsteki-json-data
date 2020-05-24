@@ -1,10 +1,14 @@
 {
     "Name": "The Treason of Saruman",
+    "Slug": "The-Treason-of-Saruman",
+    "Abbreviation": "ToS",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Quickbeam",
+            "Slug": "Quickbeam-ToS",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -37,10 +41,15 @@
             "Quantity": 3,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "f37fc371-5a6e-4a24-85a1-2afef11c6841",
+            "RingsDbCardId": "143006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2587,
             "Categories": null
         },
         {
             "Title": "Legolas",
+            "Slug": "Legolas-ToS",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -75,10 +84,255 @@
             "Quantity": 3,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "9825aa22-f197-4320-972d-e2487197d989",
+            "RingsDbCardId": "143005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2114,
+            "Categories": null
+        },
+        {
+            "Title": "Ent Draught",
+            "Slug": "Ent-Draught-ToS",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Ent-Draught.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control at least 1 Ent character.",
+                    "Attach to a character. Limit 1 per character.",
+                    "Attached character gets +2 hit points."
+                ],
+                "Shadow": null,
+                "FlavorText": "The effect of the draught began at the toes, and rose steadily through every limb, bringing refreshment and vigour as it coursed upwards, right to the tips of the hair. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "b86ba0f8-11f9-4694-b421-17b683bd4325",
+            "RingsDbCardId": "143009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1505,
+            "Categories": null
+        },
+        {
+            "Title": "Gimli",
+            "Slug": "Gimli-ToS",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Gimli.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Response: After an enemy is revealed from the encounter deck, ready Gimli."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "6a9ff9c1-64d2-4ed5-a793-9e93e8d605b7",
+            "RingsDbCardId": "143004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1403,
+            "Categories": null
+        },
+        {
+            "Title": "Shadowfax",
+            "Slug": "Shadowfax-ToS",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Shadowfax.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Mount.",
+                    "Mearas."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Gandalf.",
+                    "Gandalf gains ranged and sentinel.",
+                    "Action: Exhaust Shadowfax to ready Gandalf."
+                ],
+                "Shadow": null,
+                "FlavorText": "`He is the chief of the Mearas, lords of horses, and not even Théoden, King of Rohan, has ever looked on a better.` -Gandalf, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "9f61eee8-cff2-43ad-8f82-7c4efb5ed9b8",
+            "RingsDbCardId": "143014",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1274,
+            "Categories": null
+        },
+        {
+            "Title": "Entmoot",
+            "Slug": "Entmoot-ToS",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Entmoot.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control at least 1 Ent character.",
+                    "Action: Search the top 5 cards of your deck for any number of Ent cards and add them to your hand. Shuffle the other cards back into your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`...it is a gathering of Ents - which does not often happen nowadays.` -Treebeard, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": "a17465f5-e6f5-4699-b0d7-79355286a065",
+            "RingsDbCardId": "143011",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1229,
+            "Categories": null
+        },
+        {
+            "Title": "Herugrim",
+            "Slug": "Herugrim-ToS",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Herugrim.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Rohan hero. Restricted.",
+                    "Reduce the cost to play Herugrim on Théoden by 1.",
+                    "Response: After attached hero is declared as an attacker, exhaust Herugrim to add attached hero`s Willpower to its Attack for this attack."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Here, lord, is Herugrim, your ancient blade.` -Háma, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": "9fce5e18-37dc-45c2-8398-df8b5018cb54",
+            "RingsDbCardId": "143010",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1179,
+            "Categories": null
+        },
+        {
+            "Title": "Háma",
+            "Slug": "Hama-ToS",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Háma.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Ready Háma. He gets +3 Defense until the end of the phase. At the end of the phase, discard Háma. (Limit once per round.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am the Doorward of Théoden,` he said. `Háma is my name.` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Sara Betsy",
+            "HasErrata": false,
+            "OctgnGuid": "adc3e6f6-da67-4cc1-9767-8e87dfc91b99",
+            "RingsDbCardId": "143007",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 988,
             "Categories": null
         },
         {
             "Title": "Théoden",
+            "Slug": "Theoden-ToS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -114,218 +368,52 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "f3d88160-30f2-4b8b-9e83-c42e62851bbc",
+            "RingsDbCardId": "143002",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 403,
             "Categories": null
         },
         {
-            "Title": "Ent Draught",
-            "IsUnique": false,
+            "Title": "Arod",
+            "Slug": "Arod-ToS",
+            "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Ent-Draught.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Arod.jpg",
                 "Stats": {
                     "ResourceCost": "1"
                 },
                 "Traits": [
-                    "Item.",
-                    "Ent."
+                    "Mount."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Play only if you control at least 1 Ent character.",
-                    "Attach to a character. Limit 1 per character.",
-                    "Attached character gets +2 hit points."
+                    "Attach to a hero or Legolas.",
+                    "Response: After attached character participates in an attack that destroys an enemy, exhaust Arod to place 1 progress token on any location."
                 ],
                 "Shadow": null,
-                "FlavorText": "The effect of the draught began at the toes, and rose steadily through every limb, bringing refreshment and vigour as it coursed upwards, right to the tips of the hair. -The Two Towers"
+                "FlavorText": "`A smaller and lighter horse, but restive and fiery, was brought to Legolas. Arod was his name.` -The Two Towers"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
             "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Herugrim",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Herugrim.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Rohan hero. Restricted.",
-                    "Reduce the cost to play Herugrim on Théoden by 1.",
-                    "Response: After attached hero is declared as an attacker, exhaust Herugrim to add attached hero`s Willpower to its Attack for this attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Here, lord, is Herugrim, your ancient blade.` -Háma, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Jason Ward",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gimli",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Gimli.jpg",
-                "Stats": {
-                    "ResourceCost": "4",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Warrior."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Response: After an enemy is revealed from the encounter deck, ready Gimli."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Lukasz Jaskolski",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Shadowfax",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Shadowfax.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [
-                    "Mount.",
-                    "Mearas."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to Gandalf.",
-                    "Gandalf gains ranged and sentinel.",
-                    "Action: Exhaust Shadowfax to ready Gandalf."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He is the chief of the Mearas, lords of horses, and not even Théoden, King of Rohan, has ever looked on a better.` -Gandalf, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 14,
+            "Number": 8,
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Entmoot",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Entmoot.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Ent."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Play only if you control at least 1 Ent character.",
-                    "Action: Search the top 5 cards of your deck for any number of Ent cards and add them to your hand. Shuffle the other cards back into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`...it is a gathering of Ents - which does not often happen nowadays.` -Treebeard, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Anthony Devine",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Háma",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Háma.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Ready Háma. He gets +3 Defense until the end of the phase. At the end of the phase, discard Háma. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`I am the Doorward of Théoden,` he said. `Háma is my name.` -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Sara Betsy",
-            "HasErrata": false,
+            "OctgnGuid": "6646bb07-0b44-4051-94a7-39c600b38481",
+            "RingsDbCardId": "143008",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 648,
             "Categories": null
         },
         {
             "Title": "Treebeard",
+            "Slug": "Treebeard-ToS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -358,42 +446,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Arod",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Arod.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Mount."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero or Legolas.",
-                    "Response: After attached character participates in an attack that destroys an enemy, exhaust Arod to place 1 progress token on any location."
-                ],
-                "Shadow": null,
-                "FlavorText": "`A smaller and lighter horse, but restive and fiery, was brought to Legolas. Arod was his name.` -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Treason of Saruman",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Smirtouille",
-            "HasErrata": false,
+            "OctgnGuid": "94f6738a-c946-4415-9b38-0ce3a443fa33",
+            "RingsDbCardId": "143003",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 299,
             "Categories": null
         },
         {
             "Title": "Helm! Helm!",
+            "Slug": "Helm-Helm-ToS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -420,10 +481,15 @@
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "f63da56c-6598-4e01-b245-a9fe49f2251a",
+            "RingsDbCardId": "143012",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 308,
             "Categories": null
         },
         {
             "Title": "The Three Hunters",
+            "Slug": "The-Three-Hunters-ToS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -450,10 +516,15 @@
             "Quantity": 3,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "4101f975-3317-43f8-ba60-19785e01959c",
+            "RingsDbCardId": "143013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 66,
             "Categories": null
         },
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-ToS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -488,10 +559,15 @@
             "Quantity": 1,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "f5178135-1485-43c5-9660-99232a4cdca8",
+            "RingsDbCardId": "143001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Intimidation",
+            "Slug": "Intimidation-ToS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -522,10 +598,15 @@
             "Quantity": 1,
             "Artist": "Matt Stawicki",
             "HasErrata": false,
+            "OctgnGuid": "d490e091-b01c-4067-9c60-01f2b41ad6cf",
+            "RingsDbCardId": "143015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hands of a Healer",
+            "Slug": "Hands-of-a-Healer-ToS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -556,10 +637,15 @@
             "Quantity": 1,
             "Artist": "Kristina Gehrmann",
             "HasErrata": false,
+            "OctgnGuid": "36ed632c-33be-452c-97a5-17201a5cc381",
+            "RingsDbCardId": "143016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forewarned",
+            "Slug": "Forewarned-ToS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -590,10 +676,15 @@
             "Quantity": 1,
             "Artist": "Carly Janine Mazur",
             "HasErrata": false,
+            "OctgnGuid": "528de9d6-9da4-4ac4-b265-773f70d68102",
+            "RingsDbCardId": "143017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Leader of Men",
+            "Slug": "Leader-of-Men-ToS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -624,10 +715,15 @@
             "Quantity": 1,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "3892b2e4-358c-42af-b5be-2f54d252ea2a",
+            "RingsDbCardId": "143018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Beyond All Hope",
+            "Slug": "Beyond-All-Hope-ToS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -658,10 +754,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "1665d088-793c-4350-82f3-e35fd307463d",
+            "RingsDbCardId": "143019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Palantír of Orthanc",
+            "Slug": "Palantir-of-Orthanc-ToS",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -693,10 +794,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "58001a33-adef-4766-872d-334b2570e167",
+            "RingsDbCardId": "143020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Poisoned Counsels",
+            "Slug": "Poisoned-Counsels-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -729,10 +835,15 @@
             "Quantity": 4,
             "Artist": "John Gravato",
             "HasErrata": false,
+            "OctgnGuid": "c7ada690-5aa3-4855-b2c1-35e30336edac",
+            "RingsDbCardId": "143021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "To Isengard!",
+            "Slug": "To-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -763,10 +874,15 @@
             "Quantity": 1,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "1371a0af-e085-42e4-8cd7-a2007da158e1",
+            "RingsDbCardId": "143022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uglúk",
+            "Slug": "Ugluk-ToS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -809,10 +925,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "c0fd82d5-1d87-4120-9b4b-37f81c1b2c9c",
+            "RingsDbCardId": "143023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grishnákh",
+            "Slug": "Grishnakh-ToS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -854,10 +975,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "0cb6d866-50dd-4eb0-a86a-8ed84bfeae0e",
+            "RingsDbCardId": "143024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uglúk's Uruk-hai",
+            "Slug": "Ugluk's-Uruk-hai-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -900,10 +1026,15 @@
             "Quantity": 3,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "eff34048-3186-4613-b841-0cc29cfd357b",
+            "RingsDbCardId": "143025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wold",
+            "Slug": "The-Wold-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -940,10 +1071,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "eb3b5fc0-02a5-4e28-8744-c1e1b4553763",
+            "RingsDbCardId": "143026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eastemnet",
+            "Slug": "Eastemnet-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -979,10 +1115,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "8bfc0f18-87f6-410b-b3b1-8486ca3627c7",
+            "RingsDbCardId": "143027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Plains of Rohan",
+            "Slug": "Plains-of-Rohan-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1017,10 +1158,15 @@
             "Quantity": 4,
             "Artist": "Lino Drieghe",
             "HasErrata": false,
+            "OctgnGuid": "0bd34136-ae3d-44aa-b48f-7190c14f4b3b",
+            "RingsDbCardId": "143028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Banks of Entwash",
+            "Slug": "Banks-of-Entwash-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1056,10 +1202,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "8042f7de-6fed-49cf-95be-450f0fae1601",
+            "RingsDbCardId": "143029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rest by Night?",
+            "Slug": "Rest-by-Night-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1089,10 +1240,15 @@
             "Quantity": 2,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "0f02460f-4ab8-4060-b520-0f82cbb8ce37",
+            "RingsDbCardId": "143030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Strange Weariness",
+            "Slug": "Strange-Weariness-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1124,10 +1280,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "4530258b-c362-4efe-a0c0-92a4f74c75b3",
+            "RingsDbCardId": "143031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unseen Barrier",
+            "Slug": "Unseen-Barrier-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1159,10 +1320,15 @@
             "Quantity": 2,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "1fbeb20b-0018-4d18-ab53-66982543b04b",
+            "RingsDbCardId": "143032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Defense of Helm's Deep",
+            "Slug": "The-Defense-of-Helm's-Deep-ToS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1198,10 +1364,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "c6204e5d-7020-4360-b2ad-7db4edcc7303",
+            "RingsDbCardId": "143033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wild Hillman",
+            "Slug": "Wild-Hillman-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1239,10 +1410,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "abd919a4-de0d-4f7f-8cc1-787ab31980c9",
+            "RingsDbCardId": "143034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Warrior of Dunland",
+            "Slug": "Warrior-of-Dunland-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1262,7 +1438,7 @@
                 ],
                 "Keywords": [
                     "Peril.",
-                    "Archery."
+                    "Archery 1."
                 ],
                 "Text": [
                     "When Revealed: Warrior of Dunland makes an immediate attack against you.",
@@ -1284,10 +1460,15 @@
             "Quantity": 2,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "2223ef81-40c3-422d-a593-a861c3af39fc",
+            "RingsDbCardId": "143035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Soldier of Isengard",
+            "Slug": "Soldier-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1329,10 +1510,15 @@
             "Quantity": 4,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "509f3e41-385c-4b84-ad28-7cc2eed8028c",
+            "RingsDbCardId": "143036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Hornburg",
+            "Slug": "The-Hornburg-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1368,10 +1554,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "b41e6b34-4d6a-47de-9b07-b039013efbc5",
+            "RingsDbCardId": "143037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deeping Wall",
+            "Slug": "Deeping-Wall-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1407,10 +1598,15 @@
             "Quantity": 4,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "76506b8b-4bd1-478f-bc04-512f2b1fc13f",
+            "RingsDbCardId": "143038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deeping Culvert",
+            "Slug": "Deeping-Culvert-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1446,10 +1642,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "990e60bb-a627-4758-8230-81b40a57a382",
+            "RingsDbCardId": "143039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Postern Door",
+            "Slug": "Postern-Door-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1485,10 +1686,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "96580016-f869-4375-8937-3fb14dc0e264",
+            "RingsDbCardId": "143040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Helm's Gate",
+            "Slug": "Helm's-Gate-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1524,10 +1730,15 @@
             "Quantity": 2,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "a0e456e0-5681-41fb-bf0c-06b42d4929de",
+            "RingsDbCardId": "143041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Scaling Ladders",
+            "Slug": "Scaling-Ladders-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1559,10 +1770,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "516f4454-d448-4bc3-8af3-665a0d50256d",
+            "RingsDbCardId": "143042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Devilry of Saruman",
+            "Slug": "Devilry-of-Saruman-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1592,10 +1808,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": true,
+            "OctgnGuid": "20e1ee03-f6c4-4b63-a816-4c9660e51eb0",
+            "RingsDbCardId": "143043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Reckless Hate",
+            "Slug": "Reckless-Hate-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1627,10 +1848,15 @@
             "Quantity": 2,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "e496a120-ce3f-47f8-9087-d9c156744ac9",
+            "RingsDbCardId": "143044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Night Without End",
+            "Slug": "Night-Without-End-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1663,10 +1889,15 @@
             "Quantity": 2,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "90fe2776-1001-4871-a5ae-679b91992e7e",
+            "RingsDbCardId": "143045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ent of Fangorn",
+            "Slug": "Ent-of-Fangorn-ToS",
             "IsUnique": false,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -1703,10 +1934,15 @@
             "Quantity": 4,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "bb38c7cf-8c76-4b87-b218-5516bc366470",
+            "RingsDbCardId": "143046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Saruman",
+            "Slug": "Saruman-ToS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1748,10 +1984,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "e22fc95d-9729-40ea-b81c-1432a4a57e41",
+            "RingsDbCardId": "143047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Saruman's Staff",
+            "Slug": "Saruman's-Staff-ToS",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1786,10 +2027,15 @@
             "Quantity": 1,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "7275de5f-3f2f-47e0-a90a-58fc45c3bdcf",
+            "RingsDbCardId": "143048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gríma",
+            "Slug": "Grima-ToS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1827,10 +2073,15 @@
             "Quantity": 1,
             "Artist": "Dleoblack",
             "HasErrata": false,
+            "OctgnGuid": "0fc7db5e-c389-4636-8c34-3d1dee3508ce",
+            "RingsDbCardId": "143049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lieutenant of Orthanc",
+            "Slug": "Lieutenant-of-Orthanc-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1868,10 +2119,15 @@
             "Quantity": 2,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "44ca3879-246e-43c7-aa97-798be8dd193f",
+            "RingsDbCardId": "143050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Isengard Orc",
+            "Slug": "Isengard-Orc-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1912,10 +2168,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "0c6923ad-efbd-46b0-b5fc-93f90334ecf5",
+            "RingsDbCardId": "143051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wolf of Isengard",
+            "Slug": "Wolf-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1953,10 +2214,15 @@
             "Quantity": 2,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "fc2ed0de-aba1-49ad-94b3-94024116eeeb",
+            "RingsDbCardId": "143052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orthanc",
+            "Slug": "Orthanc-ToS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1992,10 +2258,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "9eb0298a-cb92-426d-87c6-37749aaae44b",
+            "RingsDbCardId": "143053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gates of Isengard",
+            "Slug": "Gates-of-Isengard-ToS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2033,10 +2304,15 @@
             "Quantity": 1,
             "Artist": "Lino Drieghe",
             "HasErrata": false,
+            "OctgnGuid": "27299002-f9b0-4f9d-a87b-012a6a6993ca",
+            "RingsDbCardId": "143054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ring-wall of Isengard",
+            "Slug": "Ring-wall-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2072,10 +2348,15 @@
             "Quantity": 3,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "f810a9d2-b2c2-49fd-966a-7bf9f0827030",
+            "RingsDbCardId": "143055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Underground Armoury",
+            "Slug": "Underground-Armoury-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2111,10 +2392,15 @@
             "Quantity": 2,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "ef990329-db00-441a-8c7d-8b464321f093",
+            "RingsDbCardId": "143056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Steaming Vent",
+            "Slug": "Steaming-Vent-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2150,10 +2436,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "8ab1b53d-df75-487e-9351-60690fba1df5",
+            "RingsDbCardId": "143057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Plain of Isengard",
+            "Slug": "Plain-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2190,10 +2481,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "d30fcccc-2f1a-43bb-8bc4-ce0fccdd4a0f",
+            "RingsDbCardId": "143058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Open Pit",
+            "Slug": "Open-Pit-ToS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2229,10 +2525,15 @@
             "Quantity": 2,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "d1cc0af9-7ab3-449b-baa2-da0bfdf6c987",
+            "RingsDbCardId": "143059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blast of Sorcery",
+            "Slug": "Blast-of-Sorcery-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2262,10 +2563,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "59c6b564-b927-481f-b505-ca9b1fe4f524",
+            "RingsDbCardId": "143060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Poisoned Vapour",
+            "Slug": "Poisoned-Vapour-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2297,10 +2603,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "dfd0e951-2ba4-45c5-bed9-24caf8ae868f",
+            "RingsDbCardId": "143061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Machines of Isengard",
+            "Slug": "Machines-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2330,10 +2641,15 @@
             "Quantity": 3,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "a44d6ee9-79a6-4e55-ab8a-a165c4dbb882",
+            "RingsDbCardId": "143062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Isengard Uruk",
+            "Slug": "Isengard-Uruk-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2376,10 +2692,15 @@
             "Quantity": 3,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "fed61900-b526-41e6-b072-9c5eae29bc77",
+            "RingsDbCardId": "143063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk-hai Fighter",
+            "Slug": "Uruk-hai-Fighter-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2420,10 +2741,15 @@
             "Quantity": 3,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "8345c4ad-4c5e-484d-bc6f-d1e4bc27805f",
+            "RingsDbCardId": "143064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fighting Uruk-hai",
+            "Slug": "Fighting-Uruk-hai-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2455,10 +2781,15 @@
             "Quantity": 2,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "f28dc579-14b5-4623-848a-0a9383162b4c",
+            "RingsDbCardId": "143065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Snaga",
+            "Slug": "Snaga-ToS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2478,7 +2809,7 @@
                 ],
                 "Keywords": [
                     "Peril.",
-                    "Archery 1"
+                    "Archery 1."
                 ],
                 "Text": [
                     "When Revealed: Discard 1 random card from your hand. Snaga gets +X Threat until the end of the round, where X is the discarded card`s printed cost."
@@ -2499,10 +2830,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "c6adadf8-569a-4943-817b-44bf1418e07e",
+            "RingsDbCardId": "143066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Saruman's Orders",
+            "Slug": "Saruman's-Orders-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2532,10 +2868,15 @@
             "Quantity": 2,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "c5d9d3c6-9321-4909-918d-2b81d7aa296d",
+            "RingsDbCardId": "143067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Saruman's Voice",
+            "Slug": "Saruman's-Voice-ToS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -2552,6 +2893,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Peril. Doomed 2.",
                     "When Revealed: Remove a hero from the quest and attach Saruman`s Voice to that hero. (Counts as a Condition attachment with the text: `Forced: When attached hero commits to a quest, is declared and attacker or defender, or triggers its ability, its controller must discard 1 card from his hand.`)"
                 ],
                 "Shadow": null,
@@ -2570,10 +2912,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "ae2c5145-f34a-4367-bd41-1e5e7749fb68",
+            "RingsDbCardId": "143068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Follow the Orcs",
+            "Slug": "Follow-the-Orcs-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2581,7 +2928,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Follow-the-Orcs-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2592,8 +2941,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Follow-the-Orcs-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "X"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2608,7 +2960,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Uruk-hai",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand",
+                    "Snaga Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2616,10 +2971,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "769838b7-51c6-4a7e-8f10-c39524b3a9c5",
+            "RingsDbCardId": "143069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rescue the Captives",
+            "Slug": "Rescue-the-Captives-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2627,7 +2987,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rescue-the-Captives-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2638,8 +3000,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rescue-the-Captives-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2654,7 +3019,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Uruk-hai",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand",
+                    "Snaga Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2662,10 +3030,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "080f86b2-8cea-4134-8e79-de6312b51ed6",
+            "RingsDbCardId": "143070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Uruk-hai",
+            "Slug": "The-Uruk-hai-Campaign-ToS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2702,10 +3075,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "143071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The King of the Golden Hall",
+            "Slug": "The-King-of-the-Golden-Hall-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2713,7 +3091,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-of-the-Golden-Hall-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2724,8 +3104,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-of-the-Golden-Hall-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2740,7 +3123,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Helm's Deep",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2748,10 +3133,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "9550172a-c624-40fd-b654-f2430ed93df1",
+            "RingsDbCardId": "143072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Assault on Helm's Deep",
+            "Slug": "Assault-on-Helm's-Deep-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2759,7 +3149,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Assault-on-Helm's-Deep-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Defense."
@@ -2772,8 +3164,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Assault-on-Helm's-Deep-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2787,7 +3182,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Helm's Deep",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2795,10 +3192,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "8f5cdb72-aeae-49f7-bcc8-a2288b6bfb95",
+            "RingsDbCardId": "143073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Hosts of Isengard",
+            "Slug": "The-Hosts-of-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2806,7 +3208,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Hosts-of-Isengard-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Defense."
@@ -2819,8 +3223,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Hosts-of-Isengard-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2833,7 +3240,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Helm's Deep",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2841,10 +3250,15 @@
             "Quantity": 1,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "7e20690f-d1bb-4ac3-b2bf-da55f1f95bcc",
+            "RingsDbCardId": "143074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wall is Breached!",
+            "Slug": "The-Wall-is-Breached-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2852,7 +3266,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Wall-is-Breached-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Defense."
@@ -2865,8 +3281,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Wall-is-Breached-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2880,7 +3299,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Helm's Deep",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -2888,10 +3309,15 @@
             "Quantity": 1,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "abc54411-1805-4ef4-8c47-517ffe72312e",
+            "RingsDbCardId": "143075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The King Rides Out",
+            "Slug": "The-King-Rides-Out-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2899,7 +3325,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-Rides-Out-5A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "5A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2910,8 +3338,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-Rides-Out-5B.jpg",
+                "Stats": {
+                    "StageNumber": "5B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2925,7 +3356,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Helm's Deep",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
                 "StageNumber": 5,
                 "StageLetter": "A"
             },
@@ -2933,10 +3366,15 @@
             "Quantity": 1,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "6950e7ae-27be-4def-954c-8dabe8dd612b",
+            "RingsDbCardId": "143076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Helm's Deep",
+            "Slug": "Helm's-Deep-Campaign-ToS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2973,10 +3411,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "143077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rouse the Ents",
+            "Slug": "Rouse-the-Ents-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2984,7 +3427,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rouse-the-Ents-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2995,8 +3440,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rouse-the-Ents-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3010,7 +3458,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Road to Isengard",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -3018,10 +3468,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "7cae1eb0-8693-4eb8-b5f0-86a35a271410",
+            "RingsDbCardId": "143078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Breaking Isengard",
+            "Slug": "Breaking-Isengard-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3029,7 +3484,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Breaking-Isengard-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3040,8 +3497,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Breaking-Isengard-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3056,7 +3516,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Road to Isengard",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3064,10 +3526,15 @@
             "Quantity": 1,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "9cb47ff2-5dff-404f-8fed-6ec0b6478ded",
+            "RingsDbCardId": "143079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Voice of Saruman",
+            "Slug": "The-Voice-of-Saruman-ToS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3075,7 +3542,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Voice-of-Saruman-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3086,8 +3555,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Voice-of-Saruman-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3102,7 +3574,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Road to Isengard",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -3110,10 +3584,15 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "196d6c69-845a-494d-a49d-54d3dc6c1b4b",
+            "RingsDbCardId": "143080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Road to Isengard",
+            "Slug": "The-Road-to-Isengard-Campaign-ToS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -3150,6 +3629,10 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "143081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

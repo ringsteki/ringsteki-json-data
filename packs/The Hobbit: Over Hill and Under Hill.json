@@ -1,10 +1,14 @@
 {
     "Name": "The Hobbit: Over Hill and Under Hill",
+    "Slug": "The-Hobbit-Over-Hill-and-Under-Hill",
+    "Abbreviation": "THOHaUH",
     "Cycle": "The Hobbit",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Foe-hammer",
+            "Slug": "Foe-hammer-THOHaUH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -30,10 +34,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9033",
+            "RingsDbCardId": "131015",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4005,
             "Categories": null
         },
         {
             "Title": "A Very Good Tale",
+            "Slug": "A-Very-Good-Tale-THOHaUH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -59,10 +68,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9011",
+            "RingsDbCardId": "131014",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3322,
             "Categories": null
         },
         {
             "Title": "Cram",
+            "Slug": "Cram-THOHaUH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -91,10 +105,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9024",
+            "RingsDbCardId": "131011",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2403,
             "Categories": null
         },
         {
             "Title": "Gandalf",
+            "Slug": "Gandalf-THOHaUH",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -126,45 +145,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Bofur",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Bofur.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Bofur to search the top 5 cards of your deck for 1 Weapon attachment. Add that card to your hand and shuffle the other cards back into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "David A. Nash",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9036",
+            "RingsDbCardId": "131010",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1750,
             "Categories": null
         },
         {
             "Title": "Fili",
+            "Slug": "Fili-THOHaUH",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -196,10 +185,95 @@
             "Quantity": 3,
             "Artist": "Carmen Cianelti",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9032",
+            "RingsDbCardId": "131006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1461,
+            "Categories": null
+        },
+        {
+            "Title": "Kili",
+            "Slug": "Kili-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Kili.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Kili from your hand during the planning phase, search your deck for Fili and put him into play under your control. Then, shuffle your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Carmen Cianelti",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9055",
+            "RingsDbCardId": "131007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1241,
+            "Categories": null
+        },
+        {
+            "Title": "Bofur",
+            "Slug": "Bofur-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Bofur.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Bofur to search the top 5 cards of your deck for 1 Weapon attachment. Add that card to your hand and shuffle the other cards back into your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9019",
+            "RingsDbCardId": "131008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1237,
             "Categories": null
         },
         {
             "Title": "Goblin-cleaver",
+            "Slug": "Goblin-cleaver-THOHaUH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -225,10 +299,93 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9043",
+            "RingsDbCardId": "131016",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1072,
+            "Categories": null
+        },
+        {
+            "Title": "Dori",
+            "Slug": "Dori-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Dori.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a hero is assigned any amount of damage, exhaust Dori to place that damage on Dori instead."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I can`t always be carrying burglars on my back,` said Dori, `down tunnels and up trees! What do you think I am? A porter?` -Dori, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9027",
+            "RingsDbCardId": "131009",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 982,
+            "Categories": null
+        },
+        {
+            "Title": "Thrór's Map",
+            "Slug": "Thror's-Map-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Thrór's-Map.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Travel Action: Discard Thrór`s Map to choose a location in the staging area. Make that location the active location. (If there is another active location, return it to the staging area.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`This was made by Thrór, your grandfather, Thorin.` he said in answer to the dwarves` excited questions. `It is a plan of the Mountain.` -Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Jake Murray",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9084",
+            "RingsDbCardId": "131013",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 834,
             "Categories": null
         },
         {
             "Title": "Thorin Oakenshield",
+            "Slug": "Thorin-Oakenshield-THOHaUH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -262,10 +419,132 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9083",
+            "RingsDbCardId": "131002",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 422,
+            "Categories": null
+        },
+        {
+            "Title": "Ori",
+            "Slug": "Ori-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Ori.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If you control at least 5 Dwarf characters, draw 1 additional card at the beginning of the resource phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`He could write well and speedily, and often used the Elvish characters.` -Gimli, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Blake Henriksen",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9065",
+            "RingsDbCardId": "131004",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 395,
+            "Categories": null
+        },
+        {
+            "Title": "Nori",
+            "Slug": "Nori-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Nori.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play a Dwarf character from your hand, reduce your threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Nori, at your service.` -Nori, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Blake Henriksen",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9062",
+            "RingsDbCardId": "131003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 380,
+            "Categories": null
+        },
+        {
+            "Title": "Spare Hood and Cloak",
+            "Slug": "Spare-Hood-and-Cloak-THOHaUH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Spare-Hood-and-Cloak.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.",
+                    "Action: Exhaust Spare Hood and Cloak and exhaust attached character to ready another character. Then, attach Spare Hood and Cloak to that character."
+                ],
+                "Shadow": null,
+                "FlavorText": "`You will have to manage without pocket-handkerchiefs, and a good many other things, before you get to the journey`s end. As for a hat, I have got a spare hood and cloak in my luggage.` -Dwalin, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "David Kegg",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9074",
+            "RingsDbCardId": "131012",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 608,
             "Categories": null
         },
         {
             "Title": "Beorn",
+            "Slug": "Beorn-THOHaUH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -301,100 +580,30 @@
             "Quantity": 1,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9015",
+            "RingsDbCardId": "131005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 338,
             "Categories": null
         },
         {
-            "Title": "Nori",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Nori.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you play a Dwarf character from your hand, reduce your threat by 1."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Nori, at your service.` -Nori, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Blake Henriksen",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Ori",
-            "IsUnique": true,
-            "CardType": "Hero",
+            "Title": "Expecting Mischief",
+            "Slug": "Expecting-Mischief-THOHaUH",
+            "IsUnique": false,
+            "CardType": "Event",
             "CardSubType": "None",
             "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Ori.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Expecting-Mischief.jpg",
                 "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
+                    "ResourceCost": "1"
                 },
-                "Traits": [
-                    "Dwarf."
-                ],
+                "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If you control at least 5 Dwarf characters, draw 1 additional card at the beginning of the resource phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He could write well and speedily, and often used the Elvish characters.` -Gimli, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 1,
-            "Artist": "Blake Henriksen",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Kili",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Kili.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you play Kili from your hand during the planning phase, search your deck for Fili and put him into play under your control. Then, shuffle your deck."
+                    "Play during the quest phase, before the staging step.",
+                    "Action: Deal 2 damage to the first enemy revealed from the encounter deck this phase."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -402,114 +611,19 @@
             "Back": null,
             "CardSet": "The Hobbit: Over Hill and Under Hill",
             "EncounterInfo": null,
-            "Number": 7,
+            "Number": 18,
             "Quantity": 3,
-            "Artist": "Carmen Cianelti",
+            "Artist": "Ilich Henriquez",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Thrór's Map",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Thrór's-Map.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Travel Action: Discard Thrór`s Map to choose a location in the staging area. Make that location the active location. (If there is another active location, return it to the staging area.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`This was made by Thrór, your grandfather, Thorin.` he said in answer to the dwarves` excited questions. `It is a plan of the Mountain.` -Gandalf, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 13,
-            "Quantity": 3,
-            "Artist": "Jake Murray",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Dori",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Dori.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a hero is assigned any amount of damage, exhaust Dori to place that damage on Dori instead."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I can`t always be carrying burglars on my back,` said Dori, `down tunnels and up trees! What do you think I am? A porter?` -Dori, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Jake Murray",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Spare Hood and Cloak",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Spare-Hood-and-Cloak.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a character.",
-                    "Action: Exhaust Spare Hood and Cloak and exhaust attached character to ready another character. Then, attach Spare Hood and Cloak to that character."
-                ],
-                "Shadow": null,
-                "FlavorText": "`You will have to manage without pocket-handkerchiefs, and a good many other things, before you get to the journey`s end. As for a hat, I have got a spare hood and cloak in my luggage.` -Dwalin, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 12,
-            "Quantity": 3,
-            "Artist": "David Kegg",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9031",
+            "RingsDbCardId": "131018",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 407,
             "Categories": null
         },
         {
             "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-THOHaUH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -543,40 +657,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Expecting Mischief",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Expecting-Mischief.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play during the quest phase, before the staging step.",
-                    "Action: Deal 2 damage to the first enemy revealed from the encounter deck this phase."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 18,
-            "Quantity": 3,
-            "Artist": "Ilich Henriquez",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9017",
+            "RingsDbCardId": "131001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1,
             "Categories": null
         },
         {
             "Title": "Late Adventurer",
+            "Slug": "Late-Adventurer-THOHaUH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -602,10 +691,15 @@
             "Quantity": 3,
             "Artist": "Carmen Cianelti",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9057",
+            "RingsDbCardId": "131017",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 169,
             "Categories": null
         },
         {
             "Title": "Burglar Baggins",
+            "Slug": "Burglar-Baggins-THOHaUH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -631,47 +725,15 @@
             "Quantity": 3,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Sting",
-            "IsUnique": true,
-            "CardType": "Treasure",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Sting.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to Bilbo Baggins.",
-                    "Bilbo Baggins gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Response: After Bilbo Baggins exhausts to defend, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card`s Threat."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I shall call you Sting.` -Bilbo, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: Over Hill and Under Hill",
-            "EncounterInfo": null,
-            "Number": 20,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9020",
+            "RingsDbCardId": "131019",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 146,
             "Categories": null
         },
         {
             "Title": "Glamdring",
+            "Slug": "Glamdring-THOHaUH",
             "IsUnique": true,
             "CardType": "Treasure",
             "CardSubType": "None",
@@ -705,10 +767,57 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9037",
+            "RingsDbCardId": "131022",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 71,
+            "Categories": null
+        },
+        {
+            "Title": "Sting",
+            "Slug": "Sting-THOHaUH",
+            "IsUnique": true,
+            "CardType": "Treasure",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Sting.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to Bilbo Baggins.",
+                    "Bilbo Baggins gets +1 Willpower, +1 Attack, and +1 Defense.",
+                    "Response: After Bilbo Baggins exhausts to defend, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card`s Threat."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I shall call you Sting.` -Bilbo, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: Over Hill and Under Hill",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9075",
+            "RingsDbCardId": "131020",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 66,
             "Categories": null
         },
         {
             "Title": "Orcrist",
+            "Slug": "Orcrist-THOHaUH",
             "IsUnique": true,
             "CardType": "Treasure",
             "CardSubType": "None",
@@ -741,10 +850,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9064",
+            "RingsDbCardId": "131021",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 62,
             "Categories": null
         },
         {
             "Title": "A Deep Sack",
+            "Slug": "A-Deep-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -776,10 +890,15 @@
             "Quantity": 1,
             "Artist": "David Kegg",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9001",
+            "RingsDbCardId": "131048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Foul Sack",
+            "Slug": "A-Foul-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -811,10 +930,15 @@
             "Quantity": 1,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9002",
+            "RingsDbCardId": "131049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Large Sack",
+            "Slug": "A-Large-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -846,10 +970,15 @@
             "Quantity": 1,
             "Artist": "Florian Stitz",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9003",
+            "RingsDbCardId": "131047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Nice Pickle",
+            "Slug": "A-Nice-Pickle-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -881,10 +1010,15 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9004",
+            "RingsDbCardId": "131052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Short Rest",
+            "Slug": "A-Short-Rest-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -892,7 +1026,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/A-Short-Rest-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -903,8 +1039,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/A-Short-Rest-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -917,7 +1056,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Over the Misty Mountains Grim",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Western Lands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -925,10 +1066,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9005",
+            "RingsDbCardId": "131026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Smelly Sack",
+            "Slug": "A-Smelly-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -960,10 +1106,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9007",
+            "RingsDbCardId": "131044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Strong Sack",
+            "Slug": "A-Strong-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -995,10 +1146,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9008",
+            "RingsDbCardId": "131045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Suspicious Crow",
+            "Slug": "A-Suspicious-Crow-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1036,10 +1192,15 @@
             "Quantity": 3,
             "Artist": "Dean Spencer",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9009",
+            "RingsDbCardId": "131035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Tough Sack",
+            "Slug": "A-Tough-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1071,10 +1232,15 @@
             "Quantity": 1,
             "Artist": "Ignacio Bazan Lazcano",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9010",
+            "RingsDbCardId": "131046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Worn Sack",
+            "Slug": "A-Worn-Sack-THOHaUH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1106,10 +1272,15 @@
             "Quantity": 1,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9012",
+            "RingsDbCardId": "131050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "An Unexpected Party",
+            "Slug": "An-Unexpected-Party-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1117,7 +1288,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/An-Unexpected-Party-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1128,8 +1301,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/An-Unexpected-Party-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "7"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -1140,7 +1316,9 @@
             "EncounterInfo": {
                 "EncounterSet": "We Must Away, Ere Break of Day",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Western Lands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -1148,10 +1326,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9013",
+            "RingsDbCardId": "131023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bert",
+            "Slug": "Bert-THOHaUH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1193,10 +1376,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9016",
+            "RingsDbCardId": "131033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bilbo's Magic Ring",
+            "Slug": "Bilbo's-Magic-Ring-THOHaUH",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1231,10 +1419,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9018",
+            "RingsDbCardId": "131079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cave Entrance",
+            "Slug": "Cave-Entrance-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1269,10 +1462,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9021",
+            "RingsDbCardId": "131041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chaos in the Cavern",
+            "Slug": "Chaos-in-the-Cavern-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1302,10 +1500,15 @@
             "Quantity": 2,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9022",
+            "RingsDbCardId": "131071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Come Down Little Bird",
+            "Slug": "Come-Down-Little-Bird-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1335,10 +1538,15 @@
             "Quantity": 2,
             "Artist": "Marco Caradonna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "131080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dawn Take You All",
+            "Slug": "Dawn-Take-You-All-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1346,7 +1554,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Dawn-Take-You-All-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -1355,8 +1565,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Dawn-Take-You-All-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1369,7 +1582,9 @@
             "EncounterInfo": {
                 "EncounterSet": "We Must Away, Ere Break of Day",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Western Lands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -1377,10 +1592,15 @@
             "Quantity": 1,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9025",
+            "RingsDbCardId": "131025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Down, Down to Goblin Town",
+            "Slug": "Down-Down-to-Goblin-Town-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1388,7 +1608,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Down-Down-to-Goblin-Town-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1399,8 +1621,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Down-Down-to-Goblin-Town-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1415,7 +1640,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Great Goblin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Great Goblin",
+                    "Misty Mountain Goblins"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -1423,10 +1651,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9028",
+            "RingsDbCardId": "131028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dreary Hills",
+            "Slug": "Dreary-Hills-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1462,10 +1695,15 @@
             "Quantity": 2,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9030",
+            "RingsDbCardId": "131039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Front Porch",
+            "Slug": "Front-Porch-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1501,10 +1739,15 @@
             "Quantity": 2,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9034",
+            "RingsDbCardId": "131066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Galloping Boulders",
+            "Slug": "Galloping-Boulders-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1534,10 +1777,15 @@
             "Quantity": 4,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9035",
+            "RingsDbCardId": "131072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Axeman",
+            "Slug": "Goblin-Axeman-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1576,10 +1824,15 @@
             "Quantity": 3,
             "Artist": "Florian Stitz",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9038",
+            "RingsDbCardId": "131058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Bent-Swords",
+            "Slug": "Goblin-Bent-Swords-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1618,10 +1871,15 @@
             "Quantity": 4,
             "Artist": "Johann Bodin",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9039",
+            "RingsDbCardId": "131062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Driver",
+            "Slug": "Goblin-Driver-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1660,10 +1918,15 @@
             "Quantity": 3,
             "Artist": "Stephane Gantiez",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9040",
+            "RingsDbCardId": "131061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Miners",
+            "Slug": "Goblin-Miners-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1702,10 +1965,15 @@
             "Quantity": 3,
             "Artist": "C. B. Sorge",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9041",
+            "RingsDbCardId": "131059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Runners",
+            "Slug": "Goblin-Runners-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1744,10 +2012,15 @@
             "Quantity": 3,
             "Artist": "Stephane Gantiez",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9042",
+            "RingsDbCardId": "131060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum",
+            "Slug": "Gollum-THOHaUH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1785,10 +2058,15 @@
             "Quantity": 1,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9044",
+            "RingsDbCardId": "131074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Cavern Room",
+            "Slug": "Great-Cavern-Room-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1823,10 +2101,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9045",
+            "RingsDbCardId": "131067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Gray Wolf",
+            "Slug": "Great-Gray-Wolf-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1865,10 +2148,15 @@
             "Quantity": 1,
             "Artist": "Allison Theus",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9046",
+            "RingsDbCardId": "131075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grip, Grab! Pinch, Nab!",
+            "Slug": "Grip-Grab-Pinch-Nab-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1898,10 +2186,15 @@
             "Quantity": 3,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "131070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Guffawing of Giants",
+            "Slug": "Guffawing-of-Giants-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1931,10 +2224,15 @@
             "Quantity": 2,
             "Artist": "Chun Lo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9048",
+            "RingsDbCardId": "131073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hiding in the Trees",
+            "Slug": "Hiding-in-the-Trees-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1964,10 +2262,15 @@
             "Quantity": 2,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9049",
+            "RingsDbCardId": "131082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hobbit-lands",
+            "Slug": "Hobbit-lands-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2002,10 +2305,15 @@
             "Quantity": 2,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9050",
+            "RingsDbCardId": "131038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hungry Troll",
+            "Slug": "Hungry-Troll-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2035,10 +2343,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9051",
+            "RingsDbCardId": "131054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Into the Fire",
+            "Slug": "Into-the-Fire-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2046,7 +2359,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Into-the-Fire-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -2055,8 +2370,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Into-the-Fire-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2072,7 +2390,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Dungeons Deep and Caverns Dim",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Goblins"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2080,10 +2400,15 @@
             "Quantity": 1,
             "Artist": "Adam Schumpert",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9052",
+            "RingsDbCardId": "131031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "It Likes Riddles?",
+            "Slug": "It-Likes-Riddles-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2113,10 +2438,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9054",
+            "RingsDbCardId": "131081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lake in the Cavern",
+            "Slug": "Lake-in-the-Cavern-THOHaUH",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2154,10 +2484,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9056",
+            "RingsDbCardId": "131078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lone-Lands",
+            "Slug": "Lone-Lands-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2193,10 +2528,15 @@
             "Quantity": 2,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9058",
+            "RingsDbCardId": "131040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lots or None at All",
+            "Slug": "Lots-or-None-at-All-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2226,10 +2566,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9059",
+            "RingsDbCardId": "131051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "More Like a Grocer",
+            "Slug": "More-Like-a-Grocer-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2259,10 +2604,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9060",
+            "RingsDbCardId": "131057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "No Campfire",
+            "Slug": "No-Campfire-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2294,10 +2644,15 @@
             "Quantity": 2,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9061",
+            "RingsDbCardId": "131055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Not Fair! Not Fair!",
+            "Slug": "Not-Fair-Not-Fair-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2327,10 +2682,15 @@
             "Quantity": 1,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "131084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Out of the Frying Pan",
+            "Slug": "Out-of-the-Frying-Pan-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2338,7 +2698,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Out-of-the-Frying-Pan-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2349,8 +2711,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Out-of-the-Frying-Pan-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2364,7 +2729,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Dungeons Deep and Caverns Dim",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Goblins"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2372,10 +2739,15 @@
             "Quantity": 1,
             "Artist": "Adam Schumpert",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9066",
+            "RingsDbCardId": "131029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overhanging Rock",
+            "Slug": "Overhanging-Rock-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2410,10 +2782,15 @@
             "Quantity": 2,
             "Artist": "Helmutt",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9068",
+            "RingsDbCardId": "131068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Riddles in the Dark",
+            "Slug": "Riddles-in-the-Dark-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2421,7 +2798,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Riddles-in-the-Dark-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2432,8 +2811,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Riddles-in-the-Dark-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2448,7 +2830,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Dungeons Deep and Caverns Dim",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Goblins"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2456,10 +2840,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9069",
+            "RingsDbCardId": "131030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Roast 'Em or Boil 'Em?",
+            "Slug": "Roast-'Em-or-Boil-'Em-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2489,10 +2878,15 @@
             "Quantity": 3,
             "Artist": "Chun Lo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9071",
+            "RingsDbCardId": "131053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Roast Mutton",
+            "Slug": "Roast-Mutton-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2500,7 +2894,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Roast-Mutton-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2511,8 +2907,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/Roast-Mutton-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "1"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2526,7 +2925,9 @@
             "EncounterInfo": {
                 "EncounterSet": "We Must Away, Ere Break of Day",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Western Lands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2534,10 +2935,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9072",
+            "RingsDbCardId": "131024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stone-Giant",
+            "Slug": "Stone-Giant-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2576,10 +2982,15 @@
             "Quantity": 3,
             "Artist": "Timo Karhula",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9076",
+            "RingsDbCardId": "131064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Goblins' Caves",
+            "Slug": "The-Goblins'-Caves-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2614,10 +3025,15 @@
             "Quantity": 3,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9077",
+            "RingsDbCardId": "131065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Great Goblin",
+            "Slug": "The-Great-Goblin-Enemy-THOHaUH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2658,10 +3074,15 @@
             "Quantity": 1,
             "Artist": "Johann Bodin",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "131063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The High Pass",
+            "Slug": "The-High-Pass-THOHaUH",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2697,10 +3118,15 @@
             "Quantity": 1,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9079",
+            "RingsDbCardId": "131069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Mountain Pass",
+            "Slug": "The-Mountain-Pass-THOHaUH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2708,7 +3134,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/The-Mountain-Pass-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -2717,8 +3145,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-Over-Hill-and-Under-Hill/The-Mountain-Pass-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2731,7 +3162,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Over the Misty Mountains Grim",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Western Lands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2739,10 +3172,15 @@
             "Quantity": 1,
             "Artist": "Chun Lo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9080",
+            "RingsDbCardId": "131027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wargs' Glade",
+            "Slug": "The-Wargs'-Glade-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2777,10 +3215,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9082",
+            "RingsDbCardId": "131077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tom",
+            "Slug": "Tom-THOHaUH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2822,10 +3265,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9085",
+            "RingsDbCardId": "131034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Camp",
+            "Slug": "Troll-Camp-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2862,10 +3310,15 @@
             "Quantity": 3,
             "Artist": "Stephane Gantiez",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9086",
+            "RingsDbCardId": "131036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Cave",
+            "Slug": "Troll-Cave-THOHaUH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2904,10 +3357,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9087",
+            "RingsDbCardId": "131037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Key",
+            "Slug": "Troll-Key-THOHaUH",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2939,10 +3397,15 @@
             "Quantity": 1,
             "Artist": "Trudi Castle",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9088",
+            "RingsDbCardId": "131043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Purse",
+            "Slug": "Troll-Purse-THOHaUH",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2976,10 +3439,15 @@
             "Quantity": 1,
             "Artist": "Blake Henriksen",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9089",
+            "RingsDbCardId": "131042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "What's In My Pocket?",
+            "Slug": "What's-In-My-Pocket-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3009,10 +3477,15 @@
             "Quantity": 2,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9090",
+            "RingsDbCardId": "131083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wild Wargs",
+            "Slug": "Wild-Wargs-THOHaUH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3050,10 +3523,15 @@
             "Quantity": 4,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9091",
+            "RingsDbCardId": "131076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "William",
+            "Slug": "William-THOHaUH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3095,10 +3573,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9092",
+            "RingsDbCardId": "131032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wind-whipped Rain",
+            "Slug": "Wind-whipped-Rain-THOHaUH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3128,6 +3611,10 @@
             "Quantity": 2,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-1801204c9093",
+            "RingsDbCardId": "131056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Raid on the Grey Havens Nightmare",
+    "Slug": "Raid-on-the-Grey-Havens-Nightmare",
+    "Abbreviation": "RotGHN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Raid on the Grey Havens Nightmare",
+            "Slug": "Raid-on-the-Grey-Havens-Nightmare-RotGHN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -30,7 +34,14 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Raid on the Grey Havens scenario.\\r\\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n1x Sahír`s Advance (quest stage 2)\n3x Corsair Arsonist\n2x Elven Wave-runner\n1x Umbar Raider\n\nThen shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Raid on the Grey Havens encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
+                    "Begin with the standard quest deck and encounter deck for the Raid on the Grey Havens scenario.",
+                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
+                    "1x Sahír`s Advance (quest stage 2)",
+                    "3x Corsair Arsonist",
+                    "2x Elven Wave-runner",
+                    "1x Umbar Raider",
+                    "Then shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Raid on the Grey Havens encounter deck.",
+                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -41,10 +52,15 @@
             "Quantity": 1,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Advance",
+            "Slug": "Sahir's-Advance-RotGHN",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -52,7 +68,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Raid-on-the-Grey-Havens-Nightmare/Sahír's-Advance-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -63,8 +81,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Raid-on-the-Grey-Havens-Nightmare/Sahír's-Advance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -79,7 +100,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Raid on the Grey Havens Nightmare",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "The Stormcaller Elite"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -87,10 +111,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Pillager",
+            "Slug": "Corsair-Pillager-RotGHN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -130,10 +159,15 @@
             "Quantity": 3,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Pyromaniac",
+            "Slug": "Corsair-Pyromaniac-RotGHN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -173,10 +207,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Elite Marauder",
+            "Slug": "Elite-Marauder-RotGHN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -214,10 +253,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nárelenya",
+            "Slug": "Narelenya-RotGHN",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -238,7 +282,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Aflame 10. Immune to player card effects.",
                     "Forced: After the first player plays an ally from his hand, deal 1 damage to the Nárelenya."
                 ],
                 "Shadow": null,
@@ -257,10 +301,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dawn Star",
+            "Slug": "Dawn-Star-RotGHN",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -281,7 +330,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Aflame 8. Immune to player card effects.",
                     "Forced: After the first player draws and number of cards, deal 1 damage to the Dawn Star."
                 ],
                 "Shadow": null,
@@ -300,10 +349,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Silver Wing",
+            "Slug": "Silver-Wing-RotGHN",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -324,7 +378,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Aflame 6. Immune to player card effects.",
                     "Forced: After the first player attacks and enemy, deal 1 damage to the Silver Wing."
                 ],
                 "Shadow": null,
@@ -343,10 +397,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Burning Tower",
+            "Slug": "Burning-Tower-RotGHN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -358,11 +417,14 @@
                     "Threat": "2",
                     "QuestPoints": "6"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Grey Havens."
+                ],
                 "Keywords": [
                     "Aflame 5."
                 ],
                 "Text": [
+                    "Aflame 5.",
                     "While Burning Tower is in the staging area, damage cannot be healed.",
                     "Forced: After damage is placed on Burning Tower, choose X characters, where X is the amount of damage on Burning Tower. Deal 1 damage to each chosen character."
                 ],
@@ -382,10 +444,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Assault",
+            "Slug": "Sudden-Assault-RotGHN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -415,10 +482,15 @@
             "Quantity": 3,
             "Artist": "Adam Duff",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Infiltration",
+            "Slug": "Infiltration-RotGHN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -448,6 +520,10 @@
             "Quantity": 2,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

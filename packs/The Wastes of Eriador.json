@@ -1,10 +1,14 @@
 {
     "Name": "The Wastes of Eriador",
+    "Slug": "The-Wastes-of-Eriador",
+    "Abbreviation": "TWoE",
     "Cycle": "Angmar Awakened",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Honour Guard",
+            "Slug": "Honour-Guard-TWoE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -38,45 +42,15 @@
             "Quantity": 3,
             "Artist": "Owen William Weber",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Merry",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Merry.jpg",
-                "Stats": {
-                    "ThreatCost": "6",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After an enemy is revealed from the top of the encounter deck, exhaust Merry to reduce your threat by that enemy`s Threat."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We have come a long way with you and been through some stiff times. We want to go on.` —The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Wastes of Eriador",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Romana Kendelic",
-            "HasErrata": false,
+            "OctgnGuid": "7a8f5eb3-4c89-4516-974b-812b589cb818",
+            "RingsDbCardId": "10004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2570,
             "Categories": null
         },
         {
             "Title": "Ranger of Cardolan",
+            "Slug": "Ranger-of-Cardolan-TWoE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -109,10 +83,55 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "cc73532b-e891-49b6-9544-468b5977149a",
+            "RingsDbCardId": "10010",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1473,
+            "Categories": null
+        },
+        {
+            "Title": "Merry",
+            "Slug": "Merry-TWoE",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Merry.jpg",
+                "Stats": {
+                    "ThreatCost": "6",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an enemy is revealed from the top of the encounter deck, exhaust Merry to reduce your threat by that enemy`s Threat."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We have come a long way with you and been through some stiff times. We want to go on.` —The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Wastes of Eriador",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "03a7152b-e6af-4aaf-a064-7e814fc181d5",
+            "RingsDbCardId": "10001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 465,
             "Categories": null
         },
         {
             "Title": "Curious Brandybuck",
+            "Slug": "Curious-Brandybuck-TWoE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -145,10 +164,15 @@
             "Quantity": 3,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "c52c00b2-ab39-4ffa-898d-ab9c8246bd00",
+            "RingsDbCardId": "10006",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 790,
             "Categories": null
         },
         {
             "Title": "Raven-winged Helm",
+            "Slug": "Raven-winged-Helm-TWoE",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -178,10 +202,15 @@
             "Quantity": 3,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "62dd5a22-ccf4-4612-be1f-ea13d7da3ced",
+            "RingsDbCardId": "10005",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 662,
             "Categories": null
         },
         {
             "Title": "Hobbit Pony",
+            "Slug": "Hobbit-Pony-TWoE",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -199,7 +228,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Hobbit hero.",
+                    "Attach to a Hobbit hero. Restricted.",
                     "Quest Action: If attached hero is not committed to the quest, exhaust Hobbit Pony and attached hero to commit attached hero to the quest."
                 ],
                 "Shadow": null,
@@ -212,10 +241,15 @@
             "Quantity": 3,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "ebcb133a-1777-49cf-a7d4-137a65b2c2d5",
+            "RingsDbCardId": "10007",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 530,
             "Categories": null
         },
         {
             "Title": "Scout Ahead",
+            "Slug": "Scout-Ahead-TWoE",
             "IsUnique": false,
             "CardType": "Player_Side_Quest",
             "CardSubType": "None",
@@ -223,15 +257,19 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Scout-Ahead.jpg",
-                "Stats": {},
+                "Stats": {
+                    "ResourceCost": "0"
+                },
                 "Traits": [],
-                "Keywords": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
                 "Text": [
                     "Limit 1 per deck.",
                     "Response: When this stage is defeated, the first player searches the top X cards of the encounter deck for 1 non-objective card worth no victory points and adds it to the victory display. Put the remaining cards back in any order. X is the number of players in the game plus 4."
                 ],
                 "Shadow": null,
-                "FlavorText": "Strider made them take cover in a thicket at the side of the Road, while he went forward to explore. -The Fellowship of the Ring "
+                "FlavorText": "Strider made them take cover in a thicket at the side of the Road, while he went forward to explore. -The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Wastes of Eriador",
@@ -240,10 +278,15 @@
             "Quantity": 3,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "f8a3acfb-3b0d-414b-b5d0-2612d33c193d",
+            "RingsDbCardId": "10009",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 504,
             "Categories": null
         },
         {
             "Title": "Ingold",
+            "Slug": "Ingold-TWoE",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -275,10 +318,15 @@
             "Quantity": 3,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "1e28318c-e82a-4d50-b6db-d08e6e9a6b53",
+            "RingsDbCardId": "10002",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 376,
             "Categories": null
         },
         {
             "Title": "East Road Ranger",
+            "Slug": "East-Road-Ranger-TWoE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -311,10 +359,15 @@
             "Quantity": 3,
             "Artist": "Beth Sobel",
             "HasErrata": false,
+            "OctgnGuid": "8b95d0c6-eda4-4820-8279-6bdddae7b499",
+            "RingsDbCardId": "10008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 316,
             "Categories": null
         },
         {
             "Title": "Rallying Cry",
+            "Slug": "Rallying-Cry-TWoE",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -341,10 +394,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "1c6d209d-8ff3-4b81-a03f-e81e132e3b5e",
+            "RingsDbCardId": "10003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 113,
             "Categories": null
         },
         {
             "Title": "Daybreak",
+            "Slug": "Daybreak-TWoE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -378,10 +436,15 @@
             "Quantity": 1,
             "Artist": "Wibben",
             "HasErrata": false,
+            "OctgnGuid": "3e471bd0-5ee5-4846-815d-fd6a5cd5f921",
+            "RingsDbCardId": "10011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nightfall",
+            "Slug": "Nightfall-TWoE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -415,10 +478,15 @@
             "Quantity": 1,
             "Artist": "Wibben",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Across the Wastes",
+            "Slug": "Across-the-Wastes-TWoE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -426,7 +494,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Across-the-Wastes-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -437,8 +507,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Across-the-Wastes-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -452,7 +525,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Wastes of Eriador",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -460,10 +536,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "b6af7b48-e072-45e8-a745-4de2ac8ded8c",
+            "RingsDbCardId": "10013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Howling at Night",
+            "Slug": "Howling-at-Night-TWoE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -471,7 +552,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Howling-at-Night-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -482,8 +565,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Howling-at-Night-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -497,7 +583,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Wastes of Eriador",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -505,10 +594,15 @@
             "Quantity": 1,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "43509bf0-3250-420f-b743-e56c3ad5cd90",
+            "RingsDbCardId": "10014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Battle with the Pack",
+            "Slug": "Battle-with-the-Pack-TWoE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -516,7 +610,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Battle-with-the-Pack-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -527,8 +623,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Battle-with-the-Pack-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -543,7 +642,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Wastes of Eriador",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -551,10 +653,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "fac30859-0ad6-4d07-8b73-b5e2af044a52",
+            "RingsDbCardId": "10015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amarthiúl",
+            "Slug": "Amarthiul-TWoE",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -594,10 +701,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pack Leader",
+            "Slug": "Pack-Leader-TWoE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -640,10 +752,15 @@
             "Quantity": 1,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "77dd117d-b2b6-4324-aa59-09fd1343fde9",
+            "RingsDbCardId": "10017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Northern Warg",
+            "Slug": "Northern-Warg-TWoE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -682,10 +799,15 @@
             "Quantity": 4,
             "Artist": "Rick Price",
             "HasErrata": false,
+            "OctgnGuid": "4c68d3ef-2309-47db-ba21-08bf2f7336b9",
+            "RingsDbCardId": "10018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blood-thirsty Warg",
+            "Slug": "Blood-thirsty-Warg-TWoE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -724,10 +846,15 @@
             "Quantity": 2,
             "Artist": "Crystal Sully",
             "HasErrata": false,
+            "OctgnGuid": "9feef7b4-4ca7-4adc-aeb7-56947254588a",
+            "RingsDbCardId": "10019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting Pack",
+            "Slug": "Hunting-Pack-TWoE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -767,10 +894,15 @@
             "Quantity": 2,
             "Artist": "Crystal Sully",
             "HasErrata": false,
+            "OctgnGuid": "da6d1bd2-575b-4292-9757-3792b79a4b78",
+            "RingsDbCardId": "10020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "White Warg",
+            "Slug": "White-Warg-TWoE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -809,10 +941,15 @@
             "Quantity": 3,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "22d6a151-ee2a-4ad0-9d97-5eddd5cc0391",
+            "RingsDbCardId": "10021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wolf of Angmar",
+            "Slug": "Wolf-of-Angmar-TWoE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -835,6 +972,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While it is Night, Wolf of Angmar gets +2 Attack."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if it is Night).",
@@ -853,10 +991,15 @@
             "Quantity": 3,
             "Artist": "Crystal Sully",
             "HasErrata": false,
+            "OctgnGuid": "e49be9ae-10f1-44fe-a1b8-fc931be2d208",
+            "RingsDbCardId": "10022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eriador Wastes",
+            "Slug": "Eriador-Wastes-TWoE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -884,7 +1027,7 @@
             "CardSet": "The Wastes of Eriador",
             "EncounterInfo": {
                 "EncounterSet": "The Wastes of Eriador",
-                "EasyModeQuantity": 0,
+                "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -893,10 +1036,15 @@
             "Quantity": 2,
             "Artist": "Dawn Carlos",
             "HasErrata": false,
+            "OctgnGuid": "41b47c87-94c4-47ff-b8c6-3f25dba0ca49",
+            "RingsDbCardId": "10023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Warg's Den",
+            "Slug": "Warg's-Den-TWoE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -932,10 +1080,15 @@
             "Quantity": 2,
             "Artist": "Leonid Kozienko",
             "HasErrata": false,
+            "OctgnGuid": "019ebbd1-9632-4c0a-bd98-4ecef29afb1a",
+            "RingsDbCardId": "10024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "North Downs",
+            "Slug": "North-Downs-TWoE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -971,10 +1124,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "d960e5a1-73eb-4699-b3c1-2eadeb2c6f23",
+            "RingsDbCardId": "10025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Darkness",
+            "Slug": "Sudden-Darkness-TWoE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1006,10 +1164,15 @@
             "Quantity": 2,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "cf33276f-22e5-467d-9543-6b345d17e7bc",
+            "RingsDbCardId": "10026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Predatory Wolves",
+            "Slug": "Predatory-Wolves-TWoE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1039,6 +1202,10 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "92ef70d1-b46c-454d-ab7d-2ab56227d9be",
+            "RingsDbCardId": "10027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

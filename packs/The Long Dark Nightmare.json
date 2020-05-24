@@ -1,10 +1,14 @@
 {
     "Name": "The Long Dark Nightmare",
+    "Slug": "The-Long-Dark-Nightmare",
+    "Abbreviation": "TLDN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Long Dark Nightmare",
+            "Slug": "The-Long-Dark-Nightmare-TLDN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Stalker",
+            "Slug": "Goblin-Stalker-TLDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -54,7 +63,7 @@
                     "EngagementCost": "28",
                     "Threat": "3",
                     "Attack": "2",
-                    "Defense": "2",
+                    "Defense": "3",
                     "HitPoints": "3"
                 },
                 "Traits": [
@@ -65,7 +74,8 @@
                     "PASS."
                 ],
                 "Text": [
-                    "Forced: When Goblin Stalker attacks, deal it 1 additional shadow card.\n\nForced: When Goblin Stalker is dealt a shadow card with `PASS` printed in its text box, it gets +2 Attack until the end of the phase."
+                    "Forced: When Goblin Stalker attacks, deal it 1 additional shadow card.",
+                    "Forced: When Goblin Stalker is dealt a shadow card with `PASS` printed in its text box, it gets +2 Attack until the end of the phase."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -83,10 +93,15 @@
             "Quantity": 4,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trapdoor Spider",
+            "Slug": "Trapdoor-Spider-TLDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -109,7 +124,8 @@
                     "PASS."
                 ],
                 "Text": [
-                    "Forced: If Trapdoor Spider damage a character, discard that character from play.\n\nLost: Trapdoor Spider engages the last player and makes an immediate attack."
+                    "Forced: If Trapdoor Spider damages a character, discard that character from play.",
+                    "Lost: Trapdoor Spider engages the last player and makes an immediate attack."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -127,10 +143,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sentinel of the Deep",
+            "Slug": "Sentinel-of-the-Deep-TLDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -169,10 +190,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eastern Mines",
+            "Slug": "Eastern-Mines-TLDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -207,10 +233,15 @@
             "Quantity": 2,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bottomless Chasm",
+            "Slug": "Bottomless-Chasm-TLDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -246,10 +277,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dreadful Deep",
+            "Slug": "Dreadful-Deep-TLDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -279,10 +315,15 @@
             "Quantity": 3,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost and Helpless",
+            "Slug": "Lost-and-Helpless-TLDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -296,6 +337,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a hero. (Counts as a Condition attachment with the text: `Lost: Discard attached hero.`)"
                 ],
                 "Shadow": "Shadow: If you have no cards in your hand, discard defending character from play.",
@@ -314,6 +356,10 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

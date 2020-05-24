@@ -1,10 +1,14 @@
 {
     "Name": "The Voice of Isengard",
+    "Slug": "The-Voice-of-Isengard",
+    "Abbreviation": "VoI",
     "Cycle": null,
     "SetType": "Deluxe_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Deep Knowledge",
+            "Slug": "Deep-Knowledge-VoI",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -20,6 +24,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "Action: Each player draws 2 cards."
                 ],
                 "Shadow": null,
@@ -32,10 +37,15 @@
             "Quantity": 3,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "cfba1adb-5d73-4d46-b10b-b3af003f0e90",
+            "RingsDbCardId": "07012",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3260,
             "Categories": null
         },
         {
             "Title": "Westfold Horse-breeder",
+            "Slug": "Westfold-Horse-breeder-VoI",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -67,10 +77,15 @@
             "Quantity": 3,
             "Artist": "Mike Capprotti",
             "HasErrata": false,
+            "OctgnGuid": "0567c2df-677c-4529-985a-54621088fe58",
+            "RingsDbCardId": "07007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2287,
             "Categories": null
         },
         {
             "Title": "Rohan Warhorse",
+            "Slug": "Rohan-Warhorse-VoI",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -88,7 +103,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Tactics or Rohan hero.",
+                    "Attach to a Tactics or Rohan hero. Restricted.",
                     "Response: After attached hero participates in an attack that destroys an enemy, exhaust Rohan Warhorse to ready attached hero."
                 ],
                 "Shadow": null,
@@ -101,10 +116,15 @@
             "Quantity": 3,
             "Artist": "Jeff Lee Johnson",
             "HasErrata": false,
+            "OctgnGuid": "6f8508d7-bb11-4d5c-a077-80a35e00105e",
+            "RingsDbCardId": "07008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2000,
             "Categories": null
         },
         {
             "Title": "Westfold Outrider",
+            "Slug": "Westfold-Outrider-VoI",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -137,10 +157,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "93a364f6-2a0f-4872-9770-aa7a1bd30d3d",
+            "RingsDbCardId": "07006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1530,
             "Categories": null
         },
         {
             "Title": "Legacy of Númenor",
+            "Slug": "Legacy-of-Numenor-VoI",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -156,6 +181,7 @@
                     "Doomed 4."
                 ],
                 "Text": [
+                    "Doomed 4.",
                     "Action: Add 1 resource to each hero`s resource pool."
                 ],
                 "Shadow": null,
@@ -168,10 +194,52 @@
             "Quantity": 3,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07011",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1354,
+            "Categories": null
+        },
+        {
+            "Title": "Keys of Orthanc",
+            "Slug": "Keys-of-Orthanc-VoI",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Keys-of-Orthanc.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Response: After you raise your threat from the Doomed keyword, exhaust Keys of Othanc to add 1 resource to attached hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "`He has the Key of Orthanc` -Gandalf, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "e6ee53f4-36e4-4671-9d76-8974134d052e",
+            "RingsDbCardId": "07010",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 702,
             "Categories": null
         },
         {
             "Title": "Éomer",
+            "Slug": "Eomer-VoI",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -205,10 +273,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07001",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 373,
             "Categories": null
         },
         {
             "Title": "Gríma",
+            "Slug": "Grima-Hero-VoI",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -241,42 +314,15 @@
             "Quantity": 1,
             "Artist": "Matt Stewart",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Keys of Orthanc",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Keys-of-Orthanc.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Response: After you raise your threat from the Doomed keyword, exhaust Keys of Othanc to add 1 resource to attached hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He has the Key of Orthanc` -Gandalf, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Voice of Isengard",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 272,
             "Categories": null
         },
         {
             "Title": "The Seeing-stone",
+            "Slug": "The-Seeing-stone-VoI",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -292,6 +338,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "Action: Search your deck for a card with the Doomed keyword and add it to your hand. Shuffle your deck."
                 ],
                 "Shadow": null,
@@ -304,10 +351,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "9de50e07-a3a3-4049-908c-c0463aabf91f",
+            "RingsDbCardId": "07015",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 591,
             "Categories": null
         },
         {
             "Title": "Power of Orthanc",
+            "Slug": "Power-of-Orthanc-VoI",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -325,6 +377,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "Action: Each player may choose and discard a Condition attachment from play."
                 ],
                 "Shadow": null,
@@ -337,10 +390,15 @@
             "Quantity": 3,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "2867f4c6-b458-4caa-bde2-1a6266c094d6",
+            "RingsDbCardId": "07014",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 458,
             "Categories": null
         },
         {
             "Title": "Saruman",
+            "Slug": "Saruman-VoI",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -363,7 +421,9 @@
                     "Doomed 3."
                 ],
                 "Text": [
-                    "At the end of the round, discard Saruman from play.\n\nResponse: After Saruman enters play, choose a non-unique enemy or location in the staging area. While Saruman is in play, the chosen enemy or location is considered to be out of play."
+                    "Doomed 3.",
+                    "At the end of the round, discard Saruman from play.",
+                    "Response: After Saruman enters play, choose a non-unique enemy or location in the staging area. While Saruman is in play, the chosen enemy or location is considered to be out of play."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -375,10 +435,15 @@
             "Quantity": 3,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "20250f12-5bfc-4ffc-8e7e-4e3d71276509",
+            "RingsDbCardId": "07003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 390,
             "Categories": null
         },
         {
             "Title": "Silver Lamp",
+            "Slug": "Silver-Lamp-VoI",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -407,10 +472,15 @@
             "Quantity": 3,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "9463354a-3f6d-43e5-acee-0ea42f8b4403",
+            "RingsDbCardId": "07009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 365,
             "Categories": null
         },
         {
             "Title": "Isengard Messenger",
+            "Slug": "Isengard-Messenger-VoI",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -442,10 +512,15 @@
             "Quantity": 3,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "fe60620b-9ea1-4bf8-8d41-e7fd81a28427",
+            "RingsDbCardId": "07005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 340,
             "Categories": null
         },
         {
             "Title": "The Wizards's Voice",
+            "Slug": "The-Wizards's-Voice-VoI",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -463,6 +538,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
+                    "Doomed 3.",
                     "Action: Each player chooses 1 enemy engaged with him. Until the end of the phase, each chosen enemy cannot attack the player that chose it."
                 ],
                 "Shadow": null,
@@ -475,10 +551,15 @@
             "Quantity": 3,
             "Artist": "Andrew Johanson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 289,
             "Categories": null
         },
         {
             "Title": "Orthanc Guard",
+            "Slug": "Orthanc-Guard-VoI",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -510,10 +591,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "6f333a3e-6c2f-4f69-9c93-c5f46dc4f339",
+            "RingsDbCardId": "07004",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 202,
             "Categories": null
         },
         {
             "Title": "Gríma",
+            "Slug": "Grima-Objective-Ally-VoI",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -552,10 +638,15 @@
             "Quantity": 1,
             "Artist": "Nacho Molina",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Islet",
+            "Slug": "The-Islet-VoI",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -582,7 +673,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
-                "EasyModeQuantity": 1,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -591,10 +682,15 @@
             "Quantity": 1,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "3f8e889e-db35-4044-ac19-43fd146bffd1",
+            "RingsDbCardId": "07017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fords of Isen",
+            "Slug": "Fords-of-Isen-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -621,7 +717,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -630,10 +726,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "db1ee7dd-d43c-40a0-9e89-89a5b233af70",
+            "RingsDbCardId": "07018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The King's Road",
+            "Slug": "The-King's-Road-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -660,7 +761,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -669,10 +770,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "2c7e2c6c-ecaa-48dc-a19e-4477d4fc693d",
+            "RingsDbCardId": "07019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gap of Rohan",
+            "Slug": "Gap-of-Rohan-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -707,10 +813,15 @@
             "Quantity": 4,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "200ec48a-dd14-41c4-994b-2f5b753f47de",
+            "RingsDbCardId": "07020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pillaging and Burning",
+            "Slug": "Pillaging-and-Burning-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -740,10 +851,15 @@
             "Quantity": 2,
             "Artist": "Sabin Boykinov",
             "HasErrata": false,
+            "OctgnGuid": "0ae9f4f9-eec9-404f-ae93-7a54287d1bc2",
+            "RingsDbCardId": "07021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Down from the Hills",
+            "Slug": "Down-from-the-Hills-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -773,10 +889,15 @@
             "Quantity": 1,
             "Artist": "David Horne",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ill Tidings",
+            "Slug": "Ill-Tidings-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -797,7 +918,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -806,10 +927,15 @@
             "Quantity": 2,
             "Artist": "John Gravato",
             "HasErrata": false,
+            "OctgnGuid": "4362ef23-0ade-4eea-974b-2959803f8528",
+            "RingsDbCardId": "07023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mugash",
+            "Slug": "Mugash-Enemy-VoI",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -840,7 +966,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 1,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -849,10 +975,15 @@
             "Quantity": 1,
             "Artist": "Brent Hollowel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mugash's Guard",
+            "Slug": "Mugash's-Guard-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -885,7 +1016,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -894,10 +1025,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "7d55e738-cc23-4e78-9a88-2a25fa4f3ca4",
+            "RingsDbCardId": "07025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Methedras Orc",
+            "Slug": "Methedras-Orc-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -926,7 +1062,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -935,10 +1071,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "cd883a3f-65b8-473e-97f7-b8ac12f91194",
+            "RingsDbCardId": "07026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Methedras",
+            "Slug": "Methedras-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -965,7 +1106,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 4,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -974,10 +1115,15 @@
             "Quantity": 4,
             "Artist": "Stacey Diana Clark",
             "HasErrata": false,
+            "OctgnGuid": "05a0e539-e140-4dfc-a151-21cd8aaef094",
+            "RingsDbCardId": "07027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Cave",
+            "Slug": "Orc-Cave-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1005,7 +1151,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1014,10 +1160,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "de212258-f124-4cda-baab-4f696c2b5766",
+            "RingsDbCardId": "07028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mugash's Lair",
+            "Slug": "Mugash's-Lair-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1044,7 +1195,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1053,10 +1204,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "8dad9a85-eae9-4a39-a823-1c58d8c0f86b",
+            "RingsDbCardId": "07029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Territory",
+            "Slug": "Orc-Territory-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1086,10 +1242,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "87c80644-57bb-4c66-8df6-c60cadc32d32",
+            "RingsDbCardId": "07030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mugash",
+            "Slug": "Mugash-Objective-VoI",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1106,6 +1267,7 @@
                     "Guarded."
                 ],
                 "Text": [
+                    "Guarded.",
                     "Action: Exhaust a hero to claim this objective when it is free of encounters. Attach Mugash to that hero.",
                     "Forced: After attached hero takes damage, return Mugash to the top of the encounter deck."
                 ],
@@ -1116,7 +1278,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
-                "EasyModeQuantity": 1,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1125,10 +1287,15 @@
             "Quantity": 1,
             "Artist": "Brent Hollowel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Edge of Fangorn",
+            "Slug": "Edge-of-Fangorn-VoI",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1157,7 +1324,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
-                "EasyModeQuantity": 1,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1166,10 +1333,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "20c5f7b7-cfc4-44e1-aaf5-0010ceb9a1b9",
+            "RingsDbCardId": "07032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark-Hearted Huorn",
+            "Slug": "Dark-Hearted-Huorn-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1191,7 +1363,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "Forced: At the beginning of each resource phase, the engaged player must raise his threat by 2."
                 ],
                 "Shadow": null,
@@ -1210,10 +1382,15 @@
             "Quantity": 4,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "eccef05c-0f43-4cfa-91c6-e9eaf0eff7c9",
+            "RingsDbCardId": "07033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Angry Huorn",
+            "Slug": "Angry-Huorn-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1235,7 +1412,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "Forced: At the beginning of each resource phase, Angry Huorn attacks the engaged player."
                 ],
                 "Shadow": null,
@@ -1254,10 +1431,15 @@
             "Quantity": 3,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "25ae9bce-b4c0-4ff8-aeb3-d0b57d3914d2",
+            "RingsDbCardId": "07034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadly Huorn",
+            "Slug": "Deadly-Huorn-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1279,7 +1461,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "Forced: At the beginning of each resource phase, the engaged player must deal 3 damage to a character he controls."
                 ],
                 "Shadow": null,
@@ -1298,10 +1480,15 @@
             "Quantity": 3,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "cd628acc-acdf-48c5-a9cc-136eb9bc3095",
+            "RingsDbCardId": "07035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Heart of Fangorn",
+            "Slug": "Heart-of-Fangorn-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1320,14 +1507,14 @@
                 "Text": [
                     "While Heart of Fangorn is in the staging area, each player cannot refresh more than 5 characters during the refresh phase."
                 ],
-                "Shadow": "Attacking enemy makes an additional attack after this one.",
+                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
             },
             "Back": null,
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1336,10 +1523,15 @@
             "Quantity": 3,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "c3907d39-6fd7-4b33-8fe2-215fd9f90be2",
+            "RingsDbCardId": "07036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Forest's Malice",
+            "Slug": "The-Forest's-Malice-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1369,10 +1561,15 @@
             "Quantity": 4,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "3bc03452-6c37-45e2-9241-e626ea51f382",
+            "RingsDbCardId": "07037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Skirmisher",
+            "Slug": "Orc-Skirmisher-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1401,7 +1598,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Misty Mountain Orcs",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1410,10 +1607,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "ded946a7-99f0-42bf-92f6-a2c46ca64d98",
+            "RingsDbCardId": "07038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Hunter",
+            "Slug": "Orc-Hunter-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1451,10 +1653,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "a835576b-6a6c-4407-8f40-0151b70f5902",
+            "RingsDbCardId": "07039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Hound",
+            "Slug": "Orc-Hound-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1476,6 +1683,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Orc Hound engages a player, that player must exhaust a character he controls."
                 ],
                 "Shadow": null,
@@ -1494,10 +1702,15 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "119cfabc-2cbf-4ffd-a25e-00ec140b8f26",
+            "RingsDbCardId": "07040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Hunting Party",
+            "Slug": "Orc-Hunting-Party-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1518,7 +1731,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Misty Mountain Orcs",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1527,10 +1740,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "bc041e0b-dd7f-4b82-8eb0-d155b1b08398",
+            "RingsDbCardId": "07041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunland Prowler",
+            "Slug": "Dunland-Prowler-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1560,7 +1778,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Dunland Raiders",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1569,10 +1787,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "d80a5ca5-20d8-4c4b-814c-0c91bba40d43",
+            "RingsDbCardId": "07042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunlending Bandit",
+            "Slug": "Dunlending-Bandit-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1601,7 +1824,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Dunland Raiders",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1610,10 +1833,15 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "8ab3701c-7814-403c-be93-21cdff4283ed",
+            "RingsDbCardId": "07043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunland Raider",
+            "Slug": "Dunland-Raider-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1651,10 +1879,15 @@
             "Quantity": 2,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "7b491dcc-668a-431f-b0a1-ec2bf34840a7",
+            "RingsDbCardId": "07044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Hatreds",
+            "Slug": "Old-Hatreds-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1668,6 +1901,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws an number of cards, raise his threat by 1.`)"
                 ],
                 "Shadow": null,
@@ -1686,10 +1920,15 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "a0d5be90-8618-4fe4-a917-d8d969c11264",
+            "RingsDbCardId": "07045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunland Tribesman",
+            "Slug": "Dunland-Tribesman-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1719,7 +1958,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Dunland Warriors",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1728,10 +1967,15 @@
             "Quantity": 2,
             "Artist": "David Horne",
             "HasErrata": false,
+            "OctgnGuid": "c749f16f-1b34-48ce-ba8e-45f36b8b8229",
+            "RingsDbCardId": "07046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunland Chieftain",
+            "Slug": "Dunland-Chieftain-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1769,10 +2013,15 @@
             "Quantity": 2,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "ceb5ede8-0acc-40b6-ac43-b9f1ff006d9e",
+            "RingsDbCardId": "07047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunland Berserker",
+            "Slug": "Dunland-Berserker-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1801,7 +2050,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Dunland Warriors",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1810,10 +2059,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "def7d5a8-3af5-428d-ac94-485c33388ff9",
+            "RingsDbCardId": "07048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wild Men of Dunland",
+            "Slug": "Wild-Men-of-Dunland-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1827,6 +2081,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws any number of cards, that player deals 1 damage to a character he controls.`)"
                 ],
                 "Shadow": null,
@@ -1845,10 +2100,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "ef975c81-544a-4f1b-a3c4-d0bc42ef636c",
+            "RingsDbCardId": "07049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Forest",
+            "Slug": "Ancient-Forest-Location-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1883,10 +2143,15 @@
             "Quantity": 3,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tangled Woods",
+            "Slug": "Tangled-Woods-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1912,7 +2177,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Ancient Forest",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1921,10 +2186,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "be6cf29d-bb8b-494a-9635-85ee9322a690",
+            "RingsDbCardId": "07051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Turned Around",
+            "Slug": "Turned-Around-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1945,7 +2215,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Ancient Forest",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1954,10 +2224,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "6fe8d036-9b7a-4ca4-bab4-272d2a6a8949",
+            "RingsDbCardId": "07052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Prowling Wolf",
+            "Slug": "Prowling-Wolf-VoI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1986,7 +2261,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Broken Lands",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -1995,10 +2270,15 @@
             "Quantity": 3,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "7c463bf7-9a1a-4d8a-879b-f966f19d0695",
+            "RingsDbCardId": "07053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Broken Lands",
+            "Slug": "Broken-Lands-Location-VoI",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2024,7 +2304,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Broken Lands",
-                "EasyModeQuantity": 3,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -2033,10 +2313,15 @@
             "Quantity": 3,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "07054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Take Cover!",
+            "Slug": "Take-Cover-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2050,6 +2335,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Either deal 1 damage to each exhausted character, or remove 1 time counter from the current quest."
                 ],
                 "Shadow": null,
@@ -2068,10 +2354,15 @@
             "Quantity": 3,
             "Artist": "Sandra Duchiewicz",
             "HasErrata": false,
+            "OctgnGuid": "8f3395ff-bccf-4620-beec-581c585682f2",
+            "RingsDbCardId": "07055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Low on Provisions",
+            "Slug": "Low-on-Provisions-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2101,10 +2392,15 @@
             "Quantity": 3,
             "Artist": "Régis Moulun",
             "HasErrata": false,
+            "OctgnGuid": "5f18c4ca-fcda-46d2-874b-3a1a73ef7c53",
+            "RingsDbCardId": "07056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Off Track",
+            "Slug": "Off-Track-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2118,6 +2414,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a location in play. (Counts as a Condition attachment with the text: `Limit 1 per location. Attached location gets +2 quest points and Gain: `Forced: Remove an additional time counter from the current quest at the end of each refresh phase, if able.``)"
                 ],
                 "Shadow": null,
@@ -2127,7 +2424,7 @@
             "CardSet": "The Voice of Isengard",
             "EncounterInfo": {
                 "EncounterSet": "Weary Travelers",
-                "EasyModeQuantity": 2,
+                "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -2136,10 +2433,15 @@
             "Quantity": 2,
             "Artist": "Sarah Morris",
             "HasErrata": false,
+            "OctgnGuid": "7fc629f3-3115-47df-b997-4a5026d97d2b",
+            "RingsDbCardId": "07057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "In Need of Rest",
+            "Slug": "In-Need-of-Rest-VoI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2169,10 +2471,15 @@
             "Quantity": 2,
             "Artist": "Sara Betsy",
             "HasErrata": false,
+            "OctgnGuid": "3a8869dc-077e-4b8c-b3d5-474e4f9c14ba",
+            "RingsDbCardId": "07058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fight at the Fords",
+            "Slug": "Fight-at-the-Fords-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2180,7 +2487,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Fight-at-the-Fords-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 5."
@@ -2193,11 +2502,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Fight-at-the-Fords-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Time 5.",
                     "Forced: After the last time counter is removed from this stage, discard Gríma from play.",
                     "The players cannot advance unless the first player controls Gríma."
                 ],
@@ -2208,7 +2521,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dunland Warriors",
+                    "Dunland Raiders"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2216,10 +2532,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "74f297ed-3cb6-4c2d-83d8-c27b447a9250",
+            "RingsDbCardId": "07059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dunlending Attack",
+            "Slug": "Dunlending-Attack-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2227,7 +2548,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Dunlending-Attack-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 2."
@@ -2238,12 +2561,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Dunlending-Attack-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck.",
                     "Forced: After the last time counter is removed from this stage, each player assigns X damage among characters he controls where X is the number of cards in his hand. Place 2 time counters on this stage."
                 ],
                 "Shadow": null,
@@ -2253,7 +2578,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dunland Warriors",
+                    "Dunland Raiders"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2261,10 +2589,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "93ece501-fae4-46e8-9720-316383b86688",
+            "RingsDbCardId": "07060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hold the Fords",
+            "Slug": "Hold-the-Fords-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2272,7 +2605,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Hold-the-Fords-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 3."
@@ -2285,11 +2620,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Hold-the-Fords-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Time 3.",
                     "Forced: After the last time counter is removed from this stage, discard the top X cards from the encounter deck. X is the number of cards in the first player`s hand. Add each enemy discarded this way to the staging area. Put 3 time counters on this stage.",
                     "While there is at least 1 enemy in play, the players cannot defeat this stage. If the players defeat this stage, they win the game."
                 ],
@@ -2300,7 +2639,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Fords of Isen",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dunland Warriors",
+                    "Dunland Raiders"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2308,10 +2650,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "0cdc4034-738d-487d-9a8c-8ef364772076",
+            "RingsDbCardId": "07061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orders from Orthanc",
+            "Slug": "Orders-from-Orthanc-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2319,7 +2666,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Orders-from-Orthanc-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2330,8 +2679,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Orders-from-Orthanc-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2344,7 +2696,10 @@
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2352,10 +2707,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "0e0b125c-ffed-4473-9a64-7d709b16cca5",
+            "RingsDbCardId": "07062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Searching for Mugash",
+            "Slug": "Searching-for-Mugash-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2363,7 +2723,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Searching-for-Mugash-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 2."
@@ -2374,12 +2736,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Searching-for-Mugash-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the last time counter is removed for this stage, shuffle the discard pile into the encounter deck and reveal 2 encounter cards per player. Place 2 time counters on this stage.",
                     "Response: After questing successfully, cancel all progress that would be placed on this stage. Then, place 1 time counter on this stage. Or, if Mugash is in play, advance to stage 3."
                 ],
                 "Shadow": null,
@@ -2389,7 +2753,10 @@
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2397,10 +2764,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "8472068c-fdd7-4197-8046-b9da12c29135",
+            "RingsDbCardId": "07063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wizard's Prize",
+            "Slug": "The-Wizard's-Prize-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2408,7 +2780,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Wizard's-Prize-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 3."
@@ -2419,13 +2793,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Wizard's-Prize-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the last time counter is removed from this stage, return Mugash to the staging area and reveal X encounter cards. X is the number of players in the game minus 1. Place 3 time counters on this stage.",
-                    "Progress cannot be placed on this stage unless Mugash is attached to a hero.",
                     "If the players defeat this stage, they win the game."
                 ],
                 "Shadow": null,
@@ -2435,7 +2810,10 @@
             "EncounterInfo": {
                 "EncounterSet": "To Catch an Orc",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2443,10 +2821,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "c71fa40c-524e-43ec-b058-7ea239fdfd1d",
+            "RingsDbCardId": "07064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Into the Woods",
+            "Slug": "Into-the-Woods-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2454,7 +2837,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Into-the-Woods-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 4."
@@ -2467,11 +2852,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Into-the-Woods-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Time 4.",
                     "Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3.",
                     "The players cannot advance to stage 2 unless Mugash is attached to a hero."
                 ],
@@ -2482,7 +2871,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2490,10 +2882,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "99bdb330-27f2-4534-a355-0bb9f1682a8d",
+            "RingsDbCardId": "07065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Escape from Fangorn",
+            "Slug": "Escape-from-Fangorn-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2501,7 +2898,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Escape-from-Fangorn-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 4."
@@ -2514,11 +2913,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Escape-from-Fangorn-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Time 4.",
                     "Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3A.",
                     "The players cannot defeat this stage unless Mugash is attached to a hero.",
                     "If the players defeat this stage, they win the game."
@@ -2530,7 +2933,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2538,10 +2944,15 @@
             "Quantity": 1,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "c7e3bde9-8348-41d6-8272-aa733f60a108",
+            "RingsDbCardId": "07066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Angry Forest",
+            "Slug": "The-Angry-Forest-VoI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2549,7 +2960,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Angry-Forest-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 3."
@@ -2560,12 +2973,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Angry-Forest-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the last time counter is removed from this stage, discard the top 5 cards of the encounter deck. Each player must choose an enemy or objective in the discard pile, reveal it and add it to the staging area. Place 3 time counters on this stage.",
                     "Forced: After placing progress here, if there is at least 6 progress on this stage and Mugash is attached to a hero, advance to stage 2A."
                 ],
                 "Shadow": null,
@@ -2575,7 +2990,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Into Fangorn",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2583,6 +3001,10 @@
             "Quantity": 1,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "d8c6d8df-9856-4fad-ba85-a96d17b67cfd",
+            "RingsDbCardId": "07067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

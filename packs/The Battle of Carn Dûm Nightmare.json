@@ -1,10 +1,14 @@
 {
     "Name": "The Battle of Carn Dûm Nightmare",
+    "Slug": "The-Battle-of-Carn-Dum-Nightmare",
+    "Abbreviation": "TBoCDN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Battle of Carn Dûm Nightmare",
+            "Slug": "The-Battle-of-Carn-Dum-Nightmare-TBoCDN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Wight",
+            "Slug": "Orc-Wight-TBoCDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -81,10 +90,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir's Elite",
+            "Slug": "Thaurdir's-Elite-TBoCDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -122,10 +136,15 @@
             "Quantity": 2,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stronghold Tower",
+            "Slug": "Stronghold-Tower-TBoCDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -158,13 +177,18 @@
                 "StageLetter": null
             },
             "Number": 4,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Mare",
+            "Slug": "Black-Mare-TBoCDN",
             "IsUnique": true,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -194,10 +218,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Death and Decay",
+            "Slug": "Death-and-Decay-TBoCDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -226,13 +255,18 @@
                 "StageLetter": null
             },
             "Number": 6,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Howling of Wargs",
+            "Slug": "Howling-of-Wargs-TBoCDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -262,10 +296,15 @@
             "Quantity": 2,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Protect the Flanks",
+            "Slug": "Protect-the-Flanks-TBoCDN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -280,6 +319,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Siege.",
                     "Forced: At the end of the combat phase, assign X damage among characters in play, where X is the total number of shadow cards dealt to enemies in the staging area."
                 ],
                 "Shadow": null,
@@ -292,10 +332,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rally the Fighters",
+            "Slug": "Rally-the-Fighters-TBoCDN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -310,6 +355,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Shadow cards are immune to player card effects.",
                     "Response: After this quest is defeated, discard 1 shadow card from each enemy in play."
                 ],
@@ -323,10 +369,15 @@
             "Quantity": 1,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sever the Head",
+            "Slug": "Sever-the-Head-TBoCDN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -341,6 +392,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Battle.",
                     "Thaurdir gets +2 Threat, +2 Attack, and cannot take damage."
                 ],
                 "Shadow": null,
@@ -353,6 +405,10 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

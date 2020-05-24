@@ -1,10 +1,14 @@
 {
     "Name": "The Dread Realm",
+    "Slug": "The-Dread-Realm",
+    "Abbreviation": "TDR",
     "Cycle": "Angmar Awakened",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Arwen Undómiel",
+            "Slug": "Arwen-Undomiel-TDR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -37,10 +41,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10140",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1334,
             "Categories": null
         },
         {
             "Title": "Elven-light",
+            "Slug": "Elven-light-TDR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -67,10 +76,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "abebff49-8219-4ae0-bd26-266db57bdfc3",
+            "RingsDbCardId": "10145",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4750,
             "Categories": null
         },
         {
             "Title": "Sword-thain",
+            "Slug": "Sword-thain-TDR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -99,10 +113,59 @@
             "Quantity": 3,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "59cd2c5f-1986-4065-ad2c-8423d6b200e2",
+            "RingsDbCardId": "10149",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 991,
+            "Categories": null
+        },
+        {
+            "Title": "Fornost Bowman",
+            "Slug": "Fornost-Bowman-TDR",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Fornost-Bowman.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Fornost Bowman gets +1 Attack for each enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "To the last battle at Fornost with the Witch-lord of Angmar they sent some bowmen to the aid of the king...\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": null,
+            "Number": 143,
+            "Quantity": 3,
+            "Artist": "Jose Vega",
+            "HasErrata": false,
+            "OctgnGuid": "40efacf7-f3c1-434b-b31f-42b3721c90c0",
+            "RingsDbCardId": "10143",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 738,
             "Categories": null
         },
         {
             "Title": "Tale of Tinúviel",
+            "Slug": "Tale-of-Tinuviel-TDR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -130,48 +193,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Fornost Bowman",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Fornost-Bowman.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Ranger."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "Fornost Bowman gets +1 Attack for each enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "To the last battle at Fornost with the Witch-lord of Angmar they sent some bowmen to the aid of the king...\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm",
-            "EncounterInfo": null,
-            "Number": 143,
-            "Quantity": 3,
-            "Artist": "Jose Vega",
-            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10146",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 714,
             "Categories": null
         },
         {
             "Title": "Galadhrim Healer",
+            "Slug": "Galadhrim-Healer-TDR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -204,10 +234,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "f9865446-f3a4-4a9f-bb1e-68565720511b",
+            "RingsDbCardId": "10147",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 704,
             "Categories": null
         },
         {
             "Title": "Sword of Númenor",
+            "Slug": "Sword-of-Numenor-TDR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -226,7 +261,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Dúnedain or Gondor hero.",
+                    "Attach to a Dúnedain or Gondor hero. Restricted.",
                     "Attached hero gets +1 Attack.",
                     "Response: After attached hero participates in an attack that destroys an enemy with 5 or more printed hit points, exhaust Sword of Númenor to add 1 resource to attached hero`s resource pool."
                 ],
@@ -240,10 +275,15 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10142",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 562,
             "Categories": null
         },
         {
             "Title": "Hour of Wrath",
+            "Slug": "Hour-of-Wrath-TDR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -270,10 +310,15 @@
             "Quantity": 3,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "f88c0606-5076-4df7-beed-a7182af0dece",
+            "RingsDbCardId": "10144",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 354,
             "Categories": null
         },
         {
             "Title": "Éothain",
+            "Slug": "Eothain-TDR",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -306,10 +351,15 @@
             "Quantity": 3,
             "Artist": "Glen Osterberger",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10141",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 226,
             "Categories": null
         },
         {
             "Title": "Weather-stained Cloak",
+            "Slug": "Weather-stained-Cloak-TDR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -336,12 +386,17 @@
             "EncounterInfo": null,
             "Number": 148,
             "Quantity": 3,
-            "Artist": "Jorge Borrero",
+            "Artist": "Jorge Barrero",
             "HasErrata": false,
+            "OctgnGuid": "2e156c1b-5227-4dfd-a076-ee9b236c86da",
+            "RingsDbCardId": "10148",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 100,
             "Categories": null
         },
         {
             "Title": "The Catacombs of Carn Dûm",
+            "Slug": "The-Catacombs-of-Carn-Dum-TDR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -349,7 +404,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/The-Catacombs-of-Carn-Dûm-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -360,8 +417,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/The-Catacombs-of-Carn-Dûm-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -383,10 +443,15 @@
             "Quantity": 1,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10150",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Angmar Awakened",
+            "Slug": "Angmar-Awakened-TDR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -394,7 +459,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Angmar-Awakened-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -405,8 +472,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Angmar-Awakened-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -428,10 +498,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "b7c19049-9587-48bc-8807-5cc7334399b9",
+            "RingsDbCardId": "10151",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Daechanar's Fall",
+            "Slug": "Daechanar's-Fall-TDR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -439,7 +514,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Daechanar's-Fall-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -450,8 +527,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Daechanar's-Fall-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -474,10 +554,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "73969b8e-9591-4ab0-bd28-75c7780875b0",
+            "RingsDbCardId": "10152",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Daechanar",
+            "Slug": "Daechanar-TDR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -521,10 +606,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "8bb270a0-72b4-49d5-a4d3-a962edd5f67b",
+            "RingsDbCardId": "10153",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Altar of Midwinter",
+            "Slug": "Altar-of-Midwinter-TDR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -563,10 +653,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "1cdc36d4-fd78-4ebe-850b-13f24ee73244",
+            "RingsDbCardId": "10154",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dwimmerlaik",
+            "Slug": "Dwimmerlaik-TDR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -605,10 +700,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "0771f1dc-4baa-4181-9344-4ddd1e59136b",
+            "RingsDbCardId": "10155",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Witch of Angmar",
+            "Slug": "Witch-of-Angmar-TDR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -647,10 +747,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "8b7c17f3-09d1-45a4-93ff-3b17a3285f35",
+            "RingsDbCardId": "10156",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wraith of Carn Dûm",
+            "Slug": "Wraith-of-Carn-Dum-TDR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -689,10 +794,15 @@
             "Quantity": 2,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10157",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sinister Dungeon",
+            "Slug": "Sinister-Dungeon-TDR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -728,10 +838,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "ee30a928-cdf8-40c0-87b3-13115bc16cd3",
+            "RingsDbCardId": "10158",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tombs of Carn Dûm",
+            "Slug": "Tombs-of-Carn-Dum-TDR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -749,7 +864,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "ForcedL At the end of the round, discard the top card of each player`s deck. Each player must reanimate each ally discarded by this effect.",
+                    "Forced: At the end of the round, discard the top card of each player`s deck. Each player must reanimate each ally discarded by this effect.",
                     "Travel: Deal 1 shadow card to each Undead enemy in play to travel here."
                 ],
                 "Shadow": null,
@@ -768,10 +883,15 @@
             "Quantity": 3,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10159",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Halls",
+            "Slug": "Dark-Halls-TDR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -807,10 +927,15 @@
             "Quantity": 2,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "432c306a-7a68-45f9-8621-d7ea2126ae0b",
+            "RingsDbCardId": "10160",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unholy Crypt",
+            "Slug": "Unholy-Crypt-TDR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -844,12 +969,17 @@
             },
             "Number": 161,
             "Quantity": 3,
-            "Artist": "Mikail Greuli",
+            "Artist": "Mikhail Greuli",
             "HasErrata": false,
+            "OctgnGuid": "3385b644-5fd6-4473-9fec-45d7262f5824",
+            "RingsDbCardId": "10161",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Possession",
+            "Slug": "Possession-TDR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -865,6 +995,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Destroy the highest cost ally in play. That ally`s controller reanimates that character, adds it to the staging area, and attaches Possesion to it. (Counts as a Condition attachment with the text: `If Possession is discarded, the attached card is also discarded.`)"
                 ],
                 "Shadow": null,
@@ -883,10 +1014,15 @@
             "Quantity": 2,
             "Artist": "Victor Garcia",
             "HasErrata": false,
+            "OctgnGuid": "fb40f70e-0d36-4d18-ae51-23be5f1a3260",
+            "RingsDbCardId": "10162",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Fell Dread",
+            "Slug": "A-Fell-Dread-TDR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -918,10 +1054,15 @@
             "Quantity": 2,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "e2e8fe14-f019-4fd9-af2c-81f1a4282660",
+            "RingsDbCardId": "10163",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Death and Calamity",
+            "Slug": "Death-and-Calamity-TDR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -953,6 +1094,10 @@
             "Quantity": 4,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "205f938d-8dc8-4366-adc0-35897aaef600",
+            "RingsDbCardId": "10164",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

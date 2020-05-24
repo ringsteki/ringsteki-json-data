@@ -1,10 +1,14 @@
 {
     "Name": "Breaking of the Fellowship Nightmare",
+    "Slug": "Breaking-of-the-Fellowship-Nightmare",
+    "Abbreviation": "BotFN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Breaking of the Fellowship Nightmare",
+            "Slug": "Breaking-of-the-Fellowship-Nightmare-BotFN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -46,10 +50,15 @@
             "Quantity": 1,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Isengard Archer",
+            "Slug": "Isengard-Archer-BotFN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -73,6 +82,7 @@
                     "Archery 2."
                 ],
                 "Text": [
+                    "Toughness 1. Archery 2.",
                     "Forced: After Isengard Archer enters the staging area, each player at this stage deals 2 damage to a character he controls."
                 ],
                 "Shadow": "Shadow: Deal 2 damage to an ally you control.",
@@ -91,10 +101,15 @@
             "Quantity": 3,
             "Artist": "Tristan Denecke",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Isengard Tracker",
+            "Slug": "Isengard-Tracker-BotFN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -118,6 +133,7 @@
                     "Archery 1."
                 ],
                 "Text": [
+                    "Toughness 2. Archery 1.",
                     "Forced: After Isengard Tracker destroys a character, move it to the first player`s staging area."
                 ],
                 "Shadow": "Shadow: After this attack, move attacking enemy to the first player`s staging area.",
@@ -136,10 +152,15 @@
             "Quantity": 4,
             "Artist": "Victor Manuel Leza Moreno",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Langflood River",
+            "Slug": "Langflood-River-BotFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -176,10 +197,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Western Emyn Muil",
+            "Slug": "Western-Emyn-Muil-BotFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -216,10 +242,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Arrows in the Night",
+            "Slug": "Arrows-in-the-Night-BotFN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -233,6 +264,7 @@
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Until the end of the round, add 6 to the archery total at this stage. You may discard X cards from hand to reduce the archery total at this stage by X until the end of the round."
                 ],
                 "Shadow": "Shadow: Discard 1 random card from your hand.",
@@ -251,10 +283,15 @@
             "Quantity": 2,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting the Ring",
+            "Slug": "Hunting-the-Ring-BotFN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -268,6 +305,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. (Counts a Condition attachment with the text: `Forced: At the end of the round, each player at this stage raises his threat by 1 for each enemy in the staging area. Then, discard Hunting the Ring and move each enemy in this staging area to the first player`s staging area.`)"
                 ],
                 "Shadow": null,
@@ -286,10 +324,15 @@
             "Quantity": 2,
             "Artist": "Tawny Fritzinger",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Discord and Distrust",
+            "Slug": "Discord-and-Distrust-BotFN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -303,6 +346,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Until the end of the round, players cannot trigger Action or Response effects."
                 ],
                 "Shadow": "Shadow: Until the end of the round, defending character cannot ready.",
@@ -321,6 +365,10 @@
             "Quantity": 2,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

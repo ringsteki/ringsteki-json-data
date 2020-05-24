@@ -1,10 +1,14 @@
 {
     "Name": "The Treachery of Rhudaur",
+    "Slug": "The-Treachery-of-Rhudaur",
+    "Abbreviation": "TToR",
     "Cycle": "Angmar Awakened",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Silver Harp",
+            "Slug": "Silver-Harp-TToR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -23,7 +27,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Spirit hero.",
+                    "Attach to a Spirit hero. Restricted.",
                     "Response: After a card is discarded from your hand, exhaust Silver Harp to return that card to your hand."
                 ],
                 "Shadow": null,
@@ -36,46 +40,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Erestor",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Erestor.jpg",
-                "Stats": {
-                    "ThreatCost": "10",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Noldor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Draw 3 additional cards at the beginning of the resource phase.",
-                    "At the end of the round, discard all cards in your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "`That is the path of despair. Of folly, I would say, if the long wisdom of Elrond did not forbid me.`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur",
-            "EncounterInfo": null,
-            "Number": 84,
-            "Quantity": 1,
-            "Artist": "Arden Beckwith",
-            "HasErrata": false,
+            "OctgnGuid": "41b56fc4-6ecd-4c9a-80d4-3074c267e823",
+            "RingsDbCardId": "10090",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1797,
             "Categories": null
         },
         {
             "Title": "Galadhrim Weaver",
+            "Slug": "Galadhrim-Weaver-TToR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -109,10 +82,56 @@
             "Quantity": 3,
             "Artist": "Sara Betsy",
             "HasErrata": false,
+            "OctgnGuid": "5ababdc3-8d6c-47ad-aa1a-d21f5c96bbda",
+            "RingsDbCardId": "10089",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1132,
+            "Categories": null
+        },
+        {
+            "Title": "Erestor",
+            "Slug": "Erestor-TToR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Erestor.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Draw 3 additional cards at the beginning of the resource phase.",
+                    "At the end of the round, discard all cards in your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "`That is the path of despair. Of folly, I would say, if the long wisdom of Elrond did not forbid me.`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur",
+            "EncounterInfo": null,
+            "Number": 84,
+            "Quantity": 1,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "b188f729-0314-4664-95a0-7f93f4d44133",
+            "RingsDbCardId": "10084",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 472,
             "Categories": null
         },
         {
             "Title": "The Door is Closed!",
+            "Slug": "The-Door-is-Closed-TToR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -138,10 +157,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "f9f464e9-188c-42aa-bbea-b325a6d0f16d",
+            "RingsDbCardId": "10092",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 716,
             "Categories": null
         },
         {
             "Title": "Galdor of the Havens",
+            "Slug": "Galdor-of-the-Havens-TToR",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -173,10 +197,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "608ac037-89dd-4aac-8b6d-057bd0fa7507",
+            "RingsDbCardId": "10091",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 712,
             "Categories": null
         },
         {
             "Title": "Elf-friend",
+            "Slug": "Elf-friend-TToR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -205,10 +234,15 @@
             "Quantity": 3,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "38ed7520-8749-47ab-b3b4-34ec96441475",
+            "RingsDbCardId": "10093",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 555,
             "Categories": null
         },
         {
             "Title": "Send for Aid",
+            "Slug": "Send-for-Aid-TToR",
             "IsUnique": false,
             "CardType": "Player_Side_Quest",
             "CardSubType": "None",
@@ -216,9 +250,13 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Send-for-Aid.jpg",
-                "Stats": {},
+                "Stats": {
+                    "ResourceCost": "1"
+                },
                 "Traits": [],
-                "Keywords": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
                 "Text": [
                     "Limit 1 per deck.",
                     "Response: When this stage is defeated, each player may search the top 10 cards of his deck for an ally and put it into play under his control. Each player who did shuffles his deck."
@@ -233,10 +271,15 @@
             "Quantity": 3,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "ad0cbc82-6807-4a5a-ada8-97952cb02c5f",
+            "RingsDbCardId": "10086",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 405,
             "Categories": null
         },
         {
             "Title": "Elven Spear",
+            "Slug": "Elven-Spear-TToR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -255,7 +298,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Noldor or Silvan hero.",
+                    "Attach to a Noldor or Silvan hero. Restricted.",
                     "Action: Discard a card from your hand to give attached hero +1 Attack until the end of the phase. Limit 3 times per phase."
                 ],
                 "Shadow": null,
@@ -268,40 +311,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Reinforcements",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Reinforcements.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You must use resources from 3 different heroes` pools to play this card.",
-                    "Action: The players, as a group, can put up to 2 allies into play from their hands. Each of these allies may enter play under any player`s control. At the end of the phase, return each of those allies that are still in play to their owners` hands."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur",
-            "EncounterInfo": null,
-            "Number": 85,
-            "Quantity": 3,
-            "Artist": "Oleg Saakyan",
-            "HasErrata": false,
+            "OctgnGuid": "6ba569dd-92d4-4de4-bfa4-385e2d50eddb",
+            "RingsDbCardId": "10087",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 357,
             "Categories": null
         },
         {
             "Title": "Horn's Cry",
+            "Slug": "Horn's-Cry-TToR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -328,10 +346,50 @@
             "Quantity": 3,
             "Artist": "David Vargo",
             "HasErrata": false,
+            "OctgnGuid": "7d906063-149f-4b7d-b271-e1532afea7c0",
+            "RingsDbCardId": "10088",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 284,
+            "Categories": null
+        },
+        {
+            "Title": "Reinforcements",
+            "Slug": "Reinforcements-TToR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Reinforcements.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You must use resources from 3 different heroes` pools to play this card.",
+                    "Action: The players, as a group, can put up to 2 allies into play from their hands. Each of these allies may enter play under any player`s control. At the end of the phase, return each of those allies that are still in play to their owners` hands."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur",
+            "EncounterInfo": null,
+            "Number": 85,
+            "Quantity": 3,
+            "Artist": "Oleg Saakyan",
+            "HasErrata": false,
+            "OctgnGuid": "b9339072-5665-45c7-a2ca-a8c844c5762d",
+            "RingsDbCardId": "10085",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 283,
             "Categories": null
         },
         {
             "Title": "Secrets of Rhudaur",
+            "Slug": "Secrets-of-Rhudaur-TToR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -339,7 +397,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Secrets-of-Rhudaur-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 5."
@@ -352,11 +412,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Secrets-of-Rhudaur-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Time 5.",
                     "Forced: After the last time counter is removed from Secrets of Rhudaur, remove each Treachery of Rhudaur side quest from the game and immediately advance to stage 2.",
                     "During the quest phase, Secrets of Rhudaur cannot be chosen as the current quest.",
                     "If there are no Treachery of Rhudaur side quests in play, immediately advance to stage 2."
@@ -368,7 +432,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Treachery of Rhudaur",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ruins of Arnor",
+                    "Cursed Dead"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -376,10 +443,15 @@
             "Quantity": 1,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "a7231cbd-0620-4b15-9c2c-68d4e7c79a8f",
+            "RingsDbCardId": "10094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir's Pursuit",
+            "Slug": "Thaurdir's-Pursuit-TToR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -387,7 +459,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Thaurdir's-Pursuit-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -398,8 +472,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Thaurdir's-Pursuit-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "30"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -413,7 +490,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Treachery of Rhudaur",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ruins of Arnor",
+                    "Cursed Dead"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -421,10 +501,15 @@
             "Quantity": 1,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "fdd55ddc-2f18-4ae6-89bb-e54827a1bbdc",
+            "RingsDbCardId": "10095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amarthiúl",
+            "Slug": "Amarthiul-TToR",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -464,10 +549,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Great Hall",
+            "Slug": "The-Great-Hall-TToR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -502,10 +592,15 @@
             "Quantity": 1,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "125e7884-7f75-42cd-80ba-065cf88eef9a",
+            "RingsDbCardId": "10097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir",
+            "Slug": "Thaurdir-TToR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -528,7 +623,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Indestructible. Cannot have attachments.",
                     "Forced: After a treachery card with the Sorcery trait is revealed from the encounter deck, Thaurdir heals 3 damage and makes an immediate attack against the first player."
                 ],
                 "Shadow": null,
@@ -547,10 +642,15 @@
             "Quantity": 1,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "d658967b-662e-4dfb-afb6-4b3444074b79",
+            "RingsDbCardId": "10098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wight of Rhudaur",
+            "Slug": "Wight-of-Rhudaur-TToR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -590,10 +690,15 @@
             "Quantity": 2,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "5c5ce14a-332a-40fe-8f55-cfa2f53e8592",
+            "RingsDbCardId": "10099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Traitorous Wight",
+            "Slug": "Traitorous-Wight-TToR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -632,10 +737,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "e1edac2f-1d9c-44e6-af0a-10c3101f2709",
+            "RingsDbCardId": "10100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forbidden Descent",
+            "Slug": "Forbidden-Descent-TToR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -671,10 +781,15 @@
             "Quantity": 2,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "0e205159-5e62-4d24-b0df-635853aea9c0",
+            "RingsDbCardId": "10101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eerie Halls",
+            "Slug": "Eerie-Halls-TToR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -709,10 +824,15 @@
             "Quantity": 2,
             "Artist": "Joshua Calloway",
             "HasErrata": false,
+            "OctgnGuid": "a1a8bd6e-4cd1-4641-9cb1-f693f053f62e",
+            "RingsDbCardId": "10102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ghostly Ruins",
+            "Slug": "Ghostly-Ruins-TToR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -748,10 +868,15 @@
             "Quantity": 2,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "c35f2635-fa68-44be-9ce9-80446831f0e0",
+            "RingsDbCardId": "10103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Decrepit Remains",
+            "Slug": "Decrepit-Remains-TToR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -786,10 +911,15 @@
             "Quantity": 2,
             "Artist": "Wibben",
             "HasErrata": false,
+            "OctgnGuid": "fd3e323b-0fea-49ce-90d2-cbfea27be8cd",
+            "RingsDbCardId": "10104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Centuries of Sorrow",
+            "Slug": "Centuries-of-Sorrow-TToR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -803,6 +933,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The first player must choose a new quest to be the current quest, if able."
                 ],
                 "Shadow": "Shadow: If the defending player does not control at least 1 Clue objective, this attack is considered undefended.",
@@ -821,10 +952,15 @@
             "Quantity": 2,
             "Artist": "Marcel Mercado",
             "HasErrata": false,
+            "OctgnGuid": "7aa9b24a-7b10-4457-be9e-5bfb78bff865",
+            "RingsDbCardId": "10105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Curse of the Years",
+            "Slug": "Curse-of-the-Years-TToR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -856,10 +992,15 @@
             "Quantity": 3,
             "Artist": "David Ogilvie",
             "HasErrata": false,
+            "OctgnGuid": "152a0b0a-7e01-41ce-98a4-3e7b0d6eaac4",
+            "RingsDbCardId": "10106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Covenant",
+            "Slug": "Dark-Covenant-TToR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -891,10 +1032,15 @@
             "Quantity": 3,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "7aa7f695-f5b5-4fb4-9296-53ec517d6a30",
+            "RingsDbCardId": "10107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haunting Fog",
+            "Slug": "Haunting-Fog-TToR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -926,10 +1072,15 @@
             "Quantity": 3,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "7f458303-66c1-45db-bf3f-20669fea6ff4",
+            "RingsDbCardId": "10108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Quiet the Spirits",
+            "Slug": "Quiet-the-Spirits-TToR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -955,10 +1106,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "6709bafa-87b5-483e-9895-0f2edea7e47a",
+            "RingsDbCardId": "10109",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Daechanar's Brand",
+            "Slug": "Daechanar's-Brand-TToR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -991,10 +1147,15 @@
             "Quantity": 1,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "87c33692-599d-4914-a513-4353906fc6d4",
+            "RingsDbCardId": "10110",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sift through the Debris",
+            "Slug": "Sift-through-the-Debris-TToR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1020,10 +1181,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10111",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Heirloom of Iârchon",
+            "Slug": "Heirloom-of-Iarchon-TToR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1056,10 +1222,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10112",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Decipher Ancient Texts",
+            "Slug": "Decipher-Ancient-Texts-TToR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1085,10 +1256,15 @@
             "Quantity": 1,
             "Artist": "Nick Deligaris",
             "HasErrata": false,
+            "OctgnGuid": "768bab66-1707-41a4-adf3-3baad2e7daad",
+            "RingsDbCardId": "10113",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orders from Angmar",
+            "Slug": "Orders-from-Angmar-TToR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1121,6 +1297,10 @@
             "Quantity": 1,
             "Artist": "Chris Metcalf",
             "HasErrata": false,
+            "OctgnGuid": "d9c04b71-93cd-455d-9f6e-4ee16cf7d1b4",
+            "RingsDbCardId": "10114",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

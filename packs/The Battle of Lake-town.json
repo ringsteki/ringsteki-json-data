@@ -1,10 +1,14 @@
 {
     "Name": "The Battle of Lake-town",
+    "Slug": "The-Battle-of-Lake-town",
+    "Abbreviation": "TBoLT",
     "Cycle": "GenCon",
     "SetType": "GenCon_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Terror from the Mountain",
+            "Slug": "Terror-from-the-Mountain-TBoLT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -12,7 +16,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/Terror-from-the-Mountain-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -23,8 +29,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/Terror-from-the-Mountain-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -46,10 +55,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fire and Water",
+            "Slug": "Fire-and-Water-TBoLT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -57,7 +71,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/Fire-and-Water-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -66,8 +82,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/Fire-and-Water-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -89,10 +108,15 @@
             "Quantity": 1,
             "Artist": "Sabin Boykinov",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Dragon's Wrath",
+            "Slug": "The-Dragon's-Wrath-TBoLT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -100,7 +124,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/The-Dragon's-Wrath-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -109,8 +135,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Lake-town/The-Dragon's-Wrath-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -133,10 +162,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Smaug the Mighty",
+            "Slug": "Smaug-the-Mighty-TBoLT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -175,10 +209,15 @@
             "Quantity": 3,
             "Artist": "Christopher Burdett",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Smaug the Terrible",
+            "Slug": "Smaug-the-Terrible-TBoLT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -217,10 +256,15 @@
             "Quantity": 3,
             "Artist": "Christopher Burdett",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Smaug the Magnificent",
+            "Slug": "Smaug-the-Magnificent-TBoLT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -259,10 +303,15 @@
             "Quantity": 3,
             "Artist": "Christopher Burdett",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lake-town",
+            "Slug": "Lake-town-TBoLT",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -294,10 +343,15 @@
             "Quantity": 1,
             "Artist": "Paulo Puggioni",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Thrush",
+            "Slug": "The-Old-Thrush-TBoLT",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -313,6 +367,7 @@
                     "Guarded."
                 ],
                 "Text": [
+                    "Guarded.",
                     "Action: Exhaust a hero to claim this objective and attach it to that hero when it is free of encounters. (Counts as an attachment with the text:`If detached discard The Old ThrushResponse: After attached hero exhausts to attack Smaug, discard X cards from hand to reduce Smaug`s Defense by X.`)"
                 ],
                 "Shadow": null,
@@ -331,10 +386,15 @@
             "Quantity": 1,
             "Artist": "Paulo Puggioni",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Close to the Flame",
+            "Slug": "Close-to-the-Flame-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -364,10 +424,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Scorching Blast",
+            "Slug": "Scorching-Blast-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -397,10 +462,15 @@
             "Quantity": 3,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Town-Baiting",
+            "Slug": "Town-Baiting-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -430,10 +500,15 @@
             "Quantity": 3,
             "Artist": "Christopher Burdett",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dire Magnificence",
+            "Slug": "Dire-Magnificence-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -463,10 +538,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Catching Fire",
+            "Slug": "Catching-Fire-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -496,10 +576,15 @@
             "Quantity": 2,
             "Artist": "Lino Drieghe",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Reckless in His Rage",
+            "Slug": "Reckless-in-His-Rage-TBoLT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -529,10 +614,15 @@
             "Quantity": 2,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "West Pier",
+            "Slug": "West-Pier-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -570,10 +660,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Master's Manor",
+            "Slug": "The-Master's-Manor-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -593,6 +688,7 @@
                     "Victory 8."
                 ],
                 "Text": [
+                    "Burn 3.",
                     "When Revealed: Move all damage from Smaug to Lake-town"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, defending player discards his hand.",
@@ -611,10 +707,15 @@
             "Quantity": 1,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "South Pier",
+            "Slug": "South-Pier-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -635,6 +736,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Burn 2.",
                     "When faced with the option to travel, players cannot travel to other locations."
                 ],
                 "Shadow": null,
@@ -653,10 +755,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "North Pier",
+            "Slug": "North-Pier-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -677,6 +784,7 @@
                     "Victory 2."
                 ],
                 "Text": [
+                    "Burn 2.",
                     "Smaug cannot be damaged."
                 ],
                 "Shadow": null,
@@ -695,10 +803,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Merchant's District",
+            "Slug": "Merchant's-District-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -718,6 +831,7 @@
                     "Victory 3."
                 ],
                 "Text": [
+                    "Burn 1.",
                     "Travel Action: Deal 2 damage per player to Lake-town to add this location to the victory display."
                 ],
                 "Shadow": "Shadow: Deal 1 damage to Lake-town (4 damage instead if undefended.)",
@@ -736,10 +850,15 @@
             "Quantity": 4,
             "Artist": "Stu Barnes",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "East Pier",
+            "Slug": "East-Pier-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -760,7 +879,8 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "`When Revealed` effects cannot be canceled"
+                    "Burn 1.",
+                    "`When Revealed` effects cannot be canceled."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -778,10 +898,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great House",
+            "Slug": "Great-House-TBoLT",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -801,6 +926,7 @@
                     "Victory 6."
                 ],
                 "Text": [
+                    "Burn 3.",
                     "When Revealed: Resolve all burn damage from all locations in play."
                 ],
                 "Shadow": null,
@@ -819,10 +945,15 @@
             "Quantity": 1,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Bridge",
+            "Slug": "Great-Bridge-TBoLT",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -842,6 +973,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Burn 2.",
                     "When Revealed: Discard X cards from each player`s deck. X is the ammount of damage on Lake-town. (If no cards are discarded by this effect, Great Bridge gains surge.)"
                 ],
                 "Shadow": null,
@@ -860,10 +992,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fisherman's Dock",
+            "Slug": "Fisherman's-Dock-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -883,6 +1020,7 @@
                     "Victory 2."
                 ],
                 "Text": [
+                    "Burn 1.",
                     "Travel: If there is 1 active location exhaust a hero to travel here (There are now 2 active locations)"
                 ],
                 "Shadow": "Shadow: Add this location to the staging area.",
@@ -901,10 +1039,15 @@
             "Quantity": 4,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Esgaroth Wharf",
+            "Slug": "Esgaroth-Wharf-TBoLT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -924,6 +1067,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Burn 1.",
                     "All locations are immune to player card effects."
                 ],
                 "Shadow": "Shadow: attacking enemy gets +2 Attack. Then it make an additional attack after this one.",
@@ -942,6 +1086,10 @@
             "Quantity": 4,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

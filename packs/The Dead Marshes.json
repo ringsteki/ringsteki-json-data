@@ -1,10 +1,14 @@
 {
     "Name": "The Dead Marshes",
+    "Slug": "The-Dead-Marshes",
+    "Abbreviation": "TDM",
     "Cycle": "Shadows of Mirkwood",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Vassal of the Windlord",
+            "Slug": "Vassal-of-the-Windlord-TDM",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -27,7 +31,8 @@
                     "Ranged."
                 ],
                 "Text": [
-                    "Vassal of the Windlord cannot have restricted attachments.Forced: After an attack in which Vassal of the Windlord attacked resolves, discard Vassal of the Windlord from play."
+                    "Ranged. Vassal of the Windlord cannot have restricted attachments.",
+                    "Forced: After an attack in which Vassal of the Windlord attacked resolves, discard Vassal of the Windlord from play."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -39,10 +44,15 @@
             "Quantity": 3,
             "Artist": "Anna Christenson",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9022",
+            "RingsDbCardId": "02098",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3926,
             "Categories": null
         },
         {
             "Title": "Fast Hitch",
+            "Slug": "Fast-Hitch-TDM",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -71,10 +81,133 @@
             "Quantity": 3,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9006",
+            "RingsDbCardId": "02103",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3160,
+            "Categories": null
+        },
+        {
+            "Title": "Song of Battle",
+            "Slug": "Song-of-Battle-TDM",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Song-of-Battle.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Attached hero gains a Tactics resource icon."
+                ],
+                "Shadow": null,
+                "FlavorText": "We go, we go, we go to war, to hew the stone and break the door. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": null,
+            "Number": 104,
+            "Quantity": 3,
+            "Artist": "Leonardo Borazio",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9015",
+            "RingsDbCardId": "02104",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1382,
+            "Categories": null
+        },
+        {
+            "Title": "Elfhelm",
+            "Slug": "Elfhelm-TDM",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Elfhelm.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Elfhelm is ready, he gains: `Response: After your threat is raised as the result of questing unsuccessfully, or by an encounter or quest card effect, reduce your threat by 1.`"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But my lord sends word that we must set ourselves in readiness: orders may come for a sudden move.` -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": null,
+            "Number": 100,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9005",
+            "RingsDbCardId": "02100",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1208,
+            "Categories": null
+        },
+        {
+            "Title": "Silvan Tracker",
+            "Slug": "Silvan-Tracker-TDM",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Silvan-Tracker.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Silvan character readies during the refresh phase, heal 1 damage from that character."
+                ],
+                "Shadow": null,
+                "FlavorText": "`The Wood-elves tracked him first, an easy task for them, for his trail was still fresh then.` -Gandalf, The Fellowship of the Rings"
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": null,
+            "Number": 102,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9014",
+            "RingsDbCardId": "02102",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1091,
             "Categories": null
         },
         {
             "Title": "Boromir",
+            "Slug": "Boromir-TDM",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -109,113 +242,15 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Song of Battle",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Song-of-Battle.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains a Tactics resource icon."
-                ],
-                "Shadow": null,
-                "FlavorText": "We go, we go, we go to war, to hew the stone and break the door. -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": null,
-            "Number": 104,
-            "Quantity": 3,
-            "Artist": "Leonardo Borazio",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Elfhelm",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Elfhelm.jpg",
-                "Stats": {
-                    "ResourceCost": "4",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Elfhelm is ready, he gains: `Response: After your threat is raised as the result of questing unsuccessfully, or by an encounter or quest card effect, reduce your threat by 1.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "`But my lord sends word that we must set ourselves in readiness: orders may come for a sudden move.` -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": null,
-            "Number": 100,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Silvan Tracker",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Silvan-Tracker.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a Silvan character readies during the refresh phase, heal 1 damage from that character."
-                ],
-                "Shadow": null,
-                "FlavorText": "`The Wood-elves tracked him first, an easy task for them, for his trail was still fresh then.` -Gandalf, The Fellowship of the Rings"
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": null,
-            "Number": 102,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9002",
+            "RingsDbCardId": "02095",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 511,
             "Categories": null
         },
         {
             "Title": "Dúnedain Watcher",
+            "Slug": "Dunedain-Watcher-TDM",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -247,10 +282,15 @@
             "Quantity": 3,
             "Artist": "Lindsey Messecar",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9004",
+            "RingsDbCardId": "02096",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 802,
             "Categories": null
         },
         {
             "Title": "Dúnedain Cache",
+            "Slug": "Dunedain-Cache-TDM",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -279,10 +319,15 @@
             "Quantity": 3,
             "Artist": "Stephanie M. Brown",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9003",
+            "RingsDbCardId": "02097",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 603,
             "Categories": null
         },
         {
             "Title": "Song of Mocking",
+            "Slug": "Song-of-Mocking-TDM",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -311,10 +356,15 @@
             "Quantity": 3,
             "Artist": "Carolina Eade",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9016",
+            "RingsDbCardId": "02099",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 231,
             "Categories": null
         },
         {
             "Title": "We Do Not Sleep",
+            "Slug": "We-Do-Not-Sleep-TDM",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -340,10 +390,166 @@
             "Quantity": 3,
             "Artist": "Lin Bo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9023",
+            "RingsDbCardId": "02101",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 174,
+            "Categories": null
+        },
+        {
+            "Title": "Into the Marshes",
+            "Slug": "Into-the-Marshes-TDM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Into-the-Marshes-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Gollum, and add it to the staging area. Shuffle the encounter deck, then reveal 1 card per player from the encounter deck and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have followed Gollum`s trail for days, and are now closing in fast pursuit. In a last ditch effort to escape you, the creature has fled to The Dead Marshes."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Into-the-Marshes-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "`Yes, yes,` said Gollum. `All dead, all rotten. Elves and Men and Orcs. The Dead Marshes. There was a great battle long ago, yes, so they told him when Smeagol was young, when I was young before teh Precious came. It was a great battle. Tall Men with long swords, and terrible Elves and Orcses shrieking. They fought on th eplain for days and months at the Black Gates. But the Marshes have grown since then, swallowed up the graves; always creeping, creeping.` -The Two Towers."
+            },
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 105,
+            "Quantity": 1,
+            "Artist": "Ignacio Bazan Lazcano",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9011",
+            "RingsDbCardId": "02105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Capture",
+            "Slug": "The-Capture-TDM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Capture-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "After a tiring pursuit through the treacherous marshland, you have cornered Gollum, and move in for the capture."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Capture-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If this final Escape test is passed, the players have captured Gollum and won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 106,
+            "Quantity": 1,
+            "Artist": "Ignacio Bazan Lazcano",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9017",
+            "RingsDbCardId": "02106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gollum",
+            "Slug": "Gollum-TDM",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Gollum.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Gollum."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Gollum ever has 8 or more resource tokens on him, shuffle him back into the encounter deck.",
+                    "Forced: At the end of the quest phase, the party must make an escape test, dealing 1 card per player from the encounter deck. If this test is failed, place 2 resource tokens on Gollum."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 107,
+            "Quantity": 1,
+            "Artist": "John Matson",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9009",
+            "RingsDbCardId": "02107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Wisp of Pale Sheen",
+            "Slug": "A-Wisp-of-Pale-Sheen-TDM",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -375,27 +581,29 @@
             "Quantity": 3,
             "Artist": "Carolina Eade",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9001",
+            "RingsDbCardId": "02108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Fens and Mires",
+            "Title": "Nightfall",
+            "Slug": "Nightfall-TDM",
             "IsUnique": false,
-            "CardType": "Location",
+            "CardType": "Treachery",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Fens-and-Mires.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "2"
-                },
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Nightfall.jpg",
+                "Stats": {},
                 "Traits": [
-                    "Dead Marshes."
+                    "Escape."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the players travel to this location, place 1 resource token on Gollum.Escape: 2"
+                    "When Revealed: The first player makes an escape test, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player`s threat by 2.Escape: 2"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -409,14 +617,99 @@
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 115,
-            "Quantity": 4,
-            "Artist": "Stacey Diana Clark",
+            "Number": 109,
+            "Quantity": 3,
+            "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9013",
+            "RingsDbCardId": "02109",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Through the Mist",
+            "Slug": "Through-the-Mist-TDM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Through-the-Mist.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Escape."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player makes an escape test counting Attack instead of Willpower, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player`s threat by 1.Escape: 3"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 110,
+            "Quantity": 3,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9021",
+            "RingsDbCardId": "02110",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Lights of the Dead",
+            "Slug": "The-Lights-of-the-Dead-TDM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Lights-of-the-Dead.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Escape."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must make an escape test, dealing 2 cards from the encounter deck for each test. Each player that fails this test places 1 resource token on Gollum, and raises his threat by 1.Escape: 5"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 111,
+            "Quantity": 4,
+            "Artist": "Henning Ludvigsen",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9020",
+            "RingsDbCardId": "02111",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Giant Marsh Worm",
+            "Slug": "Giant-Marsh-Worm-TDM",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -454,46 +747,15 @@
             "Quantity": 4,
             "Artist": "Jake Murray",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gollum",
-            "IsUnique": true,
-            "CardType": "Objective",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Gollum.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Gollum."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Gollum ever has 8 or more resource tokens on him, shuffle him back into the encounter deck.",
-                    "Forced: At the end of the quest phase, the party must make an escape test, dealing 1 card per player from the encounter deck. If this test is failed, place 2 resource tokens on Gollum."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": {
-                "EncounterSet": "The Dead Marshes",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 107,
-            "Quantity": 1,
-            "Artist": "John Matson",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9008",
+            "RingsDbCardId": "02112",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Impassable Bog",
+            "Slug": "Impassable-Bog-TDM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -530,130 +792,15 @@
             "Quantity": 4,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Into the Marshes",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Into-the-Marshes-1A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Setup: Search the encounter deck for Gollum, and add it to the staging area. Shuffle the encounter deck, then reveal 1 card per player from the encounter deck and add it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "You have followed Gollum`s trail for days, and are now closing in fast pursuit. In a last ditch effort to escape you, the creature has fled to The Dead Marshes."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "`Yes, yes,` said Gollum. `All dead, all rotten. Elves and Men and Orcs. The Dead Marshes. There was a great battle long ago, yes, so they told him when Smeagol was young, when I was young before teh Precious came. It was a great battle. Tall Men with long swords, and terrible Elves and Orcses shrieking. They fought on th eplain for days and months at the Black Gates. But the Marshes have grown since then, swallowed up the graves; always creeping, creeping.` -The Two Towers."
-            },
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": {
-                "EncounterSet": "The Dead Marshes",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 1,
-                "StageLetter": "A"
-            },
-            "Number": 105,
-            "Quantity": 1,
-            "Artist": "Ignacio Bazan Lazcano",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Nightfall",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Nightfall.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Escape."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The first player makes an escape test, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player`s threat by 2.Escape: 2"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": {
-                "EncounterSet": "The Dead Marshes",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 109,
-            "Quantity": 3,
-            "Artist": "David Lecossu",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Capture",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Capture-2A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "After a tiring pursuit through the treacherous marshland, you have cornered Gollum, and move in for the capture."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After this stage is defeated, the first player chooses a player. That player must pass an Escape test, dealing 1 card from the encounter deck for each resource token on Gollum, to capture him. If Gollum is not captured at this time, reset the quest deck to stage 1B.",
-                    "If this final Escape test is passed, the players have captured Gollum and won the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": {
-                "EncounterSet": "The Dead Marshes",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 2,
-                "StageLetter": "A"
-            },
-            "Number": 106,
-            "Quantity": 1,
-            "Artist": "Ignacio Bazan Lazcano",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9010",
+            "RingsDbCardId": "02113",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Heart of the Marshes",
+            "Slug": "The-Heart-of-the-Marshes-TDM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -688,59 +835,32 @@
             "Quantity": 4,
             "Artist": "Noah Bradley",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9019",
+            "RingsDbCardId": "02114",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "The Lights of the Dead",
+            "Title": "Fens and Mires",
+            "Slug": "Fens-and-Mires-TDM",
             "IsUnique": false,
-            "CardType": "Treachery",
+            "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Lights-of-the-Dead.jpg",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Fens-and-Mires.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
                 "Traits": [
-                    "Escape."
+                    "Dead Marshes."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must make an escape test, dealing 2 cards from the encounter deck for each test. Each player that fails this test places 1 resource token on Gollum, and raises his threat by 1.Escape: 5"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dead Marshes",
-            "EncounterInfo": {
-                "EncounterSet": "The Dead Marshes",
-                "EasyModeQuantity": 2,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 111,
-            "Quantity": 4,
-            "Artist": "Henning Ludvigsen",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Through the Mist",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Through-the-Mist.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Escape."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The first player makes an escape test counting Attack instead of Willpower, dealing 2 cards from the encounter deck. If this test is failed, place 1 resource token on Gollum and raise each player`s threat by 1.Escape: 3"
+                    "Forced: After the players travel to this location, place 1 resource token on Gollum.Escape: 2"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -754,10 +874,14 @@
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 110,
-            "Quantity": 3,
-            "Artist": "Igor Kieryluk",
+            "Number": 115,
+            "Quantity": 4,
+            "Artist": "Stacey Diana Clark",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801205c9007",
+            "RingsDbCardId": "02115",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

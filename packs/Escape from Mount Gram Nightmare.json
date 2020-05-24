@@ -1,10 +1,14 @@
 {
     "Name": "Escape from Mount Gram Nightmare",
+    "Slug": "Escape-from-Mount-Gram-Nightmare",
+    "Abbreviation": "EfMGN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Escape from Mount Gram Nightmare",
+            "Slug": "Escape-from-Mount-Gram-Nightmare-EfMGN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -41,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Jailor Gornákh",
+            "Slug": "Jailor-Gornakh-EfMGN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -86,10 +95,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Prison Guard",
+            "Slug": "Prison-Guard-EfMGN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -112,6 +126,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "While you are engaged with Prison Guard, it gainst: `Planning Action: Rescue a random card from underneath Prison Guard. Then, raise each player`s threat by X, where X is that card`s printed cost. (Limit once per round).`"
                 ],
                 "Shadow": null,
@@ -127,13 +142,18 @@
                 "StageLetter": null
             },
             "Number": 3,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Prison Cell",
+            "Slug": "Prison-Cell-EfMGN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -152,6 +172,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "While Prison Cell is the active location, it gains: `Planning Action: Rescue a random card from underneath Prison Cell. Then, raise each player`s threat by X, where X is that card`s printed cost. (Limit once per round).`"
                 ],
                 "Shadow": null,
@@ -167,13 +188,18 @@
                 "StageLetter": null
             },
             "Number": 4,
-            "Quantity": 2,
+            "Quantity": 4,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Torture Chamber",
+            "Slug": "Torture-Chamber-EfMGN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -183,7 +209,7 @@
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram-Nightmare/Torture-Chamber.jpg",
                 "Stats": {
                     "Threat": "0",
-                    "QuestPoints": "-"
+                    "QuestPoints": "X"
                 },
                 "Traits": [
                     "Underground."
@@ -193,6 +219,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Capture 1. Surge.",
                     "X is twice the number of cards captured underneath Torture Chamber.",
                     "Forced: At the end of the combat phase, if Torture Chamber is in the staging area, deal 1 damage to each exhausted character."
                 ],
@@ -212,10 +239,15 @@
             "Quantity": 2,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cruel Torment",
+            "Slug": "Cruel-Torment-EfMGN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -229,6 +261,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. Counts as a Condition attachment with the text: `Each player cannot have more than 6 cards in his hand. (Each player with more than 6 cards in his hand must immediately discard cards until he has 6 cards in his hand.)`"
                 ],
                 "Shadow": null,
@@ -244,13 +277,18 @@
                 "StageLetter": null
             },
             "Number": 6,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Patrol",
+            "Slug": "Goblin-Patrol-EfMGN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -280,10 +318,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raid Golfimbul's Vault",
+            "Slug": "Raid-Golfimbul's-Vault-EfMGN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -299,6 +342,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge. Capture 3.",
                     "Forced: After a card is captured by another card effect, capture a random cards from each player`s hand underneath Raid Golfimbul`s Vault.",
                     "Forced: When the captured cards underneath Golfimbul`s Vault are rescued, put each rescued Item card into its owner`s hand and discard the rest."
                 ],
@@ -312,10 +356,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc of Thaurdir",
+            "Slug": "Orc-of-Thaurdir-EfMGN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -350,9 +399,13 @@
                 "StageLetter": null
             },
             "Number": 9,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

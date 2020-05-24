@@ -1,10 +1,14 @@
 {
     "Name": "The Wizard's Quest",
+    "Slug": "The-Wizard's-Quest",
+    "Abbreviation": "TWQ",
     "Cycle": "GenCon",
     "SetType": "Fellowship_Deck",
+    "Cards": null,
     "cards": [
         {
             "Title": "Glorfindel",
+            "Slug": "Glorfindel-TWQ",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -38,10 +42,15 @@
             "Quantity": 1,
             "Artist": "Audrey Hotte",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00111",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Radagast's Request",
+            "Slug": "Radagast's-Request-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -49,7 +58,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Radagast's-Request-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -60,8 +71,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Radagast's-Request-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -83,10 +97,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mirkwood Forest",
+            "Slug": "Mirkwood-Forest-A-Fork-in-the-Road-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -94,7 +113,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-A-Fork-in-the-Road-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -105,8 +126,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-A-Fork-in-the-Road-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -128,10 +152,15 @@
             "Quantity": 1,
             "Artist": "Jeff Lee Johnson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mirkwood Forest",
+            "Slug": "Mirkwood-Forest-Carried-Away-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -139,7 +168,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-Carried-Away-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -150,8 +181,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-Carried-Away-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -173,10 +207,15 @@
             "Quantity": 1,
             "Artist": "Jeff Lee Johnson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mirkwood Forest",
+            "Slug": "Mirkwood-Forest-A-New-Terror-Abroad-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -184,7 +223,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-A-New-Terror-Abroad-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -195,8 +236,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/Mirkwood-Forest-A-New-Terror-Abroad-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -218,10 +262,15 @@
             "Quantity": 1,
             "Artist": "Jeff Lee Johnson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Tower",
+            "Slug": "The-Necromancer's-Tower-The-Tower-of-Sorcery-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -229,7 +278,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-The-Tower-of-Sorcery-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -240,8 +291,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-The-Tower-of-Sorcery-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -263,10 +317,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Tower",
+            "Slug": "The-Necromancer's-Tower-Dungeons-of-the-Necromancer-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -274,7 +333,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-Dungeons-of-the-Necromancer-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -285,8 +346,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-Dungeons-of-the-Necromancer-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -308,10 +372,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Tower",
+            "Slug": "The-Necromancer's-Tower-Return-to-Rhosgobel-TWQ",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -319,7 +388,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-Return-to-Rhosgobel-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -332,8 +403,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wizard's-Quest/The-Necromancer's-Tower-Return-to-Rhosgobel-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -352,10 +426,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rhosgobel",
+            "Slug": "Rhosgobel-TWQ",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -392,10 +471,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rider of Mirkwood",
+            "Slug": "Rider-of-Mirkwood-TWQ",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -437,10 +521,15 @@
             "Quantity": 1,
             "Artist": "John Howe",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nazgûl of Dol Guldur",
+            "Slug": "Nazgul-of-Dol-Guldur-TWQ",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -479,10 +568,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Necromancer's Pass",
+            "Slug": "Necromancer's-Pass-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -517,10 +611,15 @@
             "Quantity": 1,
             "Artist": "Daryl Mandryk",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pursued by Shadow",
+            "Slug": "Pursued-by-Shadow-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -550,10 +649,15 @@
             "Quantity": 0,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bane of Amon Lanc",
+            "Slug": "Bane-of-Amon-Lanc-TWQ",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -592,10 +696,15 @@
             "Quantity": 1,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Oak-wood Grove",
+            "Slug": "Oak-wood-Grove-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -631,10 +740,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Smoking Blood",
+            "Slug": "Smoking-Blood-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -664,10 +778,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Flies",
+            "Slug": "Forest-Flies-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -706,10 +825,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Twilight Hall",
+            "Slug": "Twilight-Hall-TWQ",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -746,10 +870,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Swarming Mosquitoes",
+            "Slug": "Swarming-Mosquitoes-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -779,10 +908,15 @@
             "Quantity": 1,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Sniper",
+            "Slug": "Goblin-Sniper-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -822,10 +956,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pine Slopes",
+            "Slug": "Pine-Slopes-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -862,10 +1001,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Under the Shadow",
+            "Slug": "Under-the-Shadow-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -879,6 +1023,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Attach to the main quest. (Counts as a condition attachment with the text: `Each player cannot play more than 1 card each phase.`)"
                 ],
                 "Shadow": null,
@@ -897,10 +1042,15 @@
             "Quantity": 0,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Necromancer's Warg",
+            "Slug": "Necromancer's-Warg-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -938,10 +1088,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Beastmaster",
+            "Slug": "Dol-Guldur-Beastmaster-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -979,10 +1134,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Watched Path",
+            "Slug": "Watched-Path-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1017,10 +1177,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evil Storm",
+            "Slug": "Evil-Storm-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1052,10 +1217,15 @@
             "Quantity": 1,
             "Artist": "Tom Garden",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Spider of Dol Guldur",
+            "Slug": "Spider-of-Dol-Guldur-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1093,10 +1263,15 @@
             "Quantity": 1,
             "Artist": "Andrew Ryan",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Patch of Midnight",
+            "Slug": "Patch-of-Midnight-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1131,10 +1306,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eyes in the Dark",
+            "Slug": "Eyes-in-the-Dark-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1164,10 +1344,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eastern Crows",
+            "Slug": "Eastern-Crows-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1205,10 +1390,15 @@
             "Quantity": 1,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Sorcerer's Tower",
+            "Slug": "The-Sorcerer's-Tower-TWQ",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1244,10 +1434,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Power Sevenfold",
+            "Slug": "Power-Sevenfold-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1277,10 +1472,15 @@
             "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hill Troll",
+            "Slug": "Hill-Troll-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1318,10 +1518,15 @@
             "Quantity": 1,
             "Artist": "Florian Stitz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Cave",
+            "Slug": "Troll-Cave-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1358,10 +1563,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Befouled Equipment",
+            "Slug": "Befouled-Equipment-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1391,10 +1601,15 @@
             "Quantity": 1,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting Warg",
+            "Slug": "Hunting-Warg-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1432,10 +1647,15 @@
             "Quantity": 1,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunter's Lookout",
+            "Slug": "Hunter's-Lookout-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1472,10 +1692,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Restless Hunters",
+            "Slug": "Restless-Hunters-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1505,10 +1730,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Orcs",
+            "Slug": "Dol-Guldur-Orcs-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1546,10 +1776,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Shadow Road",
+            "Slug": "The-Shadow-Road-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1586,10 +1821,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Reach",
+            "Slug": "The-Necromancer's-Reach-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1619,10 +1859,15 @@
             "Quantity": 1,
             "Artist": "Anna Christenson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ravenous Spider",
+            "Slug": "Ravenous-Spider-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1660,10 +1905,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Gate",
+            "Slug": "Forest-Gate-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1698,10 +1948,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nightfall",
+            "Slug": "Nightfall-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1715,6 +1970,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Attach to the first player`s threat dial. (Counts as a Condition attachment with the text: `Forced: Raise your threat by an additional point during the refresh phase.`)"
                 ],
                 "Shadow": null,
@@ -1733,10 +1989,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Venomous Spider",
+            "Slug": "Venomous-Spider-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1774,10 +2035,15 @@
             "Quantity": 1,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pitch-dark Thicket",
+            "Slug": "Pitch-dark-Thicket-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1812,10 +2078,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fastness of Mirkwood",
+            "Slug": "Fastness-of-Mirkwood-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1845,10 +2116,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Bats",
+            "Slug": "Dark-Bats-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1886,10 +2162,15 @@
             "Quantity": 1,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Stream",
+            "Slug": "Forest-Stream-TWQ",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1926,10 +2207,15 @@
             "Quantity": 1,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Treacherous Fog",
+            "Slug": "Treacherous-Fog-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1961,10 +2247,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Howling Warg",
+            "Slug": "Howling-Warg-TWQ",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2002,10 +2293,15 @@
             "Quantity": 1,
             "Artist": "Dylan Pierpont",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wargs' Glade",
+            "Slug": "The-Wargs'-Glade-TWQ",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2041,10 +2337,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weighed Down",
+            "Slug": "Weighed-Down-TWQ",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2074,6 +2375,10 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "The Three Trials",
+    "Slug": "The-Three-Trials",
+    "Abbreviation": "TTT",
     "Cycle": "The Ring-maker",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Feigned Voices",
+            "Slug": "Feigned-Voices-TTT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -30,10 +34,15 @@
             "Quantity": 3,
             "Artist": "Sara Betsy",
             "HasErrata": false,
+            "OctgnGuid": "14936075-9e6a-43af-9497-dbee9df95781",
+            "RingsDbCardId": "08027",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1222,
             "Categories": null
         },
         {
             "Title": "Idraen",
+            "Slug": "Idraen-TTT",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -67,81 +76,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Rivendell Scout",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/Rivendell-Scout.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Noldor.",
-                    "Scout."
-                ],
-                "Keywords": [
-                    "Secrecy 2."
-                ],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "`Elrond is sending Elves, and they will get in touch with the Rangers, and maybe with Thranduil`s folk in Mirkwood.` -Gandalf, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Three Trials",
-            "EncounterInfo": null,
-            "Number": 26,
-            "Quantity": 3,
-            "Artist": "Ilich Henriquez",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Elven Mail",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/Elven-Mail.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Item.",
-                    "Armor."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Noldor or Silvan character.",
-                    "Attached character gets +2 hit points and gains sentinel."
-                ],
-                "Shadow": null,
-                "FlavorText": "...they were tall and and clad in grey mail, and from their shoulders hung long white cloaks. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Three Trials",
-            "EncounterInfo": null,
-            "Number": 29,
-            "Quantity": 3,
-            "Artist": "Sara Betsy",
-            "HasErrata": false,
+            "OctgnGuid": "df9683da-d86f-46c9-9ef5-66001753dad5",
+            "RingsDbCardId": "08025",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 283,
             "Categories": null
         },
         {
             "Title": "Rúmil",
+            "Slug": "Rumil-TTT",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -164,6 +107,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After you play Rúmil from your hand, choose an enemy engaged with a player. Deal X damage to that enemy where X is the number of ranged characters you control."
                 ],
                 "Shadow": null,
@@ -176,10 +120,98 @@
             "Quantity": 3,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08028",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 572,
+            "Categories": null
+        },
+        {
+            "Title": "Rivendell Scout",
+            "Slug": "Rivendell-Scout-TTT",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/Rivendell-Scout.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Secrecy 2."
+                ],
+                "Text": [
+                    "Secrecy 2."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Elrond is sending Elves, and they will get in touch with the Rangers, and maybe with Thranduil`s folk in Mirkwood.` -Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Three Trials",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "b1fb86fd-728b-4e1b-950a-73daa2a82753",
+            "RingsDbCardId": "08026",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 536,
+            "Categories": null
+        },
+        {
+            "Title": "Elven Mail",
+            "Slug": "Elven-Mail-TTT",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/Elven-Mail.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Noldor or Silvan character. Restricted.",
+                    "Attached character gets +2 hit points and gains sentinel."
+                ],
+                "Shadow": null,
+                "FlavorText": "...they were tall and and clad in grey mail, and from their shoulders hung long white cloaks. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Three Trials",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Sara Betsy",
+            "HasErrata": false,
+            "OctgnGuid": "6b86cf8e-1708-434d-90a5-93163f3d61ea",
+            "RingsDbCardId": "08029",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 499,
             "Categories": null
         },
         {
             "Title": "Greyflood Wanderer",
+            "Slug": "Greyflood-Wanderer-TTT",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -212,10 +244,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "284838f8-1ea0-466f-a373-032c7ad6e836",
+            "RingsDbCardId": "08030",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 314,
             "Categories": null
         },
         {
             "Title": "Warden of Arnor",
+            "Slug": "Warden-of-Arnor-TTT",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -244,10 +281,15 @@
             "Quantity": 3,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "f9b39223-3b12-4682-8db5-9ef4116b4919",
+            "RingsDbCardId": "08031",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 314,
             "Categories": null
         },
         {
             "Title": "Leaf Brooch",
+            "Slug": "Leaf-Brooch-TTT",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -276,10 +318,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "1c692a1a-4ccf-4185-b5bd-d2b8d300de42",
+            "RingsDbCardId": "08034",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 270,
             "Categories": null
         },
         {
             "Title": "Noiseless Movement",
+            "Slug": "Noiseless-Movement-TTT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -305,10 +352,15 @@
             "Quantity": 3,
             "Artist": "Jordy Lakiere",
             "HasErrata": false,
+            "OctgnGuid": "b520fbc1-3cb9-49aa-9b37-2dad3b3ba333",
+            "RingsDbCardId": "08033",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 181,
             "Categories": null
         },
         {
             "Title": "Message from Elrond",
+            "Slug": "Message-from-Elrond-TTT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -334,10 +386,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "cc4b0912-ba4a-44b6-b7c5-2c0f0b325ebf",
+            "RingsDbCardId": "08032",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 130,
             "Categories": null
         },
         {
             "Title": "The Trials Begin",
+            "Slug": "The-Trials-Begin-TTT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -345,7 +402,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trials-Begin-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -356,8 +415,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trials-Begin-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -370,7 +432,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Three Trials",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -378,10 +442,15 @@
             "Quantity": 1,
             "Artist": "Dleoblack",
             "HasErrata": false,
+            "OctgnGuid": "460a1e18-8a57-44a5-bd06-f0c1b13c86b5",
+            "RingsDbCardId": "08035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Trial of Strength",
+            "Slug": "The-Trial-of-Strength-TTT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -389,7 +458,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Strength-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -400,12 +471,16 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Strength-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.\n\nWhen the players control the current trial`s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.",
+                    "When the players control the current trial`s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -414,7 +489,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Three Trials",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -422,10 +499,15 @@
             "Quantity": 1,
             "Artist": "Matt Bradbury",
             "HasErrata": false,
+            "OctgnGuid": "8e6fe06e-36a6-491d-ae17-6580ddfd8014",
+            "RingsDbCardId": "08036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Trial of Perseverance",
+            "Slug": "The-Trial-of-Perseverance-TTT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -433,7 +515,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Perseverance-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -444,12 +528,16 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Perseverance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.\n\nWhen the players control the current trial`s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.",
+                    "When the players control the current trial`s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -458,18 +546,25 @@
             "EncounterInfo": {
                 "EncounterSet": "The Three Trials",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
             "Number": 37,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "be43a52a-370a-4481-bc84-8e004ecbfdca",
+            "RingsDbCardId": "08037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Trial of Intuition",
+            "Slug": "The-Trial-of-Intuition-TTT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -477,7 +572,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Intuition-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -488,12 +585,16 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Intuition-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)\n\nWhen the players control the current trial`s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)",
+                    "When the players control the current trial`s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -502,7 +603,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Three Trials",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -510,10 +613,15 @@
             "Quantity": 1,
             "Artist": "Matt Bradbury",
             "HasErrata": false,
+            "OctgnGuid": "8a0c8aef-d820-495f-b8f6-f2148f0786ba",
+            "RingsDbCardId": "08038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Antlered Crown",
+            "Slug": "The-Antlered-Crown-TTT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -521,7 +629,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Antlered-Crown-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -532,12 +642,16 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Antlered-Crown-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "1"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.\n\nPlayers cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game."
+                    "Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.",
+                    "Players cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game."
                 ],
                 "Shadow": null,
                 "FlavorText": "Out of the fog, the angry guardian spirits emerge once more, determined to stop you from retrieving the crown. You desperately rush to the circle while fending them off."
@@ -546,7 +660,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Three Trials",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -554,10 +670,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "47f627da-150c-41b2-9442-390d8d2a897a",
+            "RingsDbCardId": "08039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Boar's Guardian",
+            "Slug": "Boar's-Guardian-TTT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -582,7 +703,7 @@
                 ],
                 "Text": [
                     "Cannot have non-Key attachments.",
-                    "Forced: After the last time counter is removed from Boar`s Guardian, the engaged player must discard an ally he controls. Place 2 time counters on Boar`s Guardian."
+                    "Time 2. Forced: After the last time counter is removed from Boar`s Guardian, the engaged player must discard an ally he controls. Place 2 time counters on Boar`s Guardian."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -600,10 +721,15 @@
             "Quantity": 1,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "3d1a7e6f-382a-49cb-9873-e6e5e86d12d2",
+            "RingsDbCardId": "08040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wolf's Guardian",
+            "Slug": "Wolf's-Guardian-TTT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -628,7 +754,7 @@
                 ],
                 "Text": [
                     "Cannot have non-Key attachments.",
-                    "Forced: After the last time counter is removed from Wolf`s Guardian, it makes an immediate attack against the engaged player. Place 3 time counters on Wolf`s Guardian."
+                    "Time 3. Forced: After the last time counter is removed from Wolf`s Guardian, it makes an immediate attack against the engaged player. Place 3 time counters on Wolf`s Guardian."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -646,10 +772,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "8bd2808a-55d4-41f7-946a-2726a3583eaf",
+            "RingsDbCardId": "08041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raven's Guardian",
+            "Slug": "Raven's-Guardian-TTT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -674,7 +805,7 @@
                 ],
                 "Text": [
                     "Cannot have non-Key attachments.",
-                    "Forced: After the last time counter is removed from Raven`s Guardian, deal 1 damage to each character controlled by the engaged player. Place 4 time counters on Raven`s Guardian."
+                    "Time 4. Forced: After the last time counter is removed from Raven`s Guardian, deal 1 damage to each character controlled by the engaged player. Place 4 time counters on Raven`s Guardian."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -692,10 +823,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "9a29c251-6119-47b2-8e10-ba4d33c0747e",
+            "RingsDbCardId": "08042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Key of the Boar",
+            "Slug": "Key-of-the-Boar-TTT",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -711,7 +847,8 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Boar and attach it to a hero he controls.\n\nIf Key of the Boar is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Boar and attach it to a hero he controls.",
+                    "If Key of the Boar is discarded, add it to the staging area."
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Boar back into the encounter deck.",
                 "FlavorText": null
@@ -729,10 +866,15 @@
             "Quantity": 1,
             "Artist": "Ellyson Ferrari Lifante",
             "HasErrata": false,
+            "OctgnGuid": "e2a70b1d-2d38-48bd-a591-cd2844fe50fd",
+            "RingsDbCardId": "08043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Key of the Wolf",
+            "Slug": "Key-of-the-Wolf-TTT",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -748,7 +890,8 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Wolf and attach it to a hero he controls.\n\nIf Key of the Wolf is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Wolf and attach it to a hero he controls.",
+                    "If Key of the Wolf is discarded, add it to the staging area."
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Wolf back into the encounter deck.",
                 "FlavorText": null
@@ -766,10 +909,15 @@
             "Quantity": 1,
             "Artist": "Ellyson Ferrari Lifante",
             "HasErrata": false,
+            "OctgnGuid": "9b135a59-15f9-4e3b-be8e-76b7f5841658",
+            "RingsDbCardId": "08044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Key of the Raven",
+            "Slug": "Key-of-the-Raven-TTT",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -785,7 +933,8 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Raven and attach it to a hero he controls.\n\nIf Key of the Raven is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Raven and attach it to a hero he controls.",
+                    "If Key of the Raven is discarded, add it to the staging area."
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Raven back into the encounter deck.",
                 "FlavorText": null
@@ -803,10 +952,15 @@
             "Quantity": 1,
             "Artist": "Ellyson Ferrari Lifante",
             "HasErrata": false,
+            "OctgnGuid": "877a0217-9708-4139-b305-14c1b83c1d14",
+            "RingsDbCardId": "08045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hill Barrow",
+            "Slug": "Hill-Barrow-TTT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -845,10 +999,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "b64d2e55-f304-4356-a491-7ee80e149c5c",
+            "RingsDbCardId": "08046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cave Barrow",
+            "Slug": "Cave-Barrow-TTT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -885,10 +1044,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "a7907eca-8205-40a3-95ba-f30e31aaad82",
+            "RingsDbCardId": "08047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stone Barrow",
+            "Slug": "Stone-Barrow-TTT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -927,10 +1091,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "35ed8128-584c-43cc-ae7c-a4430e78940c",
+            "RingsDbCardId": "08048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hallowed Circle",
+            "Slug": "Hallowed-Circle-TTT",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -970,10 +1139,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "314e7260-ca85-4842-af5f-913ecbaa13d4",
+            "RingsDbCardId": "08049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Spirit of the Wild",
+            "Slug": "Spirit-of-the-Wild-TTT",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1013,10 +1187,15 @@
             "Quantity": 5,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "86fe0f99-d978-40be-8f39-136bec2a3d58",
+            "RingsDbCardId": "08050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Forest",
+            "Slug": "Cursed-Forest-TTT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1051,10 +1230,15 @@
             "Quantity": 2,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "94befa92-9e5f-4838-b1e1-0b54d698bcb3",
+            "RingsDbCardId": "08051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grim Foothills",
+            "Slug": "Grim-Foothills-TTT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1073,6 +1257,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "X is the number of players in the game.",
                     "While Grim Foothills is in the staging area, progress must be placed on Grim Foothills before it can be placed on the active location."
                 ],
@@ -1092,10 +1277,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "a264930c-e083-484a-bbe8-9b615942e83a",
+            "RingsDbCardId": "08052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Curse of the Wild Men",
+            "Slug": "Curse-of-the-Wild-Men-TTT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1125,10 +1315,15 @@
             "Quantity": 2,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "7991d705-7e2d-4303-abbc-f9999b2d2502",
+            "RingsDbCardId": "08053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Guardian's Fury",
+            "Slug": "The-Guardian's-Fury-TTT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1142,7 +1337,7 @@
                 "Text": [
                     "When Revealed: Each Guardian enemy makes an attack. If there are no Guardian enemies in play, reveal a random Guardian enemy from the victory display, and add it to the staging area."
                 ],
-                "Shadow": "If the attacking enemy is a Guardian, it makes an additional attack after this one.",
+                "Shadow": "Shadow: If the attacking enemy is a Guardian, it makes an additional attack after this one.",
                 "FlavorText": null
             },
             "Back": null,
@@ -1158,10 +1353,15 @@
             "Quantity": 2,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "228a03b8-ec05-4562-90f5-0c7d969490b0",
+            "RingsDbCardId": "08054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wild Tenacity",
+            "Slug": "Wild-Tenacity-TTT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1191,6 +1391,10 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "f24f8d3e-3193-4111-9fea-ecdbbafd921a",
+            "RingsDbCardId": "08055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

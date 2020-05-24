@@ -1,10 +1,14 @@
 {
     "Name": "Flight to the Ford Nightmare",
+    "Slug": "Flight-to-the-Ford-Nightmare",
+    "Abbreviation": "FttFN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Flight to the Ford Nightmare",
+            "Slug": "Flight-to-the-Ford-Nightmare-FttFN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fell Rider",
+            "Slug": "Fell-Rider-FttFN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -81,10 +90,15 @@
             "Quantity": 4,
             "Artist": "Dleoblack",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ford of Bruinen",
+            "Slug": "Ford-of-Bruinen-FttFN",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -120,10 +134,15 @@
             "Quantity": 1,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trollshaw Forest",
+            "Slug": "Trollshaw-Forest-FttFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -159,10 +178,15 @@
             "Quantity": 3,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great East Road",
+            "Slug": "Great-East-Road-FttFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -198,10 +222,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pathless Wilderness",
+            "Slug": "Pathless-Wilderness-FttFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -238,10 +267,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ettendales",
+            "Slug": "Ettendales-FttFN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -277,10 +311,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Come Back!",
+            "Slug": "Come-Back-FttFN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -297,6 +336,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Peril. Doomed 1.",
                     "When Revealed: Reduce the Ring-bearer`s life by 1 and remove all progress from the current quest."
                 ],
                 "Shadow": "Shadow: Either reduce the Ring-bearer`s life by 1, or this attack is considered undefended.",
@@ -315,10 +355,15 @@
             "Quantity": 2,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Twilight World",
+            "Slug": "The-Twilight-World-FttFN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -334,6 +379,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Attach to the Ring-bearer. Limit 1 per hero. (Counts as a Condition attachment with the text: `Forced: At the beginning of the planning phase, either exhaust The One Ring, or reduce the Ring-bearer`s life by 1.`)"
                 ],
                 "Shadow": null,
@@ -352,6 +398,10 @@
             "Quantity": 2,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

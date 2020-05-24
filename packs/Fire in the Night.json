@@ -1,184 +1,14 @@
 {
     "Name": "Fire in the Night",
+    "Slug": "Fire-in-the-Night",
+    "Abbreviation": "FitN",
     "Cycle": "Ered Mithrin",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
-            "Title": "Thranduil",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Thranduil.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Play a Silvan ally from your hand. You do not need a resource match for this ally. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`It is a crime to wander in my realm without leave.`\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Fire in the Night",
-            "EncounterInfo": null,
-            "Number": 56,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Elvenking",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/The-Elvenking.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Silvan hero.",
-                    "Action: Exhaust The Elvenking and return a Silvan ally you control to your hand to ready attached hero."
-                ],
-                "Shadow": null,
-                "FlavorText": "In a great hall with pillars hewn out of the living stong sat the Elvenking on a chair of carven wood.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Fire in the Night",
-            "EncounterInfo": null,
-            "Number": 57,
-            "Quantity": 3,
-            "Artist": "Tropa Entertainment",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Leather Boots",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Leather-Boots.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Lore or Ranger character. Limit 1 per character.",
-                    "Response: After a Location is revealed from the encounter deck, exhaust Leather Boots to ready attached character."
-                ],
-                "Shadow": null,
-                "FlavorText": "His legs were stretched out before him, showing high boots of supple leather the fitted him well...\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Fire in the Night",
-            "EncounterInfo": null,
-            "Number": 60,
-            "Quantity": 3,
-            "Artist": "Yoann Boissonnet",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Galion",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Galion.jpg",
-                "Stats": {
-                    "ResourceCost": "0",
-                    "Willpower": "0",
-                    "Attack": "0",
-                    "Defense": "0",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot attack or defend.",
-                    "Response: After Galion enters play, he gets +1 Willpower until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Here am I waiting and waiting down hero, while you fellows drink and make merry and forget your tasks. Small wonder if I fall asleep from weariness!`\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Fire in the Night",
-            "EncounterInfo": null,
-            "Number": 63,
-            "Quantity": 3,
-            "Artist": "Torbjörn Källström",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Orcrist",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Orcrist.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Guarded (enemy or location).",
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +2 Attack.",
-                    "Response: After attached hero drestroys an enemy, add 1 resource to attached hero`s pool."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Fire in the Night",
-            "EncounterInfo": null,
-            "Number": 58,
-            "Quantity": 3,
-            "Artist": "Aleksander Karcz",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
             "Title": "Giant Bear",
+            "Slug": "Giant-Bear-FitN",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -212,75 +42,174 @@
             "Quantity": 3,
             "Artist": "Brendan C. Murphy",
             "HasErrata": false,
+            "OctgnGuid": "f0a54401-de56-47b0-8741-5fb264a385c0",
+            "RingsDbCardId": "19061",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 401,
             "Categories": null
         },
         {
-            "Title": "Forest Road Traveler",
+            "Title": "Thranduil",
+            "Slug": "Thranduil-FitN",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Thranduil.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Play a Silvan ally from your hand. You do not need a resource match for this ally. (Limit once per round.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`It is a crime to wander in my realm without leave.`\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": null,
+            "Number": 56,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "3dd1cdc1-8c87-4c8b-89fe-22e7e310bca9",
+            "RingsDbCardId": "19056",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 130,
+            "Categories": null
+        },
+        {
+            "Title": "The Elvenking",
+            "Slug": "The-Elvenking-FitN",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/The-Elvenking.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Silvan hero.",
+                    "Action: Exhaust The Elvenking and return a Silvan ally you control to your hand to ready attached hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "In a great hall with pillars hewn out of the living stong sat the Elvenking on a chair of carven wood.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": null,
+            "Number": 57,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "eb4cf721-0aec-4120-989d-ebfd4cbbf370",
+            "RingsDbCardId": "19057",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 256,
+            "Categories": null
+        },
+        {
+            "Title": "Leather Boots",
+            "Slug": "Leather-Boots-FitN",
             "IsUnique": false,
-            "CardType": "Ally",
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Forest-Road-Traveler.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Leather-Boots.jpg",
                 "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
+                    "ResourceCost": "1"
                 },
                 "Traits": [
-                    "Woodman.",
-                    "Scout."
+                    "Item."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forest Road Traveler gets +1 Willpower, +1 Attack, and +1 Defense for each attachment on the active location."
+                    "Attach to a Lore or Ranger character. Limit 1 per character.",
+                    "Response: After a Location is revealed from the encounter deck, exhaust Leather Boots to ready attached character."
                 ],
                 "Shadow": null,
-                "FlavorText": "Only on the Road would travellers be found...\r\n-The Fellowship of the Ring"
+                "FlavorText": "His legs were stretched out before him, showing high boots of supple leather the fitted him well...\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Fire in the Night",
             "EncounterInfo": null,
-            "Number": 59,
+            "Number": 60,
             "Quantity": 3,
-            "Artist": "Derek D. Edgell",
+            "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "f347a30b-44d9-4ddd-af69-798e96b68b65",
+            "RingsDbCardId": "19060",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 240,
             "Categories": null
         },
         {
-            "Title": "Quicker Than Sight",
-            "IsUnique": false,
-            "CardType": "Event",
+            "Title": "Orcrist",
+            "Slug": "Orcrist-FitN",
+            "IsUnique": true,
+            "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Quicker-Than-Sight.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Orcrist.jpg",
                 "Stats": {
-                    "ResourceCost": "0"
+                    "ResourceCost": "1"
                 },
-                "Traits": [],
-                "Keywords": [],
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location).",
+                    "Restricted."
+                ],
                 "Text": [
-                    "Response: Return a Silvan ally you control to your hand to cancel a shadow effect just triggered during combat."
+                    "Guarded (enemy or location).",
+                    "Attach to a hero. Restricted.",
+                    "Attached hero gets +2 Attack.",
+                    "Response: After attached hero drestroys an enemy, add 1 resource to attached hero`s pool."
                 ],
                 "Shadow": null,
-                "FlavorText": "`You would die before your stroke fell.`\r\n-Legolas, The Two Towers"
+                "FlavorText": null
             },
             "Back": null,
             "CardSet": "Fire in the Night",
             "EncounterInfo": null,
-            "Number": 64,
+            "Number": 58,
             "Quantity": 3,
-            "Artist": "Monztre",
+            "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "80bb3d6a-c730-4994-badc-52fed8d92730",
+            "RingsDbCardId": "19058",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 200,
             "Categories": null
         },
         {
             "Title": "Outmatched",
+            "Slug": "Outmatched-FitN",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -311,10 +240,56 @@
             "Quantity": 3,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "62b487de-cfef-4ee2-9fc7-08c354807372",
+            "RingsDbCardId": "19062",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 185,
+            "Categories": null
+        },
+        {
+            "Title": "Galion",
+            "Slug": "Galion-FitN",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Galion.jpg",
+                "Stats": {
+                    "ResourceCost": "0",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack or defend.",
+                    "Response: After Galion enters play, he gets +1 Willpower until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Here am I waiting and waiting down hero, while you fellows drink and make merry and forget your tasks. Small wonder if I fall asleep from weariness!`\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": null,
+            "Number": 63,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "1027fea5-a03b-4fce-beab-453ef75a2f74",
+            "RingsDbCardId": "19063",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 175,
             "Categories": null
         },
         {
             "Title": "Thalion",
+            "Slug": "Thalion-FitN",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -348,10 +323,90 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "68168e29-feaf-43da-9ea0-2fc33061710d",
+            "RingsDbCardId": "19065",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 174,
+            "Categories": null
+        },
+        {
+            "Title": "Quicker Than Sight",
+            "Slug": "Quicker-Than-Sight-FitN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Quicker-Than-Sight.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: Return a Silvan ally you control to your hand to cancel a shadow effect just triggered during combat."
+                ],
+                "Shadow": null,
+                "FlavorText": "`You would die before your stroke fell.`\r\n-Legolas, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 3,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "1d81c675-ec5c-4b2f-abcb-ea3cb61eded6",
+            "RingsDbCardId": "19064",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 159,
+            "Categories": null
+        },
+        {
+            "Title": "Forest Road Traveler",
+            "Slug": "Forest-Road-Traveler-FitN",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Forest-Road-Traveler.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Woodman.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forest Road Traveler gets +1 Willpower, +1 Attack, and +1 Defense for each attachment on the active location."
+                ],
+                "Shadow": null,
+                "FlavorText": "Only on the Road would travellers be found...\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": null,
+            "Number": 59,
+            "Quantity": 3,
+            "Artist": "Derek D. Edgell",
+            "HasErrata": false,
+            "OctgnGuid": "643d849f-53e9-4701-85c9-9ee27b3b47d8",
+            "RingsDbCardId": "19059",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 141,
             "Categories": null
         },
         {
             "Title": "Draw Her Fire",
+            "Slug": "Draw-Her-Fire-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -378,10 +433,15 @@
             "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "dae6e913-3b2e-4e53-aad4-69946d3386ca",
+            "RingsDbCardId": "19066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fortify the Defense",
+            "Slug": "Fortify-the-Defense-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -408,10 +468,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "a6b39458-b0f1-4b5d-a915-d3921eb35658",
+            "RingsDbCardId": "19067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rally the Woodmen",
+            "Slug": "Rally-the-Woodmen-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -438,10 +503,15 @@
             "Quantity": 1,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "73515869-890b-4169-9104-b2e882d921ae",
+            "RingsDbCardId": "19068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Douse the Flames",
+            "Slug": "Douse-the-Flames-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -468,10 +538,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "5fefdbc7-05e2-4c1b-96fd-46121f87d6b3",
+            "RingsDbCardId": "19069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hold the Door",
+            "Slug": "Hold-the-Door-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -498,10 +573,15 @@
             "Quantity": 1,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "a6e68650-e413-4e85-b687-b927d5a87821",
+            "RingsDbCardId": "19070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Defend the Town",
+            "Slug": "Defend-the-Town-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -528,10 +608,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "a837fe8b-6f21-4d20-9897-89a3c4706b40",
+            "RingsDbCardId": "19071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rout the Goblins",
+            "Slug": "Rout-the-Goblins-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -558,10 +643,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "df9ba79f-91a3-4fc7-a2af-6bddcc795f29",
+            "RingsDbCardId": "19072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Face the Dragon",
+            "Slug": "Face-the-Dragon-FitN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -588,10 +678,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "1574141b-b11e-4be9-82c9-ddc1fb2f5269",
+            "RingsDbCardId": "19073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dagnir",
+            "Slug": "Dagnir-FitN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -633,10 +728,15 @@
             "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "f7badc7a-4e37-4606-8557-0fa4719227c0",
+            "RingsDbCardId": "19074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon's Thrall",
+            "Slug": "Dragon's-Thrall-FitN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -675,10 +775,15 @@
             "Quantity": 3,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc of the Flame",
+            "Slug": "Orc-of-the-Flame-FitN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -717,10 +822,15 @@
             "Quantity": 4,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "3e0619e9-ffd1-4c1b-8b65-f603202cde4f",
+            "RingsDbCardId": "19076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Town Gate",
+            "Slug": "Town-Gate-FitN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -756,10 +866,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "aba5ebdb-81d8-4e41-bddd-568f9ab2bd13",
+            "RingsDbCardId": "19077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wooden Palisade",
+            "Slug": "Wooden-Palisade-FitN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -795,10 +910,15 @@
             "Quantity": 3,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "3b7c4f67-7de4-4b77-be50-0fd86e4ef2bc",
+            "RingsDbCardId": "19078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Burning Watchtower",
+            "Slug": "Burning-Watchtower-FitN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -834,10 +954,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "f57aeb37-4f19-4e5f-ae34-326c3b8b62f2",
+            "RingsDbCardId": "19079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Powerful in Wrath",
+            "Slug": "Powerful-in-Wrath-FitN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -851,6 +976,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Discard the active location and deal X damage to Hrogar’s Hill, where X is that location’s [Threat]. If no damage is dealt this way, Powerful in Wraith gains surge."
                 ],
                 "Shadow": "Shadow: Excess damage from this attack must be dealt to Hrogar`s Hill.",
@@ -869,10 +995,15 @@
             "Quantity": 2,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "721bbc14-f14c-4464-9963-55a77ab2d9bc",
+            "RingsDbCardId": "19080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Dragon's Fury",
+            "Slug": "The-Dragon's-Fury-FitN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -902,10 +1033,15 @@
             "Quantity": 3,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "bcd41784-d260-4165-ae0f-74cb844d10b3",
+            "RingsDbCardId": "19081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bright Flames",
+            "Slug": "Bright-Flames-FitN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -935,10 +1071,15 @@
             "Quantity": 2,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "463d0c53-2275-410f-b311-139f19561b46",
+            "RingsDbCardId": "19082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hrogar's Hill",
+            "Slug": "Hrogar's-Hill-FitN",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -946,7 +1087,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Hrogar's-Hill-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -957,8 +1100,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Hrogar's-Hill-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "50"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -972,7 +1118,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Fire in the Night",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Dark Woods",
+                    "Gathering Gloom"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -980,6 +1130,10 @@
             "Quantity": 1,
             "Artist": "Andreas Adamek",
             "HasErrata": false,
+            "OctgnGuid": "1ab32b8c-b942-4c77-af19-9703fba1dfa9",
+            "RingsDbCardId": "19083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

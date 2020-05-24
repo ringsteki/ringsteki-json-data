@@ -1,10 +1,14 @@
 {
     "Name": "The Blood of Gondor Nightmare",
+    "Slug": "The-Blood-of-Gondor-Nightmare",
+    "Abbreviation": "TBoGN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Blood of Gondor Nightmare",
+            "Slug": "The-Blood-of-Gondor-Nightmare-TBoGN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Númenorean",
+            "Slug": "Black-Numenorean-TBoGN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -82,10 +91,15 @@
             "Quantity": 1,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Trickster",
+            "Slug": "Orc-Trickster-TBoGN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -124,10 +138,15 @@
             "Quantity": 4,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk Marksman",
+            "Slug": "Uruk-Marksman-TBoGN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -151,6 +170,7 @@
                     "Archery 3."
                 ],
                 "Text": [
+                    "Archery 3.",
                     "Forced: After Uruk Marksman is turned faceup as a hidden card, deal 3 damage to a character controlled by the engaged player and return Uruk Marksman to the staging area."
                 ],
                 "Shadow": null,
@@ -169,10 +189,15 @@
             "Quantity": 3,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Edge of Ithilien",
+            "Slug": "Edge-of-Ithilien-TBoGN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -192,6 +217,7 @@
                     "Archery X."
                 ],
                 "Text": [
+                    "Archery X.",
                     "X is the highest number of hidden cards in any player`s play area."
                 ],
                 "Shadow": "Shadow: Turn 1 hidden card in your play area faceup. If it is a treachery card, attacking enemy makes an additional attack after this one.",
@@ -210,10 +236,15 @@
             "Quantity": 3,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mountains of Shadow",
+            "Slug": "Mountains-of-Shadow-TBoGN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -248,10 +279,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Surrounded by Shadow",
+            "Slug": "Surrounded-by-Shadow-TBoGN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -265,6 +301,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Each player must either take 1 hidden card for each questing hero he controls, or remove one hero he controls from the quest for each hidden card in his play area."
                 ],
                 "Shadow": null,
@@ -283,10 +320,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Onslaught",
+            "Slug": "Sudden-Onslaught-TBoGN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -316,6 +358,10 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

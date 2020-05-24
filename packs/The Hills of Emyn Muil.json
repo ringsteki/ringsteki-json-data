@@ -1,10 +1,14 @@
 {
     "Name": "The Hills of Emyn Muil",
+    "Slug": "The-Hills-of-Emyn-Muil",
+    "Abbreviation": "THoEM",
     "Cycle": "Shadows of Mirkwood",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Riddermark's Finest",
+            "Slug": "The-Riddermark's-Finest-THoEM",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -37,42 +41,15 @@
             "Quantity": 3,
             "Artist": "Andrew Johanson",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Song of Travel",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Song-of-Travel.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains a Spirit resource icon."
-                ],
-                "Shadow": null,
-                "FlavorText": "The Road goes ever on and on\r\nDown from the door where it began.\r\nNow far ahead the road has gone,\r\nAnd I must follow, if I can.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": null,
-            "Number": 81,
-            "Quantity": 3,
-            "Artist": "Tiziano Baracchi",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9023",
+            "RingsDbCardId": "02077",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2067,
             "Categories": null
         },
         {
             "Title": "Gildor Inglorion",
+            "Slug": "Gildor-Inglorion-THoEM",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -104,10 +81,52 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9005",
+            "RingsDbCardId": "02079",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2064,
+            "Categories": null
+        },
+        {
+            "Title": "Song of Travel",
+            "Slug": "Song-of-Travel-THoEM",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Song-of-Travel.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Attached hero gains a Spirit resource icon."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Road goes ever on and on\r\nDown from the door where it began.\r\nNow far ahead the road has gone,\r\nAnd I must follow, if I can.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": null,
+            "Number": 81,
+            "Quantity": 3,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9016",
+            "RingsDbCardId": "02081",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1931,
             "Categories": null
         },
         {
             "Title": "Descendant of Thorondor",
+            "Slug": "Descendant-of-Thorondor-THoEM",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -141,39 +160,15 @@
             "Quantity": 3,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Ride to Ruin",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Ride-to-Ruin.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Discard a Rohan ally to choose a location. Place 3 progress tokens on that location."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Death! Ride, ride to ruin and the world`s ending!`\r\n-Éomer, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": null,
-            "Number": 78,
-            "Quantity": 3,
-            "Artist": "Erfian Asafat",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9004",
+            "RingsDbCardId": "02075",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1501,
             "Categories": null
         },
         {
             "Title": "Gildor's Counsel",
+            "Slug": "Gildor's-Counsel-THoEM",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -200,10 +195,49 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9006",
+            "RingsDbCardId": "02080",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 721,
+            "Categories": null
+        },
+        {
+            "Title": "Ride to Ruin",
+            "Slug": "Ride-to-Ruin-THoEM",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Ride-to-Ruin.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Discard a Rohan ally to choose a location. Place 3 progress tokens on that location."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Death! Ride, ride to ruin and the world`s ending!`\r\n-Éomer, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": null,
+            "Number": 78,
+            "Quantity": 3,
+            "Artist": "Erfian Asafat",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9013",
+            "RingsDbCardId": "02078",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 693,
             "Categories": null
         },
         {
             "Title": "Brand son of Bain",
+            "Slug": "Brand-son-of-Bain-THoEM",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -225,6 +259,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Brand son of Bain attacks and defeats an enemy engaged with another player, choose and ready one of that player`s characters."
                 ],
                 "Shadow": null,
@@ -237,10 +272,15 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9003",
+            "RingsDbCardId": "02072",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 121,
             "Categories": null
         },
         {
             "Title": "Meneldor's Flight",
+            "Slug": "Meneldor's-Flight-THoEM",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -266,10 +306,15 @@
             "Quantity": 3,
             "Artist": "A. M. Sartor",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9009",
+            "RingsDbCardId": "02076",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 374,
             "Categories": null
         },
         {
             "Title": "Keen-eyed Took",
+            "Slug": "Keen-eyed-Took-THoEM",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -302,10 +347,15 @@
             "Quantity": 3,
             "Artist": "Anna Mohrbacher",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9008",
+            "RingsDbCardId": "02073",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 328,
             "Categories": null
         },
         {
             "Title": "Rear Guard",
+            "Slug": "Rear-Guard-THoEM",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -331,10 +381,73 @@
             "Quantity": 3,
             "Artist": "Lin Bo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9012",
+            "RingsDbCardId": "02074",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 96,
+            "Categories": null
+        },
+        {
+            "Title": "The Hills of Emyn Muil",
+            "Slug": "The-Hills-of-Emyn-Muil-THoEM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Hills-of-Emyn-Muil-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The hunt for Gollum has led you to the south, and you are now approaching Rauros falls and the nearby hills of Emyn Muil..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Hills-of-Emyn-Muil-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.",
+                    "Players cannot defeat this stage until there are no Emyn Muil locations in play, and they have collected at least 20 victory points."
+                ],
+                "Shadow": null,
+                "FlavorText": "You are certain that Gollum has fled into the area, and you must explore until you find the fresh trail."
+            },
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 82,
+            "Quantity": 1,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9019",
+            "RingsDbCardId": "02082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amon Hen",
+            "Slug": "Amon-Hen-THoEM",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -372,10 +485,15 @@
             "Quantity": 1,
             "Artist": "Vincent Proce",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9001",
+            "RingsDbCardId": "02083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amon Lhaw",
+            "Slug": "Amon-Lhaw-THoEM",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -413,199 +531,15 @@
             "Quantity": 1,
             "Artist": "Vincent Proce",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Impassable Chasm",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Impassable-Chasm.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Hazard."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 2,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 91,
-            "Quantity": 4,
-            "Artist": "Noah Bradley",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Horse Thieves",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Orc-Horse-Thieves.jpg",
-                "Stats": {
-                    "EngagementCost": "35",
-                    "Threat": "3",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Mordor.",
-                    "Orc."
-                ],
-                "Keywords": [
-                    "Doomed 2."
-                ],
-                "Text": [
-                    "Orc Horse Thieves get +1 Attack for each location in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 2,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 94,
-            "Quantity": 3,
-            "Artist": "Brian Valenzuela",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Rauros Falls",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Rauros-Falls.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Emyn Muil."
-                ],
-                "Keywords": [
-                    "Victory 3."
-                ],
-                "Text": [
-                    "While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase."
-                ],
-                "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 87,
-            "Quantity": 2,
-            "Artist": "Aaron B. Miller",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Rockslide",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Rockslide.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Hazard."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Deal 2 damage to each character committed to this quest."
-                ],
-                "Shadow": "Shadow: Remove defending character from combat. This attack is considered undefended.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 1,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 92,
-            "Quantity": 3,
-            "Artist": "Stu Barnes",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Slick Footing",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Slick-Footing.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Hazard."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player`s deck for each progress token removed by this effect."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 93,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9002",
+            "RingsDbCardId": "02084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The East Wall of Rohan",
+            "Slug": "The-East-Wall-of-Rohan-THoEM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -642,95 +576,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Highlands",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Highlands.jpg",
-                "Stats": {
-                    "Threat": "1",
-                    "QuestPoints": "1"
-                },
-                "Traits": [
-                    "Emyn Muil."
-                ],
-                "Keywords": [
-                    "Victory 1."
-                ],
-                "Text": [
-                    "Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 90,
-            "Quantity": 4,
-            "Artist": "Bill Corbett",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Hills of Emyn Muil",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Hills-of-Emyn-Muil-1A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "The hunt for Gollum has led you to the south, and you are now approaching Rauros falls and the nearby hills of Emyn Muil..."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.",
-                    "Players cannot defeat this stage until there are no Emyn Muil locations in play, and they have collected at least 20 victory points."
-                ],
-                "Shadow": null,
-                "FlavorText": "You are certain that Gollum has fled into the area, and you must explore until you find the fresh trail."
-            },
-            "CardSet": "The Hills of Emyn Muil",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 1,
-                "StageLetter": "A"
-            },
-            "Number": 82,
-            "Quantity": 1,
-            "Artist": "Igor Kieryluk",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9017",
+            "RingsDbCardId": "02085",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The North Stair",
+            "Slug": "The-North-Stair-THoEM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -767,29 +621,34 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9021",
+            "RingsDbCardId": "02086",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "The Outer Ridge",
+            "Title": "Rauros Falls",
+            "Slug": "Rauros-Falls-THoEM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Outer-Ridge.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Rauros-Falls.jpg",
                 "Stats": {
                     "Threat": "2",
-                    "QuestPoints": "2"
+                    "QuestPoints": "4"
                 },
                 "Traits": [
                     "Emyn Muil."
                 ],
                 "Keywords": [
-                    "Victory 2."
+                    "Victory 3."
                 ],
                 "Text": [
-                    "While The Outer Ridge is the active location, each location in the staging area gets +1 Threat."
+                    "While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase."
                 ],
                 "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
                 "FlavorText": null
@@ -803,14 +662,19 @@
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 89,
-            "Quantity": 3,
-            "Artist": "Lin Bo",
+            "Number": 87,
+            "Quantity": 2,
+            "Artist": "Aaron B. Miller",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9011",
+            "RingsDbCardId": "02087",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Shores of Nen Hithoel",
+            "Slug": "The-Shores-of-Nen-Hithoel-THoEM",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -847,6 +711,270 @@
             "Quantity": 3,
             "Artist": "Lin Bo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9024",
+            "RingsDbCardId": "02088",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Outer Ridge",
+            "Slug": "The-Outer-Ridge-THoEM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Outer-Ridge.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Emyn Muil."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "While The Outer Ridge is the active location, each location in the staging area gets +1 Threat."
+                ],
+                "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 89,
+            "Quantity": 3,
+            "Artist": "Lin Bo",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9022",
+            "RingsDbCardId": "02089",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Highlands",
+            "Slug": "The-Highlands-THoEM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Highlands.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "1"
+                },
+                "Traits": [
+                    "Emyn Muil."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 90,
+            "Quantity": 4,
+            "Artist": "Bill Corbett",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9018",
+            "RingsDbCardId": "02090",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Impassable Chasm",
+            "Slug": "Impassable-Chasm-THoEM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Impassable-Chasm.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 91,
+            "Quantity": 4,
+            "Artist": "Noah Bradley",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9007",
+            "RingsDbCardId": "02091",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rockslide",
+            "Slug": "Rockslide-THoEM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Rockslide.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Deal 2 damage to each character committed to this quest."
+                ],
+                "Shadow": "Shadow: Remove defending character from combat. This attack is considered undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 92,
+            "Quantity": 3,
+            "Artist": "Stu Barnes",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9014",
+            "RingsDbCardId": "02092",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Slick Footing",
+            "Slug": "Slick-Footing-THoEM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Slick-Footing.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player`s deck for each progress token removed by this effect."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 93,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9015",
+            "RingsDbCardId": "02093",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Horse Thieves",
+            "Slug": "Orc-Horse-Thieves-THoEM",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/Orc-Horse-Thieves.jpg",
+                "Stats": {
+                    "EngagementCost": "35",
+                    "Threat": "3",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Mordor.",
+                    "Orc."
+                ],
+                "Keywords": [
+                    "Doomed 2."
+                ],
+                "Text": [
+                    "Doomed 2.",
+                    "Orc Horse Thieves get +1 Attack for each location in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 94,
+            "Quantity": 3,
+            "Artist": "Brian Valenzuela",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9010",
+            "RingsDbCardId": "02094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

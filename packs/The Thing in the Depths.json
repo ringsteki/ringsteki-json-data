@@ -1,10 +1,48 @@
 {
     "Name": "The Thing in the Depths",
+    "Slug": "The-Thing-in-the-Depths",
+    "Abbreviation": "TTiTD",
     "Cycle": "Dream-chaser",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Captain's Wisdom",
+            "Slug": "Captain's-Wisdom-TTiTD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Captain's-Wisdom.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Resource Action: Exhaust a Noble hero you control to add 2 resources to that hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "...in these days men are slow to believe that a captain can be wise and learned in the scrolls of lore and song, as he is, and yet man of hardihood and swift judgement in the field.\r\n-Beregond, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Titus Lunter",
+            "HasErrata": false,
+            "OctgnGuid": "f774ffb1-1c80-40a1-a474-eb021e225b19",
+            "RingsDbCardId": "12032",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1440,
+            "Categories": null
+        },
+        {
             "Title": "Raiment of War",
+            "Slug": "Raiment-of-War-TTiTD",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -35,39 +73,15 @@
             "Quantity": 3,
             "Artist": "Beth Sobel",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Captain's Wisdom",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Captain's-Wisdom.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Resource Action: Exhaust a Noble hero you control to add 2 resources to that hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "...in these days men are slow to believe that a captain can be wise and learned in the scrolls of lore and song, as he is, and yet man of hardihood and swift judgement in the field.\r\n-Beregond, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Titus Lunter",
-            "HasErrata": false,
+            "OctgnGuid": "2f9c24db-2ee4-4368-99fa-db49a0add8f5",
+            "RingsDbCardId": "12034",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1433,
             "Categories": null
         },
         {
             "Title": "Mirkwood Explorer",
+            "Slug": "Mirkwood-Explorer-TTiTD",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -101,48 +115,15 @@
             "Quantity": 3,
             "Artist": "Kim Sokol",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Lanwyn",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Lanwyn.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dale.",
-                    "Scout."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "Response: After an encounter card with surge is revealed, either ready Lanwyn or give her +2 Willpower until the end of the phase. (Limit twice per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`The Men of Dale used to have the trick of understanding their language, and used them for messengers to fly to the Men of the Lake...`\r\n-Thorin, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths",
-            "EncounterInfo": null,
-            "Number": 30,
-            "Quantity": 1,
-            "Artist": "Aleksander Karcz",
-            "HasErrata": false,
+            "OctgnGuid": "364e43b7-1ae3-4d3e-a73b-55d8f1f94f7c",
+            "RingsDbCardId": "12037",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 661,
             "Categories": null
         },
         {
             "Title": "Sam Gamgee",
+            "Slug": "Sam-Gamgee-TTiTD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -175,10 +156,59 @@
             "Quantity": 3,
             "Artist": "Andrew Johanson",
             "HasErrata": false,
+            "OctgnGuid": "785367f7-6475-4935-979f-abec23c596f2",
+            "RingsDbCardId": "12035",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 443,
+            "Categories": null
+        },
+        {
+            "Title": "Lanwyn",
+            "Slug": "Lanwyn-TTiTD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Lanwyn.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Response: After an encounter card with surge is revealed, either ready Lanwyn or give her +2 Willpower until the end of the phase. (Limit twice per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`The Men of Dale used to have the trick of understanding their language, and used them for messengers to fly to the Men of the Lake...`\r\n-Thorin, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "47750277-6869-470c-9376-7eb7f0a706f5",
+            "RingsDbCardId": "12030",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 174,
             "Categories": null
         },
         {
             "Title": "Elevenses",
+            "Slug": "Elevenses-TTiTD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -205,10 +235,15 @@
             "Quantity": 3,
             "Artist": "Craig Maher",
             "HasErrata": false,
+            "OctgnGuid": "27cc1cc1-17a9-4dcf-990a-fd3c44c7b163",
+            "RingsDbCardId": "12036",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 248,
             "Categories": null
         },
         {
             "Title": "Eldahir",
+            "Slug": "Eldahir-TTiTD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -231,6 +266,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Action: Spend 1 Lore resource to look at a facedown shadow card dealt to an engaged enemy. If that card has a shadow effect, Eldahir gets +2 Defense until the end of the phase. Any player may trigger this action. (Limit once per phase.)"
                 ],
                 "Shadow": null,
@@ -243,10 +279,15 @@
             "Quantity": 3,
             "Artist": "Kim Sokol",
             "HasErrata": false,
+            "OctgnGuid": "66a0dc1a-4913-425d-9d94-15b3e505bb40",
+            "RingsDbCardId": "12031",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 234,
             "Categories": null
         },
         {
             "Title": "Master Ironsmith",
+            "Slug": "Master-Ironsmith-TTiTD",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -279,10 +320,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "ec1ed9c8-349b-4782-8d81-820f14ba51c6",
+            "RingsDbCardId": "12033",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 182,
             "Categories": null
         },
         {
             "Title": "Guarded Ceaselessly",
+            "Slug": "Guarded-Ceaselessly-TTiTD",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -311,10 +357,15 @@
             "Quantity": 3,
             "Artist": "Leanna Teneycke",
             "HasErrata": false,
+            "OctgnGuid": "0950c29d-a9f3-4cb4-a61a-0122be9d26f6",
+            "RingsDbCardId": "12038",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 152,
             "Categories": null
         },
         {
             "Title": "Take the Ship!",
+            "Slug": "Take-the-Ship-TTiTD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -322,7 +373,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Take-the-Ship-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -333,8 +386,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Take-the-Ship-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -349,7 +405,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Thing in the Depths",
+                    "The Stormcaller Elite",
+                    "Corsair Raiders"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -357,10 +417,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "cfa94470-c25c-4af3-ba71-941d1fa48a9c",
+            "RingsDbCardId": "12039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Change of Plans",
+            "Slug": "Change-of-Plans-TTiTD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -368,7 +433,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Change-of-Plans-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -377,8 +444,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Change-of-Plans-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -391,7 +461,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Stormcaller Elite",
+                    "Corsair Raiders"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -399,10 +472,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "de744bed-1461-4442-b9a1-193d00fd39a3",
+            "RingsDbCardId": "12040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Defend the Ship!",
+            "Slug": "Defend-the-Ship-TTiTD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -410,7 +488,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Defend-the-Ship-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -421,8 +501,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths/Defend-the-Ship-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -437,7 +520,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Thing in the Depths",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Stormcaller",
+                    "The Stormcaller Elite"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -445,10 +531,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "81779961-8776-4c1d-953d-ed7bf1324fbf",
+            "RingsDbCardId": "12041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Helm of the Stormcaller",
+            "Slug": "Helm-of-the-Stormcaller-TTiTD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -486,10 +577,15 @@
             "Quantity": 1,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "5585680f-0609-4cc4-96b5-37e53992af56",
+            "RingsDbCardId": "12042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forecastle Deck",
+            "Slug": "Forecastle-Deck-TTiTD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -525,10 +621,15 @@
             "Quantity": 2,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "5571b159-9889-4fcd-bc0e-13bea7443348",
+            "RingsDbCardId": "12043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weather Deck",
+            "Slug": "Weather-Deck-TTiTD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -564,10 +665,15 @@
             "Quantity": 2,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "ec9d7726-89fa-41ee-a6ad-30761a6b79d3",
+            "RingsDbCardId": "12044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cargo Hold",
+            "Slug": "Cargo-Hold-TTiTD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -602,10 +708,15 @@
             "Quantity": 2,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "de903b76-e5e1-478b-a782-1e91f5a7261e",
+            "RingsDbCardId": "12045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crew Quarters",
+            "Slug": "Crew-Quarters-TTiTD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -640,10 +751,15 @@
             "Quantity": 2,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "2dbe66bc-a6bf-42d7-92a5-d186dfe954c6",
+            "RingsDbCardId": "12046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Quarter Deck",
+            "Slug": "Quarter-Deck-TTiTD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -679,10 +795,15 @@
             "Quantity": 2,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "d7fd973b-6b4e-4f4b-9fc5-4886dcf80996",
+            "RingsDbCardId": "12047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hold Steady!",
+            "Slug": "Hold-Steady-TTiTD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -712,10 +833,15 @@
             "Quantity": 2,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "5a4545c3-8b25-4fad-9798-b67921c9e7d3",
+            "RingsDbCardId": "12048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Thing in the Depths",
+            "Slug": "The-Thing-in-the-Depths-TTiTD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -757,10 +883,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "92b2ea69-3f7f-4bbd-b3e0-c6c98cbbde9d",
+            "RingsDbCardId": "12049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eye of the Beast",
+            "Slug": "Eye-of-the-Beast-TTiTD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -783,6 +914,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Eye of the Beast cannot attack.",
                     "While Eye of the Beast is engaged with a player, The Thing in the Depths attacks that player during the combat phase (deal and resolve a shadow card for this attack)."
                 ],
@@ -802,10 +934,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "07067901-5306-47f0-8863-3c9cb194e1c6",
+            "RingsDbCardId": "12050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thrashing Arm",
+            "Slug": "Thrashing-Arm-TTiTD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -828,6 +965,7 @@
                     "Grapple ( lowest printed Threat )."
                 ],
                 "Text": [
+                    "Grapple ( lowest printed Threat ).",
                     "Forced: At the end of the combat phase, if Thrashing Arm is engaged with you, deal 3 damage to a character you control."
                 ],
                 "Shadow": null,
@@ -846,10 +984,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "9c3c6e43-7548-4eaf-8225-2f51ecafbc4a",
+            "RingsDbCardId": "12051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crushing Arm",
+            "Slug": "Crushing-Arm-TTiTD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -873,6 +1016,7 @@
                     "Grapple ( highest printed quest points )."
                 ],
                 "Text": [
+                    "Surge. Grapple ( highest printed quest points ).",
                     "Forced: After Crushing Arm is detached from a location, it makes an immediate attack against the first player."
                 ],
                 "Shadow": null,
@@ -891,10 +1035,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "db512bcc-1bc7-4008-ba2b-18d56abc3b67",
+            "RingsDbCardId": "12052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grasping Arm",
+            "Slug": "Grasping-Arm-TTiTD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -917,6 +1066,7 @@
                     "Grapple ( highest printed Threat )."
                 ],
                 "Text": [
+                    "Grapple ( highest printed Threat ).",
                     "Forced: When Grasping Arm attacks, the engaged player must exhaust a character he controls."
                 ],
                 "Shadow": "Shadow: If this attack is undefended, resolve Grasping Arm`s Grapple keyword.",
@@ -935,10 +1085,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "5073c7a3-a3f6-4aca-b2a2-e0b830af3985",
+            "RingsDbCardId": "12053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Giant Arm",
+            "Slug": "Giant-Arm-TTiTD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -961,6 +1116,7 @@
                     "Grapple ( lowest printed quest points )."
                 ],
                 "Text": [
+                    "Grapple ( lowest printed quest points ).",
                     "Giant Arm gets +2 Attack when attacking allies."
                 ],
                 "Shadow": "Shadow: After this attack, either put Giant Arm into play engaged with you and deal it a shadow card, or resolve its Grapple ability.",
@@ -979,10 +1135,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "0daf1963-a45f-4fe1-bd0b-ad901a1213fa",
+            "RingsDbCardId": "12054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "From the Depths",
+            "Slug": "From-the-Depths-TTiTD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1012,10 +1173,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "5d811a82-3729-4b54-8748-e0abffd96e90",
+            "RingsDbCardId": "12055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lashing Tentacles",
+            "Slug": "Lashing-Tentacles-TTiTD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1045,6 +1211,10 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "b1898a55-730c-493e-9fcd-24a51d817b64",
+            "RingsDbCardId": "12056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

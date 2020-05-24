@@ -1,48 +1,14 @@
 {
     "Name": "The Withered Heath",
+    "Slug": "The-Withered-Heath",
+    "Abbreviation": "TWH",
     "Cycle": "Ered Mithrin",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
-            "Title": "Grimbeorn the Old",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Grimbeorn-the-Old.jpg",
-                "Stats": {
-                    "ThreatCost": "11",
-                    "Willpower": "0",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Beorning.",
-                    "Warrior."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Response: After Grimbeorn the Old defends an attack, spend 1 resource from his pool to declare him as an attacker against that enemy (and resolve his attack). The defending enemy gets -2 Defense for this attack."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Withered Heath",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Jason Jenicke",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
             "Title": "Beorning Skin-changer",
+            "Slug": "Beorning-Skin-changer-TWH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -74,10 +40,59 @@
             "Quantity": 3,
             "Artist": "Jason Jenicke",
             "HasErrata": false,
+            "OctgnGuid": "c4061868-f717-4735-9884-253385437f3b",
+            "RingsDbCardId": "19006",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 634,
+            "Categories": null
+        },
+        {
+            "Title": "Grimbeorn the Old",
+            "Slug": "Grimbeorn-the-Old-TWH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Grimbeorn-the-Old.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "0",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Beorning.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.",
+                    "Response: After Grimbeorn the Old defends an attack, spend 1 resource from his pool to declare him as an attacker against that enemy (and resolve his attack). The defending enemy gets -2 Defense for this attack."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Jason Jenicke",
+            "HasErrata": false,
+            "OctgnGuid": "a8709b3e-8ea0-45bd-9ccd-b48797c7012b",
+            "RingsDbCardId": "19001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 168,
             "Categories": null
         },
         {
             "Title": "Woodmen's Clearing",
+            "Slug": "Woodmen's-Clearing-TWH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -106,74 +121,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Hidden Way",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Hidden-Way.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Response: At the beginning of the quest phase, search the top 5 cards of the encounter deck for a location and make it the active location, returning any previous active location to the staging area. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Withered Heath",
-            "EncounterInfo": null,
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Preston Stone",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Long Lake Fisherman",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Long-Lake-Fisherman.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dale."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Long Lake Fisherman enters play, name a number. Then, search the top 5 cards of your deck for a card whose printed cost is equal to that number and add it to your hand. Shuffle your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Withered Heath",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Tropa Entertainment",
-            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19004",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 385,
             "Categories": null
         },
         {
             "Title": "Guardian of Esgaroth",
+            "Slug": "Guardian-of-Esgaroth-TWH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -205,10 +161,89 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "9ea49df7-4c1f-432a-ba95-c0576fc62e89",
+            "RingsDbCardId": "19002",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 318,
+            "Categories": null
+        },
+        {
+            "Title": "Long Lake Fisherman",
+            "Slug": "Long-Lake-Fisherman-TWH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Long-Lake-Fisherman.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Long Lake Fisherman enters play, name a number. Then, search the top 5 cards of your deck for a card whose printed cost is equal to that number and add it to your hand. Shuffle your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "27c06f1e-7be0-417e-9029-f5a71c93e3c5",
+            "RingsDbCardId": "19008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 280,
+            "Categories": null
+        },
+        {
+            "Title": "The Hidden Way",
+            "Slug": "The-Hidden-Way-TWH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Hidden-Way.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: At the beginning of the quest phase, search the top 5 cards of the encounter deck for a location and make it the active location, returning any previous active location to the staging area. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Preston Stone",
+            "HasErrata": false,
+            "OctgnGuid": "24e988d6-f8af-4bd0-80ab-5e959463a22a",
+            "RingsDbCardId": "19005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 269,
             "Categories": null
         },
         {
             "Title": "Squire's Helm",
+            "Slug": "Squire's-Helm-TWH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -227,7 +262,9 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to an ally. Limit 1 per ally. Attached ally gets +2 hit points."
+                    "Attach to an ally. Restricted.",
+                    "Limit 1 per ally.",
+                    "Attached ally gets +2 hit points."
                 ],
                 "Shadow": null,
                 "FlavorText": "`There are no great weapon-hoards here, lord,` answered Éomer. `Maybe a light helm might be found to fit him...`\r\n-The Return of the King"
@@ -239,10 +276,15 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "8a0391d0-33c2-4881-82b6-1d9d824c3536",
+            "RingsDbCardId": "19003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 215,
             "Categories": null
         },
         {
             "Title": "Beorn's Rage",
+            "Slug": "Beorn's-Rage-TWH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -268,10 +310,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "db0f9443-91be-4a49-a23e-a4d2982c6070",
+            "RingsDbCardId": "19007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 194,
             "Categories": null
         },
         {
             "Title": "The Arkenstone",
+            "Slug": "The-Arkenstone-TWH",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -290,6 +337,7 @@
                     "Guarded (enemy or location)."
                 ],
                 "Text": [
+                    "Guarded (enemy or location).",
                     "Attach to a hero.",
                     "Each unique character you control gains +1 Willpower.",
                     "Action: Reduce your threat by 2 to attach The Arkenstone to a hero controlled by another player and raise that player`s threat by 2. (Limit once per round.)"
@@ -304,10 +352,15 @@
             "Quantity": 3,
             "Artist": "Emilio Rodriguez",
             "HasErrata": false,
+            "OctgnGuid": "7ab0122f-ede8-45fa-b803-619c28dfe0ce",
+            "RingsDbCardId": "19010",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 179,
             "Categories": null
         },
         {
             "Title": "Grey Cloak",
+            "Slug": "Grey-Cloak-TWH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -336,10 +389,15 @@
             "Quantity": 3,
             "Artist": "Tropa Entertainment",
             "HasErrata": false,
+            "OctgnGuid": "408b4577-894a-4270-b246-01776780dc69",
+            "RingsDbCardId": "19009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 105,
             "Categories": null
         },
         {
             "Title": "Cold-Drake",
+            "Slug": "Cold-Drake-TWH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -381,10 +439,15 @@
             "Quantity": 1,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "e9217231-de12-48ef-9351-f7d992643c2f",
+            "RingsDbCardId": "19011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon Sign",
+            "Slug": "Dragon-Sign-TWH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -400,6 +463,7 @@
                     "Guarded (enemy)."
                 ],
                 "Text": [
+                    "Guarded (enemy).",
                     "Attached enemy or location is immune to player card effects.",
                     "When Dragon Sign is free of encounters, add it to the victory display."
                 ],
@@ -417,12 +481,17 @@
             },
             "Number": 12,
             "Quantity": 4,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "b922eedf-eea0-471d-bc52-90becc2a0769",
+            "RingsDbCardId": "19012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Snow-troll",
+            "Slug": "Snow-troll-TWH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -461,10 +530,15 @@
             "Quantity": 2,
             "Artist": "Alex Boca",
             "HasErrata": false,
+            "OctgnGuid": "ebde9bba-fd89-4098-ad60-9d1d4e746d23",
+            "RingsDbCardId": "19013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon Hatchling",
+            "Slug": "Dragon-Hatchling-TWH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -502,10 +576,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "beedf6c6-6214-47d8-bd82-81280543b141",
+            "RingsDbCardId": "19014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mountain Pass",
+            "Slug": "Mountain-Pass-TWH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -540,10 +619,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "351afed2-188b-42d4-9b3a-bccb510ae7d2",
+            "RingsDbCardId": "19015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dwarven Door",
+            "Slug": "Dwarven-Door-TWH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -562,6 +646,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "Progress cannot be placed on Dwarven Door while it is in the staging area."
                 ],
                 "Shadow": null,
@@ -580,10 +665,15 @@
             "Quantity": 3,
             "Artist": "Igor Burlakov",
             "HasErrata": false,
+            "OctgnGuid": "ef4ae3ca-ce48-4cad-88ee-23917e9dcdcc",
+            "RingsDbCardId": "19016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cave Entrance",
+            "Slug": "Cave-Entrance-TWH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -602,6 +692,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "Cave Entrance gets +1 Threat for each Dragon Sign in the victory display.",
                     "Travel: Raise each player’s threat by 1."
                 ],
@@ -619,12 +710,17 @@
             },
             "Number": 17,
             "Quantity": 3,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "15ebc613-43fc-4c9b-ac71-91840d853e60",
+            "RingsDbCardId": "19017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Creature Den",
+            "Slug": "Creature-Den-TWH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -662,10 +758,15 @@
             "Quantity": 2,
             "Artist": "Nele Diel",
             "HasErrata": false,
+            "OctgnGuid": "80764232-a3c9-47f1-9034-9c9ac82002e4",
+            "RingsDbCardId": "19018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "High Falls",
+            "Slug": "High-Falls-TWH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -684,6 +785,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "X is the number of locations in the staging area.",
                     "Travel: Assign X damage among characters in play."
                 ],
@@ -703,10 +805,15 @@
             "Quantity": 2,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "2b158c89-59d6-40a2-af56-6db21dc62e73",
+            "RingsDbCardId": "19019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Heavy Snow",
+            "Slug": "Heavy-Snow-TWH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -722,6 +829,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Exhaust a character. Until the end of the round, characters cannot be readied by player card effect."
                 ],
                 "Shadow": "Shadow: Exhaust a character you control.",
@@ -740,10 +848,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "572ba251-0abb-4a81-b38b-d695123b7219",
+            "RingsDbCardId": "19020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadly Cold",
+            "Slug": "Deadly-Cold-TWH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -775,10 +888,15 @@
             "Quantity": 3,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "cb64fac2-c5ea-4233-86ed-90e30181a520",
+            "RingsDbCardId": "19021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Searching for Dragon Sign",
+            "Slug": "Searching-for-Dragon-Sign-TWH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -786,7 +904,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Searching-for-Dragon-Sign-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -797,8 +917,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Searching-for-Dragon-Sign-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -812,7 +935,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Withered Heath",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -820,10 +947,15 @@
             "Quantity": 1,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "21786f6e-9f9c-4850-9277-9ee77b6e0912",
+            "RingsDbCardId": "19022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Cold-Drake Attacks!",
+            "Slug": "The-Cold-Drake-Attacks-TWH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -831,7 +963,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Cold-Drake-Attacks-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -842,8 +976,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Cold-Drake-Attacks-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -867,10 +1004,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "60ba0781-d051-46f0-97b1-e02fb637b94e",
+            "RingsDbCardId": "19023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting the Beast",
+            "Slug": "Hunting-the-Beast-TWH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -878,7 +1020,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Hunting-the-Beast-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -889,8 +1033,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Hunting-the-Beast-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -905,7 +1052,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Withered Heath",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -913,10 +1064,15 @@
             "Quantity": 1,
             "Artist": "Marius Bota",
             "HasErrata": false,
+            "OctgnGuid": "e70fa96c-f4c7-4d6c-ab14-41831a6eb8c8",
+            "RingsDbCardId": "19024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Cornered Dragon",
+            "Slug": "A-Cornered-Dragon-TWH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -924,7 +1080,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/A-Cornered-Dragon-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -935,8 +1093,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/A-Cornered-Dragon-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -951,7 +1112,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Withered Heath",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -959,6 +1124,10 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "9656a1c9-dd90-4096-b2ba-eb2491d08403",
+            "RingsDbCardId": "19025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

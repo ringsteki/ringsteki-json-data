@@ -1,10 +1,14 @@
 {
     "Name": "The Old Forest",
+    "Slug": "The-Old-Forest",
+    "Abbreviation": "TOF",
     "Cycle": "GenCon",
     "SetType": "GenConSaga_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-TOF",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -28,6 +32,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
                 ],
                 "Shadow": null,
@@ -40,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Forest Introduction",
+            "Slug": "The-Old-Forest-Introduction-TOF",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -76,12 +86,17 @@
             "EncounterInfo": null,
             "Number": 0,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Forest Scenario Rules",
+            "Slug": "The-Old-Forest-Scenario-Rules-TOF",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -116,10 +131,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Forest Campaign Rules",
+            "Slug": "The-Old-Forest-Campaign-Rules-TOF",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -143,10 +163,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Farewell to the Shire",
+            "Slug": "Farewell-to-the-Shire-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -154,7 +179,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/Farewell-to-the-Shire-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -165,8 +192,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/Farewell-to-the-Shire-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -187,10 +217,15 @@
             "Quantity": 1,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Living Forest",
+            "Slug": "The-Living-Forest-Dark-Bad-Place-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -198,7 +233,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Dark-Bad-Place-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -209,8 +246,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Dark-Bad-Place-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -230,12 +270,17 @@
             },
             "Number": 2,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Living Forest",
+            "Slug": "The-Living-Forest-Choked-with-Brambles-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -243,7 +288,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Choked-with-Brambles-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -254,8 +301,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Choked-with-Brambles-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -275,12 +325,17 @@
             },
             "Number": 3,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Living Forest",
+            "Slug": "The-Living-Forest-Shifting-Trees-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -288,7 +343,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Shifting-Trees-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -299,8 +356,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Shifting-Trees-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -322,10 +382,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Living Forest",
+            "Slug": "The-Living-Forest-Closing-in-Around-Them-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -333,7 +398,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Closing-in-Around-Them-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -344,8 +411,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Living-Forest-Closing-in-Around-Them-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -365,12 +435,17 @@
             },
             "Number": 5,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Wicked Willow",
+            "Slug": "The-Wicked-Willow-TOF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -378,7 +453,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Wicked-Willow-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -389,8 +466,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Old-Forest/The-Wicked-Willow-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -412,10 +492,15 @@
             "Quantity": 1,
             "Artist": "Ignacio Bazan Lazcano",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Man Willow",
+            "Slug": "Old-Man-Willow-TOF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -437,7 +522,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "Forced: When Old Man Willow attacks, discard a random location from the victory display. The defending player raises his threat by X, where X is that location`s victory point value."
                 ],
                 "Shadow": null,
@@ -454,12 +539,17 @@
             },
             "Number": 7,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Long Trailer",
+            "Slug": "Long-Trailer-TOF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -497,10 +587,15 @@
             "Quantity": 4,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grasping Root",
+            "Slug": "Grasping-Root-TOF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -538,10 +633,15 @@
             "Quantity": 4,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Army of Flies",
+            "Slug": "Army-of-Flies-TOF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -564,6 +664,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Army of Flies engages a player, that player discards a non-objective attachment he controls."
                 ],
                 "Shadow": "Shadow: Defending player discards a non-objective attachment he controls.",
@@ -582,10 +683,15 @@
             "Quantity": 3,
             "Artist": "Victor Garcia",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Withywindle",
+            "Slug": "Withywindle-TOF",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -623,10 +729,15 @@
             "Quantity": 1,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Misleading Path",
+            "Slug": "Misleading-Path-TOF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -645,6 +756,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When faced with the option to travel, the players must travel to Misleading Path if there is no active location."
                 ],
                 "Shadow": "Shadow: Defending player discards each ally card in his hand.",
@@ -663,10 +775,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Gulley",
+            "Slug": "Deep-Gulley-TOF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -701,12 +818,17 @@
             },
             "Number": 13,
             "Quantity": 4,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Strange Woods",
+            "Slug": "Strange-Woods-TOF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -743,10 +865,15 @@
             "Quantity": 3,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wall of Trees",
+            "Slug": "Wall-of-Trees-TOF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -782,12 +909,17 @@
             },
             "Number": 15,
             "Quantity": 4,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Oppressive Forest",
+            "Slug": "Oppressive-Forest-TOF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -824,10 +956,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Swaying Without Wind",
+            "Slug": "Swaying-Without-Wind-TOF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -841,6 +978,7 @@
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Choose a location in the victory display and return it to the staging area. If no location was returned to the staging area this way, Swaying Without Wind gains surge."
                 ],
                 "Shadow": null,
@@ -859,10 +997,15 @@
             "Quantity": 2,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Falling Branches",
+            "Slug": "Falling-Branches-TOF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -892,10 +1035,15 @@
             "Quantity": 3,
             "Artist": "Victor Garcia",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Song of Sleep",
+            "Slug": "Song-of-Sleep-TOF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -911,6 +1059,7 @@
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Remove a questing hero you control from the quest and attach Song of Sleep to that hero. Counts as a Condition attachment with the text: `Limit 1 per hero. Treat attached hero`s printed text box as if it were blank (except for Traits). Attached hero cannot ready.`"
                 ],
                 "Shadow": null,
@@ -929,10 +1078,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost and Witless",
+            "Slug": "Lost-and-Witless-TOF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -946,6 +1100,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Discard all progress from each location in the staging area. If there is a non-unique active location, randomly choose a location in the staging area and switch it with the active location."
                 ],
                 "Shadow": null,
@@ -964,10 +1119,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ending and Failing",
+            "Slug": "Ending-and-Failing-TOF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -981,6 +1141,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: At the end of the phase, raise each player`s threat by X where X is the number of enemies in the staging area."
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
@@ -999,10 +1160,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tom Bombadil",
+            "Slug": "Tom-Bombadil-TOF",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -1039,10 +1205,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Forest",
+            "Slug": "The-Old-Forest-Campaign-TOF",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1078,10 +1249,15 @@
             "Quantity": 1,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Bogey-stories",
+            "Slug": "Old-Bogey-stories-TOF",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -1099,7 +1275,8 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Setup: The first player attaches Old Bogey-stories to a hero in play.\n\nAction: Add Old Bogey-stories to the victory display to shuffle your hand of at least 6 cards into your deck. Then, draw 6 cards."
+                    "Setup: The first player attaches Old Bogey-stories to a hero in play.",
+                    "Action: Add Old Bogey-stories to the victory display to shuffle your hand of at least 6 cards into your deck. Then, draw 6 cards."
                 ],
                 "Shadow": null,
                 "FlavorText": "`If you mean the old bogey-stories Fatty`s nurses used to tell him, about goblins and wolves and things of that sort, I should say no.` -Merry, The Fellowship of the Ring"
@@ -1111,6 +1288,10 @@
             "Quantity": 1,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Murder at the Prancing Pony",
+    "Slug": "Murder-at-the-Prancing-Pony",
+    "Abbreviation": "MatPP",
     "Cycle": "GenCon",
     "SetType": "Fellowship_Deck",
+    "Cards": null,
     "cards": [
         {
             "Title": "Legolas",
+            "Slug": "Legolas-MatPP",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -28,6 +32,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Legolas participates in an attack that destroys an enemy, place 2 progress tokens on the current quest."
                 ],
                 "Shadow": null,
@@ -40,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Murder at the Prancing Pony Scenario Rules 2-3",
+            "Slug": "Murder-at-the-Prancing-Pony-Scenario-Rules-2-3-MatPP",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -90,10 +100,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Murder at the Prancing Pony Scenario Rules 4-5",
+            "Slug": "Murder-at-the-Prancing-Pony-Scenario-Rules-4-5-MatPP",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -145,10 +160,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Investigating the Crime",
+            "Slug": "Investigating-the-Crime-MatPP",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -156,7 +176,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Investigating-the-Crime-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -167,8 +189,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Investigating-the-Crime-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -182,7 +207,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Murder at the Prancing Pony",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -190,10 +217,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Running out of Time",
+            "Slug": "Running-out-of-Time-MatPP",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -201,7 +233,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Running-out-of-Time-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -212,8 +246,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Running-out-of-Time-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -227,7 +264,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Murder at the Prancing Pony",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -235,10 +274,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Apprehending the Killer",
+            "Slug": "Apprehending-the-Killer-MatPP",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -246,7 +290,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Apprehending-the-Killer-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -257,8 +303,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Apprehending-the-Killer-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -273,7 +322,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Murder at the Prancing Pony",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -281,10 +332,15 @@
             "Quantity": 1,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bill Ferny's House",
+            "Slug": "Bill-Ferny's-House-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -323,10 +379,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Staddle Hiding Hole",
+            "Slug": "Staddle-Hiding-Hole-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -365,10 +426,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Combe Storehouse",
+            "Slug": "Combe-Storehouse-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -407,10 +473,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Archet Trading Post",
+            "Slug": "Archet-Trading-Post-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -449,10 +520,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chetwood Campsite",
+            "Slug": "Chetwood-Campsite-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -491,10 +567,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Todd the Troll",
+            "Slug": "Todd-the-Troll-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -536,10 +617,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Susie the Spider",
+            "Slug": "Susie-the-Spider-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -582,10 +668,15 @@
             "Quantity": 1,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wolf-pelt Jake",
+            "Slug": "Wolf-pelt-Jake-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -627,10 +718,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Johnny Goblin-fingers",
+            "Slug": "Johnny-Goblin-fingers-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -672,10 +768,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Orc-eyes",
+            "Slug": "Old-Orc-eyes-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -717,10 +818,15 @@
             "Quantity": 1,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Taken by Surprise",
+            "Slug": "Taken-by-Surprise-MatPP",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -750,10 +856,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Prancing Pony",
+            "Slug": "The-Prancing-Pony-MatPP",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -786,10 +897,15 @@
             "Quantity": 1,
             "Artist": "Lutful Valeriya Romanovna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ramshackle Manor",
+            "Slug": "Ramshackle-Manor-MatPP",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -808,7 +924,8 @@
                     "Investigate 2."
                 ],
                 "Text": [
-                    "When a player card effect reduces a player`s threat by any amount, reducd that amount to 1.",
+                    "Investigate 2.",
+                    "When a player card effect reduces a player`s threat by any amount, reduce that amount to 1.",
                     "Travel: Raise each player`s threat by 1 to travel here."
                 ],
                 "Shadow": null,
@@ -827,10 +944,15 @@
             "Quantity": 4,
             "Artist": "Lutful Valeriya Romanovna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Alley",
+            "Slug": "Dark-Alley-MatPP",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -849,6 +971,7 @@
                     "Investigate 3."
                 ],
                 "Text": [
+                    "Investigate 3.",
                     "Enemies in the staging area cannot take damage.",
                     "Travel: Shuffle the encounter discard pile into the encounter deck and discard cards until an enemy is discarded. Add the discarded enemy to the staging area."
                 ],
@@ -868,10 +991,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Market Square",
+            "Slug": "Market-Square-MatPP",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -890,6 +1018,7 @@
                     "Investigate 2."
                 ],
                 "Text": [
+                    "Investigate 2.",
                     "Forced: After a player places any amount of progress on a location in the staging area, he raises his threat by 1.",
                     "Travel: Each player spends 1 resource to travel here."
                 ],
@@ -909,10 +1038,15 @@
             "Quantity": 3,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Warehouse",
+            "Slug": "Old-Warehouse-MatPP",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -931,6 +1065,7 @@
                     "Investigate 1."
                 ],
                 "Text": [
+                    "Investigate 1.",
                     "Forced: When triggering the Investigate keyword on Old Warehouse, the first player must choose: either look at 2 additional card, or reduce each player`s threat by 3.",
                     "Travel: Reveal the top card of the encounter deck to travel here."
                 ],
@@ -950,10 +1085,15 @@
             "Quantity": 3,
             "Artist": "Lutful Valeriya Romanovna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Village Stable",
+            "Slug": "Village-Stable-MatPP",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -972,6 +1112,7 @@
                     "Investigate 1."
                 ],
                 "Text": [
+                    "Investigate 1.",
                     "Response: After triggering the Investigate keyword on Village Stable, if the looked at card is a Suspect or a Hideout, add Village Stable to the victory display to add that card to the staging area.",
                     "Travel: Each player discards 1 random card from his hand to travel here."
                 ],
@@ -991,10 +1132,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bill Ferny",
+            "Slug": "Bill-Ferny-MatPP",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1035,10 +1181,15 @@
             "Quantity": 1,
             "Artist": "Lutful Valeriya Romanovna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bree-land Informant",
+            "Slug": "Bree-land-Informant-MatPP",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1076,10 +1227,15 @@
             "Quantity": 2,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lawless Ruffian",
+            "Slug": "Lawless-Ruffian-MatPP",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1117,10 +1273,15 @@
             "Quantity": 3,
             "Artist": "Lutful Valeriya Romanovna",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Greenway Footpad",
+            "Slug": "Greenway-Footpad-MatPP",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1158,10 +1319,15 @@
             "Quantity": 4,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chetwood Outlaw",
+            "Slug": "Chetwood-Outlaw-MatPP",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1199,10 +1365,15 @@
             "Quantity": 3,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hired Muscle",
+            "Slug": "Hired-Muscle-MatPP",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1216,6 +1387,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a Brigand enemy without a copy of Hired Muscle attacked and return that enemy to the staging area. (Counts as a Condition attachment with the text: `Attached enemy gets +1 Threat, +1 Attack, +1 Defense and gains: `Forced: When attached enemy is defeated, look at the bottom of the Investigation deck.``)"
                 ],
                 "Shadow": null,
@@ -1234,10 +1406,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Smoke and Mirrors",
+            "Slug": "Smoke-and-Mirrors-MatPP",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1267,10 +1444,15 @@
             "Quantity": 3,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rising Body Count",
+            "Slug": "Rising-Body-Count-MatPP",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1300,10 +1482,15 @@
             "Quantity": 2,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadly Accusations",
+            "Slug": "Deadly-Accusations-MatPP",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1333,6 +1520,10 @@
             "Quantity": 2,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

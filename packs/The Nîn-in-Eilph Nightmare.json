@@ -1,10 +1,14 @@
 {
     "Name": "The Nîn-in-Eilph Nightmare",
+    "Slug": "The-Nin-in-Eilph-Nightmare",
+    "Abbreviation": "NiEN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Nîn-in-Eilph Nightmare",
+            "Slug": "The-Nin-in-Eilph-Nightmare-NiEN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -40,10 +44,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadly Marsh Adder",
+            "Slug": "Deadly-Marsh-Adder-NiEN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -82,10 +91,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Swarms of Mosquitoes",
+            "Slug": "Swarms-of-Mosquitoes-NiEN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -125,10 +139,15 @@
             "Quantity": 3,
             "Artist": "Yog Joshi",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Desolate Meadow",
+            "Slug": "Desolate-Meadow-NiEN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -163,10 +182,15 @@
             "Quantity": 3,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Peat Bog",
+            "Slug": "Peat-Bog-NiEN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -201,10 +225,15 @@
             "Quantity": 4,
             "Artist": "Igor Burlakov",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Quicksand",
+            "Slug": "Quicksand-NiEN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -234,10 +263,15 @@
             "Quantity": 2,
             "Artist": "Mark Molnar",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rotten Stench",
+            "Slug": "Rotten-Stench-NiEN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -267,10 +301,15 @@
             "Quantity": 2,
             "Artist": "Nele Diel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Through the Marsh",
+            "Slug": "Through-the-Marsh-An-Arduous-Journey-NiEN",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -278,7 +317,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Through-the-Marsh-An-Arduous-Journey-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 3."
@@ -291,12 +332,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Through-the-Marsh-An-Arduous-Journey-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.",
+                    "Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.",
                     "Allies enter play exhausted.",
                     "Forced: When the players defeat this stage, advance to a random stage 3A."
                 ],
@@ -307,7 +351,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph Nightmare",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -315,10 +361,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Swanfleet",
+            "Slug": "Lost-in-the-Swanfleet-Deadly-Waters-NiEN",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -326,25 +377,32 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Lost-in-the-Swanfleet-Deadly-Waters-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Time 3."
                 ],
                 "Text": [
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.",
-                    "Treachery card effects cannot be canceled."
+                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."
                 ],
                 "Shadow": null,
                 "FlavorText": "Lost as you are, your presence in the marsh has not gone unnoticed. An ancient and foul swamp creature stalks your company..."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Lost-in-the-Swanfleet-Deadly-Waters-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
-                "Text": [],
+                "Text": [
+                    "Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.",
+                    "Treachery card effects cannot be canceled."
+                ],
                 "Shadow": null,
                 "FlavorText": null
             },
@@ -352,14 +410,20 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph Nightmare",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
             "Number": 9,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Attack on Dol Guldur",
+    "Slug": "Attack-on-Dol-Guldur",
+    "Abbreviation": "AoDG",
     "Cycle": "GenCon",
     "SetType": "Fellowship_Deck",
+    "Cards": null,
     "cards": [
         {
             "Title": "Celeborn",
+            "Slug": "Celeborn-AoDG",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -37,10 +41,15 @@
             "Quantity": 1,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Galadriel",
+            "Slug": "Galadriel-AoDG",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -74,10 +83,15 @@
             "Quantity": 1,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00112",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Assault on the Golden Wood",
+            "Slug": "Assault-on-the-Golden-Wood-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -85,7 +99,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Assault-on-the-Golden-Wood-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -96,8 +112,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Assault-on-the-Golden-Wood-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -119,10 +138,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crossing the Anduin",
+            "Slug": "Crossing-the-Anduin-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -130,7 +154,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Crossing-the-Anduin-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -141,8 +167,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Crossing-the-Anduin-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -163,10 +192,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Siege of Dol Guldur",
+            "Slug": "The-Siege-of-Dol-Guldur-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -174,7 +208,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/The-Siege-of-Dol-Guldur-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -185,8 +221,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/The-Siege-of-Dol-Guldur-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -208,10 +247,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Tower of Sorcery",
+            "Slug": "The-Tower-of-Sorcery-C-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -219,7 +263,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/The-Tower-of-Sorcery-C-3C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -230,8 +276,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/The-Tower-of-Sorcery-C-3D.jpg",
+                "Stats": {
+                    "StageNumber": "3D",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -253,10 +302,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Battle Under the Trees",
+            "Slug": "Battle-Under-the-Trees-E-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -264,7 +318,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Battle-Under-the-Trees-E-3E.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3E"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -275,8 +331,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Battle-Under-the-Trees-E-3F.jpg",
+                "Stats": {
+                    "StageNumber": "3F",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -298,10 +357,15 @@
             "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeons of the Necromancer",
+            "Slug": "Dungeons-of-the-Necromancer-G-AoDG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -309,7 +373,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Dungeons-of-the-Necromancer-G-3G.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3G"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -320,8 +386,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Attack-on-Dol-Guldur/Dungeons-of-the-Necromancer-G-3H.jpg",
+                "Stats": {
+                    "StageNumber": "3H",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -343,10 +412,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur",
+            "Slug": "Dol-Guldur-AoDG",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -379,10 +453,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Power of Lórien",
+            "Slug": "Power-of-Lorien-AoDG",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -414,10 +493,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Host of Lórien",
+            "Slug": "Host-of-Lorien-AoDG",
             "IsUnique": false,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -439,6 +523,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Ranged. Sentinel.",
                     "Immune to player card effects.",
                     "Does not exhaust to quest.",
                     "If Host of Lórien leaves play, remove it from the game."
@@ -459,10 +544,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bane of Amon Lanc",
+            "Slug": "Bane-of-Amon-Lanc-AoDG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -487,7 +577,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "Forced: When Bane of Amon Lanc attacks you, discard a random card from your hand. Bane of Amon Lanc gets +X Attack for this attack, where X is that card`s printed cost."
                 ],
                 "Shadow": null,
@@ -506,10 +596,15 @@
             "Quantity": 1,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sorcerer of Dol Guldur",
+            "Slug": "Sorcerer-of-Dol-Guldur-AoDG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -533,7 +628,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "Forced: When Sorcerer of Dol Guldur attacks you, discard the top card of your deck. Then, discard each copy of that card from play."
                 ],
                 "Shadow": null,
@@ -552,10 +647,15 @@
             "Quantity": 1,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chieftain Morlug",
+            "Slug": "Chieftain-Morlug-AoDG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -580,7 +680,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "Forced: When Chieftain Morlug attacks you, discard cards from the top of the encounter deck until an enemy is discarded and put it into play engaged with you."
                 ],
                 "Shadow": null,
@@ -599,10 +699,15 @@
             "Quantity": 1,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeon Dweller",
+            "Slug": "Dungeon-Dweller-AoDG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -626,6 +731,7 @@
                     "Victory 5."
                 ],
                 "Text": [
+                    "Indestructible.",
                     "Forced: When Dungeon Dweller attacks you, discard an ally you control."
                 ],
                 "Shadow": null,
@@ -644,10 +750,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Host of Dol Guldur",
+            "Slug": "Host-of-Dol-Guldur-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -669,6 +780,7 @@
                     "Archery X."
                 ],
                 "Text": [
+                    "Archery X.",
                     "X is the number of players.",
                     "Cannot have attachments.",
                     "Forced: At the end of the encounter phase, if Host of Dol Guldur is in the staging area, remove X progress from the main quest."
@@ -689,10 +801,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mirkwood Olog-hai",
+            "Slug": "Mirkwood-Olog-hai-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -731,10 +848,15 @@
             "Quantity": 2,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Beast of Taur-nu-Fuin",
+            "Slug": "Beast-of-Taur-nu-Fuin-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -774,10 +896,15 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amon Lanc Archer",
+            "Slug": "Amon-Lanc-Archer-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -799,6 +926,7 @@
                     "Archery 2."
                 ],
                 "Text": [
+                    "Archery 2.",
                     "Forced: After Amon Lanc Archer engages you, either remove 2 progress from the main quest, or deal 2 damage to an ally you control."
                 ],
                 "Shadow": "Shadow: Exhaust a character you control.",
@@ -817,10 +945,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Marauder",
+            "Slug": "Dol-Guldur-Marauder-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -859,10 +992,15 @@
             "Quantity": 4,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Battle Warg",
+            "Slug": "Battle-Warg-AoDG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -885,6 +1023,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Battle Warg engages you, either remove 1 progress from the main quest or discard an attachment you control."
                 ],
                 "Shadow": "Shadow: Discard an attachment you control.",
@@ -903,10 +1042,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gate of Dol Guldur",
+            "Slug": "Gate-of-Dol-Guldur-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -941,10 +1085,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Sorcerer's Tower",
+            "Slug": "The-Sorcerer's-Tower-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -979,10 +1128,15 @@
             "Quantity": 2,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Shadow Road",
+            "Slug": "The-Shadow-Road-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1018,10 +1172,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeon Door",
+            "Slug": "Dungeon-Door-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1056,10 +1215,15 @@
             "Quantity": 2,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Battleground",
+            "Slug": "Forest-Battleground-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1095,10 +1259,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blackened Woods",
+            "Slug": "Blackened-Woods-AoDG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1133,10 +1302,15 @@
             "Quantity": 3,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Servant of Sauron",
+            "Slug": "Servant-of-Sauron-AoDG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1150,6 +1324,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The enemy in the staging area with the highest engagement cost makes an immediate attack against the first player."
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack against you after this one.",
@@ -1168,10 +1343,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Power Sevenfold",
+            "Slug": "Power-Sevenfold-AoDG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1185,6 +1365,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each player must choose: either search the encounter deck and discard pile for a Dol Guldur location and add it to the staging area, or search the encounter deck and discard pile for an Orc enemy and put it into play engaged with him."
                 ],
                 "Shadow": null,
@@ -1203,10 +1384,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Rage",
+            "Slug": "The-Necromancer's-Rage-AoDG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1236,10 +1422,15 @@
             "Quantity": 2,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fear and Despair",
+            "Slug": "Fear-and-Despair-AoDG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1253,6 +1444,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each player exhausts a character he controls. Until the end of the round, characters cannot be readied by player card effects."
                 ],
                 "Shadow": "Shadow: Defending character cannot ready until the end of the round.",
@@ -1271,10 +1463,15 @@
             "Quantity": 2,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fastness of Mirkwood",
+            "Slug": "Fastness-of-Mirkwood-AoDG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1304,10 +1501,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Standard Game Mode",
+            "Slug": "Standard-Game-Mode-Campaign-AoDG",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1344,10 +1546,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Epic Multiplayer Mode",
+            "Slug": "Epic-Multiplayer-Mode-Campaign-AoDG",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1385,6 +1592,10 @@
             "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,45 +1,14 @@
 {
     "Name": "The Black Riders",
+    "Slug": "The-Black-Riders",
+    "Abbreviation": "TBR",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
-            "Title": "Sam Gamgee",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Sam-Gamgee.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "3",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee. He gets +1 Willpower, +1 Attack and +1 Defense until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I`m going with him...and if any of those Black Riders try to stop him, they`ll have Sam Gamgee to reckon with` -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Alexandre Dainche",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
             "Title": "Pippin",
+            "Slug": "Pippin-TBR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -72,10 +41,55 @@
             "Quantity": 1,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "ce96b767-c569-48b8-a998-d8009b0143c7",
+            "RingsDbCardId": "141004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 984,
+            "Categories": null
+        },
+        {
+            "Title": "Sam Gamgee",
+            "Slug": "Sam-Gamgee-TBR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Sam-Gamgee.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee. He gets +1 Willpower, +1 Attack and +1 Defense until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I`m going with him...and if any of those Black Riders try to stop him, they`ll have Sam Gamgee to reckon with` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "4124136c-8c86-4f86-830c-94c8c76df161",
+            "RingsDbCardId": "141002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 919,
             "Categories": null
         },
         {
             "Title": "Dagger of Westernesse",
+            "Slug": "Dagger-of-Westernesse-TBR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -95,7 +109,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero.",
+                    "Attach to a hero. Restricted.",
                     "Attached hero gets +1 Attack (+2 Attack instead if attacking an enemy with an engagement cost higher than your threat)."
                 ],
                 "Shadow": null,
@@ -108,10 +122,15 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "418e6de7-af19-4ea7-bfbe-2a02838c6de4",
+            "RingsDbCardId": "141014",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3269,
             "Categories": null
         },
         {
             "Title": "Elf-stone",
+            "Slug": "Elf-stone-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -141,46 +160,15 @@
             "Quantity": 3,
             "Artist": "Sandara Tang",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Merry",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Merry.jpg",
-                "Stats": {
-                    "ThreatCost": "6",
-                    "Willpower": "2",
-                    "Attack": "0",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Merry gets +1 Attack for each Hobbit hero you control.",
-                    "Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "`You can trust us to stick to you through thick and thin to the bitter end` -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Alexandre Dainche",
-            "HasErrata": false,
+            "OctgnGuid": "9bb32f2c-29fb-43ba-b7ba-2227b28f7b58",
+            "RingsDbCardId": "141016",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1775,
             "Categories": null
         },
         {
             "Title": "Bill the Pony",
+            "Slug": "Bill-the-Pony-TBR",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -215,10 +203,15 @@
             "Quantity": 3,
             "Artist": "Christine Bian",
             "HasErrata": false,
+            "OctgnGuid": "1f7fc118-94a7-48a0-bd0c-9c15a36ddc23",
+            "RingsDbCardId": "141006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1575,
             "Categories": null
         },
         {
             "Title": "Hobbit Cloak",
+            "Slug": "Hobbit-Cloak-TBR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -247,10 +240,49 @@
             "Quantity": 3,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "8e49ea86-375a-472e-b497-16a1164ae27f",
+            "RingsDbCardId": "141013",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1471,
+            "Categories": null
+        },
+        {
+            "Title": "Halfling Determination",
+            "Slug": "Halfling-Determination-TBR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Halfling-Determination.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a Hobbit character. That character gets +2 Willpower, +2 Attack and +2 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.` -Sam Gamgee, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "8e7e5c8d-0ea4-46df-ae38-d8d2fee7ca8b",
+            "RingsDbCardId": "141009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1188,
             "Categories": null
         },
         {
             "Title": "Hobbit Pipe",
+            "Slug": "Hobbit-Pipe-TBR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -280,68 +312,56 @@
             "Quantity": 3,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "9c455b1a-a2d4-44f7-a9d3-9a3134c21a2a",
+            "RingsDbCardId": "141015",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1073,
             "Categories": null
         },
         {
-            "Title": "Halfling Determination",
-            "IsUnique": false,
-            "CardType": "Event",
+            "Title": "Merry",
+            "Slug": "Merry-TBR",
+            "IsUnique": true,
+            "CardType": "Hero",
             "CardSubType": "None",
             "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Halfling-Determination.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Merry.jpg",
                 "Stats": {
-                    "ResourceCost": "1"
+                    "ThreatCost": "6",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Hobbit."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Choose a Hobbit character. That character gets +2 Willpower, +2 Attack and +2 Defense until the end of the phase."
+                    "Merry gets +1 Attack for each Hobbit hero you control.",
+                    "Response: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack."
                 ],
                 "Shadow": null,
-                "FlavorText": "`I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.` -Sam Gamgee, The Fellowship of the Ring"
+                "FlavorText": "`You can trust us to stick to you through thick and thin to the bitter end` -The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Smoke Rings",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Smoke-Rings.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Reduce your threat by 1 for each Pipe you control. Each hero with a Pipe attachment gets +1 Willpower until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "...he smoked and blew smoke-rings with the same vigour and delight...-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Lane Brown",
-            "HasErrata": false,
+            "OctgnGuid": "052b1f85-8b9c-4bb0-a735-bdbd5ac1b2c4",
+            "RingsDbCardId": "141003",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 607,
             "Categories": null
         },
         {
             "Title": "Frodo's Intuition",
+            "Slug": "Frodo's-Intuition-TBR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -367,10 +387,164 @@
             "Quantity": 3,
             "Artist": "Winona Nelson",
             "HasErrata": false,
+            "OctgnGuid": "96350b97-5c68-4033-bb2f-4305696a7ae7",
+            "RingsDbCardId": "141012",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 672,
+            "Categories": null
+        },
+        {
+            "Title": "Smoke Rings",
+            "Slug": "Smoke-Rings-TBR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Smoke-Rings.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Reduce your threat by 1 for each Pipe you control. Each hero with a Pipe attachment gets +1 Willpower until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "...he smoked and blew smoke-rings with the same vigour and delight...-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Lane Brown",
+            "HasErrata": false,
+            "OctgnGuid": "9418c634-54c6-47de-9aae-798038a4a35b",
+            "RingsDbCardId": "141010",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 646,
+            "Categories": null
+        },
+        {
+            "Title": "Barliman Butterbur",
+            "Slug": "Barliman-Butterbur-TBR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Barliman-Butterbur.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Bree."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But spooks or no spooks, they won`t get in The Prancing Pony so easy.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "77f58774-86e7-4449-b31e-3833700b3e60",
+            "RingsDbCardId": "141007",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 532,
+            "Categories": null
+        },
+        {
+            "Title": "Farmer Maggot",
+            "Slug": "Farmer-Maggot-TBR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Farmer-Maggot.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy`s engagement cost is higher than your threat.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`It is lucky for you that I know you. I was going out to set my dogs on any strangers.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "9d8ccd1a-48d3-4123-bcca-3c0ab88347ec",
+            "RingsDbCardId": "141008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 502,
+            "Categories": null
+        },
+        {
+            "Title": "Take No Notice",
+            "Slug": "Take-No-Notice-TBR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Take-No-Notice.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Lower the cost play Take No Notice by 1 for each Hobbit or Ranger hero you control.",
+                    "Action: Add 5 to each enemy`s engagement cost until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "...they made no noise that even hobbits would hear. Event the wild things in the fields and woods hardly noticed their passing. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "768ae041-2d15-44a3-a928-62838536a160",
+            "RingsDbCardId": "141011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 466,
             "Categories": null
         },
         {
             "Title": "Fatty Bolger",
+            "Slug": "Fatty-Bolger-TBR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -402,10 +576,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "5d75d4dd-7300-43d7-87f2-963271c9c904",
+            "RingsDbCardId": "141005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 99,
             "Categories": null
         },
         {
             "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TBR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -438,110 +617,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Barliman Butterbur",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Barliman-Butterbur.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "0",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Bree."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur."
-                ],
-                "Shadow": null,
-                "FlavorText": "`But spooks or no spooks, they won`t get in The Prancing Pony so easy.` -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Owen William Weber",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Farmer Maggot",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Farmer-Maggot.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy`s engagement cost is higher than your threat.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`It is lucky for you that I know you. I was going out to set my dogs on any strangers.` -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Take No Notice",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Take-No-Notice.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Lower the cost play Take No Notice by 1 for each Hobbit or Ranger hero you control.",
-                    "Action: Add 5 to each enemy`s engagement cost until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "...they made no noise that even hobbits would hear. Event the wild things in the fields and woods hardly noticed their passing. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Black Riders",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
+            "OctgnGuid": "3217a119-6b86-47dd-b451-c5e45be3f874",
+            "RingsDbCardId": "141001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1,
             "Categories": null
         },
         {
             "Title": "Mr. Underhill",
+            "Slug": "Mr-Underhill-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -573,10 +657,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "d0ed393c-162a-4715-bed4-e338c24e9e36",
+            "RingsDbCardId": "141017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tireless Ranger",
+            "Slug": "Tireless-Ranger-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -607,10 +696,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "ef014a91-c2d9-44ca-acd0-cc1a339c051f",
+            "RingsDbCardId": "141018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Skilled Healer",
+            "Slug": "Skilled-Healer-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -641,10 +735,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "1d1ab8a3-ad76-4992-ae5c-6a89fd0ed463",
+            "RingsDbCardId": "141019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Valiant Warrior",
+            "Slug": "Valiant-Warrior-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -675,10 +774,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "ff574390-bd68-4277-9065-dd9dbf552d00",
+            "RingsDbCardId": "141020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Noble Hero",
+            "Slug": "Noble-Hero-TBR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -709,10 +813,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "af49e5ea-c6a2-4be4-bbf3-ac53c100e887",
+            "RingsDbCardId": "141021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Three is Company",
+            "Slug": "Three-is-Company-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -720,7 +829,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Three-is-Company-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -731,8 +842,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Three-is-Company-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "1"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -746,7 +860,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Shadow of the Past",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Black Riders"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -754,10 +872,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "6b34adb4-b510-4db9-aaba-9a1876626dce",
+            "RingsDbCardId": "141022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Shortcut to Mushrooms",
+            "Slug": "A-Shortcut-to-Mushrooms-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -765,7 +888,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/A-Shortcut-to-Mushrooms-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -774,8 +899,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/A-Shortcut-to-Mushrooms-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -790,7 +918,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Shadow of the Past",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Black Riders"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -798,10 +930,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "40c7a675-d48f-4e71-8818-5f0ffb9fa0dd",
+            "RingsDbCardId": "141023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Escape to Buckland",
+            "Slug": "Escape-to-Buckland-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -809,7 +946,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Escape-to-Buckland-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -820,8 +959,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Escape-to-Buckland-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -836,7 +978,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Shadow of the Past",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Black Riders"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -844,10 +990,15 @@
             "Quantity": 1,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "7371cfea-03d0-4bc0-98a1-d99e0acdbf88",
+            "RingsDbCardId": "141024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trouble in Bree",
+            "Slug": "Trouble-in-Bree-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -855,7 +1006,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Trouble-in-Bree-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -866,8 +1019,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Trouble-in-Bree-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -880,7 +1036,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Knife in the Dark",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Nazgûl"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -888,10 +1048,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "d0b6992d-9dc4-41fa-a483-b4ad0a3d60b3",
+            "RingsDbCardId": "141025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Into the Wild",
+            "Slug": "Into-the-Wild-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -899,7 +1064,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Into-the-Wild-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -908,8 +1075,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Into-the-Wild-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -924,7 +1094,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Knife in the Dark",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Nazgûl"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -932,10 +1106,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "28a4721b-3696-4fae-9eea-01b5a250c892",
+            "RingsDbCardId": "141026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ringwraiths Attack",
+            "Slug": "The-Ringwraiths-Attack-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -943,7 +1122,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/The-Ringwraiths-Attack-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -954,8 +1135,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/The-Ringwraiths-Attack-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -968,7 +1152,11 @@
             "EncounterInfo": {
                 "EncounterSet": "A Knife in the Dark",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Ring",
+                    "The Nazgûl"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -976,10 +1164,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "257f9b44-2744-4f02-bbf6-115d12b52e8d",
+            "RingsDbCardId": "141027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pursued by the Enemy",
+            "Slug": "Pursued-by-the-Enemy-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -987,7 +1180,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Pursued-by-the-Enemy-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -998,8 +1193,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Pursued-by-the-Enemy-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1013,7 +1211,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight to the Ford",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Black Riders",
+                    "The Nazgûl"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -1021,10 +1223,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "f9824e39-fda8-4e4b-bc74-83b4bd40c72d",
+            "RingsDbCardId": "141028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Race To Rivendell",
+            "Slug": "Race-To-Rivendell-TBR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1032,7 +1239,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Race-To-Rivendell-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -1041,8 +1250,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Race-To-Rivendell-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1058,7 +1270,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight to the Ford",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Hunted",
+                    "The Black Riders",
+                    "The Nazgûl"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1066,10 +1282,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "6b2673af-c764-4599-a265-6e43d3b75310",
+            "RingsDbCardId": "141029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Shadow of the Past",
+            "Slug": "A-Shadow-of-the-Past-TBR",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1105,10 +1326,15 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "307411f3-4a45-44ae-bc64-4e16deb97d10",
+            "RingsDbCardId": "141030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bag End",
+            "Slug": "Bag-End-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1145,10 +1371,15 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "0d30fbf1-6e8f-480f-9f2f-3196777f6e11",
+            "RingsDbCardId": "141031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Woody End",
+            "Slug": "Woody-End-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1185,10 +1416,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "b194fe1c-18c8-47d2-a674-8e209339c7e2",
+            "RingsDbCardId": "141032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stock-Brook",
+            "Slug": "Stock-Brook-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1226,10 +1462,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "2b38254c-e992-4fb5-89e8-e7f636658ce0",
+            "RingsDbCardId": "141033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bamfurlong",
+            "Slug": "Bamfurlong-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1266,10 +1507,15 @@
             "Quantity": 1,
             "Artist": "Sabin Boykinov",
             "HasErrata": false,
+            "OctgnGuid": "82c68020-eb2e-4853-9919-df3066d13721",
+            "RingsDbCardId": "141034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bucklebury Ferry",
+            "Slug": "Bucklebury-Ferry-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1307,10 +1553,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "53ac8ba6-0487-4b1f-91e9-cf7ca9e7c1d0",
+            "RingsDbCardId": "141035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Green Hill Country",
+            "Slug": "Green-Hill-Country-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1345,10 +1596,15 @@
             "Quantity": 3,
             "Artist": "Sabin Boykinov",
             "HasErrata": false,
+            "OctgnGuid": "98dff367-a068-4aac-a46b-7dc201aff42d",
+            "RingsDbCardId": "141036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stock Road",
+            "Slug": "Stock-Road-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1384,10 +1640,15 @@
             "Quantity": 3,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "8df24501-bfd8-4602-92e1-61f5d5cf7035",
+            "RingsDbCardId": "141037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Marish",
+            "Slug": "The-Marish-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1422,10 +1683,15 @@
             "Quantity": 2,
             "Artist": "Sabin Boykinov",
             "HasErrata": false,
+            "OctgnGuid": "409bc89e-b5af-4626-ade6-60bcfcb290b7",
+            "RingsDbCardId": "141038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Rider",
+            "Slug": "Black-Rider-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1466,10 +1732,15 @@
             "Quantity": 5,
             "Artist": "Mariana Vieira",
             "HasErrata": false,
+            "OctgnGuid": "57107fd1-0092-41d3-ae9d-8ff6c06933eb",
+            "RingsDbCardId": "141039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evil Crow",
+            "Slug": "Evil-Crow-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1507,10 +1778,15 @@
             "Quantity": 3,
             "Artist": "Christine Bian",
             "HasErrata": false,
+            "OctgnGuid": "ff597a85-6a02-4301-a9dc-4dcb4cf9b626",
+            "RingsDbCardId": "141040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crawling Towards Him",
+            "Slug": "Crawling-Towards-Him-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1543,10 +1819,15 @@
             "Quantity": 3,
             "Artist": "Brent Hollowel",
             "HasErrata": false,
+            "OctgnGuid": "79b5dd16-2427-4950-94e9-46905eebe56d",
+            "RingsDbCardId": "141041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting For The Ring",
+            "Slug": "Hunting-For-The-Ring-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1578,10 +1859,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "a46578d6-303e-4f35-9a11-8b9f807427ba",
+            "RingsDbCardId": "141042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Have You Seen Baggins?",
+            "Slug": "Have-You-Seen-Baggins-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1614,10 +1900,15 @@
             "Quantity": 2,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "3104ef1f-4f1c-4603-87cb-f3a70f5e6710",
+            "RingsDbCardId": "141043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Knife in the Dark",
+            "Slug": "A-Knife-in-the-Dark-TBR",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1652,10 +1943,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "2efa631a-eb16-4078-84a5-18c7033b86f3",
+            "RingsDbCardId": "141044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Prancing Pony",
+            "Slug": "The-Prancing-Pony-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1693,10 +1989,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "984d2a01-f12a-4e8b-800c-6a04b1904049",
+            "RingsDbCardId": "141045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weathertop",
+            "Slug": "Weathertop-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1736,10 +2037,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "ad09f848-9430-41c8-8723-671f08b79078",
+            "RingsDbCardId": "141046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chetwood",
+            "Slug": "Chetwood-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1774,10 +2080,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "df23bd50-5ca3-4a0e-a83c-a349632b0ff4",
+            "RingsDbCardId": "141047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Midgewater",
+            "Slug": "Midgewater-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1815,10 +2126,15 @@
             "Quantity": 1,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "90d620e5-d7be-42e6-9756-b92761ecd8c9",
+            "RingsDbCardId": "141048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weather Hills",
+            "Slug": "Weather-Hills-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1855,10 +2171,15 @@
             "Quantity": 3,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "ddb20145-e570-4099-8d8a-11d64895939b",
+            "RingsDbCardId": "141049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rider of Mordor",
+            "Slug": "Rider-of-Mordor-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1898,10 +2219,15 @@
             "Quantity": 2,
             "Artist": "Ryan Barger",
             "HasErrata": false,
+            "OctgnGuid": "33a575b4-e373-46db-b11e-90f8fc41ef6e",
+            "RingsDbCardId": "141050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bill Ferny",
+            "Slug": "Bill-Ferny-TBR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1943,10 +2269,15 @@
             "Quantity": 1,
             "Artist": "Sarah Morris",
             "HasErrata": false,
+            "OctgnGuid": "6a3e1c91-accd-476b-9ecc-ace35274a052",
+            "RingsDbCardId": "141051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shady Bree-Lander",
+            "Slug": "Shady-Bree-Lander-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1985,10 +2316,15 @@
             "Quantity": 4,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "0e1451ba-5fa6-4a13-869b-d23d9ecef15e",
+            "RingsDbCardId": "141052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Squint-Eyed Southerner",
+            "Slug": "Squint-Eyed-Southerner-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2026,10 +2362,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "795579db-249d-4c9d-850f-6f39bc96c063",
+            "RingsDbCardId": "141053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unwanted Attention",
+            "Slug": "Unwanted-Attention-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2061,10 +2402,15 @@
             "Quantity": 3,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "d47ece86-2645-4d35-8ab7-c439d12abe65",
+            "RingsDbCardId": "141054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Breath",
+            "Slug": "Black-Breath-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2073,11 +2419,14 @@
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Black-Breath.jpg",
                 "Stats": {},
-                "Traits": [],
+                "Traits": [
+                    "Morgul."
+                ],
                 "Keywords": [
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Attach to a hero you control. (Counts as a Condition attachment with the text: `Limit 1 per hero. Reduce attached hero`s Willpower, Attack and Defense to 0.`)"
                 ],
                 "Shadow": null,
@@ -2096,10 +2445,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "e6721e44-5706-4a0f-a895-ced75f9c6219",
+            "RingsDbCardId": "141055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Flight to the Ford",
+            "Slug": "Flight-to-the-Ford-TBR",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2135,10 +2489,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "0ee09c42-34c9-41aa-aa98-b582608b15bb",
+            "RingsDbCardId": "141056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "An Evil Wound",
+            "Slug": "An-Evil-Wound-TBR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2172,10 +2531,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "71a2ca21-ff50-4a8a-b30b-7c8eaf6bf6b6",
+            "RingsDbCardId": "141057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Last Bridge",
+            "Slug": "The-Last-Bridge-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2215,10 +2579,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "bc43ae57-6010-4924-919c-b37d1e33b958",
+            "RingsDbCardId": "141058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ford of Bruinen",
+            "Slug": "Ford-of-Bruinen-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2257,10 +2626,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "3cd4bb66-1621-4534-aa25-421d0d8b7189",
+            "RingsDbCardId": "141059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Troll's Camp",
+            "Slug": "The-Troll's-Camp-TBR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2297,10 +2671,15 @@
             "Quantity": 1,
             "Artist": "Brent Hollowel",
             "HasErrata": false,
+            "OctgnGuid": "36dd0d2a-ba57-4ca0-b750-967c958e8bfb",
+            "RingsDbCardId": "141060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ettenmoors",
+            "Slug": "Ettenmoors-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2336,10 +2715,15 @@
             "Quantity": 3,
             "Artist": "Aaron B. Miller",
             "HasErrata": false,
+            "OctgnGuid": "ae435070-552a-43a9-816f-9f23f1a6dbba",
+            "RingsDbCardId": "141061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Road",
+            "Slug": "The-Old-Road-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2374,10 +2758,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "edae55ef-8025-4553-9ff8-e81526effd59",
+            "RingsDbCardId": "141062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fell Rider",
+            "Slug": "Fell-Rider-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2416,10 +2805,15 @@
             "Quantity": 4,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "5c31f690-9802-4638-8316-5380ef32575b",
+            "RingsDbCardId": "141063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stricken Dumb",
+            "Slug": "Stricken-Dumb-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2451,10 +2845,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "821a078b-ae42-4b69-bd49-cc235916be77",
+            "RingsDbCardId": "141064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Enemy is Upon Us!",
+            "Slug": "The-Enemy-is-Upon-Us-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2484,10 +2883,15 @@
             "Quantity": 2,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "0e12b3e5-d330-4a13-be7b-5a07a57a2273",
+            "RingsDbCardId": "141065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pain Assailed Him",
+            "Slug": "Pain-Assailed-Him-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2517,10 +2921,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "98bf5fdc-ff74-48e2-88c8-0e4134fd6984",
+            "RingsDbCardId": "141066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Nine are Abroad",
+            "Slug": "The-Nine-are-Abroad-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2552,10 +2961,15 @@
             "Quantity": 2,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "98a2fb10-f2fc-462c-9f2e-8945419d9c4f",
+            "RingsDbCardId": "141067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Witch-king",
+            "Slug": "The-Witch-king-TBR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2595,10 +3009,15 @@
             "Quantity": 1,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "c5657436-d6c8-400d-ba1f-a723799ac685",
+            "RingsDbCardId": "141068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ringwraith",
+            "Slug": "Ringwraith-TBR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2637,10 +3056,15 @@
             "Quantity": 4,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "2d819f76-77dd-47a2-9a3f-ac8b8018f0df",
+            "RingsDbCardId": "141069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pale Blade",
+            "Slug": "Pale-Blade-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2649,11 +3073,14 @@
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Pale-Blade.jpg",
                 "Stats": {},
-                "Traits": [],
+                "Traits": [
+                    "Morgul."
+                ],
                 "Keywords": [
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a Nazgûl enemy in play, if able. (Counts as a Weapon attachment with the text: `Limit 1 per enemy. Attached enemy gets +1 Attack and cannot take non-combat damage.`)"
                 ],
                 "Shadow": null,
@@ -2672,10 +3099,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "4b36df3f-d75b-4b3a-9324-9ab31c10d7b9",
+            "RingsDbCardId": "141070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Power In Their Terror",
+            "Slug": "Power-In-Their-Terror-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2705,10 +3137,15 @@
             "Quantity": 3,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "4765cbea-5ae8-4e39-a811-a67f1f6ca2a0",
+            "RingsDbCardId": "141071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pathless Country",
+            "Slug": "Pathless-Country-TBR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2743,10 +3180,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "32416ec8-b50d-4cd2-a62f-10f97c87be73",
+            "RingsDbCardId": "141072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Piercing Cry",
+            "Slug": "Piercing-Cry-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2778,10 +3220,15 @@
             "Quantity": 3,
             "Artist": "Chris Rallis",
             "HasErrata": false,
+            "OctgnGuid": "7e470346-1828-49c0-b241-58d0dbf27b4b",
+            "RingsDbCardId": "141073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Steed",
+            "Slug": "Black-Steed-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2790,11 +3237,14 @@
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Black-Steed.jpg",
                 "Stats": {},
-                "Traits": [],
+                "Traits": [
+                    "Morgul."
+                ],
                 "Keywords": [
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a Nazgûl enemy in play, if able. (Counts as a Mount attachment with the text: `Limit 1 per enemy. Attached enemy gets -10 engagement cost and gains: `Forced: At the end of the refresh phase, return attached enemy to the staging area.``)"
                 ],
                 "Shadow": null,
@@ -2813,10 +3263,15 @@
             "Quantity": 3,
             "Artist": "Sandara Tang",
             "HasErrata": false,
+            "OctgnGuid": "09aeff64-6e0d-4dfa-af21-2e7805441376",
+            "RingsDbCardId": "141074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rode Like a Gale",
+            "Slug": "Rode-Like-a-Gale-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2846,10 +3301,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "1851fafb-7f9a-46d7-a0f0-7fb2ad9ee567",
+            "RingsDbCardId": "141075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lure of the Ring",
+            "Slug": "Lure-of-the-Ring-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2881,10 +3341,15 @@
             "Quantity": 3,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "48384e79-d397-4dcd-9862-8a72acb448d0",
+            "RingsDbCardId": "141076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gildor Inglorion",
+            "Slug": "Gildor-Inglorion-TBR",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "Boon",
@@ -2912,7 +3377,7 @@
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": {
-                "EncounterSet": null,
+                "EncounterSet": "A Shadow of the Past",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -2922,10 +3387,15 @@
             "Quantity": 1,
             "Artist": "Alexandre Dainche",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "141077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gandalf's Delay",
+            "Slug": "Gandalf's-Delay-TBR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "Burden",
@@ -2956,10 +3426,15 @@
             "Quantity": 1,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "d95a6076-3ead-4ff6-a1ba-ca320d2bd4e1",
+            "RingsDbCardId": "141078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ring Draws Them",
+            "Slug": "The-Ring-Draws-Them-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -2973,6 +3448,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: At the end of the phase, each enemy in the staging area engages the first player. If the One Ring is exhausted, this effect cannot be canceled."
                 ],
                 "Shadow": null,
@@ -2991,10 +3467,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "1c5f4854-c10c-430b-9c40-2d84c5997b8f",
+            "RingsDbCardId": "141079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weight of the Ring",
+            "Slug": "Weight-of-the-Ring-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3008,6 +3489,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the Ring-bearer. (Counts as a Condition attachment with the text: `Forced: At the beginning of each quest phase, either exhaust The One Ring or reveal and additional encounter card this phase.`)"
                 ],
                 "Shadow": null,
@@ -3016,7 +3498,7 @@
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": {
-                "EncounterSet": "Flight to the Ford",
+                "EncounterSet": "A Shadow of the Past",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -3026,10 +3508,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "40c95b3d-6216-4def-bb93-f44871f3ec70",
+            "RingsDbCardId": "141080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fear of Discovery",
+            "Slug": "Fear-of-Discovery-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3043,9 +3530,10 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The first player must either exhaust the Ring-bearer or reveal and additional encounter card"
                 ],
-                "Shadow": "Defending player raises his threat by 3.",
+                "Shadow": "Shadow: Defending player raises his threat by 3.",
                 "FlavorText": null
             },
             "Back": null,
@@ -3061,10 +3549,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "074cad39-ce55-4dc1-9775-e95363682ef7",
+            "RingsDbCardId": "141081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eaten Alive!",
+            "Slug": "Eaten-Alive-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3078,6 +3571,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The first player must deal X damage divided among heroes he controls where X is the number of players in the game."
                 ],
                 "Shadow": "Shadow: Deal 1 damage to defending character.",
@@ -3096,10 +3590,15 @@
             "Quantity": 1,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "e8f413bf-3593-47fc-8813-4553d55dbb2a",
+            "RingsDbCardId": "141082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Panicked",
+            "Slug": "Panicked-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3113,6 +3612,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The first player raises his threat by 3 and passes the first player token to the next player."
                 ],
                 "Shadow": "Shadow: Defending player exhausts a character he controls.",
@@ -3131,10 +3631,15 @@
             "Quantity": 1,
             "Artist": "Marcia George-Bogdan",
             "HasErrata": false,
+            "OctgnGuid": "50c19cd1-3094-4bf7-b2dc-e21b145827b7",
+            "RingsDbCardId": "141083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overcome by Terror",
+            "Slug": "Overcome-by-Terror-TBR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3148,6 +3653,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: The first player must exhaust The One Ring. If The One Ring is already exhausted, the first player must discard 2 cards at random from his hand."
                 ],
                 "Shadow": "Shadow: Defending player discards 1 card at random from his hand.",
@@ -3166,10 +3672,15 @@
             "Quantity": 1,
             "Artist": "Daarken",
             "HasErrata": false,
+            "OctgnGuid": "cdc303cb-bb1a-4409-a479-aa4155bd8ed5",
+            "RingsDbCardId": "141084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The One Ring",
+            "Slug": "The-One-Ring-TBR",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3185,7 +3696,9 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Setup: The first player claims The One Ring and attaches it to the Ring-bearer.\n\nAttached hero does not count against the hero limit. The first player gains control of attached hero.\n\nIf The One Ring leaves play, the players lose the game."
+                    "Setup: The first player claims The One Ring and attaches it to the Ring-bearer.",
+                    "Attached hero does not count against the hero limit. The first player gains control of attached hero.",
+                    "If The One Ring leaves play, the players lose the game."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -3193,7 +3706,7 @@
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": {
-                "EncounterSet": null,
+                "EncounterSet": "The Black Riders",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -3203,6 +3716,10 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "c9575426-59ea-4863-bf6a-407e9eae3f33",
+            "RingsDbCardId": "141085",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

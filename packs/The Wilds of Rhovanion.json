@@ -1,10 +1,14 @@
 {
     "Name": "The Wilds of Rhovanion",
+    "Slug": "The-Wilds-of-Rhovanion",
+    "Abbreviation": "TWoR",
     "Cycle": null,
     "SetType": "Deluxe_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Hauberk of Mail",
+            "Slug": "Hauberk-of-Mail-TWoR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -34,10 +38,96 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "477ca0c8-7922-4c17-bba2-6d7c4718c49d",
+            "RingsDbCardId": "18007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1064,
+            "Categories": null
+        },
+        {
+            "Title": "Bow of Yew",
+            "Slug": "Bow-of-Yew-TWoR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Bow-of-Yew.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Dale or Warrior character. Restricted.",
+                    "Response: After attached character is declared as an attacker, exhaust Bow of Yew to deal 1 damage to the defending enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "`They would shoot at us with their great bows of yew...`\r\n-The Lord of the Eagles, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "e039d605-d630-450d-982b-d9cdaf91fe76",
+            "RingsDbCardId": "18009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 726,
+            "Categories": null
+        },
+        {
+            "Title": "Necklace of Girion",
+            "Slug": "Necklace-of-Girion-TWoR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Necklace-of-Girion.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location)."
+                ],
+                "Text": [
+                    "Guarded (enemy or location).",
+                    "Attach to a hero.",
+                    "Attached hero gets +2 Willpower and collects an additional resource during the resource phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "...the necklace of Girion, Lord of Dale, made of five hundred emeralds green as grass, which he gave for the arming of his eldest son...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "b1cc99c3-09a7-4418-85c4-e368f44adf1d",
+            "RingsDbCardId": "18011",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 607,
             "Categories": null
         },
         {
             "Title": "Bard son of Brand",
+            "Slug": "Bard-son-of-Brand-TWoR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -71,82 +161,15 @@
             "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Brand son of Bain",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Brand-son-of-Bain.jpg",
-                "Stats": {
-                    "ThreatCost": "10",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dale.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Each Dale character you control with a player attachment gets +1 Willpower.",
-                    "Response: After you play an attachment on a Dale character without an attachment, draw a card."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He is a strong king, and his realm now reaches south and east of Esgaroth.`\r\n-Glóin, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Wilds of Rhovanion",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Antonio José Manzanedo",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Bow of Yew",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Bow-of-Yew.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Dale or Warrior character.",
-                    "Response: After attached character is declared as an attacker, exhaust Bow of Yew to deal 1 damage to the defending enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "`They would shoot at us with their great bows of yew...`\r\n-The Lord of the Eagles, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Wilds of Rhovanion",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
-            "HasErrata": false,
+            "OctgnGuid": "7d5f1011-3c36-4454-9efb-bf09553011d9",
+            "RingsDbCardId": "18002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 212,
             "Categories": null
         },
         {
             "Title": "North Realm Lookout",
+            "Slug": "North-Realm-Lookout-TWoR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -179,10 +202,15 @@
             "Quantity": 3,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "d15bd4d7-ae0c-4808-af94-8c67b9f60ed0",
+            "RingsDbCardId": "18004",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 598,
             "Categories": null
         },
         {
             "Title": "Redwater Sentry",
+            "Slug": "Redwater-Sentry-TWoR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -216,45 +244,89 @@
             "Quantity": 3,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "b69ae054-e422-43c7-a9b3-42f334ab61a5",
+            "RingsDbCardId": "18003",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 519,
             "Categories": null
         },
         {
-            "Title": "Necklace of Girion",
+            "Title": "King of Dale",
+            "Slug": "King-of-Dale-TWoR",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": null,
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Necklace-of-Girion.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/King-of-Dale.jpg",
                 "Stats": {
-                    "ResourceCost": "1"
+                    "ResourceCost": "2"
                 },
                 "Traits": [
-                    "Artifact.",
-                    "Item."
+                    "Title."
                 ],
-                "Keywords": [
-                    "Guarded (enemy or location)."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +2 Willpower and collects an additional resource during the resource phase."
+                    "Attach to a Dale or Esgaroth hero.",
+                    "Planning Action: Exhaust King of Dale to reduce the cost of the next Dale ally you play this phase by 1 for each different player attachment on attached hero. That ally does not require a resource match."
                 ],
                 "Shadow": null,
-                "FlavorText": "...the necklace of Girion, Lord of Dale, made of five hundred emeralds green as grass, which he gave for the arming of his eldest son...\r\n-The Hobbit"
+                "FlavorText": "Then Bard II, Brand`s son, became King of Dale..\r\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": null,
-            "Number": 11,
+            "Number": 8,
             "Quantity": 3,
-            "Artist": "Drazenka Kimpel",
+            "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "ae53ef78-e3e4-4e57-bb3e-4ec9b76187df",
+            "RingsDbCardId": "18008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 499,
+            "Categories": null
+        },
+        {
+            "Title": "Map of Rhovanion",
+            "Slug": "Map-of-Rhovanion-TWoR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Map-of-Rhovanion.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dale or Scout character. Limit 1 per character.",
+                    "Response: After attached character commits to the quest, place 1 progress on the active location."
+                ],
+                "Shadow": null,
+                "FlavorText": "`You are come to the very edge of the Wild...`\r\n-Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "4d9f6830-2a97-440d-b4dd-0dc2fee295e7",
+            "RingsDbCardId": "18010",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 491,
             "Categories": null
         },
         {
             "Title": "Warrior of Dale",
+            "Slug": "Warrior-of-Dale-TWoR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -288,42 +360,91 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "3701fc8e-4f87-49a9-8840-ddd7c1d8cd06",
+            "RingsDbCardId": "18005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 439,
             "Categories": null
         },
         {
-            "Title": "King of Dale",
+            "Title": "Brand son of Bain",
+            "Slug": "Brand-son-of-Bain-TWoR",
             "IsUnique": true,
-            "CardType": "Attachment",
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/King-of-Dale.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Brand-son-of-Bain.jpg",
                 "Stats": {
-                    "ResourceCost": "2"
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "3"
                 },
                 "Traits": [
-                    "Title."
+                    "Dale.",
+                    "Noble."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a Dale or Esgaroth hero.",
-                    "Planning Action: Exhaust King of Dale to reduce the cost of the next Dale ally you play this phase by 1 for each different player attachment on attached hero. That ally does not require a resource match."
+                    "Each Dale character you control with a player attachment gets +1 Willpower.",
+                    "Response: After you play an attachment on a Dale character without an attachment, draw a card."
                 ],
                 "Shadow": null,
-                "FlavorText": "Then Bard II, Brand`s son, became King of Dale..\r\n-The Return of the King"
+                "FlavorText": "`He is a strong king, and his realm now reaches south and east of Esgaroth.`\r\n-Glóin, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
+            "Number": 1,
+            "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "2b75792d-5873-4fc6-9272-d20dd517d36b",
+            "RingsDbCardId": "18001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 172,
+            "Categories": null
+        },
+        {
+            "Title": "Traffic from Dale",
+            "Slug": "Traffic-from-Dale-TWoR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traffic-from-Dale.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Choose a Dale hero you control. Add 1 resource to its pool for each character you control with a player attachment. You can only play 1 copy of Traffic from Dale each round."
+                ],
+                "Shadow": null,
+                "FlavorText": "The talk was all of the trade that came and went on the waterways and the growth of the traffic on the river...\r\nThe Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "b8380846-4921-4029-ac04-ffde41027268",
+            "RingsDbCardId": "18012",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 371,
             "Categories": null
         },
         {
             "Title": "Long Lake Trader",
+            "Slug": "Long-Lake-Trader-TWoR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -355,71 +476,15 @@
             "Quantity": 3,
             "Artist": "Torbjörn Källström",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Map of Rhovanion",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Map-of-Rhovanion.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Dale or Scout character. Limit 1 per character.",
-                    "Response: After attached character commits to the quest, place 1 progress on the active location."
-                ],
-                "Shadow": null,
-                "FlavorText": "`You are come to the very edge of the Wild...`\r\n-Gandalf, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Wilds of Rhovanion",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Yoann Boissonnet",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Traffic from Dale",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traffic-from-Dale.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Planning Action: Choose a Dale hero you control. Add 1 resource to its pool for each character you control with a player attachment. You can only play 1 copy of Traffic from Dale each round."
-                ],
-                "Shadow": null,
-                "FlavorText": "The talk was all of the trade that came and went on the waterways and the growth of the traffic on the river...\r\nThe Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Wilds of Rhovanion",
-            "EncounterInfo": null,
-            "Number": 12,
-            "Quantity": 3,
-            "Artist": "Torbjörn Källström",
-            "HasErrata": false,
+            "OctgnGuid": "19896a6a-423a-4c4d-9199-7d3ea63ecf73",
+            "RingsDbCardId": "18006",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 367,
             "Categories": null
         },
         {
             "Title": "Bartering",
+            "Slug": "Bartering-TWoR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -445,10 +510,15 @@
             "Quantity": 3,
             "Artist": "Torbjörn Källström",
             "HasErrata": false,
+            "OctgnGuid": "4d5f04c6-f5bf-4f36-b594-92d053fe67f6",
+            "RingsDbCardId": "18015",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 197,
             "Categories": null
         },
         {
             "Title": "To Arms!",
+            "Slug": "To-Arms-TWoR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -474,10 +544,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "a8bfed00-9a90-4c51-ae13-ba2910e97dbc",
+            "RingsDbCardId": "18013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 152,
             "Categories": null
         },
         {
             "Title": "Valour of the North",
+            "Slug": "Valour-of-the-North-TWoR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -503,10 +578,15 @@
             "Quantity": 3,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "d52816fd-44fd-4255-b19d-51bb6d0475cf",
+            "RingsDbCardId": "18014",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 53,
             "Categories": null
         },
         {
             "Title": "The Old Ford",
+            "Slug": "The-Old-Ford-TWoR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -543,10 +623,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "56634de4-2ef2-4739-b549-fa591e7032eb",
+            "RingsDbCardId": "18016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wooded Riverbank",
+            "Slug": "Wooded-Riverbank-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -572,7 +657,7 @@
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": {
                 "EncounterSet": "Journey up the Anduin",
-                "EasyModeQuantity": 0,
+                "EasyModeQuantity": 2,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -581,10 +666,15 @@
             "Quantity": 3,
             "Artist": "David Demaret",
             "HasErrata": false,
+            "OctgnGuid": "93008a44-68db-40ea-8b41-81cf5bb2bae8",
+            "RingsDbCardId": "18017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Frenzied Creature",
+            "Slug": "Frenzied-Creature-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -614,10 +704,15 @@
             "Quantity": 2,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "1a06164a-8f54-49b7-a067-52680893f69d",
+            "RingsDbCardId": "18018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dangerous Crossing",
+            "Slug": "Dangerous-Crossing-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -647,10 +742,15 @@
             "Quantity": 3,
             "Artist": "John Gravato",
             "HasErrata": false,
+            "OctgnGuid": "ce14480c-dfc0-4b30-8f8d-e878e003f4cd",
+            "RingsDbCardId": "18019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Troop",
+            "Slug": "Goblin-Troop-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -690,10 +790,15 @@
             "Quantity": 2,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "ec9f4d54-a419-4b3e-a6b9-605119950d07",
+            "RingsDbCardId": "18020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stray Goblin",
+            "Slug": "Stray-Goblin-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -716,6 +821,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Cannot be optionally engaged.",
                     "While Stray Goblin is in the staging area, it gains: `Forced: After a player engages an enemy, Stray Goblin engages that player.`"
                 ],
@@ -735,10 +841,15 @@
             "Quantity": 3,
             "Artist": "Carolina Eade",
             "HasErrata": false,
+            "OctgnGuid": "552b11aa-b91e-44aa-8e54-1bad1aa74bbd",
+            "RingsDbCardId": "18021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pack of Wargs",
+            "Slug": "Pack-of-Wargs-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -777,10 +888,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "8615beb7-a9f7-4852-bc0a-3d1a5f2c9532",
+            "RingsDbCardId": "18022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hills of Wilderland",
+            "Slug": "Hills-of-Wilderland-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -816,10 +932,15 @@
             "Quantity": 2,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "db960347-11ee-4ad7-8784-e4827fb7daaf",
+            "RingsDbCardId": "18023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lonely Lands",
+            "Slug": "Lonely-Lands-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -855,10 +976,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "74fc62c2-b1b6-4338-819a-1f00f871312c",
+            "RingsDbCardId": "18024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruined Supplies",
+            "Slug": "Ruined-Supplies-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -872,6 +998,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each player must choose: either raise your threat by 1 for each ally you control, or deal 1 damage to each ally you control."
                 ],
                 "Shadow": "Shadow: Raise your threat by 1 for each enemy engaged with you.",
@@ -880,7 +1007,7 @@
             "Back": null,
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": {
-                "EncounterSet": "Lost in the Wilderness",
+                "EncounterSet": "Lost in Wilderland",
                 "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -890,10 +1017,15 @@
             "Quantity": 2,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "daa67624-18ba-43a3-92c6-6e5586166bb0",
+            "RingsDbCardId": "18025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Wild",
+            "Slug": "Lost-in-the-Wild-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -913,7 +1045,7 @@
             "Back": null,
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": {
-                "EncounterSet": "Lost in the Wilderness",
+                "EncounterSet": "Lost in Wilderland",
                 "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -923,10 +1055,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "b81e837e-f4e8-43e9-892a-8bfaecbd1416",
+            "RingsDbCardId": "18026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weighed Down",
+            "Slug": "Weighed-Down-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -946,7 +1083,7 @@
             "Back": null,
             "CardSet": "The Wilds of Rhovanion",
             "EncounterInfo": {
-                "EncounterSet": "Lost in the Wilderness",
+                "EncounterSet": "Lost in Wilderland",
                 "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -956,10 +1093,15 @@
             "Quantity": 2,
             "Artist": "David Keen",
             "HasErrata": false,
+            "OctgnGuid": "0f2929de-bef9-40b8-b0ed-de69e136188f",
+            "RingsDbCardId": "18027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Searching for a Way Out",
+            "Slug": "Searching-for-a-Way-Out-TWoR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -990,10 +1132,15 @@
             "Quantity": 1,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "e428dad0-f116-40c3-82fd-6c78bfcdcb32",
+            "RingsDbCardId": "18028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overgrown Path",
+            "Slug": "Overgrown-Path-TWoR",
             "IsUnique": true,
             "CardType": "Objective_Location",
             "CardSubType": "None",
@@ -1010,6 +1157,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Guarded (location).",
                     "Travel: Shuffle the encounter discard pile into the encounter deck. Each player discards the top card of the encounter deck and assigns X damage among characters he controls, where X is that card`s Threat.",
                     "Forced: After the players travel here, advance to the next stage A, if able."
                 ],
@@ -1029,10 +1177,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "25cf58f2-9d92-4971-8817-a7e335d9ac5d",
+            "RingsDbCardId": "18029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Abandoned Village",
+            "Slug": "Abandoned-Village-TWoR",
             "IsUnique": true,
             "CardType": "Objective_Location",
             "CardSubType": "None",
@@ -1049,6 +1202,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Guarded (location).",
                     "Travel: Shuffle the encounter discard pile into the encounter deck. Each player discards the top card of the encounter deck. Add each enemy discarded this way to the staging area.",
                     "Forced: After the players travel here, advance to the next stage C, if able."
                 ],
@@ -1068,10 +1222,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bare Hilltop",
+            "Slug": "Bare-Hilltop-TWoR",
             "IsUnique": true,
             "CardType": "Objective_Location",
             "CardSubType": "None",
@@ -1088,6 +1247,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Guarded (enemy).",
                     "Travel: Shuffle the encounter discard pile into the encounter deck. Each player discards the top card of the encounter deck. Add each location discarded this way to the staging area.",
                     "Forced: After the players travel here, advance to the next stage A, if able."
                 ],
@@ -1107,10 +1267,15 @@
             "Quantity": 1,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "0f3c746e-2d23-4cb9-a481-f919ffc8cdee",
+            "RingsDbCardId": "18031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Clearing",
+            "Slug": "Forest-Clearing-TWoR",
             "IsUnique": true,
             "CardType": "Objective_Location",
             "CardSubType": "None",
@@ -1127,6 +1292,7 @@
                     "Victory 4."
                 ],
                 "Text": [
+                    "Guarded (enemy).",
                     "Travel: Shuffle the encounter discard pile into the encounter deck. Each player discards the top card of the encounter deck and raises his threat by X, where X is that card`s Threat.",
                     "Forced: After the players travel here, advance to the next stage C, if able."
                 ],
@@ -1146,10 +1312,15 @@
             "Quantity": 1,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "626abd2c-11bc-416b-9db6-a72d5525d3de",
+            "RingsDbCardId": "18032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Twilight Hall",
+            "Slug": "Twilight-Hall-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1187,10 +1358,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "a4e9aa38-54a7-4e99-bab6-330804b24a6e",
+            "RingsDbCardId": "18033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mirkwood Patrol",
+            "Slug": "Mirkwood-Patrol-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1228,10 +1404,15 @@
             "Quantity": 2,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "8165f1ef-d9df-464e-bd56-5baf4e43325f",
+            "RingsDbCardId": "18034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ravenous Spider",
+            "Slug": "Ravenous-Spider-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1270,10 +1451,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "efdbe76c-5b41-4f28-a390-a72ec784e5a3",
+            "RingsDbCardId": "18035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unseen Danger",
+            "Slug": "Unseen-Danger-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1303,10 +1489,15 @@
             "Quantity": 2,
             "Artist": "Joe Wilson",
             "HasErrata": false,
+            "OctgnGuid": "5f1ef9c5-ccb2-4f1e-bc5b-9a1de708d2ba",
+            "RingsDbCardId": "18036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Vastness of Mirkwood",
+            "Slug": "Vastness-of-Mirkwood-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1336,10 +1527,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "388d173e-e32a-4e02-b029-99180e34b014",
+            "RingsDbCardId": "18037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Accursed Forest",
+            "Slug": "Accursed-Forest-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1376,10 +1572,15 @@
             "Quantity": 2,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "fcb54294-8a36-4a51-bf1b-7d75ac1598e2",
+            "RingsDbCardId": "18038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Black Woods",
+            "Slug": "Dark-Black-Woods-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1416,10 +1617,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "408752c0-cee3-41ba-86c2-d01085546cef",
+            "RingsDbCardId": "18039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gathering Gloom",
+            "Slug": "Gathering-Gloom-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1433,6 +1639,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each player must choose: either raise your threat by 1 for each ally you control, or reveal an encounter card."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, discard an ally you control.",
@@ -1451,10 +1658,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "fc70a2bc-c2ba-4364-a609-811daa0d6780",
+            "RingsDbCardId": "18040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Swarm of Bats",
+            "Slug": "Swarm-of-Bats-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1484,10 +1696,15 @@
             "Quantity": 3,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fire-drake",
+            "Slug": "Fire-drake-TWoR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1527,10 +1744,15 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon Hoard",
+            "Slug": "Dragon-Hoard-TWoR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1571,10 +1793,15 @@
             "Quantity": 1,
             "Artist": "Nele Diel",
             "HasErrata": false,
+            "OctgnGuid": "744e45f8-a808-4d9f-96f4-59e26cff5874",
+            "RingsDbCardId": "18043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Iron Hills Mine",
+            "Slug": "Iron-Hills-Mine-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1610,10 +1837,15 @@
             "Quantity": 2,
             "Artist": "Igor Burlakov",
             "HasErrata": false,
+            "OctgnGuid": "2d4b1381-467e-4bb4-9265-d26dec6125ea",
+            "RingsDbCardId": "18044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Contested Depths",
+            "Slug": "Contested-Depths-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1649,10 +1881,15 @@
             "Quantity": 3,
             "Artist": "Paulo Puggioni",
             "HasErrata": false,
+            "OctgnGuid": "8a7a0942-0bd2-44b1-9a9b-057f38b225e9",
+            "RingsDbCardId": "18045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Chasm",
+            "Slug": "Deep-Chasm-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1672,6 +1909,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "When faced with the option to travel, the players must travel to Deep Chasm if there is no active location."
                 ],
                 "Shadow": null,
@@ -1690,10 +1928,15 @@
             "Quantity": 2,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "e4432b9b-4969-44be-937f-ca2728d57ad4",
+            "RingsDbCardId": "18046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Denizen of the Deep",
+            "Slug": "Denizen-of-the-Deep-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1723,10 +1966,15 @@
             "Quantity": 2,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "4daa4ff5-625a-4949-aef5-fb1349e249fd",
+            "RingsDbCardId": "18047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Afraid of the Dark",
+            "Slug": "Afraid-of-the-Dark-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1756,10 +2004,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "3566b6df-a1cd-4417-b202-27e0ecc0a966",
+            "RingsDbCardId": "18048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stone-troll",
+            "Slug": "Stone-troll-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1798,10 +2051,15 @@
             "Quantity": 2,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hobgoblin",
+            "Slug": "Hobgoblin-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1840,10 +2098,15 @@
             "Quantity": 2,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "b7431f72-5157-4a6d-a6c0-86bcf88f2669",
+            "RingsDbCardId": "18050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Werewolf",
+            "Slug": "Werewolf-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1882,10 +2145,15 @@
             "Quantity": 2,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "5bcec205-7f6b-44b9-bb4d-9addde372316",
+            "RingsDbCardId": "18051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Giant Spider",
+            "Slug": "Giant-Spider-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1924,10 +2192,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "9b3c0e2a-c874-41b7-9ccd-2798a4884b34",
+            "RingsDbCardId": "18052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Bats",
+            "Slug": "Black-Bats-TWoR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1949,6 +2222,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While the active location has the Dark trait, Black Bats cannot take damage.",
                     "Shadow: If the active location has the Dark trait, attacking enemy cannot take damage this phase."
                 ],
@@ -1968,10 +2242,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "f5d539b2-0b65-493d-8493-5122a0761eed",
+            "RingsDbCardId": "18053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Tunnel",
+            "Slug": "Dark-Tunnel-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1991,6 +2270,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "While Dark Tunnel is in the staging area, progress cannot be placed on Dark locations in the staging area."
                 ],
                 "Shadow": null,
@@ -2009,10 +2289,15 @@
             "Quantity": 4,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "14f41245-2616-4358-a8bb-6b9bcf83cf56",
+            "RingsDbCardId": "18054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forked Passage",
+            "Slug": "Forked-Passage-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2032,6 +2317,7 @@
                     "Deep."
                 ],
                 "Text": [
+                    "Deep.",
                     "Response: When you travel to Forked Passage (before resolving the deep keyword), raise each player’s threat by 2 to look at the top 2 cards of the Caves deck. Put 1 on top of the Caves deck and put the other on the bottom. Then, add Forked Passage to the victory display."
                 ],
                 "Shadow": null,
@@ -2050,10 +2336,15 @@
             "Quantity": 2,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "1062dfa2-d821-474d-9a8f-9eda79753222",
+            "RingsDbCardId": "18055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Places",
+            "Slug": "Dark-Places-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2083,10 +2374,15 @@
             "Quantity": 3,
             "Artist": "Igor Burlakov",
             "HasErrata": false,
+            "OctgnGuid": "f945cfde-271f-4e93-8eed-93eaaf0fb408",
+            "RingsDbCardId": "18056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eyes in the Dark",
+            "Slug": "Eyes-in-the-Dark-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2100,6 +2396,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each player must choose: either raise your threat by 1 for each questing character you control, or discard a questing character you control."
                 ],
                 "Shadow": "Shadow: If this attack is undefended, discard an ally you control.",
@@ -2118,10 +2415,15 @@
             "Quantity": 3,
             "Artist": "Sam Lamont",
             "HasErrata": false,
+            "OctgnGuid": "cfddac0a-3055-46bd-af9a-8bdda8c9abb6",
+            "RingsDbCardId": "18057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon Breath",
+            "Slug": "Dragon-Breath-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2137,6 +2439,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a Dragon enemy. (Counts as a Condition attachment with the text: `Limit 1 per enemy. Forced: When attached enemy attacks you, deal 1 damage to each character you control. Then, discard Dragon Breath.`)"
                 ],
                 "Shadow": null,
@@ -2155,10 +2458,15 @@
             "Quantity": 2,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "6220ef6b-f314-4cf9-92df-f9551d6cfde0",
+            "RingsDbCardId": "18058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dragon Scales",
+            "Slug": "Dragon-Scales-TWoR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2174,6 +2482,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to a Dragon enemy. (Counts as a Condition attachment with the text: `Limit 1 per enemy. Forced: When attached enemy would take any amount of damage, cancel all of that damage. Then, discard Dragon Scales.`)"
                 ],
                 "Shadow": null,
@@ -2192,10 +2501,15 @@
             "Quantity": 2,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "51b186ac-ddf5-4909-a484-20d273be27c9",
+            "RingsDbCardId": "18059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost Armory",
+            "Slug": "Lost-Armory-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2232,10 +2546,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "286a5206-9ebb-4ec4-a349-2960ccb2f669",
+            "RingsDbCardId": "18060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Treasury",
+            "Slug": "Ancient-Treasury-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2272,10 +2591,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "c0c522b2-5f5c-45a0-b6fc-e05c8bb835d8",
+            "RingsDbCardId": "18061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Frightful Den",
+            "Slug": "Frightful-Den-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2313,10 +2637,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "9e490f6c-3873-4cd7-8c80-98a6640b9043",
+            "RingsDbCardId": "18062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lightless Grotto",
+            "Slug": "Lightless-Grotto-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2354,10 +2683,15 @@
             "Quantity": 1,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "acbf7fd1-9f93-4d0b-b18a-8f0854e028f5",
+            "RingsDbCardId": "18063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crumbling Cavern",
+            "Slug": "Crumbling-Cavern-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2395,10 +2729,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "9a5884f4-c2a8-4696-97b5-f0c5c5e92b6d",
+            "RingsDbCardId": "18064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Underground Lake",
+            "Slug": "Underground-Lake-TWoR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2437,10 +2776,15 @@
             "Quantity": 1,
             "Artist": "Nele Diel",
             "HasErrata": false,
+            "OctgnGuid": "8be23a53-ba85-4db3-8d1f-821da0323cbf",
+            "RingsDbCardId": "18065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Traveling North",
+            "Slug": "Traveling-North-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2448,7 +2792,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traveling-North-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2461,8 +2807,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traveling-North-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2475,7 +2824,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey up the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2483,10 +2838,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "b4b0bdc8-5edb-40c9-a9ca-dac60fe7cb38",
+            "RingsDbCardId": "18066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Woodmen Under Attack",
+            "Slug": "Woodmen-Under-Attack-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2494,7 +2854,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Woodmen-Under-Attack-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2505,8 +2867,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Woodmen-Under-Attack-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2521,7 +2886,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey up the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2529,10 +2900,15 @@
             "Quantity": 1,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "b77a9e58-9a88-4aec-9029-8d84269b0a3c",
+            "RingsDbCardId": "18067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Passage of the Ford",
+            "Slug": "The-Passage-of-the-Ford-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2540,7 +2916,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Passage-of-the-Ford-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2551,8 +2929,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Passage-of-the-Ford-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2567,7 +2948,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey up the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2575,10 +2962,15 @@
             "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "2d1d915f-f889-4100-81b7-910ce93edff7",
+            "RingsDbCardId": "18068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Woodmen Village",
+            "Slug": "Woodmen-Village-TWoR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2614,10 +3006,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haldan",
+            "Slug": "Haldan-TWoR",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -2657,10 +3054,15 @@
             "Quantity": 1,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ambushed at Night",
+            "Slug": "Ambushed-at-Night-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2668,7 +3070,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Ambushed-at-Night-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2679,8 +3083,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Ambushed-at-Night-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2694,7 +3101,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2702,10 +3115,15 @@
             "Quantity": 1,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "504d7fe3-a3a1-4e2c-b59d-dd391d370a20",
+            "RingsDbCardId": "18071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Spiders of Mirkwood",
+            "Slug": "Spiders-of-Mirkwood-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2713,7 +3131,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Spiders-of-Mirkwood-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2724,8 +3144,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Spiders-of-Mirkwood-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2739,7 +3162,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2747,10 +3176,15 @@
             "Quantity": 1,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "48c82a72-ad2f-4452-9906-b5505caf27e1",
+            "RingsDbCardId": "18072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Orcs",
+            "Slug": "Dol-Guldur-Orcs-C-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2758,7 +3192,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Dol-Guldur-Orcs-C-2C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2769,8 +3205,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Dol-Guldur-Orcs-C-2D.jpg",
+                "Stats": {
+                    "StageNumber": "2D",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2784,7 +3223,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "C"
             },
@@ -2792,10 +3237,15 @@
             "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Carried Away",
+            "Slug": "Carried-Away-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2803,7 +3253,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Carried-Away-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2814,8 +3266,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Carried-Away-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2830,7 +3285,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2838,10 +3299,15 @@
             "Quantity": 1,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "4ee0293f-5c0c-4f7a-bc10-680d84eb9214",
+            "RingsDbCardId": "18074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Truly Lost",
+            "Slug": "Truly-Lost-C-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2849,7 +3315,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Truly-Lost-C-3C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2860,8 +3328,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Truly-Lost-C-3D.jpg",
+                "Stats": {
+                    "StageNumber": "3D",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2876,7 +3347,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "C"
             },
@@ -2884,10 +3361,15 @@
             "Quantity": 1,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Forest of Great Fear",
+            "Slug": "The-Forest-of-Great-Fear-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2895,7 +3377,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Forest-of-Great-Fear-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2906,8 +3390,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Forest-of-Great-Fear-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2922,7 +3409,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -2930,10 +3423,15 @@
             "Quantity": 1,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "e3fed535-98f8-461d-a092-7ada49be2550",
+            "RingsDbCardId": "18076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Escape from Taur-nu-fuin",
+            "Slug": "Escape-from-Taur-nu-fuin-C-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2941,7 +3439,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Escape-from-Taur-nu-fuin-C-4C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2952,8 +3452,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Escape-from-Taur-nu-fuin-C-4D.jpg",
+                "Stats": {
+                    "StageNumber": "4D",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2967,7 +3470,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Lost in Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dark Woods",
+                    "Gathering Gloom",
+                    "Passage Through Mirkwood",
+                    "Spiders of Mirkwood",
+                    "Dol Guldur Orcs"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "C"
             },
@@ -2975,10 +3484,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "18077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Iron Hills",
+            "Slug": "The-Iron-Hills-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2986,7 +3500,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Iron-Hills-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2997,8 +3513,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Iron-Hills-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3012,7 +3531,14 @@
             "EncounterInfo": {
                 "EncounterSet": "The King's Quest",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -3020,10 +3546,15 @@
             "Quantity": 1,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "e3e98df7-720f-49b8-995a-370961706cec",
+            "RingsDbCardId": "18078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Lower Depths",
+            "Slug": "The-Lower-Depths-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3031,7 +3562,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Lower-Depths-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3042,8 +3575,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Lower-Depths-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3058,7 +3594,14 @@
             "EncounterInfo": {
                 "EncounterSet": "The King's Quest",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3066,10 +3609,15 @@
             "Quantity": 1,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "e38f5043-50b5-4b2a-a23f-f786106c4055",
+            "RingsDbCardId": "18079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Fire Worm",
+            "Slug": "The-Fire-Worm-TWoR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3077,7 +3625,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Fire-Worm-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3088,8 +3638,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Fire-Worm-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3104,7 +3657,14 @@
             "EncounterInfo": {
                 "EncounterSet": "The King's Quest",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -3112,6 +3672,10 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "bfae3bf9-24e1-46af-b202-fb6c676a5dd9",
+            "RingsDbCardId": "18080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,0 +1,518 @@
+{
+    "Name": "The Drowned Ruins Nightmare",
+    "Slug": "The-Drowned-Ruins-Nightmare",
+    "Abbreviation": "TDRN",
+    "Cycle": "NIGHTMARE",
+    "SetType": "Nightmare_Expansion",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "The Drowned Ruins Nightmare",
+            "Slug": "The-Drowned-Ruins-Nightmare-TDRN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/The-Drowned-Ruins-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.",
+                    "While the active location is Underwater, encounter card effects cannot be canceled.",
+                    "Forced: When the `when revealed` effect on state 2A resolves, Captain Sahír makes an immediate attack against each player in turn order, instead of only the first player."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Drowned Ruins scenario.",
+                    "Remove the following card, in the specified quantities, from the standard encounter deck:",
+                    "1x Cursed Caverns / Twisting Hollow",
+                    "1x Undersea Grotto / Dark Abyss",
+                    "2x Throngs of Unfaithful",
+                    "2x Soulless Cadaver",
+                    "2x Drowned Cave",
+                    "3x Into the Abyss",
+                    "1x Tangling and Grasping",
+                    "2x Sea-scorpion",
+                    "2x Cave Eel",
+                    "Then, shuffle the encounter card in this Nightmare Deck into the remainder of the standard The Drowned Ruins encounter deck.",
+                    "Finally, flip this setup card over and placr it next to the quest deck. Its effect remains active throughout the game, which is now ready to being."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Overgrown Passage",
+            "Slug": "Overgrown-Passage-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Overgrown-Passage.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Grotto."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Overgrown Passage is the active location, heroes cannot gain resources.",
+                    "Response: After you travel to Overgrown Passage, you may flip it to its Underwater side."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sharp Precipice",
+            "Slug": "Sharp-Precipice-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Sharp-Precipice.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Grotto."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When faced with the option to travel, if you do not choose to travel to a location name Sharp Precipice, you must raise each player`s threat by 3.",
+                    "Forced: After you travel to Sharp Precipice, flip it to its Underwater side."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Jagged Cavern",
+            "Slug": "Jagged-Cavern-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Jagged-Cavern.jpg",
+                "Stats": {
+                    "Threat": "6",
+                    "QuestPoints": "8"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Underwater."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "While Jagged Cavern is the active location, the first treachery card revealed each round gains doomed 1 and surge.",
+                    "Forced: If Jagged Cavern is the active location at the end of the quest phase, each player must discard each card in his or her hand. Then, you may flip Jagged Cavern to it Grotto side."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Submerged Crawlway",
+            "Slug": "Submerged-Crawlway-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Submerged-Crawlway.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "16"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Underwater."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "While Submerged Crawlway is the active location, deal each engaged enemy 1 additional shadow card at the beginning of the combat phase.",
+                    "Forced: If Submerged Crawlway is the active location at the end of the quest phase, each player must search the encounter deck and discard pile for an enemy and add it to the staging area. Then, you may flip Submerged Crawlway to its Grotto side."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Submerged Dead",
+            "Slug": "Submerged-Dead-TDRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Submerged-Dead.jpg",
+                "Stats": {
+                    "EngagementCost": "26",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Undead."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If the active location is Underwater, return each other Submerged Dead in the encounter discard pule to the staging area."
+                ],
+                "Shadow": "Shadow: If the active location is Underwater, put Submerged Dead into play in the staging area.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 4,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Great Shark",
+            "Slug": "Great-Shark-TDRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Great-Shark.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "4",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Great Shark gets +1 Threat, +1 Attack, and +1 Defense for each Underwater location in the victory display.",
+                    "Great Shark cannot be engaged or damaged unless the active location is Underwater.",
+                    "Forced: At the beginning of the encounter phase, return Great Shark to the staging area unless the active location is Underwater."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Undersea Cave Troll",
+            "Slug": "Undersea-Cave-Troll-TDRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Undersea-Cave-Troll.jpg",
+                "Stats": {
+                    "EngagementCost": "36",
+                    "Threat": "3",
+                    "Attack": "7",
+                    "Defense": "1",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "For each point of excess damage dealt by Undersea Cave Troll (damage that has been dealt beyond the remaining hit points of the character damaged by its attack) discard 1 resource from one of your objective-allies or from one of your heroes` resource pools."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Flooded Caverns",
+            "Slug": "Flooded-Caverns-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Flooded-Caverns.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Underwater."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Flooded Caverns is in the staging area and the active location is Underwater, add that location`s Threat to the Threat of Flooded Caverns.",
+                    "Forced: If Flooed Caverns is the active location at the end of the quest phase, return an Underwater location from the victory display to the bottom of the Grotto deck, Grotto side faceup. Then, return Flooded Caverns to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Pit Into the Depths",
+            "Slug": "Pit-Into-the-Depths-TDRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Pit-Into-the-Depths.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Until the end of the quest phase, each ally gets -1 Willpower. If the active location has the Grotto trait, remove all progress from it and flip it to its Underwater side."
+                ],
+                "Shadow": "Shadow: If the active location is Underwater, treat this attack as if it were undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sulfur Cloud",
+            "Slug": "Sulfur-Cloud-TDRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins-Nightmare/Sulfur-Cloud.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If the active location is Underwater, choose a number and raise each player`s threat by that number. No more than X progress can be placed on Underwater locations this phase, where X is twice the chosen number. If the active location is not Underwater, Sulfur Cloud gains surge."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 11,
+            "Quantity": 2,
+            "Artist": "Logan Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

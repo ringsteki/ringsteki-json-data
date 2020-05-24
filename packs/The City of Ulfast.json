@@ -1,255 +1,14 @@
 {
     "Name": "The City of Ulfast",
+    "Slug": "The-City-of-Ulfast",
+    "Abbreviation": "TCoU",
     "Cycle": "Vengeance of Mordor",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
-            "Title": "Lothíriel",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Lothíriel.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "3",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Éomer is in play, Lothíriel gains the Rohan trait.",
-                    "Response: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 27,
-            "Quantity": 1,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Angbor the Fearless",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Angbor-the-Fearless.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While your threat is 40 or higher, Angbor the Fearless gets +2 Attack and does not exhaust to quest."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Four thousands I sent marching from Pelargir through Lossarnach two days ago; and Angbor the fearless rides before them.`\r\n-Aragorn, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 28,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Need Drives Them",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Need-Drives-Them.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Each player whose threat is 40 or higher readies all characters he controls."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 29,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Keen Longbow",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Keen-Longbow.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Lore hero. Limit 1 per hero.",
-                    "Restricted.",
-                    "Attached hero gains ranged.",
-                    "Response: After attached hero is declared an as attacker against an enemy, discard up to 3 cards from your hand to deal 1 damage to that enemy for each card discarded this way."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 31,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "War Axe",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/War-Axe.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Tactics character. Limit 1 per character. Restricted.",
-                    "Attached characters gets +1 Attack for each attachment it has with the restricted keyword."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Gimli Glóin`s son, have you your axe ready?`\r\n-Éomer, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Woodland Sentry",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Woodland-Sentry.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you play Woodland Sentry from your hand, choose an enemy or location in play. If there is a copy of that card in the victory display, discard the chosen card."
-                ],
-                "Shadow": null,
-                "FlavorText": "In the Wide World the Wood-elves lingered in the twilight of our Sun and Moon but loved best the stars...\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 30,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Knight of Belfalas",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Knight-of-Belfalas.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Knight of Belfalas enters play, return a Gondor ally from your discard pile to your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "The mounted knights returned, and at their rear the banner of Dol Amroth...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast",
-            "EncounterInfo": null,
-            "Number": 34,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
             "Title": "Forth, The Three Hunters!",
+            "Slug": "Forth-The-Three-Hunters-TCoU",
             "IsUnique": false,
             "CardType": "Contract",
             "CardSubType": "None",
@@ -287,10 +46,297 @@
             "Quantity": 1,
             "Artist": "Justin Gerard",
             "HasErrata": false,
+            "OctgnGuid": "4a0d8846-9a30-455e-9bf7-a2f5c77b787b",
+            "RingsDbCardId": "22049",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 80,
+            "Categories": null
+        },
+        {
+            "Title": "Lothíriel",
+            "Slug": "Lothiriel-TCoU",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Lothíriel.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Éomer is in play, Lothíriel gains the Rohan trait.",
+                    "Response: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 27,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "4cca8984-2e4e-4df2-ac96-86af18b2a961",
+            "RingsDbCardId": "22027",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 50,
+            "Categories": null
+        },
+        {
+            "Title": "War Axe",
+            "Slug": "War-Axe-TCoU",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/War-Axe.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Tactics character. Limit 1 per character. Restricted.",
+                    "Attached characters gets +1 Attack for each attachment it has with the restricted keyword."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Gimli Glóin`s son, have you your axe ready?`\r\n-Éomer, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "6f02e0de-b54d-4c13-97b8-2f3a53b3aa77",
+            "RingsDbCardId": "22032",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 147,
+            "Categories": null
+        },
+        {
+            "Title": "Horn of the Mark",
+            "Slug": "Horn-of-the-Mark-TCoU",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Horn-of-the-Mark.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Rohan hero or Merry. Restricted.",
+                    "Response: When a character leaves play, if that character shares at least one trait with the attached hero, exhaust Horn of the Mark to draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Then Éowyn gave to Merry an ancient horn, small but cunningly wrought all of fair silver with a baldric of green.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 35,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "52a0f137-da57-4c41-b455-9671aecd5298",
+            "RingsDbCardId": "22035",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 119,
+            "Categories": null
+        },
+        {
+            "Title": "Knight of Belfalas",
+            "Slug": "Knight-of-Belfalas-TCoU",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Knight-of-Belfalas.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Knight of Belfalas enters play, return a Gondor ally from your discard pile to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "The mounted knights returned, and at their rear the banner of Dol Amroth...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "42cafa71-a9c1-4e66-85b0-83072c54b106",
+            "RingsDbCardId": "22034",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 94,
+            "Categories": null
+        },
+        {
+            "Title": "Angbor the Fearless",
+            "Slug": "Angbor-the-Fearless-TCoU",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Angbor-the-Fearless.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While your threat is 40 or higher, Angbor the Fearless gets +2 Attack and does not exhaust to quest."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Four thousands I sent marching from Pelargir through Lossarnach two days ago; and Angbor the fearless rides before them.`\r\n-Aragorn, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 28,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "0c65af6a-7038-476b-9318-a024cc94c8b6",
+            "RingsDbCardId": "22028",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 73,
+            "Categories": null
+        },
+        {
+            "Title": "Woodland Sentry",
+            "Slug": "Woodland-Sentry-TCoU",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Woodland-Sentry.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Woodland Sentry from your hand, choose an enemy or location in play. If there is a copy of that card in the victory display, discard the chosen card."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the Wide World the Wood-elves lingered in the twilight of our Sun and Moon but loved best the stars...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "8f6ea5ad-8075-463e-96bc-37e383e39e6b",
+            "RingsDbCardId": "22030",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 64,
+            "Categories": null
+        },
+        {
+            "Title": "Strength and Courage",
+            "Slug": "Strength-and-Courage-TCoU",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Strength-and-Courage.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to the hero with The One Ring.",
+                    "Limit 1 per hero. Attached hero gets +1 Attack.",
+                    "Response: After attached hero is declared as an attacker, exhaust The One Ring and raise your threat by 1 to double attached hero`s printed Attack for this attack."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 33,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "fbf90e5c-4d15-499c-98c2-f8e63855fb69",
+            "RingsDbCardId": "22033",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 46,
             "Categories": null
         },
         {
             "Title": "Host of Galadhrim",
+            "Slug": "Host-of-Galadhrim-TCoU",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -316,6 +362,835 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "70c370e2-ae8e-4dff-bf38-619e9c6d0ce7",
+            "RingsDbCardId": "22036",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 35,
+            "Categories": null
+        },
+        {
+            "Title": "Keen Longbow",
+            "Slug": "Keen-Longbow-TCoU",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Keen-Longbow.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Lore hero. Limit 1 per hero.",
+                    "Restricted.",
+                    "Attached hero gains ranged.",
+                    "Response: After attached hero is declared an as attacker against an enemy, discard up to 3 cards from your hand to deal 1 damage to that enemy for each card discarded this way."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 31,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "d06a7a16-808a-47c2-a87d-a8ee61fa5545",
+            "RingsDbCardId": "22031",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 22,
+            "Categories": null
+        },
+        {
+            "Title": "Need Drives Them",
+            "Slug": "Need-Drives-Them-TCoU",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Need-Drives-Them.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Each player whose threat is 40 or higher readies all characters he controls."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "3dc9ec01-71b6-48fd-8fe4-0c8fa2161fe3",
+            "RingsDbCardId": "22029",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 7,
+            "Categories": null
+        },
+        {
+            "Title": "City Guard",
+            "Slug": "City-Guard-TCoU",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/City-Guard.jpg",
+                "Stats": {
+                    "EngagementCost": "45",
+                    "Threat": "X",
+                    "Attack": "9",
+                    "Defense": "4",
+                    "HitPoints": "20"
+                },
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [
+                    "Indestructible.",
+                    "Victory 5."
+                ],
+                "Text": [
+                    "Immune to player card effects. Indestructible.",
+                    "X is 1 more than the number of resources on the main quest.",
+                    "City Guard cannot leave the staging area but is considered to be engaged with each player whose threat is equal to or higher than its engagement cost."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 37,
+            "Quantity": 1,
+            "Artist": "Kamila Szutenberg",
+            "HasErrata": false,
+            "OctgnGuid": "3043df29-f8e9-426e-bd14-5cb720ed8f10",
+            "RingsDbCardId": "22037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ulfast Sentry",
+            "Slug": "Ulfast-Sentry-TCoU",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Ulfast-Sentry.jpg",
+                "Stats": {
+                    "EngagementCost": "25",
+                    "Threat": "2",
+                    "Attack": "X",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is 1 more than the number of resources on the main quest.",
+                    "Forced: After Ulfast Sentry engages you, either place 1 resource on the main quest or Ulfast Sentry makes an attack."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 38,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "c2720938-450b-4017-9ac3-f3130164bdf9",
+            "RingsDbCardId": "22038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The King's Elite",
+            "Slug": "The-King's-Elite-TCoU",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/The-King's-Elite.jpg",
+                "Stats": {
+                    "EngagementCost": "30",
+                    "Threat": "3",
+                    "Attack": "5",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have player card attachments.",
+                    "Forced: When The King`s Elite attacks, place 1 resource on the main quest."
+                ],
+                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 39,
+            "Quantity": 2,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": "33ed5e88-f3ba-4970-9e4a-fbb8c2a6d959",
+            "RingsDbCardId": "22039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ulchor's Agent",
+            "Slug": "Ulchor's-Agent-TCoU",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Ulchor's-Agent.jpg",
+                "Stats": {
+                    "EngagementCost": "32",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Mordor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Raise each player`s threat by 3."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, raise each player`s threat by 1.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 40,
+            "Quantity": 2,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "60b96a86-77b5-4184-9703-f55b8c857eb9",
+            "RingsDbCardId": "22040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The King's Lawn",
+            "Slug": "The-King's-Lawn-TCoU",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/The-King's-Lawn.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While The King`s Lawn is in the staging area, each player must raise his threat by 1 additional point during the refresh phase.",
+                    "Travel: Place 1 resource on the main quest."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 41,
+            "Quantity": 2,
+            "Artist": "Freq Agelii",
+            "HasErrata": false,
+            "OctgnGuid": "a7ae0add-ff9b-4976-8932-cff6d6e9a4dc",
+            "RingsDbCardId": "22041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Guarded Archway",
+            "Slug": "Guarded-Archway-TCoU",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Guarded-Archway.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Guarded Archway is in the staging area, each player engaged with City Guard cannot reduce his threat.",
+                    "Travel: City Guard makes an attack against the first player."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 42,
+            "Quantity": 3,
+            "Artist": "Michael Edward Smith",
+            "HasErrata": false,
+            "OctgnGuid": "f6f56327-cc71-458c-bcdb-51ca6dab2fa1",
+            "RingsDbCardId": "22042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Crowded Market",
+            "Slug": "Crowded-Market-TCoU",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Crowded-Market.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Crowded Market is the active location, City Guard gets +20 engagement cost.",
+                    "Travel: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until an enemy is discarded. Add that enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 43,
+            "Quantity": 2,
+            "Artist": "Kamila Szutenberg",
+            "HasErrata": false,
+            "OctgnGuid": "b07cec11-452d-423a-b33e-3f9345c9f6e1",
+            "RingsDbCardId": "22043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Streets of Ulfast",
+            "Slug": "Streets-of-Ulfast-TCoU",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Streets-of-Ulfast.jpg",
+                "Stats": {
+                    "Threat": "X",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is 1 more than the number of resources on the main quest.",
+                    "Travel: Raise each player`s threat by X."
+                ],
+                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 44,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "af3543c4-f30f-4522-bbb7-5ef039344fdf",
+            "RingsDbCardId": "22044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Extra Vigil",
+            "Slug": "Extra-Vigil-TCoU",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Extra-Vigil.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Attach to City Guard. (Counts as a Condition attachment with the text: `City Guard gets -10 engagement cost. Response: After you attack and damage City Guard, raise your threat by 1 and discard Extra Vigil.`)"
+                ],
+                "Shadow": "Shadow: If attacking enemy is City Guard, attach Extra Vigil to it.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 45,
+            "Quantity": 2,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "e4ad5220-6251-4c65-8206-ab656540cc3b",
+            "RingsDbCardId": "22045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "We've Been Seen",
+            "Slug": "We've-Been-Seen-TCoU",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/We've-Been-Seen.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must choose: either City Guard makes an attack against you, or raise your threat by X, where X is 1 more than the number of allies you control."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, excess damage must be assigned among characters you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 46,
+            "Quantity": 3,
+            "Artist": "Jon Bosco",
+            "HasErrata": false,
+            "OctgnGuid": "92d8276b-0839-44b4-b7ce-e18e135fe407",
+            "RingsDbCardId": "22046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Patrolling the Streets",
+            "Slug": "Patrolling-the-Streets-TCoU",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Patrolling-the-Streets.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Place 1 resource on the main quest. Then, either progress cannot be placedon the current quest this phase, or raise each player`s threat by X, where X is 1 more than the number of resources on the main quest."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each resource on the main quest.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 47,
+            "Quantity": 3,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": "379415fb-39c8-4cb8-aa19-ac54c46bcb4a",
+            "RingsDbCardId": "22047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Cat and Mouse",
+            "Slug": "Cat-and-Mouse-TCoU",
+            "IsUnique": false,
+            "CardType": "Encounter_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Cat-and-Mouse.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Victory 10."
+                ],
+                "Text": [
+                    "Each enemy in the staging area gets -10 engagement cost.",
+                    "Response: After Cat and Mouse is defeated, each player may discard a non-unique enemy engaged with him."
+                ],
+                "Shadow": null,
+                "FlavorText": "Too many Easterlings have noted your presence in their city. Now you must throw them off your trail if you are to continue your pursuit of Ulchor unnoticed."
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": null,
+            "Number": 48,
+            "Quantity": 1,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "fdf01cb8-5798-43f3-adbd-e2870c53f0cf",
+            "RingsDbCardId": "22048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Searching for Ulchor",
+            "Slug": "Searching-for-Ulchor-TCoU",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Searching-for-Ulchor-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add City Guard to the staging area. Each player adds a different location to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "After his defeat in Dorwinion. Ulchor fled east with the remnants of his army. You have pursued him to the City of Ulfast on the southern shore of the Sea of Rhûn. Determined to bring the villain to justice, you sneak into the city at night and begin searching for him."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Searching-for-Ulchor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "City Guard cannot have more than 5 damage, and it gets -5 engagement cost for each resource here.",
+                    "Forced: At the end of the round, place 1 resource here."
+                ],
+                "Shadow": null,
+                "FlavorText": "Ulfast is a city of Easterlings, and they do not take kindly to intruders. You must take care to avoid the city guard as you search about."
+            },
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "Under Guard"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 50,
+            "Quantity": 1,
+            "Artist": "Freq Agelii",
+            "HasErrata": false,
+            "OctgnGuid": "e0fd5147-e1aa-42c3-972f-5cf0c93a6716",
+            "RingsDbCardId": "22050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Trying to Blend In",
+            "Slug": "Trying-to-Blend-In-TCoU",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Trying-to-Blend-In-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must choose: either raise your threat by 5, or reveal an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "So far your search has revealed nothing of Ulchor`s whereabouts, so you attempt to blend in with the city populace in order to learn what you can. It is a risky but necessary decision."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Trying-to-Blend-In-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "City Guard cannot have more than 10 damage, and it gets -5 engagement cost for each resource here.",
+                    "Forced: At the end of the round, place 1 resource here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "Under Guard"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 51,
+            "Quantity": 1,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "7f5e53ea-a9a7-4a7d-b5cb-06924fdde2c3",
+            "RingsDbCardId": "22051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Drawing Attention",
+            "Slug": "Drawing-Attention-TCoU",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Drawing-Attention-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must choose: either raise your threat by 5, or City Guard makes an immediate attack against you."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve learned that Ulchor seeks an audience with the King of Ulfast, but your attempts to blend in with the locals have backfired: the city guard has been alerted to your presence!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Drawing-Attention-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "City Guard cannot have more than 15 damage, and it gets -5 engagement cost for each resource here.",
+                    "Forced: At the end of the round, place 1 resource here."
+                ],
+                "Shadow": null,
+                "FlavorText": "You must escape the notice of the city guard if you hope to reach Ulchor."
+            },
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "Under Guard"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 52,
+            "Quantity": 1,
+            "Artist": "Borja Pindado",
+            "HasErrata": false,
+            "OctgnGuid": "59314974-a07d-4024-9951-40736209b6b9",
+            "RingsDbCardId": "22052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ulchor's Trap",
+            "Slug": "Ulchor's-Trap-TCoU",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Ulchor's-Trap-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded. X is the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have reached the King`s palace only to discover the city guard waiting for you. Ulchor must have warned the King that you were coming and urged him to lay this trap for you. It will be a bitter fight if you are to escape."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast/Ulchor's-Trap-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "City Guard cannot have more than 20 damage, and it gets -5 engagement cost for each resource here.",
+                    "Forced: At the end of the round, place 1 resource here.",
+                    "This stage cannot be defeated while City Guardhas hit points remaining. When this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "You must escape the notice of the city guard if you hope to reach Ulchor."
+            },
+            "CardSet": "The City of Ulfast",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Ulfast",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "Under Guard"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 53,
+            "Quantity": 1,
+            "Artist": "Mauro Dal Bo",
+            "HasErrata": false,
+            "OctgnGuid": "1b0de48c-a010-490f-b0e3-0ced635b3b3b",
+            "RingsDbCardId": "22053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,161 @@
 {
     "Name": "Core Set",
+    "Slug": "Core-Set",
+    "Abbreviation": "Core",
     "Cycle": null,
     "SetType": "Core",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Gandalf",
+            "Slug": "Gandalf-Core",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Gandalf.jpg",
+                "Stats": {
+                    "ResourceCost": "5",
+                    "Willpower": "4",
+                    "Attack": "4",
+                    "Defense": "4",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Istari."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "At the end of the round, discard Gandalf from play.",
+                    "Response: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 73,
+            "Quantity": 4,
+            "Artist": "Lucas Graciano",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9073",
+            "RingsDbCardId": "01073",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 18959,
+            "Categories": null
+        },
+        {
+            "Title": "A Test of Will",
+            "Slug": "A-Test-of-Will-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Test-of-Will.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: Cancel the `when revealed` effects of a card that was just revealed from the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`There is naught that you can do, other than to resist, with hope or without it`\r\n-Elrond, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 50,
+            "Quantity": 2,
+            "Artist": "Ryan Barger",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9050",
+            "RingsDbCardId": "01050",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 17459,
+            "Categories": null
+        },
+        {
+            "Title": "Steward of Gondor",
+            "Slug": "Steward-of-Gondor-Core",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Steward-of-Gondor.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero. Attached hero gains the Gondor trait.",
+                    "Action: Exhaust Steward of Gondor to add 2 resources to attached hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "`It was commanded yesterday.` -Denethor, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 2,
+            "Artist": "Empty Room Studios",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9026",
+            "RingsDbCardId": "01026",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 14072,
+            "Categories": null
+        },
+        {
+            "Title": "Sneak Attack",
+            "Slug": "Sneak-Attack-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Sneak-Attack.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Put 1 ally card into play from your hand. At the end of the phase, if that ally is still in play, return it to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 2,
+            "Artist": "Winona Nelson",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9023",
+            "RingsDbCardId": "01023",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 11980,
+            "Categories": null
+        },
+        {
             "Title": "Éowyn",
+            "Slug": "Eowyn-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -37,10 +188,52 @@
             "Quantity": 1,
             "Artist": "Gabrielle Portal",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "01007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1919,
+            "Categories": null
+        },
+        {
+            "Title": "Unexpected Courage",
+            "Slug": "Unexpected-Courage-Core",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Unexpected-Courage.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Action: Exhaust Unexpected Courage to ready attached hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Here am I, naughty little fly;\r\nyou are fat and lazy.\r\nYou cannot trap me, though you try,\r\nin your cobwebs crazy.`\r\n-Bilbo Baggins, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 57,
+            "Quantity": 1,
+            "Artist": "Angela Sung",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9057",
+            "RingsDbCardId": "01057",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 11579,
             "Categories": null
         },
         {
             "Title": "Legolas",
+            "Slug": "Legolas-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -64,6 +257,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Legolas participates in an attack that destroys an enemy, place 2 progress tokens on the current quest."
                 ],
                 "Shadow": null,
@@ -76,10 +270,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9005",
+            "RingsDbCardId": "01005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1209,
             "Categories": null
         },
         {
             "Title": "Théodred",
+            "Slug": "Theodred-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -113,49 +312,15 @@
             "Quantity": 1,
             "Artist": "Jeff Himmelman",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Aragorn",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Aragorn.jpg",
-                "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Noble.",
-                    "Ranger."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I am Aragorn son of Arathorn; and if by life or death I can save you, I will.`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "John Stanko",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9002",
+            "RingsDbCardId": "01002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1075,
             "Categories": null
         },
         {
             "Title": "Beravor",
+            "Slug": "Beravor-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -188,10 +353,94 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9012",
+            "RingsDbCardId": "01012",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1070,
+            "Categories": null
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Noble.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.",
+                    "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am Aragorn son of Arathorn; and if by life or death I can save you, I will.`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "John Stanko",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9001",
+            "RingsDbCardId": "01001",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1064,
+            "Categories": null
+        },
+        {
+            "Title": "Feint",
+            "Slug": "Feint-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Feint.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Choose an enemy engaged with a player. That enemy cannot attack that player this phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. -The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 2,
+            "Artist": "Lius Lasahido",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9034",
+            "RingsDbCardId": "01034",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 10963,
             "Categories": null
         },
         {
             "Title": "Gimli",
+            "Slug": "Gimli-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -225,271 +474,15 @@
             "Quantity": 1,
             "Artist": "Tony Foti",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Thalin",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Thalin.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "There hammer on the anvil smote,\r\nThere chisel clove, and graver wrote;\r\nThere forged was blade, and bound was hilt;\r\nThe delver mined, the mason built.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 6,
-            "Quantity": 1,
-            "Artist": "Jen Zee",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Denethor",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Denethor.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "3",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Noble.",
-                    "Steward."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Denethor to look at the top card of the encounter deck. You may move that card to the bottom of the deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`And the lord Denethor is unlike other men: he sees far.`\r\n-Beregond, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 1,
-            "Artist": "Tiziano Baracchi",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gandalf",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Gandalf.jpg",
-                "Stats": {
-                    "ResourceCost": "5",
-                    "Willpower": "4",
-                    "Attack": "4",
-                    "Defense": "4",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Istari."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "At the end of the round, discard Gandalf from play.",
-                    "Response: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 73,
-            "Quantity": 4,
-            "Artist": "Lucas Graciano",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "A Test of Will",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Test-of-Will.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Response: Cancel the `when revealed` effects of a card that was just revealed from the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`There is naught that you can do, other than to resist, with hope or without it`\r\n-Elrond, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 50,
-            "Quantity": 2,
-            "Artist": "Ryan Barger",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Steward of Gondor",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Steward-of-Gondor.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero. Attached hero gains the Gondor trait.",
-                    "Action: Exhaust Steward of Gondor to add 2 resources to attached hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "`It was commanded yesterday.` -Denethor, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 26,
-            "Quantity": 2,
-            "Artist": "Empty Room Studios",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Sneak Attack",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Sneak-Attack.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Put 1 ally card into play from your hand. At the end of the phase, if that ally is still in play, return it to your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "There is a seed of courage hidden (often deeply, it is true) in the heart of the fattest and most timid hobbit, waiting for some final and desperate danger to make it grow.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 23,
-            "Quantity": 2,
-            "Artist": "Winona Nelson",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Unexpected Courage",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Unexpected-Courage.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Condition."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Action: Exhaust Unexpected Courage to ready attached hero."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Here am I, naughty little fly;\r\nyou are fat and lazy.\r\nYou cannot trap me, though you try,\r\nin your cobwebs crazy.`\r\n-Bilbo Baggins, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 57,
-            "Quantity": 1,
-            "Artist": "Angela Sung",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Feint",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Feint.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Choose an enemy engaged with a player. That enemy cannot attack that player this phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 34,
-            "Quantity": 2,
-            "Artist": "Lius Lasahido",
-            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9004",
+            "RingsDbCardId": "01004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 893,
             "Categories": null
         },
         {
             "Title": "The Galadhrim's Greeting",
+            "Slug": "The-Galadhrim's-Greeting-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -515,10 +508,15 @@
             "Quantity": 2,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9046",
+            "RingsDbCardId": "01046",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 7779,
             "Categories": null
         },
         {
             "Title": "Hasty Stroke",
+            "Slug": "Hasty-Stroke-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -544,10 +542,15 @@
             "Quantity": 2,
             "Artist": "Lius Lasahido",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9048",
+            "RingsDbCardId": "01048",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 7212,
             "Categories": null
         },
         {
             "Title": "Northern Tracker",
+            "Slug": "Northern-Tracker-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -580,10 +583,15 @@
             "Quantity": 2,
             "Artist": "Kristina Gehrmann",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9045",
+            "RingsDbCardId": "01045",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 6400,
             "Categories": null
         },
         {
             "Title": "Snowbourn Scout",
+            "Slug": "Snowbourn-Scout-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -616,10 +624,15 @@
             "Quantity": 3,
             "Artist": "David Horne",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9016",
+            "RingsDbCardId": "01016",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 5315,
             "Categories": null
         },
         {
             "Title": "Faramir",
+            "Slug": "Faramir-Core",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -653,10 +666,15 @@
             "Quantity": 2,
             "Artist": "Jeff Himmelman",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9014",
+            "RingsDbCardId": "01014",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4932,
             "Categories": null
         },
         {
             "Title": "Gondorian Spearman",
+            "Slug": "Gondorian-Spearman-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -679,10 +697,11 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Response: After Gondorian Spearman is declared as a defender, deal 1 damage to the attacking enemy."
                 ],
                 "Shadow": null,
-                "FlavorText": "More than a thousand were there mustered. Their spears were like a sprining wood. -The Two Towers"
+                "FlavorText": "More than a thousand were there mustered. Their spears were like a springing wood. -The Two Towers"
             },
             "Back": null,
             "CardSet": "Core Set",
@@ -691,10 +710,15 @@
             "Quantity": 3,
             "Artist": "Winona Nelson",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9029",
+            "RingsDbCardId": "01029",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4753,
             "Categories": null
         },
         {
             "Title": "Erebor Hammersmith",
+            "Slug": "Erebor-Hammersmith-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -727,10 +751,15 @@
             "Quantity": 2,
             "Artist": "Empty Room Studios",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9059",
+            "RingsDbCardId": "01059",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4533,
             "Categories": null
         },
         {
             "Title": "Gléowine",
+            "Slug": "Gleowine-Core",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -763,10 +792,15 @@
             "Quantity": 2,
             "Artist": "Tony Foti",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9062",
+            "RingsDbCardId": "01062",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4170,
             "Categories": null
         },
         {
             "Title": "Celebrían's Stone",
+            "Slug": "Celebrian's-Stone-Core",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -785,7 +819,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero.",
+                    "Attach to a hero. Restricted.",
                     "Attached hero gains +2 Willpower.",
                     "If attached hero is Aragorn, he also gains a Spirit resource icon."
                 ],
@@ -799,10 +833,86 @@
             "Quantity": 1,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9027",
+            "RingsDbCardId": "01027",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 4073,
+            "Categories": null
+        },
+        {
+            "Title": "Dwarven Tomb",
+            "Slug": "Dwarven-Tomb-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dwarven-Tomb.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Return 1 Spirit card from your discard pile to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "The dwarves no more shall suffer wrong,\r\nThe dwarves of yore made mighty spells,\r\nWhile hammers fell like ringing bells\r\nIn places deep, where dark things sleep,\r\nIn hollow halls beneath the fells.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 53,
+            "Quantity": 1,
+            "Artist": "Kaya",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9053",
+            "RingsDbCardId": "01053",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3911,
+            "Categories": null
+        },
+        {
+            "Title": "Protector of Lórien",
+            "Slug": "Protector-of-Lorien-Core",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Protector-of-Lórien.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Action: Discard a card from your hand to give attached hero +1 Defense or +1 Willpower until the end of the phase. Limit 3 times per phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Speak no evil of the lady Galadriel!` said Aragorn sternly. `There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware.`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 70,
+            "Quantity": 2,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9070",
+            "RingsDbCardId": "01070",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3849,
             "Categories": null
         },
         {
             "Title": "Forest Snare",
+            "Slug": "Forest-Snare-Core",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -832,106 +942,15 @@
             "Quantity": 2,
             "Artist": "Alexandru Sabo",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Dwarven Tomb",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dwarven-Tomb.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Return 1 Spirit card from your discard pile to your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "The dwarves no more shall suffer wrong,\r\nThe dwarves of yore made mighty spells,\r\nWhile hammers fell like ringing bells\r\nIn places deep, where dark things sleep,\r\nIn hollow halls beneath the fells.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 53,
-            "Quantity": 1,
-            "Artist": "Kaya",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Protector of Lórien",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Protector-of-Lórien.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Action: Discard a card from your hand to give attached hero +1 Defense or +1 Willpower until the end of the phase. Limit 3 times per phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Speak no evil of the lady Galadriel!` said Aragorn sternly. `There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware.`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 70,
-            "Quantity": 2,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Henamarth Riversong",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Henamarth-Riversong.jpg",
-                "Stats": {
-                    "ResourceCost": "1",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Henamarth Riversong to look at the top card of the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`And I reckon there`s Elves and Elves. They`re all elvish enough, but they`re not all the same.`\r\n-Sam Gamgee,\r\nThe Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 60,
-            "Quantity": 1,
-            "Artist": "Jen Zee",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9069",
+            "RingsDbCardId": "01069",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3799,
             "Categories": null
         },
         {
             "Title": "Miner of the Iron Hills",
+            "Slug": "Miner-of-the-Iron-Hills-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -963,10 +982,55 @@
             "Quantity": 2,
             "Artist": "Loren Fetterman",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9061",
+            "RingsDbCardId": "01061",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3792,
+            "Categories": null
+        },
+        {
+            "Title": "Henamarth Riversong",
+            "Slug": "Henamarth-Riversong-Core",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Henamarth-Riversong.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Henamarth Riversong to look at the top card of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`And I reckon there`s Elves and Elves. They`re all elvish enough, but they`re not all the same.`\r\n-Sam Gamgee,\r\nThe Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 60,
+            "Quantity": 1,
+            "Artist": "Jen Zee",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9060",
+            "RingsDbCardId": "01060",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3784,
             "Categories": null
         },
         {
             "Title": "Veteran Axehand",
+            "Slug": "Veteran-Axehand-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -997,10 +1061,15 @@
             "Quantity": 3,
             "Artist": "Loren Fetterman",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9028",
+            "RingsDbCardId": "01028",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3769,
             "Categories": null
         },
         {
             "Title": "Quick Strike",
+            "Slug": "Quick-Strike-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1026,10 +1095,15 @@
             "Quantity": 2,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9035",
+            "RingsDbCardId": "01035",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3470,
             "Categories": null
         },
         {
             "Title": "Valiant Sacrifice",
+            "Slug": "Valiant-Sacrifice-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1055,10 +1129,15 @@
             "Quantity": 2,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9024",
+            "RingsDbCardId": "01024",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 3123,
             "Categories": null
         },
         {
             "Title": "Guard of the Citadel",
+            "Slug": "Guard-of-the-Citadel-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -1089,10 +1168,15 @@
             "Quantity": 3,
             "Artist": "Leonardo Borazio",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9013",
+            "RingsDbCardId": "01013",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2911,
             "Categories": null
         },
         {
             "Title": "Citadel Plate",
+            "Slug": "Citadel-Plate-Core",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -1111,7 +1195,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero.",
+                    "Attach to a hero. Restricted.",
                     "Attached hero gets +4 Hit Points."
                 ],
                 "Shadow": null,
@@ -1124,10 +1208,15 @@
             "Quantity": 2,
             "Artist": "Fredrik Dahl Tyskerud",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9040",
+            "RingsDbCardId": "01040",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2815,
             "Categories": null
         },
         {
             "Title": "Daughter of the Nimrodel",
+            "Slug": "Daughter-of-the-Nimrodel-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -1150,7 +1239,7 @@
                     "Action: Exhaust Daughter of the Nimrodel to heal up to 2 damage on any 1 hero."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Here is Nimrodel! Of this stream the Silvan Elves made many songs long ago, and still we sing them in the North...I will bate my feet, for it is said that the water is healing to the weary.` -Legolas, The Fellowship of the Ring"
+                "FlavorText": "`Here is Nimrodel! Of this stream the Silvan Elves made many songs long ago, and still we sing them in the North...I will bathe my feet, for it is said that the water is healing to the weary.` -Legolas, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Core Set",
@@ -1159,46 +1248,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Blade of Gondolin",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Blade-of-Gondolin.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +1 Attack when attacking an Orc.",
-                    "Response: After attached hero attacks and destroys an enemy, place 1 progress token on the current quest."
-                ],
-                "Shadow": null,
-                "FlavorText": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung...\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 39,
-            "Quantity": 2,
-            "Artist": "David Lecossu",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9058",
+            "RingsDbCardId": "01058",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2767,
             "Categories": null
         },
         {
             "Title": "Stand and Fight",
+            "Slug": "Stand-and-Fight-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1224,10 +1282,56 @@
             "Quantity": 3,
             "Artist": "Rio Sabda",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9051",
+            "RingsDbCardId": "01051",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2699,
+            "Categories": null
+        },
+        {
+            "Title": "Blade of Gondolin",
+            "Slug": "Blade-of-Gondolin-Core",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Blade-of-Gondolin.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.",
+                    "Attached hero gets +1 Attack when attacking an Orc.",
+                    "Response: After attached hero attacks and destroys an enemy, place 1 progress token on the current quest."
+                ],
+                "Shadow": null,
+                "FlavorText": "It was rather splendid to be wearing a blade made in Gondolin for the goblin-wars of which so many songs had sung...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 39,
+            "Quantity": 2,
+            "Artist": "David Lecossu",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9039",
+            "RingsDbCardId": "01039",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2679,
             "Categories": null
         },
         {
             "Title": "Will of the West",
+            "Slug": "Will-of-the-West-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1253,10 +1357,15 @@
             "Quantity": 2,
             "Artist": "Erfian Asafat",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9049",
+            "RingsDbCardId": "01049",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2636,
             "Categories": null
         },
         {
             "Title": "Self Preservation",
+            "Slug": "Self-Preservation-Core",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -1285,10 +1394,55 @@
             "Quantity": 2,
             "Artist": "Empty Room Studios",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9072",
+            "RingsDbCardId": "01072",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2550,
+            "Categories": null
+        },
+        {
+            "Title": "Horn of Gondor",
+            "Slug": "Horn-of-Gondor-Core",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Horn-of-Gondor.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Artifact."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.",
+                    "Response: After a character is destroyed, add 1 resource to attached hero`s pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Slow should you be to wind that horn again, Boromir,` said Elrond, `until you stand once more on the borders of your land, and dire need is on you.`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 42,
+            "Quantity": 1,
+            "Artist": "Mark Winters",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9042",
+            "RingsDbCardId": "01042",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2549,
             "Categories": null
         },
         {
             "Title": "Secret Paths",
+            "Slug": "Secret-Paths-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1314,45 +1468,15 @@
             "Quantity": 2,
             "Artist": "Empty Room Studios",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Horn of Gondor",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Horn-of-Gondor.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Artifact."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero.",
-                    "Response: After a character is destroyed, add 1 resource to attached hero`s pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Slow should you be to wind that horn again, Boromir,` said Elrond, `until you stand once more on the borders of your land, and dire need is on you.`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 42,
-            "Quantity": 1,
-            "Artist": "Mark Winters",
-            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9066",
+            "RingsDbCardId": "01066",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2463,
             "Categories": null
         },
         {
             "Title": "Lórien Guide",
+            "Slug": "Lorien-Guide-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -1385,42 +1509,49 @@
             "Quantity": 3,
             "Artist": "Kristina Gehrmann",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9044",
+            "RingsDbCardId": "01044",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2355,
             "Categories": null
         },
         {
-            "Title": "The Favor of the Lady",
+            "Title": "Lore of Imladris",
+            "Slug": "Lore-of-Imladris-Core",
             "IsUnique": false,
-            "CardType": "Attachment",
+            "CardType": "Event",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Favor-of-the-Lady.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Lore-of-Imladris.jpg",
                 "Stats": {
                     "ResourceCost": "2"
                 },
-                "Traits": [
-                    "Condition."
-                ],
+                "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains +1 Willpower."
+                    "Action: Choose a character. Heal all damage from that character."
                 ],
                 "Shadow": null,
-                "FlavorText": "`You are indeed high in the favor of the Lady!`\r\n-Unnamed Elf of Lórien,\r\nThe Fellowship of the Ring"
+                "FlavorText": "`...understanding, making and healing...These things the Elves of Middle-earth have in some measure gained, though with sorrow.`\r\n-Elrond, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Core Set",
             "EncounterInfo": null,
-            "Number": 55,
-            "Quantity": 2,
-            "Artist": "Magali Villeneuve",
+            "Number": 63,
+            "Quantity": 3,
+            "Artist": "Ryan Barger",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9063",
+            "RingsDbCardId": "01063",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1851,
             "Categories": null
         },
         {
             "Title": "Beorn",
+            "Slug": "Beorn-Core",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -1453,39 +1584,92 @@
             "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9031",
+            "RingsDbCardId": "01031",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1828,
             "Categories": null
         },
         {
-            "Title": "Lore of Imladris",
+            "Title": "The Favor of the Lady",
+            "Slug": "The-Favor-of-the-Lady-Core",
             "IsUnique": false,
-            "CardType": "Event",
+            "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Lore-of-Imladris.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Favor-of-the-Lady.jpg",
                 "Stats": {
                     "ResourceCost": "2"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Condition."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Choose a character. Heal all damage from that character."
+                    "Attach to a hero.",
+                    "Attached hero gains +1 Willpower."
                 ],
                 "Shadow": null,
-                "FlavorText": "`...understanding, making and healing...These things the Elves of Middle-earth have in some measure gained, though with sorrow.`\r\n-Elrond, The Fellowship of the Ring"
+                "FlavorText": "`You are indeed high in the favor of the Lady!`\r\n-Unnamed Elf of Lórien,\r\nThe Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Core Set",
             "EncounterInfo": null,
-            "Number": 63,
-            "Quantity": 3,
-            "Artist": "Ryan Barger",
+            "Number": 55,
+            "Quantity": 2,
+            "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9055",
+            "RingsDbCardId": "01055",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1782,
+            "Categories": null
+        },
+        {
+            "Title": "Dwarven Axe",
+            "Slug": "Dwarven-Axe-Core",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dwarven-Axe.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.",
+                    "Attached hero gains +1 Attack. (+2 Attack instead if attached hero is a Dwarf.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But keep your bow ready to hand, and I will keep my axe loose in my belt.`\r\n-Gimli, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 41,
+            "Quantity": 2,
+            "Artist": "Drew Whitmore",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9041",
+            "RingsDbCardId": "01041",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1680,
             "Categories": null
         },
         {
             "Title": "Radagast's Cunning",
+            "Slug": "Radagast's-Cunning-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1511,153 +1695,15 @@
             "Quantity": 2,
             "Artist": "Lucas Graciano",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Eleanor",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Eleanor.jpg",
-                "Stats": {
-                    "ThreatCost": "7",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: Exhaust Eleanor to cancel the `when revealed` effects of a treachery card just revealed by the encounter deck. Then, discard that card, and replace it with the next card from the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Gondor wanes, you say. But Gondor stands, and even the end of its strength is very strong.`\r\n-Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Glóin",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Glóin.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Glóin suffers damage, add 1 resource to his resource pool for each point of damage he just suffered."
-                ],
-                "Shadow": null,
-                "FlavorText": "His beard, very long and forked, was white, nearly as white as the snow-white cloth of his garments.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Tom Garden",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Dúnhere",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dúnhere.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Dúnhere can target enemies in the staging area when he attacks alone. When doing so, he gets +1 Attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "Captains rode to meet him at the ford, bearing messages from Gandalf. Dúnhere, chieftain of the folk of Harrowdale, was at their head.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 1,
-            "Artist": "Jeff Himmelman",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Wandering Took",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Wandering-Took.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Reduce your threat by 3 to give control of Wandering Took to another player. Raise that player`s threat by 3. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "...but certainly there was something not entirely hobbit-like about them, and once in a while members of the Took-clan would go and have adventures. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 43,
-            "Quantity": 2,
-            "Artist": "Tony Foti",
-            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9065",
+            "RingsDbCardId": "01065",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1622,
             "Categories": null
         },
         {
             "Title": "Longbeard Orc Slayer",
+            "Slug": "Longbeard-Orc-Slayer-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -1690,45 +1736,98 @@
             "Quantity": 2,
             "Artist": "Kaya",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9018",
+            "RingsDbCardId": "01018",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1499,
             "Categories": null
         },
         {
-            "Title": "Dwarven Axe",
+            "Title": "Wandering Took",
+            "Slug": "Wandering-Took-Core",
             "IsUnique": false,
-            "CardType": "Attachment",
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dwarven-Axe.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Wandering-Took.jpg",
                 "Stats": {
-                    "ResourceCost": "2"
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
                 },
                 "Traits": [
-                    "Item.",
-                    "Weapon."
+                    "Hobbit."
                 ],
-                "Keywords": [
-                    "Restricted."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains +1 Attack. (+2 Attack instead if attached hero is a Dwarf.)"
+                    "Action: Reduce your threat by 3 to give control of Wandering Took to another player. Raise that player`s threat by 3. (Limit once per round.)"
                 ],
                 "Shadow": null,
-                "FlavorText": "`But keep your bow ready to hand, and I will keep my axe loose in my belt.`\r\n-Gimli, The Two Towers"
+                "FlavorText": "...but certainly there was something not entirely hobbit-like about them, and once in a while members of the Took-clan would go and have adventures. -The Hobbit"
             },
             "Back": null,
             "CardSet": "Core Set",
             "EncounterInfo": null,
-            "Number": 41,
+            "Number": 43,
             "Quantity": 2,
-            "Artist": "Drew Whitmore",
+            "Artist": "Tony Foti",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9043",
+            "RingsDbCardId": "01043",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1432,
+            "Categories": null
+        },
+        {
+            "Title": "Horseback Archer",
+            "Slug": "Horseback-Archer-Core",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Horseback-Archer.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Archer."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged."
+                ],
+                "Shadow": null,
+                "FlavorText": "A few of the riders appeared to be bowmen, skilled at shooting from a running horse. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 2,
+            "Artist": "Loren Fetterman",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9030",
+            "RingsDbCardId": "01030",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1293,
             "Categories": null
         },
         {
             "Title": "Ever Vigilant",
+            "Slug": "Ever-Vigilant-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1754,10 +1853,15 @@
             "Quantity": 2,
             "Artist": "Daarken",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9020",
+            "RingsDbCardId": "01020",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1290,
             "Categories": null
         },
         {
             "Title": "For Gondor!",
+            "Slug": "For-Gondor-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1783,46 +1887,92 @@
             "Quantity": 2,
             "Artist": "Margaret Hardy",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9022",
+            "RingsDbCardId": "01022",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1243,
             "Categories": null
         },
         {
-            "Title": "Horseback Archer",
+            "Title": "Silverlode Archer",
+            "Slug": "Silverlode-Archer-Core",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Horseback-Archer.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Silverlode-Archer.jpg",
                 "Stats": {
                     "ResourceCost": "3",
-                    "Willpower": "0",
+                    "Willpower": "1",
                     "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "2"
+                    "Defense": "0",
+                    "HitPoints": "1"
                 },
                 "Traits": [
-                    "Rohan.",
-                    "Archer."
+                    "Archer.",
+                    "Silvan."
                 ],
                 "Keywords": [
                     "Ranged."
                 ],
-                "Text": [],
+                "Text": [
+                    "Ranged."
+                ],
                 "Shadow": null,
-                "FlavorText": "A few of the riders appeared to be bowmen, skilled at shooting from a running horse. -The Two Towers"
+                "FlavorText": "`We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north towards Moria, along the skirts of the mountains, many days ago.`\r\n-Haldir of Lórien, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Core Set",
             "EncounterInfo": null,
-            "Number": 30,
+            "Number": 17,
             "Quantity": 2,
-            "Artist": "Loren Fetterman",
+            "Artist": "A. M. Sartor",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9017",
+            "RingsDbCardId": "01017",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1193,
+            "Categories": null
+        },
+        {
+            "Title": "Swift Strike",
+            "Slug": "Swift-Strike-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Swift-Strike.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a character is declared as a defender, deal 2 damage to the attacking enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "A swift stroke she dealt, skilled and deadly.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 37,
+            "Quantity": 1,
+            "Artist": "Ijur",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9037",
+            "RingsDbCardId": "01037",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1176,
             "Categories": null
         },
         {
             "Title": "Lórien's Wealth",
+            "Slug": "Lorien's-Wealth-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -1848,10 +1998,432 @@
             "Quantity": 2,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9064",
+            "RingsDbCardId": "01064",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1162,
+            "Categories": null
+        },
+        {
+            "Title": "Blade Mastery",
+            "Slug": "Blade-Mastery-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Blade-Mastery.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a character. Until the end of the phase, that character gains +1 Attack and +1 Defense."
+                ],
+                "Shadow": null,
+                "FlavorText": "Throwing back his cloak, he laid his hand on the hilt of a sword that had hung concealed by his side. They did not dare to move. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Leonardo Borazio",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9032",
+            "RingsDbCardId": "01032",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1155,
+            "Categories": null
+        },
+        {
+            "Title": "Son of Arnor",
+            "Slug": "Son-of-Arnor-Core",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Son-of-Arnor.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dúnedain."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Son of Arnor enters play, choose an enemy card in the staging area or currently engaged with another player. Engage that enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "...and the North-realm they made in Arnor, and the South-realm in Gondor above the mouths of Anduin.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 2,
+            "Artist": "Ryan Barger",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9015",
+            "RingsDbCardId": "01015",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1126,
+            "Categories": null
+        },
+        {
+            "Title": "Strength of Will",
+            "Slug": "Strength-of-Will-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Strength-of-Will.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you travel to a location, exhaust a Spirit character to place 2 progress tokens on that location."
+                ],
+                "Shadow": null,
+                "FlavorText": "Then Aragorn lead the way, and such was the strength of his will in that hour that all the Dúnedain and their horses followed him. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 47,
+            "Quantity": 2,
+            "Artist": "Ryan Barger",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9047",
+            "RingsDbCardId": "01047",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1043,
+            "Categories": null
+        },
+        {
+            "Title": "Thalin",
+            "Slug": "Thalin-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Thalin.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Thalin is committed to a quest, deal 1 damage to each enemy as it is revealed by the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "There hammer on the anvil smote,\r\nThere chisel clove, and graver wrote;\r\nThere forged was blade, and bound was hilt;\r\nThe delver mined, the mason built.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Jen Zee",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9006",
+            "RingsDbCardId": "01006",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 762,
+            "Categories": null
+        },
+        {
+            "Title": "Denethor",
+            "Slug": "Denethor-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Denethor.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble.",
+                    "Steward."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Denethor to look at the top card of the encounter deck. You may move that card to the bottom of the deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`And the lord Denethor is unlike other men: he sees far.`\r\n-Beregond, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9010",
+            "RingsDbCardId": "01010",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 677,
+            "Categories": null
+        },
+        {
+            "Title": "Eleanor",
+            "Slug": "Eleanor-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Eleanor.jpg",
+                "Stats": {
+                    "ThreatCost": "7",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust Eleanor to cancel the `when revealed` effects of a treachery card just revealed by the encounter deck. Then, discard that card, and replace it with the next card from the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Gondor wanes, you say. But Gondor stands, and even the end of its strength is very strong.`\r\n-Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9008",
+            "RingsDbCardId": "01008",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 550,
+            "Categories": null
+        },
+        {
+            "Title": "Thicket of Spears",
+            "Slug": "Thicket-of-Spears-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Thicket-of-Spears.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You must use resources from 3 different heroes` pools to pay for this card.",
+                    "Action: Choose a player. That player`s engaged enemies cannot attack that player this phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Without a word or cry, suddenly, the Riders halted. A thicket of spears were pointed towards the strangers...\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 2,
+            "Artist": "David Horne",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9036",
+            "RingsDbCardId": "01036",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 848,
+            "Categories": null
+        },
+        {
+            "Title": "Fortune or Fate",
+            "Slug": "Fortune-or-Fate-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Fortune-or-Fate.jpg",
+                "Stats": {
+                    "ResourceCost": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a hero in any player`s discard pile. Put that card into play, under its owner`s control."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Yes, fortune or fate have helped you,` said Gandalf, `not to mention courage.`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 54,
+            "Quantity": 1,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9054",
+            "RingsDbCardId": "01054",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 830,
+            "Categories": null
+        },
+        {
+            "Title": "Glóin",
+            "Slug": "Gloin-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Glóin.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Glóin suffers damage, add 1 resource to his resource pool for each point of damage he just suffered."
+                ],
+                "Shadow": null,
+                "FlavorText": "His beard, very long and forked, was white, nearly as white as the snow-white cloth of his garments.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Tom Garden",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9003",
+            "RingsDbCardId": "01003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 475,
+            "Categories": null
+        },
+        {
+            "Title": "Dúnhere",
+            "Slug": "Dunhere-Core",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Dúnhere.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Dúnhere can target enemies in the staging area when he attacks alone. When doing so, he gets +1 Attack."
+                ],
+                "Shadow": null,
+                "FlavorText": "Captains rode to meet him at the ford, bearing messages from Gandalf. Dúnhere, chieftain of the folk of Harrowdale, was at their head.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Jeff Himmelman",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9009",
+            "RingsDbCardId": "01009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 441,
+            "Categories": null
+        },
+        {
+            "Title": "A Light in the Dark",
+            "Slug": "A-Light-in-the-Dark-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Light-in-the-Dark.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose an enemy engaged with a player. Return that enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The light of the torches and the fire flickered about them...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 52,
+            "Quantity": 2,
+            "Artist": "Erfian Asafat",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9052",
+            "RingsDbCardId": "01052",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 709,
             "Categories": null
         },
         {
             "Title": "Glorfindel",
+            "Slug": "Glorfindel-Core",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -1885,256 +2457,15 @@
             "Quantity": 1,
             "Artist": "Katherine Dinger",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Blade Mastery",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Blade-Mastery.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Choose a character. Until the end of the phase, that character gains +1 Attack and +1 Defense."
-                ],
-                "Shadow": null,
-                "FlavorText": "Throwing back his cloak, he laid his hand on the hilt of a sword that had hung concealed by his side. They did not dare to move. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Leonardo Borazio",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Swift Strike",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Swift-Strike.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a character is declared as a defender, deal 2 damage to the attacking enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "A swift stroke she dealt, skilled and deadly.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 37,
-            "Quantity": 1,
-            "Artist": "Ijur",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Silverlode Archer",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Silverlode-Archer.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Archer.",
-                    "Silvan."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "`We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north towards Moria, along the skirts of the mountains, many days ago.`\r\n-Haldir of Lórien, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 17,
-            "Quantity": 2,
-            "Artist": "A. M. Sartor",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Strength of Will",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Strength-of-Will.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you travel to a location, exhaust a Spirit character to place 2 progress tokens on that location."
-                ],
-                "Shadow": null,
-                "FlavorText": "Then Aragorn lead the way, and such was the strength of his will in that hour that all the Dúnedain and their horses followed him. -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 47,
-            "Quantity": 2,
-            "Artist": "Ryan Barger",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Son of Arnor",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Son-of-Arnor.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "0",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dúnedain."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Son of Arnor enters play, choose an enemy card in the staging area or currently engaged with another player. Engage that enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "...and the North-realm they made in Arnor, and the South-realm in Gondor above the mouths of Anduin.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 15,
-            "Quantity": 2,
-            "Artist": "Ryan Barger",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Fortune or Fate",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Fortune-or-Fate.jpg",
-                "Stats": {
-                    "ResourceCost": "5"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Choose a hero in any player`s discard pile. Put that card into play, under its owner`s control."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Yes, fortune or fate have helped you,` said Gandalf, `not to mention courage.`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 54,
-            "Quantity": 1,
-            "Artist": "Igor Kieryluk",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Thicket of Spears",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Thicket-of-Spears.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You must use resources from 3 different heroes` pools to pay for this card.",
-                    "Action: Choose a player. That player`s engaged enemies cannot attack that player this phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "Without a word or cry, suddenly, the Riders halted. A thicket of spears were pointed towards the strangers...\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 36,
-            "Quantity": 2,
-            "Artist": "David Horne",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "A Light in the Dark",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Light-in-the-Dark.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Choose an enemy engaged with a player. Return that enemy to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "The light of the torches and the fire flickered about them...\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 52,
-            "Quantity": 2,
-            "Artist": "Erfian Asafat",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9011",
+            "RingsDbCardId": "01011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 353,
             "Categories": null
         },
         {
             "Title": "Grim Resolve",
+            "Slug": "Grim-Resolve-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -2160,10 +2491,15 @@
             "Quantity": 1,
             "Artist": "Daarken",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9025",
+            "RingsDbCardId": "01025",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 529,
             "Categories": null
         },
         {
             "Title": "Power in the Earth",
+            "Slug": "Power-in-the-Earth-Core",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -2192,10 +2528,49 @@
             "Quantity": 2,
             "Artist": "Soul Core",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9056",
+            "RingsDbCardId": "01056",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 481,
+            "Categories": null
+        },
+        {
+            "Title": "Common Cause",
+            "Slug": "Common-Cause-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Common-Cause.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust 1 hero you control to choose and ready a different hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We will make such a chase as shall be accounted a marvel among the Three Kindreds: Elves, Dwarves, and Men.`\r\n-Aragorn, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 21,
+            "Quantity": 2,
+            "Artist": "Tony Foti",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9021",
+            "RingsDbCardId": "01021",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 470,
             "Categories": null
         },
         {
             "Title": "Brok Ironfist",
+            "Slug": "Brok-Ironfist-Core",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -2228,39 +2603,15 @@
             "Quantity": 1,
             "Artist": "Even Mehl Amundsen",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Common Cause",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Common-Cause.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust 1 hero you control to choose and ready a different hero."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We will make such a chase as shall be accounted a marvel among the Three Kindreds: Elves, Dwarves, and Men.`\r\n-Aragorn, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 21,
-            "Quantity": 2,
-            "Artist": "Tony Foti",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9019",
+            "RingsDbCardId": "01019",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 461,
             "Categories": null
         },
         {
             "Title": "Rain of Arrows",
+            "Slug": "Rain-of-Arrows-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -2286,10 +2637,15 @@
             "Quantity": 2,
             "Artist": "Frank Walls",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9033",
+            "RingsDbCardId": "01033",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 396,
             "Categories": null
         },
         {
             "Title": "Stand Together",
+            "Slug": "Stand-Together-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -2315,10 +2671,49 @@
             "Quantity": 1,
             "Artist": "Daarken",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9038",
+            "RingsDbCardId": "01038",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 330,
+            "Categories": null
+        },
+        {
+            "Title": "Gandalf's Search",
+            "Slug": "Gandalf's-Search-Core",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Gandalf's-Search.jpg",
+                "Stats": {
+                    "ResourceCost": "X"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Look at the top X cards of any player`s deck, add 1 of those cards to its owner`s hand, and return the rest to the top of the deck in any order."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Less welcome did the Lord Denethor show me then than of old, and grudgingly he permitted me to search among his hoarded scrolls and books.`\r\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Core Set",
+            "EncounterInfo": null,
+            "Number": 67,
+            "Quantity": 2,
+            "Artist": "Mike Nash",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9067",
+            "RingsDbCardId": "01067",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 326,
             "Categories": null
         },
         {
             "Title": "Dark Knowledge",
+            "Slug": "Dark-Knowledge-Core",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -2347,39 +2742,15 @@
             "Quantity": 1,
             "Artist": "Empty Room Studios",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gandalf's Search",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Gandalf's-Search.jpg",
-                "Stats": {
-                    "ResourceCost": "X"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Look at the top X cards of any player`s deck, add 1 of those cards to its owner`s hand, and return the rest to the top of the deck in any order."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Less welcome did the Lord Denethor show me then than of old, and grudgingly he permitted me to search among his hoarded scrolls and books.`\r\n-Gandalf, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Core Set",
-            "EncounterInfo": null,
-            "Number": 67,
-            "Quantity": 2,
-            "Artist": "Mike Nash",
-            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9071",
+            "RingsDbCardId": "01071",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 325,
             "Categories": null
         },
         {
             "Title": "Beorn's Hospitality",
+            "Slug": "Beorn's-Hospitality-Core",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -2405,10 +2776,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9068",
+            "RingsDbCardId": "01068",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 185,
             "Categories": null
         },
         {
             "Title": "King Spider",
+            "Slug": "King-Spider-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2447,10 +2823,15 @@
             "Quantity": 2,
             "Artist": "John Wigley",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9074",
+            "RingsDbCardId": "01074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hummerhorns",
+            "Slug": "Hummerhorns-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2491,10 +2872,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9075",
+            "RingsDbCardId": "01075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ungoliant's Spawn",
+            "Slug": "Ungoliant's-Spawn-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2533,10 +2919,15 @@
             "Quantity": 1,
             "Artist": "Andrew Olson",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9076",
+            "RingsDbCardId": "01076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Forest Web",
+            "Slug": "Great-Forest-Web-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2571,10 +2962,15 @@
             "Quantity": 2,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9077",
+            "RingsDbCardId": "01077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mountains of Mirkwood",
+            "Slug": "Mountains-of-Mirkwood-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2610,10 +3006,15 @@
             "Quantity": 3,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9078",
+            "RingsDbCardId": "01078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eyes of the Forest",
+            "Slug": "Eyes-of-the-Forest-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2643,10 +3044,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9079",
+            "RingsDbCardId": "01079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Caught in a Web",
+            "Slug": "Caught-in-a-Web-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2676,10 +3082,15 @@
             "Quantity": 2,
             "Artist": "Daryl Mandryk",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9080",
+            "RingsDbCardId": "01080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wolf Rider",
+            "Slug": "Wolf-Rider-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2702,7 +3113,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    " "
+                    "Surge."
                 ],
                 "Shadow": "Shadow: Wolf Rider attacks the defending player. That player may declare 1 character as a defender. Deal Wolf Rider its own Shadow card. After combat, return Wolf Rider to the top of the encounter deck.",
                 "FlavorText": null
@@ -2720,10 +3131,15 @@
             "Quantity": 1,
             "Artist": "Alexandru Sabo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9081",
+            "RingsDbCardId": "01081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hill Troll",
+            "Slug": "Hill-Troll-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2763,10 +3179,15 @@
             "Quantity": 2,
             "Artist": "Florian Stitz",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9082",
+            "RingsDbCardId": "01082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Sniper",
+            "Slug": "Goblin-Sniper-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2805,10 +3226,15 @@
             "Quantity": 2,
             "Artist": "Alexandr Shaldin",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9083",
+            "RingsDbCardId": "01083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Marsh Adder",
+            "Slug": "Marsh-Adder-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2848,10 +3274,15 @@
             "Quantity": 1,
             "Artist": "Sandara Tang",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9084",
+            "RingsDbCardId": "01084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wargs",
+            "Slug": "Wargs-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2889,10 +3320,15 @@
             "Quantity": 2,
             "Artist": "Ryan Barger",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9085",
+            "RingsDbCardId": "01085",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Despair",
+            "Slug": "Despair-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2922,10 +3358,15 @@
             "Quantity": 2,
             "Artist": "Marc Scheff",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9086",
+            "RingsDbCardId": "01086",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Brown Lands",
+            "Slug": "The-Brown-Lands-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2960,10 +3401,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9087",
+            "RingsDbCardId": "01087",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The East Bight",
+            "Slug": "The-East-Bight-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2998,10 +3444,15 @@
             "Quantity": 2,
             "Artist": "Santiago Villa",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9088",
+            "RingsDbCardId": "01088",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Orcs",
+            "Slug": "Dol-Guldur-Orcs-Enemy-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3040,10 +3491,15 @@
             "Quantity": 3,
             "Artist": "Anna Christenson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "01089",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chieftan Ufthak",
+            "Slug": "Chieftan-Ufthak-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3085,10 +3541,15 @@
             "Quantity": 1,
             "Artist": "Mathias Kollros",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9090",
+            "RingsDbCardId": "01090",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dol Guldur Beastmaster",
+            "Slug": "Dol-Guldur-Beastmaster-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3127,10 +3588,15 @@
             "Quantity": 2,
             "Artist": "David Lecossu",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9091",
+            "RingsDbCardId": "01091",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Driven by Shadow",
+            "Slug": "Driven-by-Shadow-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3160,10 +3626,15 @@
             "Quantity": 1,
             "Artist": "Alexandru Sabo",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9092",
+            "RingsDbCardId": "01092",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Reach",
+            "Slug": "The-Necromancer's-Reach-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3193,10 +3664,15 @@
             "Quantity": 3,
             "Artist": "Anna Christenson",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9093",
+            "RingsDbCardId": "01093",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Necromancer's Pass",
+            "Slug": "Necromancer's-Pass-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3232,10 +3708,15 @@
             "Quantity": 2,
             "Artist": "Daryl Mandryk",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9094",
+            "RingsDbCardId": "01094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Enchanted Stream",
+            "Slug": "Enchanted-Stream-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3270,10 +3751,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9095",
+            "RingsDbCardId": "01095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Spider",
+            "Slug": "Forest-Spider-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3312,10 +3798,15 @@
             "Quantity": 4,
             "Artist": "Marco Caradonna",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9096",
+            "RingsDbCardId": "01096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "East Bight Patrol",
+            "Slug": "East-Bight-Patrol-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3335,9 +3826,7 @@
                     "Orc."
                 ],
                 "Keywords": [],
-                "Text": [
-                    " "
-                ],
+                "Text": [],
                 "Shadow": "Shadow: attacking enemy gets 1 Attack. (If this attack is undefended, also raise your threat by 3.)",
                 "FlavorText": null
             },
@@ -3354,10 +3843,15 @@
             "Quantity": 1,
             "Artist": "Nikolay Stoyanov",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9097",
+            "RingsDbCardId": "01097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Forest Bats",
+            "Slug": "Black-Forest-Bats-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3395,10 +3889,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9098",
+            "RingsDbCardId": "01098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Forest Road",
+            "Slug": "Old-Forest-Road-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3433,10 +3932,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9099",
+            "RingsDbCardId": "01099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forest Gate",
+            "Slug": "Forest-Gate-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3471,10 +3975,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9100",
+            "RingsDbCardId": "01100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeon Jailor",
+            "Slug": "Dungeon-Jailor-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3515,10 +4024,15 @@
             "Quantity": 2,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9101",
+            "RingsDbCardId": "01101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nazgûl of Dol Guldur",
+            "Slug": "Nazgul-of-Dol-Guldur-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3558,10 +4072,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9102",
+            "RingsDbCardId": "01102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cavern Guardian",
+            "Slug": "Cavern-Guardian-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3583,7 +4102,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
-                    " "
+                    "Doomed 1."
                 ],
                 "Shadow": "Shadow: Choose and discard 1 attachment you control. Discarded  objective cards are returned to the staging area. (If this attack is  undefended, discard all attachments you control.)",
                 "FlavorText": null
@@ -3601,10 +4120,15 @@
             "Quantity": 2,
             "Artist": "Mark Winters",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9103",
+            "RingsDbCardId": "01103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Under the Shadow",
+            "Slug": "Under-the-Shadow-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3634,10 +4158,15 @@
             "Quantity": 2,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9104",
+            "RingsDbCardId": "01104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Iron Shackles",
+            "Slug": "Iron-Shackles-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3667,10 +4196,15 @@
             "Quantity": 1,
             "Artist": "Drew Whitmore",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9105",
+            "RingsDbCardId": "01105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Endless Caverns",
+            "Slug": "Endless-Caverns-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3689,7 +4223,9 @@
                     "Doomed 1.",
                     "Surge."
                 ],
-                "Text": [],
+                "Text": [
+                    "Doomed 1. Surge."
+                ],
                 "Shadow": null,
                 "FlavorText": "`I alone of you have ever been in the dungeons of the Dark Lord, and only in his older and lesser dwelling in Dol Guldur.`\r\n-Gandalf, The Fellowship of the Ring"
             },
@@ -3706,10 +4242,15 @@
             "Quantity": 2,
             "Artist": "Even Mehl Amundsen",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9106",
+            "RingsDbCardId": "01106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tower Gate",
+            "Slug": "Tower-Gate-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3744,10 +4285,15 @@
             "Quantity": 2,
             "Artist": "West Clendinning",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9107",
+            "RingsDbCardId": "01107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gandalf's Map",
+            "Slug": "Gandalf's-Map-Core",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3764,6 +4310,7 @@
                     "Restricted."
                 ],
                 "Text": [
+                    "Guarded. Restricted.",
                     "Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Gandalf`s Map to a hero you control. (Counts as an attachment. If detached, return Gandalf`s Map to the staging area.) Attached hero cannot attack or defend."
                 ],
                 "Shadow": null,
@@ -3782,10 +4329,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9108",
+            "RingsDbCardId": "01108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeon Torch",
+            "Slug": "Dungeon-Torch-Core",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3802,6 +4354,7 @@
                     "Restricted."
                 ],
                 "Text": [
+                    "Guarded. Restricted.",
                     "Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Dungeon Torch to a hero you control. (Counts as an attachment. If detached, return Dungeon Torch to the staging area.)Forced: At the end of each round, raise attached hero`s controller`s threat by 2."
                 ],
                 "Shadow": null,
@@ -3820,10 +4373,15 @@
             "Quantity": 1,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9109",
+            "RingsDbCardId": "01109",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shadow Key",
+            "Slug": "Shadow-Key-Core",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3840,6 +4398,7 @@
                     "Restricted."
                 ],
                 "Text": [
+                    "Guarded. Restricted.",
                     "Action: Raise your threat by 2 to claim this objective when it is free of encounters. When claimed, attach Shadow Key to a hero you control. (Counts as an attachment. If detached, return Shadow Key to the staging area.)Forced: At the end of each round, attached hero suffers 1 damage."
                 ],
                 "Shadow": null,
@@ -3858,10 +4417,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Cloister",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9110",
+            "RingsDbCardId": "01110",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Misty Mountain Goblins",
+            "Slug": "Misty-Mountain-Goblins-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3900,10 +4464,15 @@
             "Quantity": 3,
             "Artist": "Nikolay Stoyanov",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9111",
+            "RingsDbCardId": "01111",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Massing at Night",
+            "Slug": "Massing-at-Night-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3933,10 +4502,15 @@
             "Quantity": 1,
             "Artist": "Mathias Kollros",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9112",
+            "RingsDbCardId": "01112",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Banks of the Anduin",
+            "Slug": "Banks-of-the-Anduin-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3971,10 +4545,15 @@
             "Quantity": 2,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9113",
+            "RingsDbCardId": "01113",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gladden Fields",
+            "Slug": "Gladden-Fields-Core",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -4011,10 +4590,15 @@
             "Quantity": 3,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9114",
+            "RingsDbCardId": "01114",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eastern Crows",
+            "Slug": "Eastern-Crows-Core",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -4036,6 +4620,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Eastern Crows is defeated, shuffle it back into the encounter deck."
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+2 Attack instead if defending player`s threat is 35 or higher.)",
@@ -4054,10 +4639,15 @@
             "Quantity": 3,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9115",
+            "RingsDbCardId": "01115",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evil Storm",
+            "Slug": "Evil-Storm-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -4087,10 +4677,15 @@
             "Quantity": 3,
             "Artist": "Tom Garden",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9116",
+            "RingsDbCardId": "01116",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pursued by Shadow",
+            "Slug": "Pursued-by-Shadow-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -4120,10 +4715,15 @@
             "Quantity": 2,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9117",
+            "RingsDbCardId": "01117",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Treacherous Fog",
+            "Slug": "Treacherous-Fog-Core",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -4153,10 +4753,15 @@
             "Quantity": 2,
             "Artist": "David Lecossu",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9118",
+            "RingsDbCardId": "01118",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Flies and Spiders",
+            "Slug": "Flies-and-Spiders-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4164,7 +4769,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Flies-and-Spiders-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4175,8 +4782,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Flies-and-Spiders-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4187,7 +4797,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Passage Through Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -4195,10 +4808,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9119",
+            "RingsDbCardId": "01119",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Fork in the Road",
+            "Slug": "A-Fork-in-the-Road-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4206,7 +4824,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Fork-in-the-Road-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4215,8 +4835,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Fork-in-the-Road-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "2"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4229,7 +4852,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Passage Through Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -4237,10 +4863,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9121",
+            "RingsDbCardId": "01120",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Chosen Path",
+            "Slug": "A-Chosen-Path-Don't-Leave-the-Path-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4248,7 +4879,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Chosen-Path-Don't-Leave-the-Path-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4257,12 +4890,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Chosen-Path-Don't-Leave-the-Path-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.",
                     "The players must find and defeat Ungoliant`s Spawn to win this game."
                 ],
                 "Shadow": null,
@@ -4272,7 +4907,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Passage Through Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -4280,10 +4918,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "01121",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Chosen Path",
+            "Slug": "A-Chosen-Path-Beorn's-Path-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4291,7 +4934,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Chosen-Path-Beorn's-Path-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4300,8 +4945,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/A-Chosen-Path-Beorn's-Path-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4314,7 +4962,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Passage Through Mirkwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -4322,10 +4973,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "01122",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Necromancer's Tower",
+            "Slug": "The-Necromancer's-Tower-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4333,7 +4989,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Necromancer's-Tower-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4344,8 +5002,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Necromancer's-Tower-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4360,7 +5021,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Dol Guldur",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -4368,10 +5032,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9127",
+            "RingsDbCardId": "01123",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Through the Caverns",
+            "Slug": "Through-the-Caverns-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4379,7 +5048,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Through-the-Caverns-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4388,13 +5059,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Through-the-Caverns-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Response: After placing any number of progress tokens on this card, flip the `prisoner` hero card face-up, and place 1 damage toke on it. The hero has been `rescued` and may now be used by its controller.",
-                    "The players, as a group, cannot play more than 1 ally card each round.",
                     "Players cannot advance to the next stage of the quest unless they have rescued the prisoner and have all 3 `Escape from Dol Guldur` objective cards."
                 ],
                 "Shadow": null,
@@ -4404,7 +5076,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Dol Guldur",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -4412,10 +5087,15 @@
             "Quantity": 1,
             "Artist": "Kaya",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9129",
+            "RingsDbCardId": "01124",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Out of the Dungeons",
+            "Slug": "Out-of-the-Dungeons-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4423,7 +5103,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Out-of-the-Dungeons-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4432,12 +5114,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Out-of-the-Dungeons-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "7"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the beginning of each quest phase, each player places the top card of his deck, face down in front of him as if it just engaged him from the staging area. These cards are called `Orc Guard` and act as enemies with: 1 hit point, 1 Attack, and 1 Defense.",
                     "Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game."
                 ],
                 "Shadow": null,
@@ -4447,7 +5131,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Dol Guldur",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -4455,10 +5142,15 @@
             "Quantity": 1,
             "Artist": "Kaya",
             "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9131",
+            "RingsDbCardId": "01125",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "To the River...",
+            "Slug": "To-the-River-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4466,7 +5158,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/To-the-River-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4477,8 +5171,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/To-the-River-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4492,7 +5189,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey Along the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -4500,10 +5201,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9133",
+            "RingsDbCardId": "01126",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Anduin Passage",
+            "Slug": "Anduin-Passage-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4511,7 +5217,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Anduin-Passage-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4522,8 +5230,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Anduin-Passage-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4534,7 +5245,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey Along the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -4542,10 +5257,15 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9135",
+            "RingsDbCardId": "01127",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ambush on the Shore",
+            "Slug": "Ambush-on-the-Shore-Core",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -4553,7 +5273,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Ambush-on-the-Shore-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -4566,8 +5288,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Ambush-on-the-Shore-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -4578,7 +5303,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey Along the Anduin",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -4586,6 +5315,10 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801200c9137",
+            "RingsDbCardId": "01128",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

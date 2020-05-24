@@ -1,10 +1,14 @@
 {
     "Name": "Flight of the Stormcaller Nightmare",
+    "Slug": "Flight-of-the-Stormcaller-Nightmare",
+    "Abbreviation": "FotSN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Flight of the Stormcaller Nightmare",
+            "Slug": "Flight-of-the-Stormcaller-Nightmare-FotSN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -40,10 +44,15 @@
             "Quantity": 1,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raider of the Storm",
+            "Slug": "Raider-of-the-Storm-FotSN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -81,10 +90,15 @@
             "Quantity": 2,
             "Artist": "Monztre",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tide-runner",
+            "Slug": "Tide-runner-FotSN",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -101,7 +115,7 @@
                     "Boarding 1."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 1. Cannot have attachments.",
                     "While you are off-course (Cloudy, Rainy, or Stormy), Tide-runner is considered to be in the Stormcaller`s area and the staging area, regardless of its current location.",
                     "When Revealed: Either choose a player to engage Tide-runner, or add Tide-runner to the Stormcaller`s area and it gains surge."
                 ],
@@ -115,10 +129,15 @@
             "Quantity": 2,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Venom's Bite",
+            "Slug": "Venom's-Bite-FotSN",
             "IsUnique": true,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -136,7 +155,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 2. Cannot have attachments.",
                     "*Forced: After this Sailing test ends, if you are off-course (Cloudy, Rainy, or Stormy), put the Venom`s Bite into play in the staging area. If you are on-course (Sunny), put it into play in the Stormcaller`s area instead.",
                     "☸*"
                 ],
@@ -150,10 +169,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sharp Jetties",
+            "Slug": "Sharp-Jetties-FotSN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -190,10 +214,15 @@
             "Quantity": 2,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cliffside Inlet",
+            "Slug": "Cliffside-Inlet-FotSN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -231,10 +260,15 @@
             "Quantity": 2,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark and Stormy",
+            "Slug": "Dark-and-Stormy-FotSN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -250,6 +284,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Deal 1 shadow card to each Ship enemy in play. Until the end of the round, shadow effects cannot be canceled."
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
@@ -268,10 +303,15 @@
             "Quantity": 2,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Getting Away!",
+            "Slug": "Sahir's-Getting-Away-FotSN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -301,6 +341,10 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

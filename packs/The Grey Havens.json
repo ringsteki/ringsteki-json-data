@@ -1,10 +1,94 @@
 {
     "Name": "The Grey Havens",
+    "Slug": "The-Grey-Havens",
+    "Abbreviation": "TGH",
     "Cycle": null,
     "SetType": "Deluxe_Expansion",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Narya",
+            "Slug": "Narya-TGH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Narya.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Ring.",
+                    "Artifact."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Círdan the Shipwright or Gandalf.",
+                    "Attached character gains a Leadership resource icon.",
+                    "Action: Exhaust Narya and attached character to choose and ready up to 2 allies. Each of those allies gets +1 Attack and +1 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.`\r\n-Círdan, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "8ae15724-e823-4f55-a9e8-c75b3e795e9a",
+            "RingsDbCardId": "11015",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1860,
+            "Categories": null
+        },
+        {
+            "Title": "Sailor of Lune",
+            "Slug": "Sailor-of-Lune-TGH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sailor-of-Lune.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the top card of your discard pile is an event, Sailor of Lune gets +1 Willpower and gains: `Cannot be damaged while committed to the quest.`"
+                ],
+                "Shadow": null,
+                "FlavorText": "`They are sailing, sailing, sailing over the Sea, they are going into the West and leaving us,` said Sam, half chanting the words, shaking his head sadly and solemnly.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "85a269eb-63f1-4f63-83c9-30b718d364f6",
+            "RingsDbCardId": "11012",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1068,
+            "Categories": null
+        },
+        {
             "Title": "Círdan the Shipwright",
+            "Slug": "Cirdan-the-Shipwright-TGH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -38,80 +122,15 @@
             "Quantity": 1,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Narya",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Narya.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Ring.",
-                    "Artifact."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to Círdan the Shipwright or Gandalf.",
-                    "Attached character gains a Leadership resource icon.",
-                    "Action: Exhaust Narya and attached character to choose and ready up to 2 allies. Each of those allies gets +1 Attack and +1 Defense until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.`\r\n-Círdan, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Grey Havens",
-            "EncounterInfo": null,
-            "Number": 15,
-            "Quantity": 3,
-            "Artist": "Lucas Durham",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Sailor of Lune",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sailor-of-Lune.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Noldor.",
-                    "Scout."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While the top card of your discard pile is an event, Sailor of Lune gets +1 Willpower and gains: `Cannot be damaged while committed to the quest.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "`They are sailing, sailing, sailing over the Sea, they are going into the West and leaving us,` said Sam, half chanting the words, shaking his head sadly and solemnly.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Grey Havens",
-            "EncounterInfo": null,
-            "Number": 12,
-            "Quantity": 3,
-            "Artist": "Owen William Weber",
-            "HasErrata": false,
+            "OctgnGuid": "76ee3df4-3ebe-4d2d-9d7f-a0bbe759358a",
+            "RingsDbCardId": "11001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 584,
             "Categories": null
         },
         {
             "Title": "The Evening Star",
+            "Slug": "The-Evening-Star-TGH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -137,10 +156,52 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "b6729381-3bfc-41fa-abd1-99f410eb19b8",
+            "RingsDbCardId": "11010",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 993,
+            "Categories": null
+        },
+        {
+            "Title": "To the Sea, to the Sea!",
+            "Slug": "To-the-Sea-to-the-Sea-TGH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/To-the-Sea-to-the-Sea.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Noldor character.",
+                    "Action: Exhaust To the Sea, to the Sea! and discard X cards from your hand to reduce the cost of the next Noldor ally played this phase by X (to a minimum of 1)."
+                ],
+                "Shadow": null,
+                "FlavorText": "To the Sea, to the Sea! The white gulls are crying,\r\nThe wind is blowing, and the white foam is flying.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Tawny Fritzinger",
+            "HasErrata": false,
+            "OctgnGuid": "d0180ea8-15e3-4a9a-80c6-dfd6549753c9",
+            "RingsDbCardId": "11014",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 908,
             "Categories": null
         },
         {
             "Title": "Galdor of the Havens",
+            "Slug": "Galdor-of-the-Havens-TGH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -173,71 +234,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "To the Sea, to the Sea!",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/To-the-Sea-to-the-Sea.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Noldor character.",
-                    "Action: Exhaust To the Sea, to the Sea! and discard X cards from your hand to reduce the cost of the next Noldor ally played this phase by X (to a minimum of 1)."
-                ],
-                "Shadow": null,
-                "FlavorText": "To the Sea, to the Sea! The white gulls are crying,\r\nThe wind is blowing, and the white foam is flying.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Grey Havens",
-            "EncounterInfo": null,
-            "Number": 14,
-            "Quantity": 3,
-            "Artist": "Tawny Fritzinger",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Elwing's Flight",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Elwing's-Flight.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Quest Action: Ready a questing character and give that character +1 Willpower until the end of the phase. Resolve that effect again for each copy of Elwing`s Flight currently in your discard pile (you may choose different targets)."
-                ],
-                "Shadow": null,
-                "FlavorText": "There flying Elwing came to him\r\nand flame was in the darkness lit;\r\nmore bright than light of diamond\r\nthe fire upon her carcanet.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Grey Havens",
-            "EncounterInfo": null,
-            "Number": 13,
-            "Quantity": 3,
-            "Artist": "A. M. Sartor",
-            "HasErrata": false,
+            "OctgnGuid": "52e217a6-ddc0-4082-9ec2-09d92e8c25c7",
+            "RingsDbCardId": "11002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 216,
             "Categories": null
         },
         {
             "Title": "Lindon Navigator",
+            "Slug": "Lindon-Navigator-TGH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -271,10 +276,49 @@
             "Quantity": 3,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "a09013c9-0eeb-459d-b7fc-d803d1b0ad1d",
+            "RingsDbCardId": "11009",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 584,
+            "Categories": null
+        },
+        {
+            "Title": "Elwing's Flight",
+            "Slug": "Elwing's-Flight-TGH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Elwing's-Flight.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Quest Action: Ready a questing character and give that character +1 Willpower until the end of the phase. Resolve that effect again for each copy of Elwing`s Flight currently in your discard pile (you may choose different targets)."
+                ],
+                "Shadow": null,
+                "FlavorText": "There flying Elwing came to him\r\nand flame was in the darkness lit;\r\nmore bright than light of diamond\r\nthe fire upon her carcanet.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "A. M. Sartor",
+            "HasErrata": false,
+            "OctgnGuid": "d25dfbee-85c4-42f8-9653-c0536d3e5095",
+            "RingsDbCardId": "11013",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 574,
             "Categories": null
         },
         {
             "Title": "Mithlond Sea-watcher",
+            "Slug": "Mithlond-Sea-watcher-TGH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -307,10 +351,15 @@
             "Quantity": 3,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "3b58bae1-8484-4be6-a75c-1d55c5199f72",
+            "RingsDbCardId": "11003",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 456,
             "Categories": null
         },
         {
             "Title": "Explorer's Almanac",
+            "Slug": "Explorer's-Almanac-TGH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -339,10 +388,15 @@
             "Quantity": 3,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "21f0acdb-5d11-409e-80f8-c717fab87ab9",
+            "RingsDbCardId": "11011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 386,
             "Categories": null
         },
         {
             "Title": "Grappling Hook",
+            "Slug": "Grappling-Hook-TGH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -371,10 +425,15 @@
             "Quantity": 3,
             "Artist": "Kara Williams",
             "HasErrata": false,
+            "OctgnGuid": "1ccd4cc5-9e8a-41ea-b897-61e47bba5ae6",
+            "RingsDbCardId": "11005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 295,
             "Categories": null
         },
         {
             "Title": "Warden of the Havens",
+            "Slug": "Warden-of-the-Havens-TGH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -407,10 +466,15 @@
             "Quantity": 3,
             "Artist": "Dleoblack",
             "HasErrata": false,
+            "OctgnGuid": "94df6677-1e7c-4ccc-932c-f750b51a769c",
+            "RingsDbCardId": "11006",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 235,
             "Categories": null
         },
         {
             "Title": "Skyward Volley",
+            "Slug": "Skyward-Volley-TGH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -437,10 +501,15 @@
             "Quantity": 3,
             "Artist": "Christina Davis",
             "HasErrata": false,
+            "OctgnGuid": "bd3686ef-e3d2-4dea-9fc3-aa039918f0b1",
+            "RingsDbCardId": "11004",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 206,
             "Categories": null
         },
         {
             "Title": "Anchor Watch",
+            "Slug": "Anchor-Watch-TGH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -466,10 +535,15 @@
             "Quantity": 3,
             "Artist": "Adam Schumpert",
             "HasErrata": false,
+            "OctgnGuid": "dd64881e-99d9-4505-9f9f-67dfc8c8ffc1",
+            "RingsDbCardId": "11007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 149,
             "Categories": null
         },
         {
             "Title": "Mariner's Compass",
+            "Slug": "Mariner's-Compass-TGH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -498,10 +572,15 @@
             "Quantity": 3,
             "Artist": "Lucas Durham",
             "HasErrata": false,
+            "OctgnGuid": "fe1a0aef-10bd-441b-a27b-0527810fef57",
+            "RingsDbCardId": "11008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 121,
             "Categories": null
         },
         {
             "Title": "Departure from the Havens",
+            "Slug": "Departure-from-the-Havens-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -509,7 +588,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Departure-from-the-Havens-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing.",
@@ -523,11 +604,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Departure-from-the-Havens-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "While you are on-course, each Ship objective gets +2 Willpower.",
                     "When this stage is defeated, if you are on course (Sunny), look at the top 2 stages of the quest deck and advance to one of your choice, placing the other on the bottom of the quest deck. Otherwise, advance to the top state of the quest deck."
                 ],
@@ -538,7 +623,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -546,10 +637,15 @@
             "Quantity": 1,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "007721bf-3e80-4857-aaf4-aabb65d1827d",
+            "RingsDbCardId": "11016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Into the Storm",
+            "Slug": "Into-the-Storm-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -557,7 +653,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Into-the-Storm-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 3."
@@ -570,8 +668,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Into-the-Storm-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "2"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -585,7 +686,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -593,10 +700,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "25940aea-cc56-43bf-a8d6-f9d349b0c01f",
+            "RingsDbCardId": "11017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Mists",
+            "Slug": "Cursed-Mists-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -604,7 +716,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Cursed-Mists-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing.",
@@ -618,11 +732,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Cursed-Mists-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "While you are off-course (Cloudy, Rainy, or Stormy), each non-Ship ally gets –2 Willpower.",
                     "When this stage is defeated, if you are on-course (Sunny), look at the top 2 stages of the quest deck and advance to one of your choice, placing the other on the bottom of the quest deck. Otherwise, advance to the top stage of the quest deck."
                 ],
@@ -633,7 +751,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -641,10 +765,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "aede410a-9d4c-4abd-9f55-143f5027f9c4",
+            "RingsDbCardId": "11018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Calphon's Divination",
+            "Slug": "Calphon's-Divination-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -652,7 +781,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Calphon's-Divination-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing.",
@@ -662,15 +793,19 @@
                     "When Revealed: Search the encounter deck and discard pile for 1 copy of Scouting Ship and add it to the staging area. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "Calphon bursts into one of the heroes’ quarters in the middle of the night, sweating profusely and breathing heavily. “I saw it again!” he cries. “It was the same island as before, only the sun was rising behind it, bathing the sky in orange. It must be to the east!” You can change course to follow Calphon’s vision, but you risk being discovered by the Corsairs chasing you... "
+                "FlavorText": "Calphon bursts into one of the heroes’ quarters in the middle of the night, sweating profusely and breathing heavily. “I saw it again!” he cries. “It was the same island as before, only the sun was rising behind it, bathing the sky in orange. It must be to the east!” You can change course to follow Calphon’s vision, but you risk being discovered by the Corsairs chasing you..."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Calphon's-Divination-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "While you are off-course (Cloudy, Rainy, or Stormy), each Ship enemy gains Boarding 1.",
                     "When this stage is defeated, if you are on-course (Sunny), look at the top 2 stages of the quest deck and advance to one of your choice, placing the other on the bottom of the quest deck. Otherwise, advance to the top stage of the quest deck."
                 ],
@@ -681,7 +816,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -689,10 +830,15 @@
             "Quantity": 1,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "b77620fa-89a8-4f09-8552-ba4204e472d2",
+            "RingsDbCardId": "11019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Star's Guidance",
+            "Slug": "The-Star's-Guidance-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -700,7 +846,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Star's-Guidance-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing.",
@@ -714,11 +862,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Star's-Guidance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "While you are off-course (Cloudy, Rainy, or Stormy), each Ocean location gets +1 Threat.",
                     "When this stage is defeated, if you are on-course, look at the top 2 stages of the quest deck and advance to one of your choice, placing the other on the bottom of the quest deck. Otherwise, advance to the top stage of the quest deck."
                 ],
@@ -729,7 +881,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -737,10 +895,15 @@
             "Quantity": 1,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "e1001736-68fc-4e7b-a7df-23230876eb92",
+            "RingsDbCardId": "11020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Pursuit",
+            "Slug": "Corsair-Pursuit-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -748,7 +911,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Corsair-Pursuit-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing."
@@ -761,11 +926,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Corsair-Pursuit-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "You cannot place progress on Corsair Pursuit unless you are on-course (Sunny).",
                     "If there are no Ship enemies in play, you have defeated your pursuers, and win the game.",
                     "If this stage has 10 or more progress on it, you have lost your pursuers, and win the game."
@@ -777,7 +946,13 @@
             "EncounterInfo": {
                 "EncounterSet": "Voyage Across Belegaer",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Stormy Weather",
+                    "Umbar Fleet",
+                    "Corsair Pirates",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -785,10 +960,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "abeec7e9-ccf6-4145-ae1a-d7179c5a4b4d",
+            "RingsDbCardId": "11021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Scouting Ship",
+            "Slug": "Scouting-Ship-TGH",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -805,6 +985,7 @@
                     "Boarding 1."
                 ],
                 "Text": [
+                    "Boarding 1.",
                     "Cannot have attachments. Scouting Ship gets -15 engagement cost while you are off course (Cloudy, Rainy, or Stormy)."
                 ],
                 "Shadow": null,
@@ -817,10 +998,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "16361c0e-f422-44d4-8f25-bc32b7a9aadd",
+            "RingsDbCardId": "11022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Starlit Sea",
+            "Slug": "Starlit-Sea-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -855,10 +1041,15 @@
             "Quantity": 2,
             "Artist": "Mateusz Ozminski",
             "HasErrata": false,
+            "OctgnGuid": "b640a0b7-f23e-4859-96fb-b558274b90a8",
+            "RingsDbCardId": "11023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fog Bank",
+            "Slug": "Fog-Bank-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -893,10 +1084,15 @@
             "Quantity": 2,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "edfe479c-dc2b-43d0-9d4b-708e96320748",
+            "RingsDbCardId": "11024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Explore the Island",
+            "Slug": "Explore-the-Island-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -904,19 +1100,24 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Explore-the-Island-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
                     "Setup: Set Shrine to Morgoth aside, out of play. Prepare the Uncharted deck. Add 2 copies of Lost Island from the top of the Uncharted deck to the staging area (3 copies instead if there are 3 or 4 players in the game). The first player takes control of Calphon. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "You arrive on the island’s western beach, the edge of a dense jungle looming beyond. With no map to guide you and no idea of what to expect, you venture forward, deeper into the island... "
+                "FlavorText": "You arrive on the island’s western beach, the edge of a dense jungle looming beyond. With no map to guide you and no idea of what to expect, you venture forward, deeper into the island..."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Explore-the-Island-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -931,7 +1132,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Fate of Númenor",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Drowned Dead",
+                    "Ruins of Númenor"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -939,10 +1143,15 @@
             "Quantity": 1,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "05bf91b3-8e8e-4a45-a6cf-ac8b936b032d",
+            "RingsDbCardId": "11025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Fateful Discovery",
+            "Slug": "A-Fateful-Discovery-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -950,7 +1159,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/A-Fateful-Discovery-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -961,8 +1172,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/A-Fateful-Discovery-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -976,7 +1190,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Fate of Númenor",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Drowned Dead",
+                    "Ruins of Númenor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -984,10 +1201,15 @@
             "Quantity": 1,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "97584fc2-835e-411c-aae3-eb841c90fc43",
+            "RingsDbCardId": "11026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shrine to Morgoth",
+            "Slug": "Shrine-to-Morgoth-Lost-Island-TGH",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1039,10 +1261,15 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Calphon",
+            "Slug": "Calphon-TGH",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -1082,10 +1309,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "24a816f2-172f-4945-8d9b-21eb7fb68263",
+            "RingsDbCardId": "11028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Servant of the Deceiver",
+            "Slug": "Servant-of-the-Deceiver-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1123,10 +1355,15 @@
             "Quantity": 3,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "7a2f15bc-d05d-4891-9558-02396affc32b",
+            "RingsDbCardId": "11029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lush Jungle",
+            "Slug": "Lush-Jungle-Lost-Island-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1178,10 +1415,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Forbidden Coast",
+            "Slug": "Forbidden-Coast-Lost-Island-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1232,10 +1474,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Steep Plateau",
+            "Slug": "Steep-Plateau-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1270,10 +1517,15 @@
             "Quantity": 3,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "8830070b-b918-4b74-8dfb-dced3866e53b",
+            "RingsDbCardId": "11032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mysterious Fog",
+            "Slug": "Mysterious-Fog-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1303,10 +1555,15 @@
             "Quantity": 2,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "b0a1f83b-f1b0-4945-afc8-91a1c25063e2",
+            "RingsDbCardId": "11033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lingering Malevolence",
+            "Slug": "Lingering-Malevolence-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1336,10 +1593,15 @@
             "Quantity": 2,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "b03a007c-42bc-433c-bd0e-efbf65a8696d",
+            "RingsDbCardId": "11034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruins of Ages Past",
+            "Slug": "Ruins-of-Ages-Past-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1353,6 +1615,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Add 1 copy of Lost Island from the top of the Uncharted deck to the staging area. Then, remove all progress from each Uncharted location in the staging area and shuffle them so that the players do not know which one is which."
                 ],
                 "Shadow": null,
@@ -1371,10 +1634,15 @@
             "Quantity": 2,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "92fec8c5-53e7-477a-9c47-8d97578bc1e7",
+            "RingsDbCardId": "11035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Corsairs' Assault",
+            "Slug": "The-Corsairs'-Assault-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1382,7 +1650,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Corsairs'-Assault-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1393,8 +1663,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Corsairs'-Assault-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1407,7 +1680,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Raid on the Grey Havens",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "The Stormcaller Elite"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -1415,10 +1691,15 @@
             "Quantity": 1,
             "Artist": "Simon Dominic",
             "HasErrata": false,
+            "OctgnGuid": "fab58a26-eaa6-4e6b-aa59-575bab8a2599",
+            "RingsDbCardId": "11036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Advance",
+            "Slug": "Sahir's-Advance-TGH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1426,7 +1707,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sahír's-Advance-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1437,14 +1720,17 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sahír's-Advance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
                     "Any time players would place progress on this quest, remove an equal amount of damage from locations in play instead. (Progress is placed on the active location before triggering this effect.)",
                     "Each Raider enemy revealed by the encounter deck enters play with 1 resource on it.",
-                    "If Captain Sahír is in the victory display and each location in play has no damage, the players win the game. "
+                    "If Captain Sahír is in the victory display and each location in play has no damage, the players win the game."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1453,7 +1739,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Raid on the Grey Havens",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "The Stormcaller Elite"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -1461,10 +1750,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "7c5f503a-61aa-4f12-acdf-e52fc51e295f",
+            "RingsDbCardId": "11037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Havens Burn",
+            "Slug": "The-Havens-Burn-TGH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1495,10 +1789,15 @@
             "Quantity": 1,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "6302e603-fade-43b3-a6b3-235af412fdfa",
+            "RingsDbCardId": "11038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dream-chaser",
+            "Slug": "Dream-chaser-Location-TGH",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1518,7 +1817,7 @@
                     "Aflame 12."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Aflame 12. Immune to player card effects.",
                     "The players cannot travel to the Dream-chaser.",
                     "When the Dream-chaser is placed underneath The Havens Burn, the players lose the game."
                 ],
@@ -1538,10 +1837,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Arsonist",
+            "Slug": "Corsair-Arsonist-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1579,10 +1883,15 @@
             "Quantity": 3,
             "Artist": "Leanna Teneycke",
             "HasErrata": false,
+            "OctgnGuid": "cedfcb4c-9f28-46c6-b6ec-7986be79f7b1",
+            "RingsDbCardId": "11040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Ravager",
+            "Slug": "Sahir's-Ravager-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1621,10 +1930,15 @@
             "Quantity": 3,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "4893d105-fada-4bee-a4bb-d26463b97b63",
+            "RingsDbCardId": "11041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mithlond Harbor",
+            "Slug": "Mithlond-Harbor-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1643,6 +1957,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While Mithlond Harbor is in the staging area, progress cannot be placed on locations in the staging area."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each damage token on the active location.",
@@ -1661,10 +1976,15 @@
             "Quantity": 2,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "766735f8-3b17-4b50-aee3-a869837f986c",
+            "RingsDbCardId": "11042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Burning Piers",
+            "Slug": "Burning-Piers-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1683,6 +2003,7 @@
                     "Aflame 5."
                 ],
                 "Text": [
+                    "Aflame 5.",
                     "Burning Piers gets +1 Threat for each damage on it.",
                     "Forced: When Burning Piers is placed underneath The Havens Burn, deal 3 damage to The Dream-chaser."
                 ],
@@ -1702,10 +2023,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "c69c1fe9-076a-4a5b-8388-9f653015d84d",
+            "RingsDbCardId": "11043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pillaged Ship",
+            "Slug": "Pillaged-Ship-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1725,6 +2051,7 @@
                     "Aflame 5."
                 ],
                 "Text": [
+                    "Aflame 5.",
                     "When Revealed: Either deal 3 damage to Pillaged Ship, or add the topmost enemy in the encounter discard pile to the staging area."
                 ],
                 "Shadow": "Shadow: If attacking enemy is a Raider, move all resources from defending character to attacking enemy.",
@@ -1743,10 +2070,15 @@
             "Quantity": 2,
             "Artist": "Simon Dominic",
             "HasErrata": false,
+            "OctgnGuid": "a961751d-414b-4a53-9da4-5708f8b7bb1f",
+            "RingsDbCardId": "11044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "White Ship",
+            "Slug": "White-Ship-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1766,6 +2098,7 @@
                     "Aflame 4."
                 ],
                 "Text": [
+                    "Aflame 4.",
                     "Travel: Search the encounter deck and discard pile for a Corsair enemy and add it to the staging area. Shuffle the encounter deck.",
                     "Forced: When White Ship is placed underneath The Havens Burn, place 1 resource on each Raider enemy in play."
                 ],
@@ -1785,10 +2118,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "7fa34ed7-6c3d-41a2-9c03-d8a766a35ece",
+            "RingsDbCardId": "11045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Elven Wave-runner",
+            "Slug": "Elven-Wave-runner-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1809,6 +2147,7 @@
                     "Victory 3."
                 ],
                 "Text": [
+                    "Aflame 3.",
                     "Response: After Elven Wave-runner is added to the victory display, each player draws 1 card."
                 ],
                 "Shadow": "Shadow: If attacking enemy is a Raider, discard a card at random from your hand and place 1 resource on attacking enemy.",
@@ -1827,10 +2166,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "af53407e-c51f-4b41-bd25-312f681149e1",
+            "RingsDbCardId": "11046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Elven Caravel",
+            "Slug": "Elven-Caravel-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1850,6 +2194,7 @@
                     "Aflame 4."
                 ],
                 "Text": [
+                    "Aflame 4.",
                     "Travel: Each player must assign damage among characters he controls equal to the amount of damage on Elven Caravel.",
                     "Forced: When Elven Caravel is placed underneath The Havens Burn, deal 1 damage to each character in play."
                 ],
@@ -1869,10 +2214,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "25eb1da3-b559-4e47-ae20-e6096a8cbc96",
+            "RingsDbCardId": "11047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Put to the Torch",
+            "Slug": "Put-to-the-Torch-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1902,10 +2252,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "91143aee-41e7-4cac-8ec2-e112689fcc17",
+            "RingsDbCardId": "11048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Fires Spread",
+            "Slug": "The-Fires-Spread-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1919,6 +2274,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Deal 1 damage to each Aflame location in play. If less than 3 total damage is dealt by this effect, The Fires Spread gains surge."
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, deal 1 damage to each Aflame location in play.",
@@ -1937,10 +2293,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "76a512ea-3a6a-4c99-8c29-d980dea802ff",
+            "RingsDbCardId": "11049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Calm Waters",
+            "Slug": "Calm-Waters-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1975,10 +2336,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "1e5d3385-4362-4e76-91fc-30e5aebab5e2",
+            "RingsDbCardId": "11050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rolling Seas",
+            "Slug": "Rolling-Seas-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2014,10 +2380,15 @@
             "Quantity": 3,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "ec2f100d-22c8-4cc6-82d9-fb4f07446b0f",
+            "RingsDbCardId": "11051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thrown Off Course",
+            "Slug": "Thrown-Off-Course-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2047,10 +2418,15 @@
             "Quantity": 2,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "4f4df8ea-7f18-4a76-85b0-7ece828bb837",
+            "RingsDbCardId": "11052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rough Waters",
+            "Slug": "Rough-Waters-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2085,10 +2461,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "2b3973f5-e6f6-4611-87b7-b6e3dc33eb66",
+            "RingsDbCardId": "11053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Waterspout",
+            "Slug": "Waterspout-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2124,10 +2505,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "4d925556-3a39-4e49-aafa-0adac6cacc52",
+            "RingsDbCardId": "11054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Storms",
+            "Slug": "Sudden-Storms-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2159,10 +2545,15 @@
             "Quantity": 3,
             "Artist": "Simon Dominic",
             "HasErrata": false,
+            "OctgnGuid": "7691fb33-603e-4460-9f09-5f96bc05c2bb",
+            "RingsDbCardId": "11055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Winds of Wrath",
+            "Slug": "Winds-of-Wrath-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2194,10 +2585,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "71d7dd78-a967-43dd-ab73-e46a5d4d4519",
+            "RingsDbCardId": "11056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Light Cruiser",
+            "Slug": "Light-Cruiser-TGH",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -2214,7 +2610,7 @@
                     "Boarding 2."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 2. Cannot have attachments.",
                     "Each Raider enemy revealed from the Corsair deck by Light Cruiser’s boarding keyword enters play with 1 resource on it."
                 ],
                 "Shadow": null,
@@ -2227,10 +2623,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "c1273c2f-a616-45ee-804d-a16c28b6e63d",
+            "RingsDbCardId": "11057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Warship",
+            "Slug": "Corsair-Warship-TGH",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -2247,7 +2648,7 @@
                     "Boarding 3."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 3. Cannot have attachments.",
                     "While Corsair Warship is in the staging area, it cannot be damaged and gains archery 4."
                 ],
                 "Shadow": null,
@@ -2260,10 +2661,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "a312e181-9209-4460-b6ba-c90c99e011fe",
+            "RingsDbCardId": "11058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Boarding Party",
+            "Slug": "Boarding-Party-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2293,10 +2699,15 @@
             "Quantity": 2,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "28ba7c20-b660-40cb-9e2c-bf6ebaec723e",
+            "RingsDbCardId": "11059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southron Sailor",
+            "Slug": "Southron-Sailor-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2334,10 +2745,15 @@
             "Quantity": 2,
             "Artist": "Leanna Teneycke",
             "HasErrata": false,
+            "OctgnGuid": "b171f1fa-a603-43ab-97c9-f950ee3b3599",
+            "RingsDbCardId": "11060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cunning Pirate",
+            "Slug": "Cunning-Pirate-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2377,10 +2793,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "4d85bbe6-1bc7-4890-8974-e42e2d0f9431",
+            "RingsDbCardId": "11061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Vicious Marauder",
+            "Slug": "Vicious-Marauder-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2420,10 +2841,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "2362af02-42b8-43fe-b3b6-f11f011b3197",
+            "RingsDbCardId": "11062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Umbar Captain",
+            "Slug": "Umbar-Captain-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2461,10 +2887,15 @@
             "Quantity": 2,
             "Artist": "David Kegg",
             "HasErrata": false,
+            "OctgnGuid": "27bdece4-dfac-438e-87cd-1dc653eab8d6",
+            "RingsDbCardId": "11063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Umbar Raider",
+            "Slug": "Umbar-Raider-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2504,10 +2935,15 @@
             "Quantity": 3,
             "Artist": "David Kegg",
             "HasErrata": false,
+            "OctgnGuid": "d03bdefa-cc39-43b6-9af9-feeb33858958",
+            "RingsDbCardId": "11064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Infiltrator",
+            "Slug": "Corsair-Infiltrator-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2547,10 +2983,15 @@
             "Quantity": 2,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "d7885efa-3af6-48e6-8eb1-5750892fdb34",
+            "RingsDbCardId": "11065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raid Leader",
+            "Slug": "Raid-Leader-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2590,10 +3031,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "4b3a4229-eb85-49b0-9f34-78cb17301b34",
+            "RingsDbCardId": "11066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Battle-Hardened",
+            "Slug": "Battle-Hardened-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2623,10 +3069,15 @@
             "Quantity": 2,
             "Artist": "Emile Denis",
             "HasErrata": false,
+            "OctgnGuid": "c057b0ef-eb85-4afc-9ca8-60a0cca92bcc",
+            "RingsDbCardId": "11067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drowned Dead",
+            "Slug": "Drowned-Dead-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2664,10 +3115,15 @@
             "Quantity": 3,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "79d5dc52-cfee-49f9-8a3d-1d4a7a749af2",
+            "RingsDbCardId": "11068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Soulless Cadaver",
+            "Slug": "Soulless-Cadaver-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2706,10 +3162,15 @@
             "Quantity": 2,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "69a3ace6-7588-4ec4-91de-780b56502d8a",
+            "RingsDbCardId": "11069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Throngs of Unfaithful",
+            "Slug": "Throngs-of-Unfaithful-TGH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2731,6 +3192,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: When Throngs of Unfaithful is defeated, discard the bottom card of the engaged player`s deck. If that card’s printed cost is 2 or less, return Throngs of the Unfaithful to the top of the encounter deck."
                 ],
                 "Shadow": null,
@@ -2749,10 +3211,15 @@
             "Quantity": 2,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "159f5a8f-1e1f-4282-9936-94b10e348176",
+            "RingsDbCardId": "11070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Curse of the Downfallen",
+            "Slug": "Curse-of-the-Downfallen-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2782,10 +3249,15 @@
             "Quantity": 2,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "ab5fec4c-b353-47e5-ae47-db7daf7f9088",
+            "RingsDbCardId": "11071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Flooded Ruins",
+            "Slug": "Flooded-Ruins-Lost-Island-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2816,6 +3288,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Uncharted.",
                     "Cannot have player card attachments.",
                     "Forced: After Lost Island becomes the active location, flip it over.",
                     "Action: Remove 4 progress from Lost Island to look at its facedown side."
@@ -2835,10 +3308,15 @@
             "Quantity": 2,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drowned Graves",
+            "Slug": "Drowned-Graves-Lost-Island-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2869,6 +3347,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Uncharted.",
                     "Cannot have player card attachments.",
                     "Forced: After Lost Island becomes the active location, flip it over.",
                     "Action: Remove 4 progress from Lost Island to look at its facedown side."
@@ -2888,10 +3367,15 @@
             "Quantity": 2,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Temple",
+            "Slug": "Cursed-Temple-Lost-Island-TGH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2922,6 +3406,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Uncharted.",
                     "Cannot have player card attachments.",
                     "Forced: After Lost Island becomes the active location, flip it over.",
                     "Action: Remove 4 progress from Lost Island to look at its facedown side."
@@ -2941,10 +3426,15 @@
             "Quantity": 2,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Aimless Wandering",
+            "Slug": "Aimless-Wandering-TGH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2974,10 +3464,15 @@
             "Quantity": 3,
             "Artist": "David Ogilvie",
             "HasErrata": false,
+            "OctgnGuid": "a8918c80-f092-4649-bb5c-9f7fde3cef75",
+            "RingsDbCardId": "11075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Captain Sahír",
+            "Slug": "Captain-Sahir-Enemy-TGH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3020,10 +3515,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Captain Sahír",
+            "Slug": "Captain-Sahir-Objective-Ally-TGH",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -3064,10 +3564,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Na'asiyah",
+            "Slug": "Na'asiyah-Enemy-TGH",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3108,10 +3613,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Na'asiyah",
+            "Slug": "Na'asiyah-Objective-Ally-TGH",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -3152,10 +3662,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dream-chaser",
+            "Slug": "Dream-chaser-Ship-Objective-TGH",
             "IsUnique": true,
             "CardType": "Ship_Objective",
             "CardSubType": "None",
@@ -3172,7 +3687,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Immune to player card effects. Sentinel.",
                     "The Dream-chaser can always be committed to sailing tests (even if you are not the first player), and counts as 2 characters when committed to a Sailing test.",
                     "If the Dream-chaser is destroyed, the players lose the game."
                 ],
@@ -3186,10 +3701,15 @@
             "Quantity": 1,
             "Artist": "Nele Klumpe",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dawn Star",
+            "Slug": "Dawn-Star-TGH",
             "IsUnique": true,
             "CardType": "Ship_Objective",
             "CardSubType": "None",
@@ -3206,7 +3726,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Immune to player card effects. Sentinel.",
                     "Raise your starting threat by 3.",
                     "Draw 1 additional card during the resource phase.",
                     "If the Dawn Star is destroyed, its controller is eliminated from the game."
@@ -3221,10 +3741,15 @@
             "Quantity": 1,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "81632d10-625e-42f0-9e6b-09574a9ffbc3",
+            "RingsDbCardId": "11081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nárelenya",
+            "Slug": "Narelenya-TGH",
             "IsUnique": true,
             "CardType": "Ship_Objective",
             "CardSubType": "None",
@@ -3241,7 +3766,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Immune to player card effects. Sentinel.",
                     "Reduce the cost of the first ally you play each round by 1.",
                     "If the Nárelenya is destroyed, its controller is eliminated from the game."
                 ],
@@ -3255,10 +3780,15 @@
             "Quantity": 1,
             "Artist": "Nele Klumpe",
             "HasErrata": false,
+            "OctgnGuid": "32db1af6-e214-4958-9ca4-bdf3a73758b5",
+            "RingsDbCardId": "11082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Silver Wing",
+            "Slug": "Silver-Wing-TGH",
             "IsUnique": true,
             "CardType": "Ship_Objective",
             "CardSubType": "None",
@@ -3276,7 +3806,7 @@
                     "Ranged."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Immune to player card effects. Sentinel. Ranged.",
                     "Reduce your starting threat by 3.",
                     "Each hero you control gets +1 Attack.",
                     "If the Silver Wing is destroyed, its controller is eliminated from the game."
@@ -3291,10 +3821,15 @@
             "Quantity": 1,
             "Artist": "Nele Klumpe",
             "HasErrata": false,
+            "OctgnGuid": "c9139d8c-0d9d-4d34-bfb5-8d40ca455bfc",
+            "RingsDbCardId": "11083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Navigation",
+            "Slug": "Navigation-TGH",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3314,7 +3849,7 @@
             "Back": null,
             "CardSet": "The Grey Havens",
             "EncounterInfo": {
-                "EncounterSet": "",
+                "EncounterSet": "The Dream-chaser's Fleet",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -3322,8 +3857,12 @@
             },
             "Number": 84,
             "Quantity": 1,
-            "Artist": null,
+            "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "11084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,45 +1,55 @@
 {
     "Name": "The Road Darkens",
+    "Slug": "The-Road-Darkens",
+    "Abbreviation": "RD",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
-            "Title": "Gandalf",
+            "Title": "Gandalf's Staff",
+            "Slug": "Gandalf's-Staff-RD",
             "IsUnique": true,
-            "CardType": "Hero",
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Gandalf.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Gandalf's-Staff.jpg",
                 "Stats": {
-                    "ThreatCost": "14",
-                    "Willpower": "3",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "5"
+                    "ResourceCost": "2"
                 },
                 "Traits": [
-                    "Istari."
+                    "Artifact.",
+                    "Item.",
+                    "Staff."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Restricted."
+                ],
                 "Text": [
-                    "Play with the top card of your deck faceup. Once per phase, you may play the top card of your deck as if it was in your hand. When playing a card this way, Gandalf is considered to have the printed Leadership, Lore, Tactics, and Spirit icons."
+                    "Attach to Gandalf. Restricted.",
+                    "Action: Exhaust Gandalf`s Staff to (choose one): choose a player to draw 1 card, add 1 resource to a hero`s resource pool, or discard a shadow card from a non-unique enemy."
                 ],
                 "Shadow": null,
-                "FlavorText": "`I am a servant of the Secret Fire, wielder of the flame of Anor.` -The Fellowship of the Ring"
+                "FlavorText": "...he held his staff aloft, and from its tip there came a feint radiance. -The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": null,
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Matt Stewart",
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Victor Maury",
             "HasErrata": false,
+            "OctgnGuid": "02e56cef-e78d-4dbd-bd4d-6ec43e4b1d2b",
+            "RingsDbCardId": "142008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1860,
             "Categories": null
         },
         {
             "Title": "Galadriel",
+            "Slug": "Galadriel-RD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -73,46 +83,15 @@
             "Quantity": 3,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gandalf's Staff",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Gandalf's-Staff.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item.",
-                    "Staff."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to Gandalf.",
-                    "Action: Exhaust Gandalf`s Staff to (choose one): choose a player to draw 1 card, add 1 resource to a hero`s resource pool, or discard a shadow card from a non-unique enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "...he held his staff aloft, and from its tip there came a feint radiance. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Road Darkens",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Victor Maury",
-            "HasErrata": false,
+            "OctgnGuid": "3d09a998-9ad0-4b98-9c42-50c4226cc73b",
+            "RingsDbCardId": "142003",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1824,
             "Categories": null
         },
         {
             "Title": "Wizard Pipe",
+            "Slug": "Wizard-Pipe-RD",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -142,10 +121,15 @@
             "Quantity": 3,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "428256aa-e03e-4f57-9b38-b8f7b5f17578",
+            "RingsDbCardId": "142009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1786,
             "Categories": null
         },
         {
             "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-RD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -177,47 +161,15 @@
             "Quantity": 3,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Boromir",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Boromir.jpg",
-                "Stats": {
-                    "ResourceCost": "4",
-                    "Willpower": "1",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Boromir gets +2 Defense while defending against an enemy with an engagement cost higher than your threat.",
-                    "Response: After Boromir takes any amount of damage, ready him."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Road Darkens",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Chris Rahn",
-            "HasErrata": false,
+            "OctgnGuid": "e02cc17b-80e4-4a8f-ba55-1df74aac816d",
+            "RingsDbCardId": "142006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1388,
             "Categories": null
         },
         {
             "Title": "Flame of Anor",
+            "Slug": "Flame-of-Anor-RD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -247,10 +199,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "8a5ff815-56cf-4d5f-a649-a111e736a9f1",
+            "RingsDbCardId": "142007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1068,
             "Categories": null
         },
         {
             "Title": "Elrond",
+            "Slug": "Elrond-RD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -284,10 +241,97 @@
             "Quantity": 3,
             "Artist": "Allen Douglas",
             "HasErrata": false,
+            "OctgnGuid": "638638f0-8177-410a-bce8-9e2bbf5ad81f",
+            "RingsDbCardId": "142005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1045,
+            "Categories": null
+        },
+        {
+            "Title": "Gandalf",
+            "Slug": "Gandalf-RD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Gandalf.jpg",
+                "Stats": {
+                    "ThreatCost": "14",
+                    "Willpower": "3",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Istari."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play with the top card of your deck faceup. Once per phase, you may play the top card of your deck as if it was in your hand. When playing a card this way, Gandalf is considered to have the printed Leadership, Lore, Tactics, and Spirit icons."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am a servant of the Secret Fire, wielder of the flame of Anor.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Matt Stewart",
+            "HasErrata": false,
+            "OctgnGuid": "3e055edf-4540-4cf1-94ce-afbf5fc28f82",
+            "RingsDbCardId": "142002",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 767,
+            "Categories": null
+        },
+        {
+            "Title": "Boromir",
+            "Slug": "Boromir-RD",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Boromir.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Boromir gets +2 Defense while defending against an enemy with an engagement cost higher than your threat.",
+                    "Response: After Boromir takes any amount of damage, ready him."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Chris Rahn",
+            "HasErrata": false,
+            "OctgnGuid": "36b26228-1c01-4064-a109-d110e00d8e4b",
+            "RingsDbCardId": "142004",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 973,
             "Categories": null
         },
         {
             "Title": "Fellowship of the Ring",
+            "Slug": "Fellowship-of-the-Ring-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -317,10 +361,15 @@
             "Quantity": 3,
             "Artist": "Michael Komarck",
             "HasErrata": false,
+            "OctgnGuid": "d5f09d24-be50-4958-b0d0-41b1ad09b7af",
+            "RingsDbCardId": "142010",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 261,
             "Categories": null
         },
         {
             "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-RD",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -353,10 +402,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "f9196cda-8f50-4cc5-9aad-1c56cb677bca",
+            "RingsDbCardId": "142001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sting",
+            "Slug": "Sting-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -390,10 +444,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "7791cd04-7ffe-41f3-9633-cf57ad3a34ca",
+            "RingsDbCardId": "142011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mithril Shirt",
+            "Slug": "Mithril-Shirt-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -424,10 +483,15 @@
             "Quantity": 1,
             "Artist": "Sara Betsy",
             "HasErrata": false,
+            "OctgnGuid": "23acfc2e-3262-4f22-8496-a753fa9089bd",
+            "RingsDbCardId": "142012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Glamdring",
+            "Slug": "Glamdring-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -447,7 +511,8 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Warrior hero or Gandalf. Attached character gets +2 Attack.",
+                    "Attach to a Warrior hero or Gandalf. Restricted.",
+                    "Attached character gets +2 Attack.",
                     "Response: After attached character destroys an Orc enemy, draw 1 card."
                 ],
                 "Shadow": null,
@@ -460,10 +525,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "c7f5eac0-dbda-419f-994c-c182775682b3",
+            "RingsDbCardId": "142013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Andúril",
+            "Slug": "Anduril-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -483,7 +553,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Noble hero or Aragorn.",
+                    "Attach to a Noble hero or Aragorn. Restricted.",
                     "Attached hero gets +1 Willpower, +1 Attack, and +1 Defense.",
                     "Response: After an attack in which the attached hero defended resolves, exhaust Andúril to target the enemy that just attacked. Declare attached hero as an attacker against that enemy (and resolve the attack)."
                 ],
@@ -497,10 +567,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "24eabbac-62b1-4d2c-93a0-f97c04a2aefa",
+            "RingsDbCardId": "142014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Phial of Galadriel",
+            "Slug": "Phial-of-Galadriel-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -532,10 +607,15 @@
             "Quantity": 1,
             "Artist": "Cynthia Sheppard",
             "HasErrata": false,
+            "OctgnGuid": "14cbe0e1-0916-427f-8f19-abef59232dd2",
+            "RingsDbCardId": "142015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Three Golden Hairs",
+            "Slug": "Three-Golden-Hairs-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -567,10 +647,15 @@
             "Quantity": 1,
             "Artist": "Rovina Cai",
             "HasErrata": false,
+            "OctgnGuid": "37488d87-8c07-4f13-b354-66bbdc9e5263",
+            "RingsDbCardId": "142016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lórien Rope",
+            "Slug": "Lorien-Rope-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -602,10 +687,15 @@
             "Quantity": 1,
             "Artist": "Rick Price",
             "HasErrata": false,
+            "OctgnGuid": "606ee31e-a9cf-4ccf-8eed-003c006e5168",
+            "RingsDbCardId": "142017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Leaf-wrapped Lembas",
+            "Slug": "Leaf-wrapped-Lembas-RD",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -637,10 +727,15 @@
             "Quantity": 1,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "8b15901c-c6b2-421e-8c6d-3200558e3609",
+            "RingsDbCardId": "142018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ring Goes South",
+            "Slug": "The-Ring-Goes-South-Campaign-RD",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -676,10 +771,15 @@
             "Quantity": 1,
             "Artist": "Ignacio Bazan Lazcano",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Council of Elrond",
+            "Slug": "The-Council-of-Elrond-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -687,7 +787,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Council-of-Elrond-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -698,8 +800,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Council-of-Elrond-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -720,10 +825,15 @@
             "Quantity": 1,
             "Artist": "Ignacio Bazan Lazcano",
             "HasErrata": false,
+            "OctgnGuid": "0c0fdef7-f55a-4bcf-91f9-317cd7a00777",
+            "RingsDbCardId": "142020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Nine Walkers",
+            "Slug": "The-Nine-Walkers-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -731,7 +841,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Nine-Walkers-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -742,8 +854,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Nine-Walkers-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -765,10 +880,15 @@
             "Quantity": 1,
             "Artist": "Matt Bradbury",
             "HasErrata": false,
+            "OctgnGuid": "9e678947-2687-4b3b-b98c-f05f289793ff",
+            "RingsDbCardId": "142021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Hunt is Up!",
+            "Slug": "The-Hunt-is-Up-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -776,7 +896,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Hunt-is-Up-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -787,8 +909,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Hunt-is-Up-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -810,10 +935,15 @@
             "Quantity": 1,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "0ae0d2d5-b082-4cc7-b227-9b60c60de8b4",
+            "RingsDbCardId": "142022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Gates of Moria",
+            "Slug": "The-Gates-of-Moria-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -821,7 +951,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Gates-of-Moria-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -832,8 +964,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Gates-of-Moria-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -856,10 +991,15 @@
             "Quantity": 1,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "3e99373a-ce10-4907-acd5-5a4b8dce425c",
+            "RingsDbCardId": "142023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Watcher in the Water",
+            "Slug": "Watcher-in-the-Water-RD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -900,10 +1040,15 @@
             "Quantity": 1,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "8f38ca4f-5893-4bd4-854d-6788a3ada41f",
+            "RingsDbCardId": "142024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Warg Chief",
+            "Slug": "Great-Warg-Chief-RD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -943,10 +1088,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "232256cb-40ee-4cec-84ac-995b3ba43eb2",
+            "RingsDbCardId": "142025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hound of Sauron",
+            "Slug": "Hound-of-Sauron-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -987,10 +1137,15 @@
             "Quantity": 4,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "1a55452f-9e4c-4cdc-8ce1-549c862bf96e",
+            "RingsDbCardId": "142026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Howling Warg",
+            "Slug": "Howling-Warg-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1029,10 +1184,15 @@
             "Quantity": 4,
             "Artist": "Dylan Pierpont",
             "HasErrata": false,
+            "OctgnGuid": "e476b426-a9db-4d95-ab93-a32f4a5b7f48",
+            "RingsDbCardId": "142027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crebain from Dunland",
+            "Slug": "Crebain-from-Dunland-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1073,10 +1233,15 @@
             "Quantity": 2,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "74f47fcd-31fb-4034-924c-034e1615a3c4",
+            "RingsDbCardId": "142028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Redhorn Pass",
+            "Slug": "Redhorn-Pass-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1114,10 +1279,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "ebd1944a-928c-40ff-88de-dfebdfcf633c",
+            "RingsDbCardId": "142029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Doors of Durin",
+            "Slug": "Doors-of-Durin-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1157,10 +1327,15 @@
             "Quantity": 1,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "5963e5c4-0f2e-43c4-afa2-a9b2cfde73d1",
+            "RingsDbCardId": "142030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tree-crowned Hill",
+            "Slug": "Tree-crowned-Hill-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1199,10 +1374,15 @@
             "Quantity": 1,
             "Artist": "Ferdinand Dumago Ladera",
             "HasErrata": false,
+            "OctgnGuid": "ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1",
+            "RingsDbCardId": "142031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hills of Hollin",
+            "Slug": "Hills-of-Hollin-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1241,10 +1421,15 @@
             "Quantity": 3,
             "Artist": "Mikhail Yakovlev",
             "HasErrata": false,
+            "OctgnGuid": "5d0085bd-ebb9-46a7-ae28-698da3d11ae6",
+            "RingsDbCardId": "142032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Redhorn Foothills",
+            "Slug": "Redhorn-Foothills-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1280,10 +1465,15 @@
             "Quantity": 3,
             "Artist": "Victor Garcia",
             "HasErrata": false,
+            "OctgnGuid": "867b61a1-4e23-4426-ad94-b912e89055b8",
+            "RingsDbCardId": "142033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eregion",
+            "Slug": "Eregion-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1318,10 +1508,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "af787868-59d6-48be-983f-447ba0523f46",
+            "RingsDbCardId": "142034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Regiments of Crows",
+            "Slug": "Regiments-of-Crows-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1351,10 +1546,15 @@
             "Quantity": 2,
             "Artist": "Sandra Duchiewicz",
             "HasErrata": false,
+            "OctgnGuid": "78fd9e40-f68d-46c9-b6bf-8fec3b77bfcf",
+            "RingsDbCardId": "142035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Snowdrifts",
+            "Slug": "Snowdrifts-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1386,10 +1586,15 @@
             "Quantity": 2,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "ca24cab1-1489-4c4d-8cea-50d076c020b8",
+            "RingsDbCardId": "142036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bitter Cold",
+            "Slug": "Bitter-Cold-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1421,10 +1626,15 @@
             "Quantity": 2,
             "Artist": "Carly Janine Mazur",
             "HasErrata": false,
+            "OctgnGuid": "60546e25-329e-4846-852d-65c1a6ee6c5c",
+            "RingsDbCardId": "142037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Storm of Howls",
+            "Slug": "Storm-of-Howls-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1456,10 +1666,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "54981b6b-c247-40f9-9321-fd7913b897dd",
+            "RingsDbCardId": "142038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Journey in the Dark",
+            "Slug": "Journey-in-the-Dark-Campaign-RD",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -1495,10 +1710,15 @@
             "Quantity": 1,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Long Dark of Moria",
+            "Slug": "The-Long-Dark-of-Moria-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1506,7 +1726,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Long-Dark-of-Moria-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1517,8 +1739,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Long-Dark-of-Moria-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1539,10 +1764,15 @@
             "Quantity": 1,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "91735f73-7dc8-48ee-8a61-b7c9648f5def",
+            "RingsDbCardId": "142040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drums in the Deep",
+            "Slug": "Drums-in-the-Deep-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1550,7 +1780,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Drums-in-the-Deep-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1561,8 +1793,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Drums-in-the-Deep-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1585,10 +1820,15 @@
             "Quantity": 1,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "e6b1a8ef-b595-4bca-9afb-3afbbd52d16e",
+            "RingsDbCardId": "142041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Bridge of Khazad-dûm",
+            "Slug": "The-Bridge-of-Khazad-dum-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1596,7 +1836,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Bridge-of-Khazad-dûm-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1607,8 +1849,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Bridge-of-Khazad-dûm-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1628,12 +1873,17 @@
             },
             "Number": 42,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Doom, Doom, Doom",
+            "Slug": "Doom-Doom-Doom-RD",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1665,12 +1915,17 @@
             },
             "Number": 43,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "e6fea7ff-7fdf-4938-a57b-6be82af1c152",
+            "RingsDbCardId": "142043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Balrog",
+            "Slug": "The-Balrog-RD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1714,10 +1969,15 @@
             "Quantity": 1,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "a62b42dc-ab4a-4573-a281-53742e2739f5",
+            "RingsDbCardId": "142044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc-chieftain",
+            "Slug": "Orc-chieftain-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1757,10 +2017,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Cave-troll",
+            "Slug": "Great-Cave-troll-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1799,10 +2064,15 @@
             "Quantity": 2,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "fc145eae-9671-4697-8d28-473f3b138295",
+            "RingsDbCardId": "142046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk from Mordor",
+            "Slug": "Uruk-from-Mordor-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1841,10 +2111,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "d2e57235-6df7-40fc-9a47-1ad06b4ed7a3",
+            "RingsDbCardId": "142047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Moria Orc",
+            "Slug": "Moria-Orc-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1882,10 +2157,15 @@
             "Quantity": 3,
             "Artist": "Ben Peek",
             "HasErrata": false,
+            "OctgnGuid": "21a5e7e1-013b-478e-a1c3-ab0300541f39",
+            "RingsDbCardId": "142048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Moria Archer",
+            "Slug": "Moria-Archer-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1927,10 +2207,15 @@
             "Quantity": 3,
             "Artist": "Ben Peek",
             "HasErrata": false,
+            "OctgnGuid": "b309f3a1-af3e-4c2e-9fce-59e8d88fbd7b",
+            "RingsDbCardId": "142049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Great Bridge",
+            "Slug": "The-Great-Bridge-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1969,10 +2254,15 @@
             "Quantity": 1,
             "Artist": "Emilio Rodriguez",
             "HasErrata": false,
+            "OctgnGuid": "9c81c18a-b143-48ae-a22c-821f52efc229",
+            "RingsDbCardId": "142050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chamber of Mazarbul",
+            "Slug": "Chamber-of-Mazarbul-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2011,10 +2301,15 @@
             "Quantity": 1,
             "Artist": "Emilio Rodriguez",
             "HasErrata": false,
+            "OctgnGuid": "14fb1fba-dd55-4511-80f3-14808fc0f174",
+            "RingsDbCardId": "142051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mines of Moria",
+            "Slug": "Mines-of-Moria-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2049,10 +2344,15 @@
             "Quantity": 4,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "38853a8e-09c2-44f8-a76e-62aac1809d18",
+            "RingsDbCardId": "142052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Many-pillared Hall",
+            "Slug": "Many-pillared-Hall-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2087,10 +2387,15 @@
             "Quantity": 4,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Darkened Stairway",
+            "Slug": "Darkened-Stairway-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2125,10 +2430,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "bd30f509-04f8-4135-a5e9-20d3cbbe7cd8",
+            "RingsDbCardId": "142054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Guardroom",
+            "Slug": "Ancient-Guardroom-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2164,10 +2474,15 @@
             "Quantity": 2,
             "Artist": "Pedro Amato",
             "HasErrata": false,
+            "OctgnGuid": "3c53610e-0126-424f-a4cc-9e7710ebcffe",
+            "RingsDbCardId": "142055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "They Are Coming!",
+            "Slug": "They-Are-Coming-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2199,10 +2514,15 @@
             "Quantity": 2,
             "Artist": "Sara Betsy",
             "HasErrata": false,
+            "OctgnGuid": "b0b64e9f-0a9f-42f1-9ad0-0e54db93dc47",
+            "RingsDbCardId": "142056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "We Cannot Get Out",
+            "Slug": "We-Cannot-Get-Out-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2232,10 +2552,15 @@
             "Quantity": 3,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "b69bdceb-a155-4aa6-b7e8-b0265f5d0928",
+            "RingsDbCardId": "142057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Fissure",
+            "Slug": "Deep-Fissure-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2267,10 +2592,15 @@
             "Quantity": 3,
             "Artist": "Pedro Amato",
             "HasErrata": false,
+            "OctgnGuid": "8527856a-e0eb-4799-9985-e73f1ee5281a",
+            "RingsDbCardId": "142058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fool of a Took!",
+            "Slug": "Fool-of-a-Took-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2302,10 +2632,15 @@
             "Quantity": 2,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "4f47ef56-46c8-4a6b-85dd-656eb71c5828",
+            "RingsDbCardId": "142059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Breaking of the Fellowship",
+            "Slug": "Breaking-of-the-Fellowship-Campaign-RD",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2343,10 +2678,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Great River",
+            "Slug": "The-Great-River-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2354,7 +2694,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Great-River-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2365,8 +2707,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Great-River-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2388,10 +2733,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "d32ba7ec-fa7d-4a1a-b157-da4186e62ea6",
+            "RingsDbCardId": "142061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Company Divided",
+            "Slug": "The-Company-Divided-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2399,7 +2749,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Company-Divided-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2410,8 +2762,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Company-Divided-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2432,10 +2787,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "500d3f5b-2de3-4770-bb2a-7db2b104bbf2",
+            "RingsDbCardId": "142062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Searching the Woods",
+            "Slug": "Searching-the-Woods-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2443,7 +2803,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Searching-the-Woods-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2454,8 +2816,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Searching-the-Woods-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2478,10 +2843,15 @@
             "Quantity": 1,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "00008179-c6a7-46d0-be2f-b4b3b748afc2",
+            "RingsDbCardId": "142063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Guard the Hobbits",
+            "Slug": "Guard-the-Hobbits-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2489,7 +2859,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Guard-the-Hobbits-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2500,8 +2872,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Guard-the-Hobbits-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2524,10 +2899,15 @@
             "Quantity": 1,
             "Artist": "Rovina Cai",
             "HasErrata": false,
+            "OctgnGuid": "f4e81861-8cf6-41e7-b347-af7879fa8b06",
+            "RingsDbCardId": "142064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Seat of Amon Hen",
+            "Slug": "The-Seat-of-Amon-Hen-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2535,7 +2915,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Seat-of-Amon-Hen-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2546,8 +2928,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Seat-of-Amon-Hen-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2570,10 +2955,15 @@
             "Quantity": 1,
             "Artist": "Stacey Diana Clark",
             "HasErrata": false,
+            "OctgnGuid": "7dbe33ca-5c8f-411a-ae21-d4b8ceb46f00",
+            "RingsDbCardId": "142065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Hunting",
+            "Slug": "Orc-Hunting-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2581,7 +2971,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Orc-Hunting-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2592,8 +2984,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Orc-Hunting-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2616,10 +3011,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "8f133b99-75d7-43b8-acec-3e298724134a",
+            "RingsDbCardId": "142066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ring-bearer Sets Out",
+            "Slug": "The-Ring-bearer-Sets-Out-RD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2627,7 +3027,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Ring-bearer-Sets-Out-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2638,8 +3040,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Ring-bearer-Sets-Out-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2662,10 +3067,15 @@
             "Quantity": 1,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "c10ac747-573f-46c7-a228-8b6d1cd8875a",
+            "RingsDbCardId": "142067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Frodo's Choice",
+            "Slug": "Frodo's-Choice-RD",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2698,10 +3108,15 @@
             "Quantity": 1,
             "Artist": "Sandra Duchiewicz",
             "HasErrata": false,
+            "OctgnGuid": "f1d2d99e-27e6-44d3-ad3d-ef727fa9ddc2",
+            "RingsDbCardId": "142068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk-hai Captain",
+            "Slug": "Uruk-hai-Captain-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2743,10 +3158,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "9ccd6851-ec1e-4d47-9e8d-486365c261e2",
+            "RingsDbCardId": "142069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk-hai Archer",
+            "Slug": "Uruk-hai-Archer-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2790,10 +3210,15 @@
             "Quantity": 4,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "c91a6d23-7dea-4efd-9f2b-326b74f9a935",
+            "RingsDbCardId": "142070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk-hai Tracker",
+            "Slug": "Uruk-hai-Tracker-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2836,10 +3261,15 @@
             "Quantity": 3,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "9bba91a8-d375-4935-9956-9cb4cc4716c5",
+            "RingsDbCardId": "142071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk-hai Hunter",
+            "Slug": "Uruk-hai-Hunter-RD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2881,10 +3311,15 @@
             "Quantity": 3,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "a11ea1e0-372e-4932-86e4-f84737e842e9",
+            "RingsDbCardId": "142072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Parth Galen",
+            "Slug": "Parth-Galen-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2924,10 +3359,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "72276508-67e0-4133-8b9f-41fb8d44ffa9",
+            "RingsDbCardId": "142073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Seat of Seeing",
+            "Slug": "Seat-of-Seeing-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2965,10 +3405,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "8948aa81-f7fb-4979-9add-555598df529a",
+            "RingsDbCardId": "142074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Argonath",
+            "Slug": "The-Argonath-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3006,10 +3451,15 @@
             "Quantity": 1,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "13a4b435-fa14-42b8-975e-804d3b8b929d",
+            "RingsDbCardId": "142075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sarn Gebir",
+            "Slug": "Sarn-Gebir-RD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3047,10 +3497,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "d8cfafbd-7976-4a87-bdb3-a12c87503cd3",
+            "RingsDbCardId": "142076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "River Anduin",
+            "Slug": "River-Anduin-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3085,10 +3540,15 @@
             "Quantity": 4,
             "Artist": "Victor Garcia",
             "HasErrata": false,
+            "OctgnGuid": "6d4c7a3b-e0e7-4267-8f53-6ba99054892c",
+            "RingsDbCardId": "142077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wooded Shoreline",
+            "Slug": "Wooded-Shoreline-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3125,10 +3585,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "67c97a60-a53c-4624-83ec-2122a74ea730",
+            "RingsDbCardId": "142078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Slopes of Amon Hen",
+            "Slug": "Slopes-of-Amon-Hen-RD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -3164,10 +3629,15 @@
             "Quantity": 3,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "43db612f-6c3c-4a3c-a4ba-816a85f47d16",
+            "RingsDbCardId": "142079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Growing Threat",
+            "Slug": "Growing-Threat-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3199,10 +3669,15 @@
             "Quantity": 2,
             "Artist": "Greg Opalinski",
             "HasErrata": false,
+            "OctgnGuid": "aeba0e59-8dde-4422-bfb5-911ae8de42a1",
+            "RingsDbCardId": "142080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orcs of the White Hand",
+            "Slug": "Orcs-of-the-White-Hand-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3232,10 +3707,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "87539fa5-677d-4163-aff5-321841981cd4",
+            "RingsDbCardId": "142081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Feathered Arrows",
+            "Slug": "Black-Feathered-Arrows-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3265,10 +3745,15 @@
             "Quantity": 3,
             "Artist": "Mark Erwan Tarrisse",
             "HasErrata": false,
+            "OctgnGuid": "da177cbd-31e7-42ea-b051-e61f28dbb749",
+            "RingsDbCardId": "142082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fallen Into Evil",
+            "Slug": "Fallen-Into-Evil-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -3300,10 +3785,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "142083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lust for the Ring",
+            "Slug": "Lust-for-the-Ring-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3338,10 +3828,15 @@
             "Quantity": 1,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "7068731b-3837-40f3-9e98-6c996af4dddc",
+            "RingsDbCardId": "142084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shadow of Fear",
+            "Slug": "Shadow-of-Fear-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3374,10 +3869,15 @@
             "Quantity": 1,
             "Artist": "Mark Behm",
             "HasErrata": false,
+            "OctgnGuid": "d2e3342e-f2eb-47fe-a653-2b1824b808dc",
+            "RingsDbCardId": "142085",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pursued by the Enemy",
+            "Slug": "Pursued-by-the-Enemy-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3410,10 +3910,15 @@
             "Quantity": 1,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "3b05acf1-2c72-4e6c-9f59-a2bacde4820b",
+            "RingsDbCardId": "142086",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overcome by Grief",
+            "Slug": "Overcome-by-Grief-RD",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "Burden",
@@ -3446,10 +3951,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "0c4b67f7-6bd3-452b-8a7d-8b1e206dca0e",
+            "RingsDbCardId": "142087",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grievous Wound",
+            "Slug": "Grievous-Wound-RD",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "Burden",
@@ -3482,10 +3992,15 @@
             "Quantity": 1,
             "Artist": "Sara K. Diesel",
             "HasErrata": false,
+            "OctgnGuid": "7056509d-298d-4a21-be0c-9780f30b149e",
+            "RingsDbCardId": "142088",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Followed by Night",
+            "Slug": "Followed-by-Night-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3518,10 +4033,15 @@
             "Quantity": 1,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "9317bbd9-12e5-47e1-a038-360df6c837b1",
+            "RingsDbCardId": "142089",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ill Fate",
+            "Slug": "Ill-Fate-RD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -3556,10 +4076,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "a09670b1-ccfe-449a-8743-e468c9d76782",
+            "RingsDbCardId": "142090",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The One Ring",
+            "Slug": "The-One-Ring-RD",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3595,6 +4120,10 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "ba2e4a33-edc6-4638-a3f5-b818b080aea8",
+            "RingsDbCardId": "142091",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

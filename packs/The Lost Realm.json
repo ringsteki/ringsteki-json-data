@@ -1,10 +1,14 @@
 {
     "Name": "The Lost Realm",
+    "Slug": "The-Lost-Realm",
+    "Abbreviation": "TLR",
     "Cycle": null,
     "SetType": "Deluxe_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Secret Vigil",
+            "Slug": "Secret-Vigil-TLR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -34,10 +38,15 @@
             "Quantity": 3,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "7a8a2dbe-5a97-42da-a3c9-283724783145",
+            "RingsDbCardId": "09012",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1990,
             "Categories": null
         },
         {
             "Title": "Dúnedain Hunter",
+            "Slug": "Dunedain-Hunter-TLR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -70,10 +79,52 @@
             "Quantity": 3,
             "Artist": "Louis Green",
             "HasErrata": false,
+            "OctgnGuid": "d15c0cc8-19c0-49d8-915f-c423e993c03b",
+            "RingsDbCardId": "09004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1901,
+            "Categories": null
+        },
+        {
+            "Title": "Gather Information",
+            "Slug": "Gather-Information-TLR",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Gather-Information.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.",
+                    "Response: After this stage is defeated, each player may search his deck for 1 card and add it to his hand. Each player shuffles his deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Aragorn halted and examined the tracks closely. -The Tower Towers"
+            },
+            "Back": null,
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "128f940d-8a71-4a80-83c2-bdbc014d95c9",
+            "RingsDbCardId": "09014",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1421,
             "Categories": null
         },
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-TLR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -108,40 +159,129 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "09ebd71c-8286-4838-b661-36a8633c9f0c",
+            "RingsDbCardId": "09001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 522,
             "Categories": null
         },
         {
-            "Title": "Gather Information",
+            "Title": "Weather Hills Watchman",
+            "Slug": "Weather-Hills-Watchman-TLR",
             "IsUnique": false,
-            "CardType": "Player_Side_Quest",
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": null,
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Gather-Information.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Victory 1."
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Weather-Hills-Watchman.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dúnedain."
                 ],
+                "Keywords": [],
                 "Text": [
-                    "Limit 1 per deck.",
-                    "Response: After this stage is defeated, each player may search his deck for 1 card and add it to his hand. Each player shuffles his deck."
+                    "Response: After Weather Hills Watchman enters play, search the top 5 cards of your deck for a Signal card and add it to your hand. Shuffle the other cards back into your deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "Aragorn halted and examined the tracks closely. -The Tower Towers"
+                "FlavorText": "`Rangers use runes, and they come here sometimes.` -Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Lost Realm",
             "EncounterInfo": null,
-            "Number": 14,
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "b313de3d-897e-4e74-afc5-d31fceaa6162",
+            "RingsDbCardId": "09003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 797,
+            "Categories": null
+        },
+        {
+            "Title": "Heir of Valandil",
+            "Slug": "Heir-of-Valandil-TLR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Heir-of-Valandil.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dúnedain hero.",
+                    "Planning Action: Exhaust Heir of Valandil to reduce the cost of the next Dúnedain ally you play this phase by 1 for each enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But my home, such as I have, is in the North. For here the heirs of Valandil have ever dwelt in long line unbroken from father unto son for many generations.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": null,
+            "Number": 10,
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "8b9da56f-6713-457f-8f73-6fdc8168348f",
+            "RingsDbCardId": "09010",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 619,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger Summons",
+            "Slug": "Ranger-Summons-TLR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Ranger-Summons.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Signal."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a Dúnedain hero.",
+                    "Planning Action: Shuffle 1 of your set aside Ranger of the North allies with the encounter keyword into the encounter deck. Then, remove Ranger Summons from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We rode as swiftly as we might when your summons came.` -Halbarad, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "687c526e-85b5-47e3-b596-37148772c013",
+            "RingsDbCardId": "09007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 617,
             "Categories": null
         },
         {
             "Title": "Halbarad",
+            "Slug": "Halbarad-TLR",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -175,109 +315,15 @@
             "Quantity": 1,
             "Artist": "Smirtouille",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Weather Hills Watchman",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Weather-Hills-Watchman.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dúnedain."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Weather Hills Watchman enters play, search the top 5 cards of your deck for a Signal card and add it to your hand. Shuffle the other cards back into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Rangers use runes, and they come here sometimes.` -Aragorn, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Kim Sokol",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Ranger Summons",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Ranger-Summons.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Signal."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Play only if you control a Dúnedain hero.",
-                    "Planning Action: Shuffle 1 of your set aside Ranger of the North allies with the encounter keyword into the encounter deck. Then, remove Ranger Summons from the game."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We rode as swiftly as we might when your summons came.` -Halbarad, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Smirtouille",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Heir of Valandil",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Heir-of-Valandil.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Dúnedain hero.",
-                    "Planning Action: Exhaust Heir of Valandil to reduce the cost of the next Dúnedain ally you play this phase by 1 for each enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "`But my home, such as I have, is in the North. For here the heirs of Valandil have ever dwelt in long line unbroken from father unto son for many generations.` -Aragorn, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Smirtouille",
-            "HasErrata": false,
+            "OctgnGuid": "52b151e9-f13b-4f85-961c-62838d25b97a",
+            "RingsDbCardId": "09002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 286,
             "Categories": null
         },
         {
             "Title": "Sarn Ford Sentry",
+            "Slug": "Sarn-Ford-Sentry-TLR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -310,10 +356,15 @@
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "2c6e85b4-18e3-4c21-95eb-5d74b9eebb5b",
+            "RingsDbCardId": "09005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 593,
             "Categories": null
         },
         {
             "Title": "Athelas",
+            "Slug": "Athelas-TLR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -342,10 +393,50 @@
             "Quantity": 3,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "7b1fb1e7-481d-4a14-85b1-d5d2c60087b6",
+            "RingsDbCardId": "09011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 398,
+            "Categories": null
+        },
+        {
+            "Title": "Tireless Hunters",
+            "Slug": "Tireless-Hunters-TLR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Tireless-Hunters.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only before the resolving enemy attacks step.",
+                    "Combat Action: Choose an enemy not engaged with you. Engage that enemy. Then, discard a shadow card from that enemy, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Many evil things there are that your strong walls and bright swords do not stay.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "cda0276f-d412-47f6-aecf-02ae8dc64c9a",
+            "RingsDbCardId": "09008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 363,
             "Categories": null
         },
         {
             "Title": "Warden of Annúminas",
+            "Slug": "Warden-of-Annuminas-TLR",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -378,81 +469,15 @@
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Tireless Hunters",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Tireless-Hunters.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only before the resolving enemy attacks step.",
-                    "Combat Action: Choose an enemy not engaged with you. Engage that enemy. Then, discard a shadow card from that enemy, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Many evil things there are that your strong walls and bright swords do not stay.` -Aragorn, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Ilich Henriquez",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Ranger of the North",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Ranger-of-the-North.jpg",
-                "Stats": {
-                    "ResourceCost": "-",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Ranger."
-                ],
-                "Keywords": [
-                    "Encounter.",
-                    "Surge.",
-                    "Ranged.",
-                    "Sentinel."
-                ],
-                "Text": [
-                    "When Revealed: The first player chooses a player to take control of Ranger of the North. Then, either deal 2 damage to an enemy or place 2 progress tokens on a location."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": null,
-            "Number": 15,
-            "Quantity": 3,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
+            "OctgnGuid": "a933917f-4c7e-416e-8b08-ee2e60f6ab5f",
+            "RingsDbCardId": "09006",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 344,
             "Categories": null
         },
         {
             "Title": "Expert Trackers",
+            "Slug": "Expert-Trackers-TLR",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -478,10 +503,62 @@
             "Quantity": 3,
             "Artist": "Alexandr Shaldin",
             "HasErrata": false,
+            "OctgnGuid": "86583668-7581-4bca-ba10-a4752878740e",
+            "RingsDbCardId": "09009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 315,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger of the North",
+            "Slug": "Ranger-of-the-North-TLR",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Ranger-of-the-North.jpg",
+                "Stats": {
+                    "ResourceCost": "-",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Encounter.",
+                    "Surge.",
+                    "Ranged.",
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Encounter. Surge. Ranged. Sentinel.",
+                    "When Revealed: The first player chooses a player to take control of Ranger of the North. Then, either deal 2 damage to an enemy or place 2 progress tokens on a location."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "156ed210-ab6e-4da9-b8c0-48984711edf2",
+            "RingsDbCardId": "09015",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 246,
             "Categories": null
         },
         {
             "Title": "Star Brooch",
+            "Slug": "Star-Brooch-TLR",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -510,10 +587,15 @@
             "Quantity": 3,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "130df5c3-a050-4690-8dac-d1ae937a2e3c",
+            "RingsDbCardId": "09013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 204,
             "Categories": null
         },
         {
             "Title": "Iârion",
+            "Slug": "Iarion-TLR",
             "IsUnique": false,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -554,10 +636,15 @@
             "Quantity": 1,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "f7f5ca4e-42db-48f9-b4a5-efe419f53fa3",
+            "RingsDbCardId": "09016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc War Party",
+            "Slug": "Orc-War-Party-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -597,10 +684,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "e542f4f9-420f-40eb-8c95-d648f2589511",
+            "RingsDbCardId": "09017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chetwood Forest",
+            "Slug": "Chetwood-Forest-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -636,10 +728,15 @@
             "Quantity": 3,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "f9d0fb76-13bc-44f9-853f-8d2e417d0098",
+            "RingsDbCardId": "09018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Borders of Bree-land",
+            "Slug": "Borders-of-Bree-land-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -674,10 +771,15 @@
             "Quantity": 2,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "528afc17-e78f-4b02-8080-e936955a77b9",
+            "RingsDbCardId": "09019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Outlying Homestead",
+            "Slug": "Outlying-Homestead-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -696,6 +798,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "While Outlying Homestead is in the staging area, players cannot reduce their threat.",
                     "Travel: Reveal a card from the encounter deck."
                 ],
@@ -715,10 +818,15 @@
             "Quantity": 3,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "c3c34a86-6089-4a3f-b1b6-f81d8cbc2caa",
+            "RingsDbCardId": "09020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Assault",
+            "Slug": "Sudden-Assault-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -748,10 +856,15 @@
             "Quantity": 2,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "303b01b8-2d61-4c20-81a0-50800e18d617",
+            "RingsDbCardId": "09021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Surprising Speed",
+            "Slug": "Surprising-Speed-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -781,10 +894,15 @@
             "Quantity": 3,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "cbbcf9d4-f9d8-448a-9454-3e36c493a31e",
+            "RingsDbCardId": "09022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Rearguard",
+            "Slug": "Orc-Rearguard-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -811,10 +929,15 @@
             "Quantity": 1,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "85eb724c-a258-4d94-83ba-5e9f21d82491",
+            "RingsDbCardId": "09023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rescue Iârion",
+            "Slug": "Rescue-Iarion-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -829,7 +952,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him.",
+                    "Time 4. When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him.",
                     "Forced: After the last time counter is removed from this stage, discard Iârion."
                 ],
                 "Shadow": null,
@@ -842,10 +965,15 @@
             "Quantity": 1,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "09024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cornered Orc",
+            "Slug": "Cornered-Orc-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -883,10 +1011,15 @@
             "Quantity": 5,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "00d81c85-395e-4990-b0ff-7cbd9908f541",
+            "RingsDbCardId": "09025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Amon Forn",
+            "Slug": "Amon-Forn-TLR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -926,10 +1059,15 @@
             "Quantity": 1,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "ea225b12-75e1-4253-9458-c71c1c304a8f",
+            "RingsDbCardId": "09026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weathered Hilltop",
+            "Slug": "Weathered-Hilltop-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -966,10 +1104,15 @@
             "Quantity": 3,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "836a759d-d768-4119-929f-cfe874ba944a",
+            "RingsDbCardId": "09027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exposed Ridge",
+            "Slug": "Exposed-Ridge-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1005,10 +1148,15 @@
             "Quantity": 3,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "27da4ea2-7892-409e-b6e0-38ad215d5d0c",
+            "RingsDbCardId": "09028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sheltered Valley",
+            "Slug": "Sheltered-Valley-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1045,10 +1193,15 @@
             "Quantity": 2,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "718d940a-2b58-4986-af10-06a81546bc9f",
+            "RingsDbCardId": "09029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Concealed Orc-camp",
+            "Slug": "Concealed-Orc-camp-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1085,10 +1238,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "8bf452c7-09ab-482b-b44c-0861b7e63ecc",
+            "RingsDbCardId": "09030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ice Storm",
+            "Slug": "Ice-Storm-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1120,10 +1278,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "3470ed02-38dc-4387-8fe0-265b13fe96a1",
+            "RingsDbCardId": "09031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Find Shelter",
+            "Slug": "Find-Shelter-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1139,6 +1302,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge. Time 4.",
                     "Forced: After the last time counter is removed from this quest cards, each player deals 4 damage to a hero he controls. Then, place 4 time counters on this quest card."
                 ],
                 "Shadow": null,
@@ -1151,10 +1315,15 @@
             "Quantity": 1,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "0e192334-fa2b-4c1a-bfab-0aa44bf88db4",
+            "RingsDbCardId": "09032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir",
+            "Slug": "Thaurdir-TLR",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1177,7 +1346,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Indestructible. Cannot have attachments.",
                     "Forced: After a treachery card with the Sorcery trait is revealed from the encounter deck, Thaurdir makes an immediate attack against the first player."
                 ],
                 "Shadow": null,
@@ -1196,10 +1365,15 @@
             "Quantity": 1,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "530e7365-0a5a-46e5-9720-5377dfa1a01b",
+            "RingsDbCardId": "09033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir's Damned",
+            "Slug": "Thaurdir's-Damned-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1238,10 +1412,15 @@
             "Quantity": 3,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "8e16a07f-d6c1-4040-b05c-bb2bc1ab92c8",
+            "RingsDbCardId": "09034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Baleful Shade",
+            "Slug": "Baleful-Shade-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1280,10 +1459,15 @@
             "Quantity": 4,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "fe419fec-bc64-493c-aa23-fa3e62c57768",
+            "RingsDbCardId": "09035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Broken Battlements",
+            "Slug": "Broken-Battlements-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1303,7 +1487,7 @@
                     "Time 3."
                 ],
                 "Text": [
-                    "Forced: After the last time counter is removed from Broken Battlements, each player discards the top 5 cards of his deck and places 1 time counter here.",
+                    "Time 3. Forced: After the last time counter is removed from Broken Battlements, each player discards the top 5 cards of his deck and places 1 time counter here.",
                     "Travel: Each player discard the top card of his deck."
                 ],
                 "Shadow": null,
@@ -1322,10 +1506,15 @@
             "Quantity": 3,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "82ca7902-f8fa-4352-8f54-f5f6a8875c51",
+            "RingsDbCardId": "09036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Norbury Tombs",
+            "Slug": "Norbury-Tombs-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1343,7 +1532,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Norbury Tombs is the active location, it gains: `Respnse: When Norbury Tombs is explored, each player shuffles the top 5 cards of his discard pile into his deck.`",
+                    "While Norbury Tombs is the active location, it gains: `Response: When Norbury Tombs is explored, each player shuffles the top 5 cards of his discard pile into his deck.`",
                     "Travel: Return the topmost enemy in the encounter discard pile to the staging area."
                 ],
                 "Shadow": null,
@@ -1362,10 +1551,15 @@
             "Quantity": 2,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "a5e60892-b524-43cf-a501-372a624e785e",
+            "RingsDbCardId": "09037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fornost Square",
+            "Slug": "Fornost-Square-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1402,10 +1596,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "5a90429e-d5cf-442f-b8d8-af144b3ea861",
+            "RingsDbCardId": "09038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haunted Keep",
+            "Slug": "Haunted-Keep-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1441,10 +1640,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "94ef148f-62f7-4659-8a49-9c42b9ed7cef",
+            "RingsDbCardId": "09039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadmen's Gate",
+            "Slug": "Deadmen's-Gate-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1480,10 +1684,15 @@
             "Quantity": 2,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "46affe37-a561-4c15-bc0e-7c36d78ba056",
+            "RingsDbCardId": "09040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unnatural Fog",
+            "Slug": "Unnatural-Fog-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1499,6 +1708,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Each player must either discard 1 card from the top of his deck for each questing character he controls, or remove each character he controls from the quest."
                 ],
                 "Shadow": null,
@@ -1517,10 +1727,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "1c240b63-841f-4b76-9808-13c0ee0f986e",
+            "RingsDbCardId": "09041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Shadow World",
+            "Slug": "The-Shadow-World-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1535,6 +1750,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: At the end of the refresh phase, each player discards the top X cards of his deck, where X is the number of Undead enemies engaged with him."
                 ],
                 "Shadow": null,
@@ -1547,10 +1763,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "e3d50fbb-2b94-481a-a1e5-7925ca8384ff",
+            "RingsDbCardId": "09042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Angmar Orc",
+            "Slug": "Angmar-Orc-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1588,10 +1809,15 @@
             "Quantity": 3,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "9d5d2136-f1e7-40fd-9a0f-fbac3c87f8f6",
+            "RingsDbCardId": "09043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Angmar Marauder",
+            "Slug": "Angmar-Marauder-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1629,10 +1855,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "b2fcd022-5409-4a2f-9775-390d2c3ce7d2",
+            "RingsDbCardId": "09044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Angmar Captain",
+            "Slug": "Angmar-Captain-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1670,10 +1901,15 @@
             "Quantity": 2,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "cc13ea34-ab19-474e-afe5-29c8651126d0",
+            "RingsDbCardId": "09045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1700,10 +1936,15 @@
             "Quantity": 1,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "e347f103-7444-4681-ae57-49c7b84dd3c0",
+            "RingsDbCardId": "09046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rugged Country",
+            "Slug": "Rugged-Country-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1738,10 +1979,15 @@
             "Quantity": 3,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "25aec3b5-3221-411c-83a0-b3ceed2b5c06",
+            "RingsDbCardId": "09047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shrouded Hills",
+            "Slug": "Shrouded-Hills-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1778,10 +2024,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "e2763cc3-019b-4397-b6f8-f647bf3fdf43",
+            "RingsDbCardId": "09048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pressing Needs",
+            "Slug": "Pressing-Needs-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1795,6 +2046,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Either search the encounter deck and discard pile for an encounter side quest and reveal it, or choose a different quest card in play to be the current quest until the end of the phase. Shuffe the encounter deck."
                 ],
                 "Shadow": null,
@@ -1813,10 +2065,15 @@
             "Quantity": 2,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "fd2014e3-43df-4378-9c67-61f99353f87f",
+            "RingsDbCardId": "09049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weight of Responsibility",
+            "Slug": "Weight-of-Responsibility-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1846,10 +2103,15 @@
             "Quantity": 2,
             "Artist": "Dleoblack",
             "HasErrata": false,
+            "OctgnGuid": "7d2b321b-d4e6-4dd4-a124-028c772592ee",
+            "RingsDbCardId": "09050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Wilderness",
+            "Slug": "Lost-in-the-Wilderness-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1876,10 +2138,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "efcd8672-26f1-4c32-b6ef-5a06f80e406a",
+            "RingsDbCardId": "09051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Biting Wind",
+            "Slug": "Biting-Wind-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1911,10 +2178,15 @@
             "Quantity": 3,
             "Artist": "Tommy Arnold",
             "HasErrata": false,
+            "OctgnGuid": "8a2d9c58-cf82-4e3f-90df-240e2bebb5e9",
+            "RingsDbCardId": "09052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Freezing Blast",
+            "Slug": "Freezing-Blast-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1930,6 +2202,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Remove each damaged character from the quest."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each damaged character the defending player controls.",
@@ -1948,10 +2221,15 @@
             "Quantity": 2,
             "Artist": "Bill Thompson",
             "HasErrata": false,
+            "OctgnGuid": "b79e8b2a-0ebe-4698-bc6d-43c19d44202d",
+            "RingsDbCardId": "09053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cold from Angmar",
+            "Slug": "Cold-from-Angmar-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1983,10 +2261,15 @@
             "Quantity": 3,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "9db89c44-e692-4afa-ac07-d4ac35165cb7",
+            "RingsDbCardId": "09054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Make Camp",
+            "Slug": "Make-Camp-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -2001,6 +2284,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Characters cannot be healed.",
                     "Response: After Make Camp is defeated, each player heals up to 3 damage from a hero he controls."
                 ],
@@ -2014,10 +2298,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "5388683d-3240-433a-9602-a7367e428406",
+            "RingsDbCardId": "09055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruins of Arnor",
+            "Slug": "Ruins-of-Arnor-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2053,10 +2342,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "70cc4fe9-8e97-4d83-8f48-06dc6a43c43e",
+            "RingsDbCardId": "09056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Causeway",
+            "Slug": "Ancient-Causeway-TLR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2092,10 +2386,15 @@
             "Quantity": 2,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "ff4c59d7-6ad7-4fa7-80da-97fd5f8f3169",
+            "RingsDbCardId": "09057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tragic Discovery",
+            "Slug": "Tragic-Discovery-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2125,10 +2424,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "f2a34148-f5af-4a16-a1ae-953ea5d5482f",
+            "RingsDbCardId": "09058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Search the Ruins",
+            "Slug": "Search-the-Ruins-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -2143,6 +2447,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: At the end of the refresh phase, raise each player`s threat by 2.",
                     "Response: After Search the Ruins is defeated, reduce each player`s threat by 3."
                 ],
@@ -2156,10 +2461,15 @@
             "Quantity": 1,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "047ca6cd-733d-46aa-b2db-48a9c63bfc24",
+            "RingsDbCardId": "09059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dead Lord",
+            "Slug": "Dead-Lord-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2197,10 +2507,15 @@
             "Quantity": 2,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "aa6914e2-4b79-4a95-ab3e-386d6a924bee",
+            "RingsDbCardId": "09060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Dead",
+            "Slug": "Cursed-Dead-TLR",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2238,10 +2553,15 @@
             "Quantity": 5,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "21fec323-3155-4b64-8506-fa87d44f01fc",
+            "RingsDbCardId": "09061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Restless Evil",
+            "Slug": "Restless-Evil-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2271,10 +2591,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "123bc772-2c27-4f26-a7f2-a3c4928a9dc4",
+            "RingsDbCardId": "09062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Seal the Tomb",
+            "Slug": "Seal-the-Tomb-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -2289,6 +2614,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area."
                 ],
                 "Shadow": null,
@@ -2301,10 +2627,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "7295a9fb-961f-42ad-b07d-33793e2f2274",
+            "RingsDbCardId": "09063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Terror of the North",
+            "Slug": "Terror-of-the-North-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2336,10 +2667,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "d664e3bd-3f0d-47d8-91bb-d61b27a13c22",
+            "RingsDbCardId": "09064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Sorcery",
+            "Slug": "Dark-Sorcery-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2355,6 +2691,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Each player discards each ally he controls that has the same title as a card in his discard pile."
                 ],
                 "Shadow": null,
@@ -2373,10 +2710,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "f8d69554-7cc1-4adc-b021-b6d3601e777d",
+            "RingsDbCardId": "09065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Heavy Curse",
+            "Slug": "Heavy-Curse-TLR",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2392,6 +2734,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `When a player plays a card, increase its cost by 1 if there is a card that has the same title in its owner`s discard pile.`)"
                 ],
                 "Shadow": null,
@@ -2410,10 +2753,15 @@
             "Quantity": 3,
             "Artist": "Tommy Arnold",
             "HasErrata": false,
+            "OctgnGuid": "a6ea339d-aec3-4ec7-9374-c1442385c260",
+            "RingsDbCardId": "09066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Power of Angmar",
+            "Slug": "The-Power-of-Angmar-TLR",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -2428,6 +2776,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Cards in each player`s discard pile cannot leave that player`s discard pile by player card effect.",
                     "Forced: After this stage is defeated, each player shuffles the top 5 cards of his discard pile back into his deck."
                 ],
@@ -2441,10 +2790,15 @@
             "Quantity": 1,
             "Artist": "Matt Stewart",
             "HasErrata": false,
+            "OctgnGuid": "c3e07d8f-3af3-4f21-8951-d3300ca376fa",
+            "RingsDbCardId": "09067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stop the War Party",
+            "Slug": "Stop-the-War-Party-TLR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2452,7 +2806,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Stop-the-War-Party-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2463,8 +2819,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Stop-the-War-Party-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "30"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2479,7 +2838,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Intruders in Chetwood",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Eriador Wilds",
+                    "Angmar Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2487,10 +2850,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "be3ca12f-2550-48b4-9384-e71a1b401d4e",
+            "RingsDbCardId": "09068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Scattered Among the Hills",
+            "Slug": "Scattered-Among-the-Hills-TLR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2498,7 +2866,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Scattered-Among-the-Hills-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2509,8 +2879,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Scattered-Among-the-Hills-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2524,7 +2897,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Weather Hills",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Angmar Orcs",
+                    "Foul Weather",
+                    "Ruins of Arnor"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2532,10 +2909,15 @@
             "Quantity": 1,
             "Artist": "Juan Carlos Barquet",
             "HasErrata": false,
+            "OctgnGuid": "918c4387-bf40-48f1-bf65-5ad5acb91784",
+            "RingsDbCardId": "09069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cornered Animals",
+            "Slug": "Cornered-Animals-TLR",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2543,7 +2925,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Cornered-Animals-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2554,8 +2938,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Cornered-Animals-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2570,7 +2957,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The Weather Hills",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Angmar Orcs",
+                    "Foul Weather",
+                    "Ruins of Arnor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2578,101 +2969,15 @@
             "Quantity": 1,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Shades of Angmar",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/The-Shades-of-Angmar-1A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Setup: Put Iârion into play. Set Thaurdir aside, out of play. Add 1 copy of Fornost square to the staging area. Shuffle the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "You`ve brought the prisoners you rescued from the Weather Hills to Fornost. The Rangers gathered there are shocked to hear what you discovered at Amon Forn. Before their Chieftain can decide what to do, an unnatural fog covers the ruins in darkness, and the spectres of dead warriors emerge from the mists to attack you!"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player must search the encounter deck for a Baleful Shade and put it into play engaged with him. Shuffle the encounter deck and reveal 1 encounter card per player.",
-                    "Forced: At the end of the refresh phase, each player discards the top card of his deck.",
-                    "If a player has no cards in his deck, he is eliminated from the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": {
-                "EncounterSet": "Deadmen's Dike",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 1,
-                "StageLetter": "A"
-            },
-            "Number": 73,
-            "Quantity": 1,
-            "Artist": "Joel Hustak",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "A Fell Wraith",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/A-Fell-Wraith-2A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Add Thaurdir to the staging area. Then, reveal 1 encounter card per player."
-                ],
-                "Shadow": null,
-                "FlavorText": "The foul sorcery that drives the ghouls against you attacks your mind as well, and you fight to master your fear in the face of an unrelenting enemy. The question of who works the evil spell is answered by the appearance of a dark figure. The old man you had thought to be the Orcs` prisoner has revealed himself to be a powerful wraith. He must be stopped!"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Thaurdir attacks and destroys a character, that character`s controller must either discard the top 3 cards of his deck, or return Thaurdir to the staging area.",
-                    "If a player has no cards in his deck, he is eliminated from the game. The players cannot defeat this stage while Thaurdir has any hit points remaining. If the players defeat this stage, they win the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Lost Realm",
-            "EncounterInfo": {
-                "EncounterSet": "Deadmen's Dike",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 2,
-                "StageLetter": "A"
-            },
-            "Number": 74,
-            "Quantity": 1,
-            "Artist": "Sebastian Giacobino",
-            "HasErrata": false,
+            "OctgnGuid": "95d26956-eda3-43b2-b68b-6f8010d076bd",
+            "RingsDbCardId": "09070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunting the Orcs",
+            "Slug": "Hunting-the-Orcs-TLR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2704,10 +3009,15 @@
             "Quantity": 1,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "18484359-d4b5-4ed6-b7be-e013fae4df43",
+            "RingsDbCardId": "09071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Savage Counter-attack",
+            "Slug": "Savage-Counter-attack-TLR",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2741,6 +3051,129 @@
             "Quantity": 1,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "09072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Shades of Angmar",
+            "Slug": "The-Shades-of-Angmar-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/The-Shades-of-Angmar-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Put Iârion into play. Set Thaurdir aside, out of play. Add 1 copy of Fornost square to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve brought the prisoners you rescued from the Weather Hills to Fornost. The Rangers gathered there are shocked to hear what you discovered at Amon Forn. Before their Chieftain can decide what to do, an unnatural fog covers the ruins in darkness, and the spectres of dead warriors emerge from the mists to attack you!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/The-Shades-of-Angmar-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must search the encounter deck for a Baleful Shade and put it into play engaged with him. Shuffle the encounter deck and reveal 1 encounter card per player.",
+                    "Forced: At the end of the refresh phase, each player discards the top card of his deck.",
+                    "If a player has no cards in his deck, he is eliminated from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "Deadmen's Dike",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Dark Sorcery",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Joel Hustak",
+            "HasErrata": false,
+            "OctgnGuid": "6e449166-50ab-4ec5-875f-3cc8adcbb64e",
+            "RingsDbCardId": "09073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Fell Wraith",
+            "Slug": "A-Fell-Wraith-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/A-Fell-Wraith-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Thaurdir to the staging area. Then, reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "The foul sorcery that drives the ghouls against you attacks your mind as well, and you fight to master your fear in the face of an unrelenting enemy. The question of who works the evil spell is answered by the appearance of a dark figure. The old man you had thought to be the Orcs` prisoner has revealed himself to be a powerful wraith. He must be stopped!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/A-Fell-Wraith-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Thaurdir attacks and destroys a character, that character`s controller must either discard the top 3 cards of his deck, or return Thaurdir to the staging area.",
+                    "If a player has no cards in his deck, he is eliminated from the game. The players cannot defeat this stage while Thaurdir has any hit points remaining. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "Deadmen's Dike",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Dark Sorcery",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "89f263b0-c4a5-43ea-b59d-6207f9f65954",
+            "RingsDbCardId": "09074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

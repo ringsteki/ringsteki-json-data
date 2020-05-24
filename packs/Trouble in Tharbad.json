@@ -1,10 +1,14 @@
 {
     "Name": "Trouble in Tharbad",
+    "Slug": "Trouble-in-Tharbad",
+    "Abbreviation": "TiT",
     "Cycle": "The Ring-maker",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Lembas",
+            "Slug": "Lembas-TiT",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -33,49 +37,15 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Haldir of Lórien",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Haldir-of-Lórien.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Ranger.",
-                    "Scout."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "Combat Action: If you have not engaged an enemy this round, exhaust Haldir of Lórien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We allow no strangers to spy out the secrets of the Naith...` -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Trouble in Tharbad",
-            "EncounterInfo": null,
-            "Number": 56,
-            "Quantity": 1,
-            "Artist": "Sebastian Giacobino",
-            "HasErrata": false,
+            "OctgnGuid": "f86ea37a-d70d-4ff2-ac36-2a0ff1f7ffa9",
+            "RingsDbCardId": "08064",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2099,
             "Categories": null
         },
         {
             "Title": "Galadhrim Minstrel",
+            "Slug": "Galadhrim-Minstrel-TiT",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -108,10 +78,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "bd81ff6a-9c8f-415e-85fb-da84c21ef2a4",
+            "RingsDbCardId": "08063",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1543,
             "Categories": null
         },
         {
             "Title": "O Lórien!",
+            "Slug": "O-Lorien-TiT",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -140,10 +115,60 @@
             "Quantity": 3,
             "Artist": "Carolina Eade",
             "HasErrata": false,
+            "OctgnGuid": "b4d93180-0ebc-4a9b-9817-e761068570e3",
+            "RingsDbCardId": "08058",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1131,
+            "Categories": null
+        },
+        {
+            "Title": "Haldir of Lórien",
+            "Slug": "Haldir-of-Lorien-TiT",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Haldir-of-Lórien.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Ranger.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Combat Action: If you have not engaged an enemy this round, exhaust Haldir of Lórien to declare him as an attacker (and resolve his attack) against an enemy not engaged with you. Limit once per round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We allow no strangers to spy out the secrets of the Naith...` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Trouble in Tharbad",
+            "EncounterInfo": null,
+            "Number": 56,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "9d548a43-0ef8-45e6-ab95-7356d218d203",
+            "RingsDbCardId": "08056",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 519,
             "Categories": null
         },
         {
             "Title": "Defender of the Naith",
+            "Slug": "Defender-of-the-Naith-TiT",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -166,6 +191,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Response: After a Silvan ally you control leaves play, ready Defender of the Naith."
                 ],
                 "Shadow": null,
@@ -178,10 +204,15 @@
             "Quantity": 3,
             "Artist": "Christine Griffin",
             "HasErrata": false,
+            "OctgnGuid": "b91ba94d-e6b9-41f6-89ed-df1fb1f22335",
+            "RingsDbCardId": "08065",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 829,
             "Categories": null
         },
         {
             "Title": "Herald of Anórien",
+            "Slug": "Herald-of-Anorien-TiT",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -213,10 +244,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "8c6be9f6-f97c-40a9-88da-2f3ba7f640ed",
+            "RingsDbCardId": "08057",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 647,
             "Categories": null
         },
         {
             "Title": "Gwaihir",
+            "Slug": "Gwaihir-TiT",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -250,10 +286,15 @@
             "Quantity": 3,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "2e7f22cc-218e-4dad-b4e4-00b2208713d9",
+            "RingsDbCardId": "08059",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 595,
             "Categories": null
         },
         {
             "Title": "Pursuing the Enemy",
+            "Slug": "Pursuing-the-Enemy-TiT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -279,10 +320,15 @@
             "Quantity": 3,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
+            "OctgnGuid": "af74e00e-a04e-4a15-a538-d36539bfb751",
+            "RingsDbCardId": "08060",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 308,
             "Categories": null
         },
         {
             "Title": "Courage Awakened",
+            "Slug": "Courage-Awakened-TiT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -308,10 +354,15 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "72ec977b-6d24-459c-aaa8-49c2a01f0766",
+            "RingsDbCardId": "08061",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 211,
             "Categories": null
         },
         {
             "Title": "Free to Choose",
+            "Slug": "Free-to-Choose-TiT",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -337,10 +388,15 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "0d0b210e-995a-4ded-b7b0-d32b59dbaa4f",
+            "RingsDbCardId": "08062",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 190,
             "Categories": null
         },
         {
             "Title": "Double Dealings",
+            "Slug": "Double-Dealings-TiT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -348,7 +404,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Double-Dealings-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -359,8 +417,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Double-Dealings-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -376,7 +437,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Trouble in Tharbad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -384,10 +447,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "022c654e-9d4d-40ff-9d67-8e465fda0e78",
+            "RingsDbCardId": "08066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Escape from Tharbad",
+            "Slug": "Escape-from-Tharbad-TiT",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -395,7 +463,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Escape-from-Tharbad-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -406,12 +476,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Trouble-in-Tharbad/Escape-from-Tharbad-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3. ",
+                    "Time 3.",
                     "Forced: After the last time counter is removed from the quest, either raise each player`s threat by 3 or Bellach makes an immediate attack against Nalir. Then, place 3 time counters on this stage.",
                     "Progress that would be placed on this quest are instead placed on The Crossing at Tharbad.",
                     "Forced: After a character leaves play, raise its controller`s threat by 2."
@@ -423,7 +496,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Trouble in Tharbad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -431,11 +506,16 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "f86ef645-bc8b-41a0-b288-80118f5433cc",
+            "RingsDbCardId": "08067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nalir",
-            "IsUnique": false,
+            "Slug": "Nalir-TiT",
+            "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
             "Sphere": null,
@@ -473,10 +553,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "79f789a1-8a89-468b-8fb1-7a0292cc963f",
+            "RingsDbCardId": "08068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Empty Mug",
+            "Slug": "The-Empty-Mug-TiT",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -514,10 +599,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "1d1adc93-c364-41d0-b987-6038d9df0c07",
+            "RingsDbCardId": "08069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bellach",
+            "Slug": "Bellach-TiT",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -558,10 +648,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "8f6254c0-a723-4e66-bdc7-4c92eed415f8",
+            "RingsDbCardId": "08070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Crossing at Tharbad",
+            "Slug": "The-Crossing-at-Tharbad-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -600,10 +695,15 @@
             "Quantity": 1,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "8b203ead-9fb6-4734-9109-3633fc24d1a9",
+            "RingsDbCardId": "08071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Spy from Mordor",
+            "Slug": "Spy-from-Mordor-TiT",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -643,10 +743,15 @@
             "Quantity": 4,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "8cc366fb-68f0-4401-9df9-20f9258a728c",
+            "RingsDbCardId": "08072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bellach's Marauder",
+            "Slug": "Bellach's-Marauder-TiT",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -684,10 +789,15 @@
             "Quantity": 2,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "57f80fa2-0fdb-47b1-a441-939ee4cc6b4e",
+            "RingsDbCardId": "08073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Streets of Tharbad",
+            "Slug": "Streets-of-Tharbad-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -724,10 +834,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "c2181617-ad55-4bf7-a6f3-60979d112ce6",
+            "RingsDbCardId": "08074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tharbad Hideout",
+            "Slug": "Tharbad-Hideout-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -746,6 +861,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While Tharbad Hideout is the active location, time counters cannot be removed from the current quest.",
                     "Forced: At the beginning of the quest phase, place 1 progress on Tharbad Hideout."
                 ],
@@ -765,10 +881,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "eaad2b4a-3ac0-4672-ad43-036152d81322",
+            "RingsDbCardId": "08075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruins of the Second Age",
+            "Slug": "Ruins-of-the-Second-Age-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -804,10 +925,15 @@
             "Quantity": 2,
             "Artist": "Nate Abell",
             "HasErrata": false,
+            "OctgnGuid": "3d25a41e-6a10-4fd7-a159-2b25bfc54454",
+            "RingsDbCardId": "08076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Seedy Inn",
+            "Slug": "Seedy-Inn-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -842,10 +968,15 @@
             "Quantity": 2,
             "Artist": "Claudio Pozas",
             "HasErrata": false,
+            "OctgnGuid": "ead7703f-43e0-464e-ac09-304b86a54b50",
+            "RingsDbCardId": "08077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hidden Alleyway",
+            "Slug": "Hidden-Alleyway-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -881,10 +1012,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "cafa6a4e-1994-4a22-a465-3c03f1c0a425",
+            "RingsDbCardId": "08078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Decrepit Rooftops",
+            "Slug": "Decrepit-Rooftops-TiT",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -920,10 +1056,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "8a4aebc3-32db-4b2f-965c-548058440a7c",
+            "RingsDbCardId": "08079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Constant Tail",
+            "Slug": "Constant-Tail-TiT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -953,10 +1094,15 @@
             "Quantity": 2,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "51681809-60af-4819-bfa0-3f568987f4ea",
+            "RingsDbCardId": "08080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Conspicuous Lot",
+            "Slug": "Conspicuous-Lot-TiT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -986,10 +1132,15 @@
             "Quantity": 2,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "1b3b1063-e102-4fea-a29b-5692fbfb9cd6",
+            "RingsDbCardId": "08081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cornered",
+            "Slug": "Cornered-TiT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1019,10 +1170,15 @@
             "Quantity": 2,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "44c49a79-6396-494c-a311-bf1b25263acb",
+            "RingsDbCardId": "08082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Get That Dwarf!",
+            "Slug": "Get-That-Dwarf-TiT",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1052,6 +1208,10 @@
             "Quantity": 2,
             "Artist": "Ellyson Ferrari Lifante",
             "HasErrata": false,
+            "OctgnGuid": "2f7770cd-3102-4f35-a3bc-bd9afcab8303",
+            "RingsDbCardId": "08083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

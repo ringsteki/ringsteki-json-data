@@ -1,10 +1,136 @@
 {
     "Name": "The Land of Shadow",
+    "Slug": "The-Land-of-Shadow",
+    "Abbreviation": "TLoS",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Snowmane",
+            "Slug": "Snowmane-TLoS",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Snowmane.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Rohan hero. Restricted.",
+                    "If attached hero is Theoden, Snowmane loses the restricted keyword.",
+                    "Response: After attached hero quests successfully, ready attached hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "Suddenly the king cried to Snowmane and the horse sprang away. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Julepe",
+            "HasErrata": false,
+            "OctgnGuid": "b89d39c4-1017-4707-95c3-d60f352d4e95",
+            "RingsDbCardId": "144010",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1345,
+            "Categories": null
+        },
+        {
+            "Title": "Mablung",
+            "Slug": "Mablung-TLoS",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Mablung.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Mablung enters play, choose an enemy to get +5 engagement cost until the end of the round. Then, you may engage that enemy, or return it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But still we will not sit idle and let Him do all as He would.` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Beth Sobel",
+            "HasErrata": false,
+            "OctgnGuid": "a870e2b3-4b9d-46ea-bc37-425fd682f114",
+            "RingsDbCardId": "144005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1071,
+            "Categories": null
+        },
+        {
+            "Title": "Gamling",
+            "Slug": "Gamling-TLoS",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Gamling.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Rohan ally you control is discarded from play, exhaust Gamling to return that ally to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "`...we have a thousand fit to fight on foot,` said Gamling, an old man, the leader of those that watched the Dike. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Melanie Maier",
+            "HasErrata": false,
+            "OctgnGuid": "9e944f47-14b0-4890-98d2-584e0abe0eda",
+            "RingsDbCardId": "144007",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 871,
+            "Categories": null
+        },
+        {
             "Title": "Damrod",
+            "Slug": "Damrod-TLoS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -38,79 +164,133 @@
             "Quantity": 1,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "3f482b9c-aa18-415e-ab9b-58f9c3b328a1",
+            "RingsDbCardId": "144003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 484,
             "Categories": null
         },
         {
-            "Title": "Snowmane",
+            "Title": "Skinbark",
+            "Slug": "Skinbark-TLoS",
             "IsUnique": true,
-            "CardType": "Attachment",
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Snowmane.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Skinbark.jpg",
                 "Stats": {
-                    "ResourceCost": "1"
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "3"
                 },
                 "Traits": [
-                    "Mount."
+                    "Ent."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a Rohan hero. Restricted.",
-                    "If attached hero is Theoden, Snowmane loses the restricted keyword.",
-                    "Response: After attached hero quests successfully, ready attached hero."
+                    "Cannot have restricted attachments. Enters play exhausted.",
+                    "While Skinbark is attacking alone against an Orc enemy, that enemy does not count its Defense."
                 ],
                 "Shadow": null,
-                "FlavorText": "Suddenly the king cried to Snowmane and the horse sprang away. -The Return of the King"
+                "FlavorText": "`He was wounded by the Orcs, and many of his folk and his tree-herds have been murdered and destroyed.` -Treebeard, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Land of Shadow",
             "EncounterInfo": null,
-            "Number": 10,
+            "Number": 6,
             "Quantity": 3,
-            "Artist": "Julepe",
+            "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "df2b2070-240c-4b38-b4c8-29a0d2c789cf",
+            "RingsDbCardId": "144006",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 666,
             "Categories": null
         },
         {
-            "Title": "Mablung",
-            "IsUnique": true,
-            "CardType": "Ally",
+            "Title": "Ambush",
+            "Slug": "Ambush-TLoS",
+            "IsUnique": false,
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Mablung.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Ambush.jpg",
                 "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "2"
+                    "ResourceCost": "2"
                 },
                 "Traits": [
-                    "Gondor.",
-                    "Ranger."
+                    "Condition.",
+                    "Trap."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Mablung enters play, choose an enemy to get +5 engagement cost until the end of the round. Then, you may engage that enemy, or return it to the staging area."
+                    "Play Ambush into the staging area unattached. If unattached, attach Ambush to the next eligible enemy that enters the staging area.",
+                    "Combat Action: The engaged player discards Ambush to declare an attack against the attached enemy."
                 ],
                 "Shadow": null,
-                "FlavorText": "`But still we will not sit idle and let Him do all as He would.` -The Two Towers"
+                "FlavorText": "`But we have a new errand on this journey: we come to ambush the Men of Harad.` -Mablung, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Land of Shadow",
             "EncounterInfo": null,
-            "Number": 5,
+            "Number": 9,
             "Quantity": 3,
-            "Artist": "Beth Sobel",
+            "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "bb89cc13-3049-4001-bd85-916438c6d629",
+            "RingsDbCardId": "144009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 658,
+            "Categories": null
+        },
+        {
+            "Title": "Staff of Lebethron",
+            "Slug": "Staff-of-Lebethron-TLoS",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Staff-of-Lebethron.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Gondor or Hobbit hero. Restricted.",
+                    "Response: After attached hero exhausts to defend an attack from an enemy with engagement cost higher than your threat, exhaust Staff of Lebethron to discard a shadow card from that enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "`They are made of the fair tree lebethron, beloved of the woodwrights of Gondor...` -Faramir, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Kara Williams",
+            "HasErrata": false,
+            "OctgnGuid": "c86cc6c9-8c50-4069-aa85-4d1cc11f796d",
+            "RingsDbCardId": "144008",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 649,
             "Categories": null
         },
         {
             "Title": "Faramir",
+            "Slug": "Faramir-TLoS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -146,183 +326,15 @@
             "Quantity": 1,
             "Artist": "Jason Cheeseman Meyer",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gamling",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Gamling.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a Rohan ally you control is discarded from play, exhaust Gamling to return that ally to your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "`...we have a thousand fit to fight on foot,` said Gamling, an old man, the leader of those that watched the Dike. -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Land of Shadow",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Melanie Maier",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Skinbark",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Skinbark.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "0",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Ent."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot have restricted attachments. Enters play exhausted.",
-                    "While Skinbark is attacking alone against an Orc enemy, that enemy does not count its Defense."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He was wounded by the Orcs, and many of his folk and his tree-herds have been murdered and destroyed.` -Treebeard, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Land of Shadow",
-            "EncounterInfo": null,
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Dimitri Bielak",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Staff of Lebethron",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Staff-of-Lebethron.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Gondor or Hobbit hero. Restricted.",
-                    "Response: After attached hero exhausts to defend an attack from an enemy with engagement cost higher than your threat, exhaust Staff of Lebethron to discard a shadow card from that enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "`They are made of the fair tree lebethron, beloved of the woodwrights of Gondor...` -Faramir, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Land of Shadow",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Kara Williams",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Ambush",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Ambush.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Condition.",
-                    "Trap."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Play Ambush into the staging area unattached. If unattached, attach Ambush to the next eligible enemy that enters the staging area.",
-                    "Combat Action: The engaged player discards Ambush to declare an attack against the attached enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": "`But we have a new errand on this journey: we come to ambush the Men of Harad.` -Mablung, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Land of Shadow",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Cristina Vela",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Frodo Baggins",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Fellowship",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Frodo-Baggins.jpg",
-                "Stats": {
-                    "ThreatCost": "0",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit.",
-                    "Ring-bearer."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Spend 1 Fellowship resource and exhaust The One Ring to give Frodo Baggins +2 Willpower and +2 Attack until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "`It`s my doom, I think, to go to that Shadow yonder, so that a way will be found.` -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Land of Shadow",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Melanie Maier",
-            "HasErrata": false,
+            "OctgnGuid": "8f937f89-b248-4261-9b00-4e3cd9763299",
+            "RingsDbCardId": "144002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 273,
             "Categories": null
         },
         {
             "Title": "Anborn",
+            "Slug": "Anborn-TLoS",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -355,10 +367,56 @@
             "Quantity": 3,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "c8b5dd1c-82bc-4733-be1a-484a6e87c3c0",
+            "RingsDbCardId": "144004",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 551,
+            "Categories": null
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TLoS",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Fellowship resource and exhaust The One Ring to give Frodo Baggins +2 Willpower and +2 Attack until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`It`s my doom, I think, to go to that Shadow yonder, so that a way will be found.` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Melanie Maier",
+            "HasErrata": false,
+            "OctgnGuid": "fe58a6d3-7028-41c1-ab00-5e33e7d77b5f",
+            "RingsDbCardId": "144001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 3,
             "Categories": null
         },
         {
             "Title": "Taste it Again!",
+            "Slug": "Taste-it-Again-TLoS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -384,10 +442,15 @@
             "Quantity": 3,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "1ddaf688-b39b-4d15-8058-1e2957e021ca",
+            "RingsDbCardId": "144011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 368,
             "Categories": null
         },
         {
             "Title": "In the Shadows",
+            "Slug": "In-the-Shadows-TLoS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -414,10 +477,15 @@
             "Quantity": 3,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "f9351811-479d-4bad-a6b3-ac745739b63f",
+            "RingsDbCardId": "144012",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 269,
             "Categories": null
         },
         {
             "Title": "Speak Your Promise!",
+            "Slug": "Speak-Your-Promise-TLoS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -443,10 +511,15 @@
             "Quantity": 3,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "e2daba5a-f5ac-4fcb-a508-45b3b3cae5a9",
+            "RingsDbCardId": "144013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 55,
             "Categories": null
         },
         {
             "Title": "Brace of Coneys",
+            "Slug": "Brace-of-Coneys-TLoS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "Boon",
@@ -475,10 +548,15 @@
             "Quantity": 4,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Searching Eye",
+            "Slug": "The-Searching-Eye-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "Burden",
@@ -509,10 +587,15 @@
             "Quantity": 4,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "8b9b03e6-0036-473a-bdb7-d2d8e74edc69",
+            "RingsDbCardId": "144015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Groping Dead",
+            "Slug": "Groping-Dead-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -551,10 +634,15 @@
             "Quantity": 3,
             "Artist": "Crystal Sully",
             "HasErrata": false,
+            "OctgnGuid": "0e3ce28a-df4b-461e-b47a-299e4c730cc2",
+            "RingsDbCardId": "144016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dead Things",
+            "Slug": "Dead-Things-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -593,10 +681,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "73752e58-5dc1-40ea-b294-3c8f1998142d",
+            "RingsDbCardId": "144017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Candle-bearer",
+            "Slug": "Candle-bearer-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -635,10 +728,15 @@
             "Quantity": 3,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "c1554b49-597c-4d1b-8871-dfbe867253d5",
+            "RingsDbCardId": "144018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evil-smelling Fens",
+            "Slug": "Evil-smelling-Fens-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -677,10 +775,15 @@
             "Quantity": 3,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "e25328c2-1a6b-4dda-866e-02685eff4a88",
+            "RingsDbCardId": "144019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shifting Quagmire",
+            "Slug": "Shifting-Quagmire-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -720,10 +823,15 @@
             "Quantity": 2,
             "Artist": "Fabio Rodrigues",
             "HasErrata": false,
+            "OctgnGuid": "8893eba4-1f9c-4661-bfc2-bb485e023066",
+            "RingsDbCardId": "144020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haunted Mere",
+            "Slug": "Haunted-Mere-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -762,10 +870,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "1c765fa8-9cb8-4cf4-8e93-daac5bae4fce",
+            "RingsDbCardId": "144021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stagnant Pools",
+            "Slug": "Stagnant-Pools-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -805,10 +918,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "39262ffc-6819-422c-a72a-9baed00f648a",
+            "RingsDbCardId": "144022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Soft Mires",
+            "Slug": "Soft-Mires-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -847,10 +965,15 @@
             "Quantity": 4,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "3254a776-09e5-4576-9b3c-164cc93e1e26",
+            "RingsDbCardId": "144023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Creeping Marshes",
+            "Slug": "Creeping-Marshes-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -883,10 +1006,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "f214f533-374b-423c-86b5-dca1ab5d048f",
+            "RingsDbCardId": "144024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bitter Reek",
+            "Slug": "Bitter-Reek-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -918,10 +1046,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "fcc8ad22-ca1f-4fd1-8f84-4955bb683f50",
+            "RingsDbCardId": "144025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Fell Light",
+            "Slug": "A-Fell-Light-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -953,10 +1086,15 @@
             "Quantity": 2,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "694650d0-9ba6-4573-bf13-10ca8eb7995d",
+            "RingsDbCardId": "144026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Black Gate",
+            "Slug": "The-Black-Gate-TLoS",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -987,10 +1125,15 @@
             "Quantity": 1,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "2522fc59-6617-4c74-9723-4a120431aa3f",
+            "RingsDbCardId": "144027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Man of Harad",
+            "Slug": "Man-of-Harad-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1031,10 +1174,15 @@
             "Quantity": 4,
             "Artist": "Beth Sobel",
             "HasErrata": false,
+            "OctgnGuid": "62dea330-3ec7-4db0-bea7-382cb3454f83",
+            "RingsDbCardId": "144028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Captain of Harad",
+            "Slug": "Captain-of-Harad-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1072,10 +1220,15 @@
             "Quantity": 3,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "fc7041f2-b7f8-44a2-bf4c-beadd8016470",
+            "RingsDbCardId": "144029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Cross-roads",
+            "Slug": "The-Cross-roads-TLoS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1113,10 +1266,15 @@
             "Quantity": 1,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "22f6fc49-6a00-4104-a9fa-4823435175a1",
+            "RingsDbCardId": "144030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Henneth Annûn",
+            "Slug": "Henneth-Annun-TLoS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1154,10 +1312,15 @@
             "Quantity": 1,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "62ceb94f-5838-4c5c-9547-8786c4c64051",
+            "RingsDbCardId": "144031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southward Road",
+            "Slug": "Southward-Road-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1193,10 +1356,15 @@
             "Quantity": 2,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "2b9c8fa1-a5c3-441e-95c1-c10c85948dc1",
+            "RingsDbCardId": "144032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Foothills of Ephel Dúath",
+            "Slug": "Foothills-of-Ephel-Duath-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1232,10 +1400,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "8fa4b202-cb8e-470d-ae2b-aa945ac652c5",
+            "RingsDbCardId": "144033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ithilien Woods",
+            "Slug": "Ithilien-Woods-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1271,10 +1444,15 @@
             "Quantity": 2,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "808f60ad-a63f-4504-9b67-4fd45d630add",
+            "RingsDbCardId": "144034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hills of Ithilien",
+            "Slug": "Hills-of-Ithilien-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1310,10 +1488,15 @@
             "Quantity": 4,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "de09949d-6bc8-470c-a500-6b1fd4a5f391",
+            "RingsDbCardId": "144035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Dark Lord's Summons",
+            "Slug": "The-Dark-Lord's-Summons-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1345,10 +1528,15 @@
             "Quantity": 3,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "2591dde9-00c6-488e-a109-94136e4f9876",
+            "RingsDbCardId": "144036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Marching Up the Road",
+            "Slug": "Marching-Up-the-Road-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1378,10 +1566,15 @@
             "Quantity": 2,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "b774e6b4-461c-46eb-9398-dcb2af4cfab5",
+            "RingsDbCardId": "144037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fierce Southrons",
+            "Slug": "Fierce-Southrons-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1413,10 +1606,15 @@
             "Quantity": 2,
             "Artist": "Crystal Sully",
             "HasErrata": false,
+            "OctgnGuid": "d12e280f-44f3-469e-a2e8-e3bfd541f909",
+            "RingsDbCardId": "144038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Arrows Thick in the Air",
+            "Slug": "Arrows-Thick-in-the-Air-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1446,10 +1644,15 @@
             "Quantity": 3,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "75c1d9eb-9ade-4c71-a918-74cf5b526ff2",
+            "RingsDbCardId": "144039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shelob",
+            "Slug": "Shelob-TLoS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1492,10 +1695,15 @@
             "Quantity": 1,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "c03a693c-4fcf-4df5-868b-88e1df8531d9",
+            "RingsDbCardId": "144040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Orc",
+            "Slug": "Morgul-Orc-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1536,10 +1744,15 @@
             "Quantity": 4,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "8ba47620-aead-42a5-a057-41cb038f5234",
+            "RingsDbCardId": "144041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc of Cirith Ungol",
+            "Slug": "Orc-of-Cirith-Ungol-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1580,10 +1793,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Vale",
+            "Slug": "Morgul-Vale-TLoS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1621,10 +1839,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "51b6030d-3ce7-4139-b3bc-a408949533e2",
+            "RingsDbCardId": "144043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sméagol's Secret Way",
+            "Slug": "Smeagol's-Secret-Way-TLoS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1663,10 +1886,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "4a2696f1-65e1-41d5-8828-38ece23167df",
+            "RingsDbCardId": "144044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cleft of Cirith Ungol",
+            "Slug": "Cleft-of-Cirith-Ungol-TLoS",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1705,10 +1933,15 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "32873634-3a91-4d6f-988a-fb8bb5c16ef3",
+            "RingsDbCardId": "144045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Spider's Lair",
+            "Slug": "The-Spider's-Lair-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1744,10 +1977,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "6da65b9b-39a7-425d-baa1-00b406bcae36",
+            "RingsDbCardId": "144046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Under-way",
+            "Slug": "The-Under-way-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1782,10 +2020,15 @@
             "Quantity": 2,
             "Artist": "Fabio Rodrigues",
             "HasErrata": false,
+            "OctgnGuid": "31f8955f-40d5-41de-b886-77018b59d717",
+            "RingsDbCardId": "144047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Dark Passage",
+            "Slug": "Deep-Dark-Passage-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1821,10 +2064,15 @@
             "Quantity": 3,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "ae49e8e5-98f1-4562-935f-5e1ab64631e0",
+            "RingsDbCardId": "144048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Den of Night",
+            "Slug": "Den-of-Night-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1860,10 +2108,15 @@
             "Quantity": 3,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "1e2560ab-00ce-45c3-a374-f7bb6a3e6889",
+            "RingsDbCardId": "144049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exhalation of Decay",
+            "Slug": "Exhalation-of-Decay-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1893,10 +2146,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "f77579e7-23f0-4c27-a4e3-e1edcc529e1e",
+            "RingsDbCardId": "144050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Many Openings",
+            "Slug": "Many-Openings-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1926,10 +2184,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "65c93e63-0284-4449-8158-717d763b3023",
+            "RingsDbCardId": "144051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A Heavy Burden",
+            "Slug": "A-Heavy-Burden-TLoS",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "Burden",
@@ -1964,10 +2227,15 @@
             "Quantity": 1,
             "Artist": "Kara Williams",
             "HasErrata": false,
+            "OctgnGuid": "a40aef89-ca91-467c-93f3-9afc97bdbc24",
+            "RingsDbCardId": "144052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Wraith",
+            "Slug": "Morgul-Wraith-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2006,10 +2274,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "74d1310a-6c88-49cd-bac1-a1d4b5bbbcdc",
+            "RingsDbCardId": "144053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Call of the Ring",
+            "Slug": "Call-of-the-Ring-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2039,10 +2312,15 @@
             "Quantity": 2,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "5e8714e3-0581-4b6f-bf45-414098819626",
+            "RingsDbCardId": "144054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "We Hates Them!",
+            "Slug": "We-Hates-Them-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2074,10 +2352,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "42e22482-0281-4811-aa65-2b342319ee07",
+            "RingsDbCardId": "144055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Oliphaunt",
+            "Slug": "Oliphaunt-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2117,10 +2400,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "2163f5ef-63a3-4afc-8084-fe730774d216",
+            "RingsDbCardId": "144056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haradrim Soldier",
+            "Slug": "Haradrim-Soldier-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2158,10 +2446,15 @@
             "Quantity": 3,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "456329e9-c7c4-42ac-9edd-e769aea198ea",
+            "RingsDbCardId": "144057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haradrim Archer",
+            "Slug": "Haradrim-Archer-TLoS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2202,10 +2495,15 @@
             "Quantity": 3,
             "Artist": "Melanie Maier",
             "HasErrata": false,
+            "OctgnGuid": "c04f4018-e001-4a31-a003-9914e3f585ee",
+            "RingsDbCardId": "144058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blocked Tunnel",
+            "Slug": "Blocked-Tunnel-TLoS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2241,10 +2539,15 @@
             "Quantity": 2,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "e3de3669-64a9-4ab5-a21c-7805e6259267",
+            "RingsDbCardId": "144059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shelob's Poison",
+            "Slug": "Shelob's-Poison-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2276,10 +2579,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "35ea4640-1019-409c-b6a4-8a9906def475",
+            "RingsDbCardId": "144060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lurking Malice",
+            "Slug": "Lurking-Malice-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2312,10 +2620,15 @@
             "Quantity": 3,
             "Artist": "Michael Wolmarans",
             "HasErrata": false,
+            "OctgnGuid": "5497d938-1549-498c-abeb-2ed617222b76",
+            "RingsDbCardId": "144061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rage and Hunger",
+            "Slug": "Rage-and-Hunger-TLoS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2345,11 +2658,16 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "5ce0a255-9914-4a4f-9630-d1fe8e00bbc0",
+            "RingsDbCardId": "144062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The One Ring",
-            "IsUnique": false,
+            "Slug": "The-One-Ring-TLoS",
+            "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
             "Sphere": null,
@@ -2384,10 +2702,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "32267333-091c-4bbf-bb29-5f21c8b79188",
+            "RingsDbCardId": "144063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Taming of Sméagol",
+            "Slug": "The-Taming-of-Smeagol-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2395,7 +2718,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Taming-of-Sméagol-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2406,8 +2731,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Taming-of-Sméagol-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2421,7 +2749,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Passage of the Marshes",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2429,10 +2760,15 @@
             "Quantity": 1,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "7fdde250-5b13-4c94-a9b8-4a3a0029928a",
+            "RingsDbCardId": "144064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Across the Marshes",
+            "Slug": "Across-the-Marshes-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2440,7 +2776,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Across-the-Marshes-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2451,8 +2789,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Across-the-Marshes-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2467,7 +2808,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Passage of the Marshes",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2475,10 +2819,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "d63f87da-45b4-4c5c-b3b5-970a4277c263",
+            "RingsDbCardId": "144065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Don't Look at the Lights!",
+            "Slug": "Don't-Look-at-the-Lights-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2486,7 +2835,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Don't-Look-at-the-Lights-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2497,8 +2848,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Don't-Look-at-the-Lights-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "24"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2512,7 +2866,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Passage of the Marshes",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2520,10 +2877,15 @@
             "Quantity": 1,
             "Artist": "Cristina Vela",
             "HasErrata": false,
+            "OctgnGuid": "e40770a1-7b1b-4257-afca-443c55701850",
+            "RingsDbCardId": "144066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Passage of the Marshes",
+            "Slug": "The-Passage-of-the-Marshes-Campaign-TLoS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2559,10 +2921,15 @@
             "Quantity": 1,
             "Artist": "Cristina Vela",
             "HasErrata": true,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ambush the Men of Harad",
+            "Slug": "Ambush-the-Men-of-Harad-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2570,7 +2937,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Ambush-the-Men-of-Harad-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2581,8 +2950,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Ambush-the-Men-of-Harad-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2596,7 +2968,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Journey to the Cross-roads",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Men of Harad"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2604,10 +2978,15 @@
             "Quantity": 1,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "b32e4536-aa58-4a09-8025-12028cd28288",
+            "RingsDbCardId": "144068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Journey to the Cross-roads",
+            "Slug": "Journey-to-the-Cross-roads-Campaign-TLoS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2643,10 +3022,15 @@
             "Quantity": 1,
             "Artist": "Julepe",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Stairs of Cirith Ungol",
+            "Slug": "The-Stairs-of-Cirith-Ungol-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2654,7 +3038,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Stairs-of-Cirith-Ungol-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2665,8 +3051,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Stairs-of-Cirith-Ungol-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2681,7 +3070,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Shelob's Lair",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl",
+                    "The Great Spider"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2689,10 +3082,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "da109a2a-65fe-410e-93b4-e09695966fe5",
+            "RingsDbCardId": "144070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Spider's Pass",
+            "Slug": "The-Spider's-Pass-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2700,7 +3098,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Spider's-Pass-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2711,8 +3111,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/The-Spider's-Pass-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2727,7 +3130,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Shelob's Lair",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl",
+                    "The Great Spider"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2735,10 +3142,15 @@
             "Quantity": 1,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "540e3fbc-a066-4dc6-a156-598f1b2751c0",
+            "RingsDbCardId": "144071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum's Betrayal",
+            "Slug": "Gollum's-Betrayal-TLoS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2746,7 +3158,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Gollum's-Betrayal-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2757,8 +3171,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Gollum's-Betrayal-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2773,7 +3190,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Shelob's Lair",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Gollum",
+                    "Morgul Nazgûl",
+                    "The Great Spider"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2781,10 +3202,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "29a12054-527c-41a3-9dd8-25565288fb4d",
+            "RingsDbCardId": "144072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shelob's Lair",
+            "Slug": "Shelob's-Lair-Campaign-TLoS",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2820,10 +3246,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum",
+            "Slug": "Gollum-TLoS",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2863,10 +3294,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "32993141-956c-4426-98d9-8705de6fee00",
+            "RingsDbCardId": "144075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sméagol",
+            "Slug": "Smeagol-TLoS",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -2905,6 +3341,10 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "144076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "The Mûmakil",
+    "Slug": "The-Mumakil",
+    "Abbreviation": "TMk",
     "Cycle": "Haradrim",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Firyal",
+            "Slug": "Firyal-TMk",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -37,10 +41,15 @@
             "Quantity": 3,
             "Artist": "Tawny Fritzinger",
             "HasErrata": false,
+            "OctgnGuid": "43622914-dd7f-4990-89d3-7f1ce7a6525f",
+            "RingsDbCardId": "17008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1089,
             "Categories": null
         },
         {
             "Title": "Jubayr",
+            "Slug": "Jubayr-TMk",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -63,6 +72,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Response: After Jubayr exhausts to defend an attack, discard 1 facedown shadow card from a non-unique enemy. (Limit once per phase.)"
                 ],
                 "Shadow": null,
@@ -75,10 +85,15 @@
             "Quantity": 3,
             "Artist": "Colin Boyer",
             "HasErrata": false,
+            "OctgnGuid": "ba6d53fd-277c-4796-814b-ada9ff23cafd",
+            "RingsDbCardId": "17006",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 940,
             "Categories": null
         },
         {
             "Title": "Yazan",
+            "Slug": "Yazan-TMk",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -101,6 +116,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Yazan is declared as an attacker, deal 1 damage to a non-unique enemy in play. (Limit once per phase.)"
                 ],
                 "Shadow": null,
@@ -113,10 +129,15 @@
             "Quantity": 3,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "1a71163f-eeb4-4992-bd9c-83349d93cd58",
+            "RingsDbCardId": "17004",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 568,
             "Categories": null
         },
         {
             "Title": "Wait no Longer",
+            "Slug": "Wait-no-Longer-TMk",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -142,47 +163,15 @@
             "Quantity": 3,
             "Artist": "John Pacer",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Kahliel",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel.jpg",
-                "Stats": {
-                    "ThreatCost": "10",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Harad.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "You may use resources from Kahliel`s resource pool to pay for Harad ally cards of any sphere.",
-                    "Action: Discard a Harad ally card from your hand to ready a Harad character in play. (Limit once per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "...the Southrons were bold men and grim...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Mûmakil",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Ryan Valle",
-            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 520,
             "Categories": null
         },
         {
             "Title": "Andrath Guardsman",
+            "Slug": "Andrath-Guardsman-TMk",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -215,10 +204,57 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "f5bf16fb-3244-40a4-8800-3e38c979c18c",
+            "RingsDbCardId": "17002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 448,
+            "Categories": null
+        },
+        {
+            "Title": "Kahliel",
+            "Slug": "Kahliel-TMk",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Harad.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "You may use resources from Kahliel`s resource pool to pay for Harad ally cards of any sphere.",
+                    "Action: Discard a Harad ally from your hand to ready a Harad character in play. (Limit once per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the Southrons were bold men and grim...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": "ae49dd35-f2c7-4ab5-b34d-0cc8e5fb1f6e",
+            "RingsDbCardId": "17001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 112,
             "Categories": null
         },
         {
             "Title": "Coney in a Trap",
+            "Slug": "Coney-in-a-Trap-TMk",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -245,75 +281,15 @@
             "Quantity": 3,
             "Artist": "Jon Bosco",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Kahliel's Headdress",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel's-Headdress.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to Kahliel. Each Harad character gets +1 Willpower.",
-                    "Refresh Action: Exhaust Kahliel`s Headdress to shuffle the topmost Harad ally in your discard pile into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Mûmakil",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Lucas Durham",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Prepare for Battle",
-            "IsUnique": false,
-            "CardType": "Player_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Prepare-for-Battle.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Victory 1."
-                ],
-                "Text": [
-                    "Limit 1 copy of Prepare for Battle in the victory display.",
-                    "While this quest is in the victory display, the first player draws an additional card during the resource phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Soon there will be battle on the fields. A sortie must be made ready.`\r\n-Gandalf, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Mûmakil",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Sebastian Zakrzewski",
-            "HasErrata": false,
+            "OctgnGuid": "2002b5d3-57b1-429a-a19a-2d10a564bc31",
+            "RingsDbCardId": "17009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 310,
             "Categories": null
         },
         {
             "Title": "Dwarf Pipe",
+            "Slug": "Dwarf-Pipe-TMk",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -343,10 +319,93 @@
             "Quantity": 3,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "86e1977f-0a24-46c8-a7ee-d5d78410f1a3",
+            "RingsDbCardId": "17007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 289,
+            "Categories": null
+        },
+        {
+            "Title": "Prepare for Battle",
+            "Slug": "Prepare-for-Battle-TMk",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Prepare-for-Battle.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 copy of Prepare for Battle in the victory display.",
+                    "While this quest is in the victory display, the first player draws an additional card during the resource phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Soon there will be battle on the fields. A sortie must be made ready.`\r\n-Gandalf, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": "8ad1cefa-21c5-435c-8865-6417de0e5ba6",
+            "RingsDbCardId": "17003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 261,
+            "Categories": null
+        },
+        {
+            "Title": "Kahliel's Headdress",
+            "Slug": "Kahliel's-Headdress-TMk",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel's-Headdress.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to Kahliel. Restricted.",
+                    "Each Harad character gets +1 Willpower.",
+                    "Refresh Action: Exhaust Kahliel`s Headdress to shuffle the topmost Harad ally in your discard pile into your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "f49d9b7f-bdb6-4f2c-8b25-42b07c60a2f3",
+            "RingsDbCardId": "17010",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 254,
             "Categories": null
         },
         {
             "Title": "Horse-hair Lasso",
+            "Slug": "Horse-hair-Lasso-TMk",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -380,10 +439,15 @@
             "Quantity": 1,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "f16aabcd-6a98-4e4a-89ca-0f0d69407d85",
+            "RingsDbCardId": "17011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Poisoned Spear",
+            "Slug": "Poisoned-Spear-TMk",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -417,10 +481,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "c08310b6-5201-4c70-975e-61a2e7ff329b",
+            "RingsDbCardId": "17012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pit Trap",
+            "Slug": "Pit-Trap-TMk",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -454,10 +523,15 @@
             "Quantity": 1,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "4a5c11eb-44b8-4c6e-a9fa-83112dbd57c0",
+            "RingsDbCardId": "17013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Noose of Vines",
+            "Slug": "Noose-of-Vines-TMk",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -491,10 +565,15 @@
             "Quantity": 1,
             "Artist": "Dani Hartel",
             "HasErrata": false,
+            "OctgnGuid": "fc351b81-fc50-40a5-9f94-7ab885cb7a8c",
+            "RingsDbCardId": "17014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wild Mûmak",
+            "Slug": "Wild-Mumak-TMk",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -517,7 +596,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "Cannot take more tha 3 damage each round.",
                     "Forced: At the end of the round, the engaged player must choose: either return Wild Mûmak to the staging area, or it makes an immediate attack."
                 ],
@@ -537,10 +616,15 @@
             "Quantity": 4,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "f35e7236-2e03-4e03-aa92-7c4803e79acf",
+            "RingsDbCardId": "17015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Harad Tiger",
+            "Slug": "Harad-Tiger-TMk",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -579,10 +663,15 @@
             "Quantity": 1,
             "Artist": "Ramon Puasa Jr.",
             "HasErrata": false,
+            "OctgnGuid": "e6d7da0a-eb6d-429b-b9f9-e32027866d1b",
+            "RingsDbCardId": "17016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Territorial Ape",
+            "Slug": "Territorial-Ape-TMk",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -620,10 +709,15 @@
             "Quantity": 4,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "257ffa68-7458-4f3c-bc7e-8d46b27cd837",
+            "RingsDbCardId": "17017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Strangling Python",
+            "Slug": "Strangling-Python-TMk",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -645,6 +739,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Strangling Python damages a character, attach it to that character. (Counts as a Condition attachment with the text: `Attached character cannot ready.`)"
                 ],
                 "Shadow": null,
@@ -663,10 +758,15 @@
             "Quantity": 2,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "60e40838-a6f2-4dbd-8ed2-88ba94d9ac0b",
+            "RingsDbCardId": "17018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Giant Centipede",
+            "Slug": "Giant-Centipede-TMk",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -704,10 +804,15 @@
             "Quantity": 2,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "737724a5-2603-40b0-8a0b-4e72dbb3775e",
+            "RingsDbCardId": "17019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mûmak Trail",
+            "Slug": "Mumak-Trail-TMk",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -743,10 +848,15 @@
             "Quantity": 4,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "6651f8a6-e442-4eba-a8b5-13fab4c1e93c",
+            "RingsDbCardId": "17020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stampeding Oliphaunt",
+            "Slug": "Stampeding-Oliphaunt-TMk",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -760,6 +870,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Choose a Wild Mûmak in the staging area to attack the first player. If no attacks are made this way, search the encounter deck and discard pile for a Mûmak Trail and add it to the staging area. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
@@ -778,10 +889,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "4a28b128-1f89-4ad0-b27b-4cb1755c2d23",
+            "RingsDbCardId": "17021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Savage South",
+            "Slug": "The-Savage-South-TMk",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -811,10 +927,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "ad7fc95f-4a8d-4a15-b170-b0db3c3002f0",
+            "RingsDbCardId": "17022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Terrible Fever",
+            "Slug": "Terrible-Fever-TMk",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -844,10 +965,15 @@
             "Quantity": 2,
             "Artist": "Marius Bota",
             "HasErrata": false,
+            "OctgnGuid": "df69b078-0073-44b6-9f18-1fed38f9711c",
+            "RingsDbCardId": "17023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Biting Insects",
+            "Slug": "Biting-Insects-TMk",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -877,10 +1003,15 @@
             "Quantity": 2,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "855580e2-87b1-444c-b37a-1062c050d9ee",
+            "RingsDbCardId": "17024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Guardians of the Jungle",
+            "Slug": "Guardians-of-the-Jungle-TMk",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -907,10 +1038,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "f041d625-2075-4501-ad40-f17042c3d3df",
+            "RingsDbCardId": "17025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Welcome to the Jungle",
+            "Slug": "Welcome-to-the-Jungle-TMk",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -918,7 +1054,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Welcome-to-the-Jungle-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -929,8 +1067,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Welcome-to-the-Jungle-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -952,10 +1093,15 @@
             "Quantity": 1,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "adf2480a-644a-47ee-8deb-bd08ff32bf31",
+            "RingsDbCardId": "17026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Capture the Oliphaunts",
+            "Slug": "Capture-the-Oliphaunts-TMk",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -963,7 +1109,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Capture-the-Oliphaunts-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -974,8 +1122,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Capture-the-Oliphaunts-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -997,6 +1148,10 @@
             "Quantity": 1,
             "Artist": "Alexander Gustafson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

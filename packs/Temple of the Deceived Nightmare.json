@@ -1,10 +1,14 @@
 {
     "Name": "Temple of the Deceived Nightmare",
+    "Slug": "Temple-of-the-Deceived-Nightmare",
+    "Abbreviation": "TotDN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Temple of the Deceived Nightmare",
+            "Slug": "Temple-of-the-Deceived-Nightmare-TotDN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -41,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Desecrated Ruins",
+            "Slug": "Desecrated-Ruins-Edge-of-the-Temple-TotDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -91,13 +100,18 @@
                 "StageLetter": null
             },
             "Number": 2,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Temple Foothills",
+            "Slug": "Temple-Foothills-Edge-of-the-Temple-TotDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -144,13 +158,18 @@
                 "StageLetter": null
             },
             "Number": 3,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Temple",
+            "Slug": "Cursed-Temple-Edge-of-the-Temple-TotDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -198,13 +217,18 @@
                 "StageLetter": null
             },
             "Number": 4,
-            "Quantity": 2,
+            "Quantity": 3,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "King's Knight",
+            "Slug": "King's-Knight-TotDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -242,10 +266,15 @@
             "Quantity": 2,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Soldier",
+            "Slug": "Cursed-Soldier-TotDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -285,10 +314,15 @@
             "Quantity": 2,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deceitful Island",
+            "Slug": "Deceitful-Island-TotDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -302,6 +336,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
+                    "Doomed 3.",
                     "When Revealed: Switch the placement of the active location with the location above or below it, or to its left (the active location does not change). Then, flip each adjacement location to its `Lost Island` or `Edge of the Temple` side."
                 ],
                 "Shadow": null,
@@ -320,10 +355,15 @@
             "Quantity": 2,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Call of the Curse",
+            "Slug": "Call-of-the-Curse-TotDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -353,10 +393,15 @@
             "Quantity": 2,
             "Artist": "Monztre",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sudden Precipice",
+            "Slug": "Sudden-Precipice-TotDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -386,6 +431,10 @@
             "Quantity": 3,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

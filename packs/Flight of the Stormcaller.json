@@ -1,10 +1,14 @@
 {
     "Name": "Flight of the Stormcaller",
+    "Slug": "Flight-of-the-Stormcaller",
+    "Abbreviation": "FotS",
     "Cycle": "Dream-chaser",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Denethor",
+            "Slug": "Denethor-FotS",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "4a76ad60-35d1-4657-ab4a-2f7f15cc7ab7",
+            "RingsDbCardId": "12001",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 864,
             "Categories": null
         },
         {
             "Title": "Heed the Dream",
+            "Slug": "Heed-the-Dream-FotS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -68,10 +77,15 @@
             "Quantity": 3,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "371e29be-17a9-4535-a9e0-bc13126522bb",
+            "RingsDbCardId": "12009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 2411,
             "Categories": null
         },
         {
             "Title": "Glorfindel",
+            "Slug": "Glorfindel-FotS",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -106,46 +120,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Guardian of Rivendell",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Guardian-of-Rivendell.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "3",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Noldor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "As an additional cost to play Guardian of Rivendell from your hand, you must discard 2 cards from your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Indeed there is a power in Rivendell to withstand the might of Mordor, for a while.`\r\n-Gandalf, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Tawny Fritzinger",
-            "HasErrata": false,
+            "OctgnGuid": "7309efbd-ea6a-45d5-bfec-2a4e0fc8d3b7",
+            "RingsDbCardId": "12006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1850,
             "Categories": null
         },
         {
             "Title": "Imladris Caregiver",
+            "Slug": "Imladris-Caregiver-FotS",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -178,10 +161,93 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "f4ec0320-6977-4cec-af29-1037e18f4dca",
+            "RingsDbCardId": "12008",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 921,
+            "Categories": null
+        },
+        {
+            "Title": "Guardian of Rivendell",
+            "Slug": "Guardian-of-Rivendell-FotS",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Guardian-of-Rivendell.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "As an additional cost to play Guardian of Rivendell from your hand, you must discard 2 cards from your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Indeed there is a power in Rivendell to withstand the might of Mordor, for a while.`\r\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Tawny Fritzinger",
+            "HasErrata": false,
+            "OctgnGuid": "bcfbcf8a-9df0-4fd4-92a4-9cdd8c9def53",
+            "RingsDbCardId": "12010",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 844,
+            "Categories": null
+        },
+        {
+            "Title": "Rod of the Steward",
+            "Slug": "Rod-of-the-Steward-FotS",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Rod-of-the-Steward.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Gondor hero.",
+                    "Action: Spend 2 resources from attached hero`s resource pool to draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`The last Steward of Gondor begs leave to surrender his office.` And he held out a white rod.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "3d3ced53-71af-46de-b7e7-1892a9c49747",
+            "RingsDbCardId": "12002",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 706,
             "Categories": null
         },
         {
             "Title": "Azain Silverbeard",
+            "Slug": "Azain-Silverbeard-FotS",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -214,42 +280,15 @@
             "Quantity": 3,
             "Artist": "Marius Bota",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Rod of the Steward",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Rod-of-the-Steward.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Gondor hero.",
-                    "Action: Spend 2 resources from attached hero`s resource pool to draw 1 card."
-                ],
-                "Shadow": null,
-                "FlavorText": "`The last Steward of Gondor begs leave to surrender his office.` And he held out a white rod.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller",
-            "EncounterInfo": null,
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Drazenka Kimpel",
-            "HasErrata": false,
+            "OctgnGuid": "27843323-c7d0-4f9e-a67e-4494f8926203",
+            "RingsDbCardId": "12004",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 674,
             "Categories": null
         },
         {
             "Title": "Vanish from Sight",
+            "Slug": "Vanish-from-Sight-FotS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -276,10 +315,15 @@
             "Quantity": 3,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "95375f6e-942c-4609-9ebd-8a86ce3ab8af",
+            "RingsDbCardId": "12011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 358,
             "Categories": null
         },
         {
             "Title": "Tides of Fate",
+            "Slug": "Tides-of-Fate-FotS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -305,10 +349,15 @@
             "Quantity": 3,
             "Artist": "Sam Lamont",
             "HasErrata": false,
+            "OctgnGuid": "ea80a2db-6a72-41c1-a26e-73929197506f",
+            "RingsDbCardId": "12007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 282,
             "Categories": null
         },
         {
             "Title": "In Service of the Steward",
+            "Slug": "In-Service-of-the-Steward-FotS",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -337,10 +386,15 @@
             "Quantity": 3,
             "Artist": "Jason Cheeseman Meyer",
             "HasErrata": false,
+            "OctgnGuid": "2e944d64-3612-4b5f-8fed-50cae0471fd5",
+            "RingsDbCardId": "12003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 215,
             "Categories": null
         },
         {
             "Title": "Last Stand",
+            "Slug": "Last-Stand-FotS",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -366,10 +420,15 @@
             "Quantity": 3,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
+            "OctgnGuid": "1eaee222-8d0d-4fcd-b630-4e349347ed85",
+            "RingsDbCardId": "12005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 164,
             "Categories": null
         },
         {
             "Title": "Swift Departure",
+            "Slug": "Swift-Departure-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -377,7 +436,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Swift-Departure-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing."
@@ -390,11 +451,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Swift-Departure-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "Forced: At the end of the quest phase, if you are off-course (Cloudy, Rainy, or Stormy), move 2 progress from Swift Departure to the Stormcaller`s quest stage."
                 ],
                 "Shadow": null,
@@ -404,7 +469,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -412,10 +482,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "4489214b-775c-4e63-b8ec-c504526e478f",
+            "RingsDbCardId": "12012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Full Sail Ahead",
+            "Slug": "Full-Sail-Ahead-AB-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -423,7 +498,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Full-Sail-Ahead-AB-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing."
@@ -436,11 +513,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Full-Sail-Ahead-AB-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "No more than 8 progress can be placed here each round. If you are off-course (Cloudy, Rainy, or Stormy), no more than 4 progress can be placed here each round instead.",
                     "When you defeat this stage, if the Stormcaller is at stage 2, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage."
                 ],
@@ -451,7 +532,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -459,10 +545,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Weather Turns Foul",
+            "Slug": "The-Weather-Turns-Foul-AB-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -470,7 +561,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Weather-Turns-Foul-AB-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing."
@@ -481,12 +574,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Weather-Turns-Foul-AB-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the staging step, if you are off-course (󲂒, 󲂓, or 󲂔), reveal an additional encounter card from the top of the encounter deck.",
                     "When you defeat this stage, if the Stormcaller is still at stage 3, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage."
                 ],
                 "Shadow": null,
@@ -496,7 +591,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -504,10 +604,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Cape of Andrast",
+            "Slug": "The-Cape-of-Andrast-AB-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -515,7 +620,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Cape-of-Andrast-AB-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Sailing."
@@ -528,11 +635,15 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Cape-of-Andrast-AB-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "24"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Sailing.",
                     "Forced: After a Weather treachery is revealed, deal 1 damage to each Ship objective and Ship enemy at this stage.",
                     "If you defeat this stage, you have caught up to the Stormcaller and win the game."
                 ],
@@ -543,7 +654,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -551,10 +667,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Full Sail Ahead",
+            "Slug": "Full-Sail-Ahead-CD-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -562,7 +683,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Full-Sail-Ahead-CD-2C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -571,13 +694,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Full-Sail-Ahead-CD-2D.jpg",
+                "Stats": {
+                    "StageNumber": "2D",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If the players are off-course (Cloudy, Rainy, or Stormy), the Stormcaller gets +2 Threat.",
-                    "No more than 4 damage may be placed on the Stormcaller each round.",
                     "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card."
                 ],
                 "Shadow": null,
@@ -587,7 +711,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "C"
             },
@@ -595,10 +724,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Weather Turns Foul",
+            "Slug": "The-Weather-Turns-Foul-CD-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -606,7 +740,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Weather-Turns-Foul-CD-3C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -617,8 +753,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Weather-Turns-Foul-CD-3D.jpg",
+                "Stats": {
+                    "StageNumber": "3D",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -633,7 +772,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "C"
             },
@@ -641,10 +785,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Cape of Andrast",
+            "Slug": "The-Cape-of-Andrast-CD-FotS",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -652,7 +801,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Cape-of-Andrast-CD-4C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -661,12 +812,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/The-Cape-of-Andrast-CD-4D.jpg",
+                "Stats": {
+                    "StageNumber": "4D",
+                    "QuestPoints": "24"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card.",
                     "If the Stormcaller defeats this stage, Captain Sahír has gotten away with the key, and the players lose the game."
                 ],
                 "Shadow": null,
@@ -676,7 +829,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Flight of the Stormcaller",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Vast Oceans",
+                    "Corsair Pirates",
+                    "Stormy Weather",
+                    "The Dream-chaser's Fleet"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "C"
             },
@@ -684,10 +842,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stormcaller",
+            "Slug": "Stormcaller-FotS",
             "IsUnique": true,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -704,7 +867,7 @@
                     "Boarding 2."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 2. Cannot have attachments.",
                     "When the Stormcaller advances to the next quest stage, return it to the Stormcaller`s area.",
                     "If the Stormcaller leaves play, the players win the game."
                 ],
@@ -718,10 +881,15 @@
             "Quantity": 1,
             "Artist": "Davis Engel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Escort",
+            "Slug": "Sahir's-Escort-FotS",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -738,7 +906,7 @@
                     "Boarding 1."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 1. Cannot have attachments.",
                     "While Sahír`s Escort is in the Stormcaller’s area, it contributes its Threat to the amount of progress the Stormcaller places on its quest stage each round.",
                     "When Revealed: Add Sahír’s Escort to the Stormcaller’s area, instead of the players’ staging area."
                 ],
@@ -752,10 +920,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "3de80480-6316-4c43-824c-44d3ad424a7b",
+            "RingsDbCardId": "12020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Swift Raider",
+            "Slug": "Swift-Raider-FotS",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -765,14 +938,14 @@
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller/Swift-Raider.jpg",
                 "Stats": {},
                 "Traits": [
-                    "Cosair.",
+                    "Corsair.",
                     "Ship."
                 ],
                 "Keywords": [
                     "Boarding 2."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Boarding 2. Cannot have attachments.",
                     "While Swift Raider is in the staging area, it gains: “Forced: After a player commits 4 or more characters to a Sailing test or to the quest, Swift Raider engages that player.”"
                 ],
                 "Shadow": null,
@@ -785,10 +958,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "c084e998-a5c8-4efd-a6ed-441f9f912c99",
+            "RingsDbCardId": "12021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Skiff",
+            "Slug": "Corsair-Skiff-FotS",
             "IsUnique": false,
             "CardType": "Ship_Enemy",
             "CardSubType": "None",
@@ -805,7 +983,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Surge. Cannot have attachments.",
                     "Forced: When Corsair Skiff engages you from the staging area, either raise your threat by 3 or it gains Boarding 1."
                 ],
                 "Shadow": null,
@@ -818,10 +996,15 @@
             "Quantity": 2,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "47afd15f-ffe3-4a90-9128-f2a79ba3b070",
+            "RingsDbCardId": "12022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Seafarer",
+            "Slug": "Corsair-Seafarer-FotS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -861,10 +1044,15 @@
             "Quantity": 2,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "cac948bb-b3dc-423d-8082-340e2596d623",
+            "RingsDbCardId": "12023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Serpent's Blade",
+            "Slug": "Serpent's-Blade-FotS",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -902,10 +1090,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "3309e01a-db7f-4754-bd41-21a0b4316415",
+            "RingsDbCardId": "12024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Jagged Reef",
+            "Slug": "Jagged-Reef-FotS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -925,6 +1118,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: At the beginning of the travel phase, if you are on-course (Sunny), place 2 progress on Jagged Reef. If you are off-course (Cloudy, Rainy, or Stormy), deal 2 damage to each Ship objective instead."
                 ],
                 "Shadow": null,
@@ -943,10 +1137,15 @@
             "Quantity": 2,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "72b4cfd3-457b-4574-b638-c0fcce49dd68",
+            "RingsDbCardId": "12025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hidden Cove",
+            "Slug": "Hidden-Cove-FotS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -983,10 +1182,15 @@
             "Quantity": 2,
             "Artist": "Simon Dominic",
             "HasErrata": false,
+            "OctgnGuid": "595c34f1-60e3-401a-bd65-df6dda627896",
+            "RingsDbCardId": "12026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Vast Coastland",
+            "Slug": "Vast-Coastland-FotS",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1022,10 +1226,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "cf070c26-dd32-4ee8-bd6c-ffe9c011bd64",
+            "RingsDbCardId": "12027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Man Overboard!",
+            "Slug": "Man-Overboard-FotS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1055,10 +1264,15 @@
             "Quantity": 2,
             "Artist": "Leanna Teneycke",
             "HasErrata": false,
+            "OctgnGuid": "962991f0-44af-47ba-9ff0-0f7ed302a543",
+            "RingsDbCardId": "12028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raging Squall",
+            "Slug": "Raging-Squall-FotS",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1072,6 +1286,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Attach Raging Squall to the current quest. (Counts as a Condition attachment with the text: “Forced: After an ally is committed to the quest, deal 1 damage to that ally if you are off-course.”)"
                 ],
                 "Shadow": null,
@@ -1090,6 +1305,10 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "076b47e8-6bbe-41b3-9af8-edeca28e2c0c",
+            "RingsDbCardId": "12029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

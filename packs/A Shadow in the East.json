@@ -1,10 +1,60 @@
 {
     "Name": "A Shadow in the East",
+    "Slug": "A-Shadow-in-the-East",
+    "Abbreviation": "ASitE",
     "Cycle": null,
     "SetType": "Deluxe_Expansion",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Fellowship",
+            "Slug": "Fellowship-ASitE",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Fellowship-SideA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You cannot play non-unique allies or put non-unique allies into play.",
+                    "Forced: When you control exactly 9 unique characters, flip this card over."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You cannot play allies or put allies into play.",
+                    "Each character you control gets +1 Willpower, +1 Attack, and +1 Defense.",
+                    "Forced: After a character you control leaves play, flip this card over."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "cf207eaa-2897-430e-9988-c557173055b5",
+            "RingsDbCardId": "21074",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 141,
+            "Categories": null
+        },
+        {
             "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-ASitE",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -36,10 +86,15 @@
             "Quantity": 1,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "f733522a-bcdd-466c-9565-0b4cba58701b",
+            "RingsDbCardId": "21002",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 90,
             "Categories": null
         },
         {
             "Title": "Sméagol",
+            "Slug": "Smeagol-ASitE",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -73,10 +128,51 @@
             "Quantity": 1,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "aed43197-5067-4bfe-9a52-95ada03f3b2c",
+            "RingsDbCardId": "21072",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 36,
+            "Categories": null
+        },
+        {
+            "Title": "The Master Ring",
+            "Slug": "The-Master-Ring-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Master-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust The One Ring and raise your threat by 1 to cancel the effects of an encounter card just revealed from the encounter deck and discard that card. Then, reveal an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire.`\r\n-Frodo, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "d56de2f3-06cc-488e-aeea-e68f1cedf0c0",
+            "RingsDbCardId": "21009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 188,
             "Categories": null
         },
         {
             "Title": "The One Ring",
+            "Slug": "The-One-Ring-ASitE",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -96,7 +192,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Immune to non-Master card effects.",
+                    "Restricted. Immune to non-Master card effects.",
                     "Setup: Attach to a hero you control and search your deck for a Master card. Add it to your hand and shuffle your deck. Your threat elimination level is reduced by 5.",
                     "If The One Ring leaves play, the players lose the game."
                 ],
@@ -110,10 +206,15 @@
             "Quantity": 1,
             "Artist": "Torbjörn Källström",
             "HasErrata": false,
+            "OctgnGuid": "423e9efe-7908-4c04-97bd-f4a826081c9f",
+            "RingsDbCardId": "21001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 164,
             "Categories": null
         },
         {
             "Title": "Merry",
+            "Slug": "Merry-ASitE",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -145,10 +246,15 @@
             "Quantity": 3,
             "Artist": "Torbjörn Källström",
             "HasErrata": false,
+            "OctgnGuid": "e730d8cc-b97c-40b3-b16b-2efcba1f2e07",
+            "RingsDbCardId": "21003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 155,
             "Categories": null
         },
         {
             "Title": "Pippin",
+            "Slug": "Pippin-ASitE",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -181,10 +287,87 @@
             "Quantity": 3,
             "Artist": "Torbjörn Källström",
             "HasErrata": false,
+            "OctgnGuid": "835ad72c-6da5-4ddf-9447-1d0fa3746096",
+            "RingsDbCardId": "21004",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 139,
+            "Categories": null
+        },
+        {
+            "Title": "The Ruling Ring",
+            "Slug": "The-Ruling-Ring-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ruling-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Exhaust The One Ring and raise your threat by 1 to choose a non-Nazgul enemy engaged with you. Until the end of the phase, that enemy cannot attack you."
+                ],
+                "Shadow": null,
+                "FlavorText": "`He vanished. I have never seen such a thing happen before...`\r\n-Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "1bcd39f5-8b3a-4cfb-8cf4-f651a87f2c6f",
+            "RingsDbCardId": "21010",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 126,
+            "Categories": null
+        },
+        {
+            "Title": "The Ring of Power",
+            "Slug": "The-Ring-of-Power-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ring-of-Power.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust The One Ring and raise your threat by 1 to ready the hero with The One Ring Attached. That hero gets +1 Willpower, +1 Attack, and +1 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`And behold! in our need chance brings to light the Ring of Power.`\r\n-Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Echo Chernik",
+            "HasErrata": false,
+            "OctgnGuid": "db733a56-9d85-4a9b-bdbf-e1aa5770a125",
+            "RingsDbCardId": "21011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 109,
             "Categories": null
         },
         {
             "Title": "Faramir",
+            "Slug": "Faramir-ASitE",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -218,10 +401,15 @@
             "Quantity": 3,
             "Artist": "Greg Bobrowski",
             "HasErrata": false,
+            "OctgnGuid": "f43d5b83-4136-4be8-af89-71f883f32563",
+            "RingsDbCardId": "21005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 72,
             "Categories": null
         },
         {
             "Title": "Derufin",
+            "Slug": "Derufin-ASitE",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -244,7 +432,8 @@
                     "Ranged."
                 ],
                 "Text": [
-                    "Ranged. Response: After Derufin participates in an attack which destroys an enemy engaged with a player, discard Derufin to reduce the engaged player`s threat by X, where X is the destroyed enemy`s printed Threat."
+                    "Ranged.",
+                    "Response: After Derufin participates in an attack which destroys an enemy engaged with a player, discard Derufin to reduce the engaged player`s threat by X, where X is the destroyed enemy`s printed Threat."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -256,10 +445,15 @@
             "Quantity": 3,
             "Artist": "Greg Bobrowski",
             "HasErrata": false,
+            "OctgnGuid": "dcdbd457-86bb-4481-8ce0-e30f04aa35f5",
+            "RingsDbCardId": "21006",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 49,
             "Categories": null
         },
         {
             "Title": "The Gathering Storm",
+            "Slug": "The-Gathering-Storm-ASitE",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -285,10 +479,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "91f9cf7d-d590-4812-af95-33d520757a1b",
+            "RingsDbCardId": "21007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 41,
             "Categories": null
         },
         {
             "Title": "Put Off Pursuit",
+            "Slug": "Put-Off-Pursuit-ASitE",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -318,103 +517,15 @@
             "Quantity": 3,
             "Artist": "Marius Bota",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Master Ring",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Master-Ring.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: Exhaust The One Ring and raise your threat by 1 to cancel the effects of an encounter card just revealed from the encounter deck and discard that card. Then, reveal an encounter card."
-                ],
-                "Shadow": null,
-                "FlavorText": "`If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire.`\r\n-Frodo, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Marius Bota",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Ruling Ring",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ruling-Ring.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Exhaust The One Ring and raise your threat by 1 to choose a non-Nazgul enemy engaged with you. Until the end of the phase, that enemy cannot attack you."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He vanished. I have never seen such a thing happen before...`\r\n-Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Lukasz Jaskolski",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Ring of Power",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ring-of-Power.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust The One Ring and raise your threat by 1 to ready the hero with The One Ring Attached. That hero gets +1 Willpower, +1 Attack, and +1 Defense until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`And behold! in our need chance brings to light the Ring of Power.`\r\n-Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Echo Chernik",
-            "HasErrata": false,
+            "OctgnGuid": "639a4814-6a8e-4d7d-b589-fbbf22c78df2",
+            "RingsDbCardId": "21008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 40,
             "Categories": null
         },
         {
             "Title": "Easterling Pursuit",
+            "Slug": "Easterling-Pursuit-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -444,10 +555,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "56b24d25-a04a-418b-add0-7b1971dae38e",
+            "RingsDbCardId": "21012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Easterling Outrider",
+            "Slug": "Easterling-Outrider-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -469,6 +585,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After Easterling Outrider engages a player, either place 1 resource on Easterling Pursuit, or Easterling Outrider makes an immediate attack."
                 ],
                 "Shadow": "Shadow: Discard an attachment you control.",
@@ -487,10 +604,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "2af71d2e-0b70-43a2-b94e-89770992ef9c",
+            "RingsDbCardId": "21013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "River Running",
+            "Slug": "River-Running-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -526,10 +648,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "1fdfdb77-31e0-458d-85d1-9c158f12717f",
+            "RingsDbCardId": "21014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Exposed Riverbank",
+            "Slug": "Exposed-Riverbank-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -565,10 +692,15 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "f6e8459b-b0d6-4d30-ad8e-6aacfa34ec32",
+            "RingsDbCardId": "21015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Enemies Close Behind",
+            "Slug": "Enemies-Close-Behind-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -598,10 +730,15 @@
             "Quantity": 2,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "a750ab9c-9b29-4ca4-8221-8fa27cd74fe2",
+            "RingsDbCardId": "21016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Easterling Captain",
+            "Slug": "Easterling-Captain-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -642,10 +779,15 @@
             "Quantity": 1,
             "Artist": "Antonio José Manzanedo",
             "HasErrata": false,
+            "OctgnGuid": "9042242b-054d-413e-83c7-bb9f42551a8a",
+            "RingsDbCardId": "21017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rider of Rhûn",
+            "Slug": "Rider-of-Rhun-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -667,6 +809,7 @@
                     "Archery 2."
                 ],
                 "Text": [
+                    "Archery 2.",
                     "Rider of Rhûn gets -10 enagement cost for each Easterling attachment it has.",
                     "When Revealed: Search the encounter deck and discard pile for an Easterling Horse and attach it to Rider of Rhûn. Shuffle the encounter deck."
                 ],
@@ -686,10 +829,15 @@
             "Quantity": 2,
             "Artist": "Marco Caradonna",
             "HasErrata": false,
+            "OctgnGuid": "5af4be18-af74-46ef-a235-9c1002b85338",
+            "RingsDbCardId": "21018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Easterling Horse",
+            "Slug": "Easterling-Horse-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -722,10 +870,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "53c01bdc-2761-4f8f-90bc-1eedd14ca376",
+            "RingsDbCardId": "21019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Easterling Raider",
+            "Slug": "Easterling-Raider-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -747,6 +900,7 @@
                     "Archery 1."
                 ],
                 "Text": [
+                    "Archery 1.",
                     "Easterling Raider gets +1 Attack and +1 Defense for each Easterling attachment on it."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if it has an Easterling attachment).",
@@ -765,10 +919,15 @@
             "Quantity": 3,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "4befb4c8-e350-48ed-a7dd-ee803e2ca8d7",
+            "RingsDbCardId": "21020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -806,10 +965,15 @@
             "Quantity": 3,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "aabc830a-4833-42cf-9b26-d8f2c5eb9658",
+            "RingsDbCardId": "21021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sword of Rhûn",
+            "Slug": "Sword-of-Rhun-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -825,6 +989,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While attached to an enemy, counts as a Weapon attachment with the text: `Attached enemy gets +2 Attack.`",
                     "When Revealed: Attach to the Easterling enemy with the lowest Attack without a Sword of Rhûn."
                 ],
@@ -844,10 +1009,15 @@
             "Quantity": 2,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "b897b63d-86ac-417c-88d2-1a594f3674f1",
+            "RingsDbCardId": "21022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Recurve Bow",
+            "Slug": "Recurve-Bow-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -863,6 +1033,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "While attached to an enemy, counts as a Weapon attachment with the text: `Attached enemy gains Archery 2.`",
                     "When Revealed: Attach to the highest engagement cost Easterling enemy without a Recurve Bow."
                 ],
@@ -882,10 +1053,15 @@
             "Quantity": 2,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "576b4f3c-add2-42b6-b78c-8a2e482290ae",
+            "RingsDbCardId": "21023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Warriors of the East",
+            "Slug": "Warriors-of-the-East-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -900,6 +1076,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: After an Easterling enemy enters play, attach the top Easterling treachery in the discard pile to that enemy.",
                     "Forced: After Warriors of the East becomes the current quest, the highest Attack Easterling enemy in the staging area attacks the first player."
                 ],
@@ -913,17 +1090,22 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "bbc72a18-cf4c-469f-bd01-6b1d3492c2ff",
+            "RingsDbCardId": "21024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Rollings Plains",
+            "Title": "Rolling Plains",
+            "Slug": "Rolling-Plains-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Rollings-Plains.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Rolling-Plains.jpg",
                 "Stats": {
                     "Threat": "2",
                     "QuestPoints": "4"
@@ -952,10 +1134,15 @@
             "Quantity": 4,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "21025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rocky Outcrop",
+            "Slug": "Rocky-Outcrop-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -991,10 +1178,15 @@
             "Quantity": 2,
             "Artist": "Alyn Spiller",
             "HasErrata": false,
+            "OctgnGuid": "926a17c6-ea0b-43ba-925a-71ba5ef1ed77",
+            "RingsDbCardId": "21026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Weary Lands",
+            "Slug": "Weary-Lands-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1008,6 +1200,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Each exhausted character gets -1 Willpower until the end of the phase."
                 ],
                 "Shadow": "Shadow: Deal 1 damage to the defending character.",
@@ -1026,10 +1219,15 @@
             "Quantity": 2,
             "Artist": "Dual Brush Studios",
             "HasErrata": false,
+            "OctgnGuid": "1f4cdef5-6847-4dd5-96b0-8ce03d21bd8d",
+            "RingsDbCardId": "21027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Painful Fatigue",
+            "Slug": "Painful-Fatigue-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1059,10 +1257,15 @@
             "Quantity": 2,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "37153373-7a82-484e-9aca-7ed47a6a7703",
+            "RingsDbCardId": "21028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "An Arduous Journey",
+            "Slug": "An-Arduous-Journey-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1089,10 +1292,15 @@
             "Quantity": 1,
             "Artist": "Dual Brush Studios",
             "HasErrata": false,
+            "OctgnGuid": "c1ee0cb7-a209-44d6-8f35-8494a9e6cf1d",
+            "RingsDbCardId": "21029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Priest of Sauron",
+            "Slug": "Priest-of-Sauron-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1134,10 +1342,15 @@
             "Quantity": 1,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "2351fadd-4348-4a17-b062-f0e8142f2e6f",
+            "RingsDbCardId": "21030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Governor",
+            "Slug": "The-Governor-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1178,10 +1391,15 @@
             "Quantity": 1,
             "Artist": "Greg Bobrowski",
             "HasErrata": false,
+            "OctgnGuid": "f250a697-b5aa-4041-9bad-a66b2ab8ccba",
+            "RingsDbCardId": "21031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Númenórean",
+            "Slug": "Black-Numenorean-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1223,10 +1441,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "52b0bc28-37bb-4097-b96a-cc7dc4af8721",
+            "RingsDbCardId": "21032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bribes",
+            "Slug": "Bribes-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1259,10 +1482,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "8f6e5d67-81c7-4db8-9cb0-ef45b71490c6",
+            "RingsDbCardId": "21033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Submit or Die",
+            "Slug": "Submit-or-Die-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1295,10 +1523,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "ef6ebaef-6b53-4aa0-b03b-9929bd2bc492",
+            "RingsDbCardId": "21034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sauron Worship",
+            "Slug": "Sauron-Worship-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1332,10 +1565,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "ae20c7c6-9950-4799-a88e-d0b394879af2",
+            "RingsDbCardId": "21035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evidence of the Cult",
+            "Slug": "Evidence-of-the-Cult-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1352,6 +1590,7 @@
                     "Victory 1."
                 ],
                 "Text": [
+                    "Guarded (enemy).",
                     "Attached enemy gets +1 Threat, +1 Attack, and +1 Defense.",
                     "When Evidence of the Cult is free of encounters, add it to the victory display. Then, place 1 resource on the main quest."
                 ],
@@ -1371,10 +1610,15 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "57e22e64-6ff5-4133-8c70-2ee3460d02f9",
+            "RingsDbCardId": "21036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hillside Manor",
+            "Slug": "Hillside-Manor-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1410,10 +1654,15 @@
             "Quantity": 3,
             "Artist": "Greg Bobrowski",
             "HasErrata": false,
+            "OctgnGuid": "5100f009-8c78-4f2a-b77e-1bd9ccbfef77",
+            "RingsDbCardId": "21037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Disappearances",
+            "Slug": "Disappearances-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1443,10 +1692,15 @@
             "Quantity": 2,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "522c612d-5f3c-4a02-a1a7-7d87191922e0",
+            "RingsDbCardId": "21038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Secret Cultist",
+            "Slug": "Secret-Cultist-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1476,10 +1730,15 @@
             "Quantity": 2,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "617bc2e6-05a9-4c99-b3ff-8304ecb6ef32",
+            "RingsDbCardId": "21039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Messenger from Mordor",
+            "Slug": "Messenger-from-Mordor-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1517,10 +1776,15 @@
             "Quantity": 3,
             "Artist": "Kevin Zamir Goeke",
             "HasErrata": false,
+            "OctgnGuid": "6d485bbc-6876-4160-8111-77f3935123c9",
+            "RingsDbCardId": "21040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Servant of Sauron",
+            "Slug": "Servant-of-Sauron-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1542,6 +1806,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Servant of Sauron engages the first player.",
                     "Forced: After the engaged player raises his threat, Servant of Sauron makes an immediate attack. (Limit once per phase.)"
                 ],
@@ -1561,10 +1826,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "80e25c61-e49c-40cb-b8e7-b4c45620163c",
+            "RingsDbCardId": "21041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overwhelmed",
+            "Slug": "Overwhelmed-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1578,6 +1848,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Until the end of the round, enemies engaged with the first player cannot take damage."
                 ],
                 "Shadow": "Shadow: Either raise your threat by 2, or attacking enemy cannot take damage this round.",
@@ -1596,10 +1867,15 @@
             "Quantity": 2,
             "Artist": "Greg Bobrowski",
             "HasErrata": false,
+            "OctgnGuid": "e3b4dfb0-2875-4e73-aea3-c63cab5cc43a",
+            "RingsDbCardId": "21042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shadow of Fear",
+            "Slug": "Shadow-of-Fear-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1614,6 +1890,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: After an enemy engages a player, that player raises his threat by 1.",
                     "Response: When Shadow of Fear is defeated, reduce each player`s threat by 3."
                 ],
@@ -1627,10 +1904,15 @@
             "Quantity": 1,
             "Artist": "Jarreau Wimberly",
             "HasErrata": false,
+            "OctgnGuid": "ba630f98-6ad5-4c4a-adfd-aeeac5485722",
+            "RingsDbCardId": "21043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rhûn Backstabber",
+            "Slug": "Rhun-Backstabber-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1668,10 +1950,15 @@
             "Quantity": 2,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "1cd05eb5-2456-467a-8d24-efaadd027145",
+            "RingsDbCardId": "21044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Treacherous Easterling",
+            "Slug": "Treacherous-Easterling-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1710,10 +1997,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "eb2b56e7-d669-405b-b2d3-5d3c30cb3f4e",
+            "RingsDbCardId": "21045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "City Forum",
+            "Slug": "City-Forum-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1750,10 +2042,15 @@
             "Quantity": 2,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "0323e852-a05c-4c2d-a038-3f2596af7a85",
+            "RingsDbCardId": "21046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Seedy Tavern",
+            "Slug": "Seedy-Tavern-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1792,17 +2089,22 @@
             "Quantity": 2,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "2f5221a8-8afd-48d8-afd3-352151d87ed6",
+            "RingsDbCardId": "21047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Dakrness in the East",
+            "Title": "Darkness in the East",
+            "Slug": "Darkness-in-the-East-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Dakrness-in-the-East.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Darkness-in-the-East.jpg",
                 "Stats": {},
                 "Traits": [],
                 "Keywords": [],
@@ -1825,10 +2127,15 @@
             "Quantity": 2,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "4b7db087-febb-4e88-bd30-e0f7919511c7",
+            "RingsDbCardId": "21048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Side Street",
+            "Slug": "Side-Street-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1864,10 +2171,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "55d05b39-c993-45bb-874c-3eacbcf49278",
+            "RingsDbCardId": "21049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Catacombs",
+            "Slug": "Catacombs-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1884,7 +2196,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Catacombs is in the staging area, enemes in the staging area cannot take damage.",
+                    "While Catacombs is in the staging area, enemies in the staging area cannot take damage.",
                     "Travel: Each player discards the top card of the encounter deck. If a player discards an enemy this way, he puts it into play engaged with him."
                 ],
                 "Shadow": null,
@@ -1903,10 +2215,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "d7775ec0-caf0-42b8-9aef-ca70a1e6950b",
+            "RingsDbCardId": "21050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Under Guard",
+            "Slug": "Under-Guard-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1936,10 +2253,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "9bcae7d4-8bbc-4d82-a173-ca2f63557664",
+            "RingsDbCardId": "21051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Unwelcome Travelers",
+            "Slug": "Unwelcome-Travelers-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1966,10 +2288,15 @@
             "Quantity": 1,
             "Artist": "Marius Bota",
             "HasErrata": false,
+            "OctgnGuid": "203ed863-1738-4974-ae79-19977eea868d",
+            "RingsDbCardId": "21052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tribute to Mordor",
+            "Slug": "Tribute-to-Mordor-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -1996,17 +2323,22 @@
             "Quantity": 1,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "20a011e7-0153-45b1-9c6c-a68753683a79",
+            "RingsDbCardId": "21053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Than Ulchor",
+            "Title": "Thane Ulchor",
+            "Slug": "Thane-Ulchor-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Than-Ulchor.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Thane-Ulchor.jpg",
                 "Stats": {
                     "EngagementCost": "50",
                     "Threat": "X",
@@ -2022,7 +2354,7 @@
                     "Victory 6."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
+                    "Indestructible. Immune to player card effects.",
                     "X is 1 more than the number of quest stages in the victory display. Cannot be engaged unless X is equal to 5.",
                     "Forced: When Thane Ulchor attacks and destroys a character, place 1 damage token on Tribute to Mordor."
                 ],
@@ -2042,10 +2374,15 @@
             "Quantity": 1,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "039a688f-8bef-4a77-97c4-84b942f3d91a",
+            "RingsDbCardId": "21054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Temple of Sauron",
+            "Slug": "Temple-of-Sauron-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2080,10 +2417,15 @@
             "Quantity": 2,
             "Artist": "Alexander Chelyshev",
             "HasErrata": false,
+            "OctgnGuid": "89fba072-2af9-460c-8556-3bf3a8f0091e",
+            "RingsDbCardId": "21055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hall of Horrors",
+            "Slug": "Hall-of-Horrors-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2119,10 +2461,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "2744032b-21e4-4b52-a66e-f4c1926f451b",
+            "RingsDbCardId": "21056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Place of Evil",
+            "Slug": "Place-of-Evil-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2152,10 +2499,15 @@
             "Quantity": 3,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "24ffba46-0c66-4559-ae13-d0980180f537",
+            "RingsDbCardId": "21057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ulchor's Guard",
+            "Slug": "Ulchor's-Guard-ASitE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2193,10 +2545,15 @@
             "Quantity": 4,
             "Artist": "Kevin Zamir Goeke",
             "HasErrata": false,
+            "OctgnGuid": "74ceb68a-a1c9-41bc-aeb8-41738b34a3bb",
+            "RingsDbCardId": "21058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ulchor's Rage",
+            "Slug": "Ulchor's-Rage-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2226,10 +2583,15 @@
             "Quantity": 3,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "8d61982f-acf9-4b03-969f-6e75688ee1fd",
+            "RingsDbCardId": "21059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fanaticism",
+            "Slug": "Fanaticism-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2262,10 +2624,15 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "1ac7e2b5-aa19-4608-b101-e22390c8a906",
+            "RingsDbCardId": "21060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Twisted Tunnel",
+            "Slug": "Twisted-Tunnel-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2300,10 +2667,15 @@
             "Quantity": 2,
             "Artist": "Dual Brush Studios",
             "HasErrata": false,
+            "OctgnGuid": "67251171-ee5f-46d5-b3c8-10523350c60c",
+            "RingsDbCardId": "21061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Narrow Opening",
+            "Slug": "Narrow-Opening-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2339,10 +2711,15 @@
             "Quantity": 2,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "4b678143-ec9f-4727-998a-85dfef48d47a",
+            "RingsDbCardId": "21062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crumbling Passage",
+            "Slug": "Crumbling-Passage-ASitE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2378,10 +2755,15 @@
             "Quantity": 2,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "6885658b-983d-459f-83f8-5a4d3ee5db9d",
+            "RingsDbCardId": "21063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fearful Shadows",
+            "Slug": "Fearful-Shadows-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2395,6 +2777,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Doomed 1.",
                     "When Revealed: Until the end of the round, treat the printed text box of each character as if it were blank (except for Traits)."
                 ],
                 "Shadow": "Shadow: Defending character cannot ready until the end of the round.",
@@ -2413,10 +2796,15 @@
             "Quantity": 2,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "64d1e3f3-3265-44a8-97f7-9a1c744a01b9",
+            "RingsDbCardId": "21064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Dark",
+            "Slug": "Lost-in-the-Dark-ASitE",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -2443,10 +2831,15 @@
             "Quantity": 1,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "c33f8472-2563-438e-94d3-77490d7c2175",
+            "RingsDbCardId": "21065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Khamûl the Easterling",
+            "Slug": "Khamul-the-Easterling-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2488,10 +2881,15 @@
             "Quantity": 1,
             "Artist": "Sam Lamont",
             "HasErrata": false,
+            "OctgnGuid": "2fe95d8c-0f30-4c20-b926-d92e4feea8e2",
+            "RingsDbCardId": "21066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Tower of Barad-dûr",
+            "Slug": "The-Tower-of-Barad-dur-ASitE",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2528,10 +2926,15 @@
             "Quantity": 1,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "47ecf6a6-84e9-4aa7-ba23-9afe914027cd",
+            "RingsDbCardId": "21067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Under the Watchful Eye",
+            "Slug": "Under-the-Watchful-Eye-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2564,10 +2967,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "4cd62a82-6bc9-4e38-8561-49b5fa2aba7e",
+            "RingsDbCardId": "21068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Armies of Mordor",
+            "Slug": "The-Armies-of-Mordor-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2599,10 +3007,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "bd837efe-9358-4fe9-8770-69b9b1fefb48",
+            "RingsDbCardId": "21069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Covered in Darkness",
+            "Slug": "Covered-in-Darkness-ASitE",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2618,6 +3031,7 @@
                     "Doomed 5."
                 ],
                 "Text": [
+                    "Doomed 5.",
                     "Each player`s threat cannot be reduced by more than 1 each round by player card effects."
                 ],
                 "Shadow": null,
@@ -2636,10 +3050,15 @@
             "Quantity": 1,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "f3285b0c-ccd9-48b1-9c20-c8fbc4bd1695",
+            "RingsDbCardId": "21070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stinker",
+            "Slug": "Stinker-ASitE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2655,6 +3074,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Gollum makes an immediate attack. If no attach was made this way, discard all tokens from Sméagol and flip him to Gollum."
                 ],
                 "Shadow": "Shadow: Raise your threat by 2 (by 4 instead if Gollum is engaged with you). Shuffle Stinker back into the encounter deck.",
@@ -2673,10 +3093,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "beb13658-234c-44c2-9987-4dea3351184f",
+            "RingsDbCardId": "21071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum",
+            "Slug": "Gollum-ASitE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2716,51 +3141,15 @@
             "Quantity": 1,
             "Artist": "Alexander Chelyshev",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Fellowship",
-            "IsUnique": false,
-            "CardType": "Contract",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Fellowship-SideA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You cannot play non-unique allies or put non-unique allies into play.",
-                    "Forced: When you control exactly 9 unique characters, flip this card over."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You cannot play allies or put allies into play.",
-                    "Each character you control gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Forced: After a character you control leaves play, flip this card over."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 74,
-            "Quantity": 1,
-            "Artist": "Leanna Crossan",
-            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "21073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chased by Easterlings",
+            "Slug": "Chased-by-Easterlings-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2768,7 +3157,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Chased-by-Easterlings-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2779,8 +3170,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Chased-by-Easterlings-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2794,7 +3188,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The River Running",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Riders of Rhûn",
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2802,10 +3200,15 @@
             "Quantity": 1,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "fbc99604-7183-41fe-b37c-d5a8f54bea0e",
+            "RingsDbCardId": "21075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Crossing of Araw",
+            "Slug": "The-Crossing-of-Araw-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2813,7 +3216,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Crossing-of-Araw-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2824,8 +3229,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Crossing-of-Araw-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2840,7 +3248,11 @@
             "EncounterInfo": {
                 "EncounterSet": "The River Running",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Riders of Rhûn",
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2848,10 +3260,15 @@
             "Quantity": 1,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "8bd42629-07e8-4d8e-ac82-1f463c1cb7e6",
+            "RingsDbCardId": "21076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "A City in Turmoil",
+            "Slug": "A-City-in-Turmoil-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2859,7 +3276,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/A-City-in-Turmoil-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2870,8 +3289,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/A-City-in-Turmoil-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2885,7 +3307,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Danger in Dorwinion",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2893,10 +3319,15 @@
             "Quantity": 1,
             "Artist": "Lucas Staniec",
             "HasErrata": false,
+            "OctgnGuid": "25e58441-df9d-4935-a3c7-0a5b210538c5",
+            "RingsDbCardId": "21077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Shadow of Mordor",
+            "Slug": "The-Shadow-of-Mordor-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2904,7 +3335,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Shadow-of-Mordor-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2915,8 +3348,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Shadow-of-Mordor-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2930,7 +3366,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Danger in Dorwinion",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2938,10 +3378,15 @@
             "Quantity": 1,
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
+            "OctgnGuid": "f77e471a-7dd2-4f05-ac8f-fbb534c66633",
+            "RingsDbCardId": "21078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Leader of the Cult",
+            "Slug": "Leader-of-the-Cult-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2949,7 +3394,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Leader-of-the-Cult-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2960,8 +3407,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Leader-of-the-Cult-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2975,7 +3425,11 @@
             "EncounterInfo": {
                 "EncounterSet": "Danger in Dorwinion",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2983,10 +3437,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "51b45e84-3f63-46ea-aa08-b83dd89244ff",
+            "RingsDbCardId": "21079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Forgotten Temple",
+            "Slug": "The-Forgotten-Temple-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2994,7 +3453,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Forgotten-Temple-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 10."
@@ -3007,8 +3468,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Forgotten-Temple-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3022,7 +3486,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Temple of Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -3030,10 +3499,15 @@
             "Quantity": 1,
             "Artist": "Kevin Zamir Goeke",
             "HasErrata": false,
+            "OctgnGuid": "31acc133-3c82-4c6e-8fc1-ced6537f735e",
+            "RingsDbCardId": "21080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Legacy of Mordor",
+            "Slug": "The-Legacy-of-Mordor-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3041,7 +3515,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Legacy-of-Mordor-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -3054,8 +3530,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Legacy-of-Mordor-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3069,7 +3548,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Temple of Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3077,10 +3561,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "ffe7cb9e-8ac6-411d-a8b9-77ebaf8ee12e",
+            "RingsDbCardId": "21081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Memory of the Dark Years",
+            "Slug": "Memory-of-the-Dark-Years-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3088,7 +3577,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Memory-of-the-Dark-Years-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -3101,8 +3592,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Memory-of-the-Dark-Years-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3116,7 +3610,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Temple of Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3124,10 +3623,15 @@
             "Quantity": 1,
             "Artist": "Dual Brush Studios",
             "HasErrata": false,
+            "OctgnGuid": "f015bc92-42c1-405d-a54e-1a1c7bc0afae",
+            "RingsDbCardId": "21083",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shrine to Sauron",
+            "Slug": "Shrine-to-Sauron-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3135,7 +3639,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Shrine-to-Sauron-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -3148,8 +3654,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Shrine-to-Sauron-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3163,7 +3672,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Temple of Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3171,10 +3685,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "ea80809a-c719-41a9-8729-5f58cdec149b",
+            "RingsDbCardId": "21084",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Lord of Middle-earth",
+            "Slug": "The-Lord-of-Middle-earth-ASitE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3182,7 +3701,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Lord-of-Middle-earth-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Victory 1."
@@ -3195,8 +3716,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Lord-of-Middle-earth-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3211,7 +3735,12 @@
             "EncounterInfo": {
                 "EncounterSet": "Temple of Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -3219,6 +3748,10 @@
             "Quantity": 1,
             "Artist": "Alexander Chelyshev",
             "HasErrata": false,
+            "OctgnGuid": "91c259ee-7c5c-45d4-9a97-bb0a2a05d7f8",
+            "RingsDbCardId": "21085",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "The Mountain of Fire",
+    "Slug": "The-Mountain-of-Fire",
+    "Abbreviation": "TMoF",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Rosie Cotton",
+            "Slug": "Rosie-Cotton-TMoF",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -36,119 +40,15 @@
             "Quantity": 3,
             "Artist": "Gabriela Birchal",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Éomer",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Éomer.jpg",
-                "Stats": {
-                    "ThreatCost": "10",
-                    "Willpower": "1",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Noble.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Éomer commits to the quest, spend 1 resource from his resource pool to immediately declare him as an attacker (and resolve his attack) against an enemy in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "...he was young, and he was king; the lord of a fell people.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Mountain of Fire",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Ryan Valle",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Tom Cotton",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Tom-Cotton.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "3",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While you are engaged with an enemy with an engagement cost higher than your threat, the first Hobbit ally you play each round does not require a resource match.",
-                    "Response: After a Hobbit ally enters play, it gets +2 Attack until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Mountain of Fire",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 1,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Frodo Baggins",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Fellowship",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Frodo-Baggins.jpg",
-                "Stats": {
-                    "ThreatCost": "0",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit.",
-                    "Ring-bearer."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Planning Action: Exhaust The One Ring to add 1 resource to a hero`s pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I must carry the burden to the end.`\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Mountain of Fire",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Aleksander Karcz",
-            "HasErrata": false,
+            "OctgnGuid": "0baaf661-4bfd-48ed-80d4-bfa98217da1c",
+            "RingsDbCardId": "146005",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 876,
             "Categories": null
         },
         {
             "Title": "Friend of Friends",
+            "Slug": "Friend-of-Friends-TMoF",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -177,45 +77,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gúthwinë",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Gúthwinë.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Rohan hero.",
-                    "Response: After attached hero is declared as an attacker, exhaust Gúthwinë to give that hero +2 Attack for this attack. If this attack destroys an enemy, return a Rohan ally from your discard pile to your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Gúthwinë!` cried Éomer. `Gúthwinë for the Mark!`\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Mountain of Fire",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Kamila Tzutenberg",
-            "HasErrata": false,
+            "OctgnGuid": "04aa368e-b411-4d20-9ca3-f7baf4670599",
+            "RingsDbCardId": "146012",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 601,
             "Categories": null
         },
         {
             "Title": "Elrohir",
+            "Slug": "Elrohir-TMoF",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -249,10 +119,55 @@
             "Quantity": 3,
             "Artist": "Jason Jenicke",
             "HasErrata": false,
+            "OctgnGuid": "769dbf59-9e02-4750-9605-b1ad6c8783e2",
+            "RingsDbCardId": "146008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 450,
+            "Categories": null
+        },
+        {
+            "Title": "Gúthwinë",
+            "Slug": "Guthwine-TMoF",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Gúthwinë.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Rohan hero. Restricted.",
+                    "Response: After attached hero is declared as an attacker, exhaust Gúthwinë to give that hero +2 Attack for this attack. If this attack destroys an enemy, return a Rohan ally from your discard pile to your hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Gúthwinë!` cried Éomer. `Gúthwinë for the Mark!`\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Kamila Szutenberg",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 447,
             "Categories": null
         },
         {
             "Title": "Elladan",
+            "Slug": "Elladan-TMoF",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -286,10 +201,178 @@
             "Quantity": 3,
             "Artist": "Jason Jenicke",
             "HasErrata": false,
+            "OctgnGuid": "51512531-0697-4005-9fb6-884da5b02f75",
+            "RingsDbCardId": "146007",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 412,
+            "Categories": null
+        },
+        {
+            "Title": "Éomer",
+            "Slug": "Eomer-TMoF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Éomer.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Éomer commits to the quest, spend 1 resource from his resource pool to immediately declare him as an attacker (and resolve his attack) against an enemy in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "...he was young, and he was king; the lord of a fell people.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": "7a1bc81a-c226-4589-a1cf-65668846c64b",
+            "RingsDbCardId": "146003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 120,
+            "Categories": null
+        },
+        {
+            "Title": "Tom Cotton",
+            "Slug": "Tom-Cotton-TMoF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Tom-Cotton.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While you are engaged with an enemy with an engagement cost higher than your threat, the first Hobbit ally you play each round does not require a resource match.",
+                    "Response: After a Hobbit ally enters play, it gets +2 Attack until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "bbab76d6-7554-40da-af74-fb502d08d9a8",
+            "RingsDbCardId": "146004",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 91,
+            "Categories": null
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TMoF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Exhaust The One Ring to add 1 resource to a hero`s pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I must carry the burden to the end.`\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "b937644c-ccbb-4a39-ae3c-24857d1d4d57",
+            "RingsDbCardId": "146001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Disguise",
+            "Slug": "Orc-Disguise-TMoF",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Orc-Disguise.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to the Ring-bearer. Limit 1 per hero.",
+                    "While an Orc is making an enagement check with you, it gets +5 engagement cost.",
+                    "Response: After an Orc engages you, discard Orc Disguise. Until the end of the round, that enemy cannot attack you."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Borja Pindado",
+            "HasErrata": false,
+            "OctgnGuid": "e4fd6941-6ced-4ddc-970d-a933ae7d5cb5",
+            "RingsDbCardId": "146013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 306,
             "Categories": null
         },
         {
             "Title": "Elfhelm",
+            "Slug": "Elfhelm-TMoF",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -322,44 +405,15 @@
             "Quantity": 3,
             "Artist": "Javier Charro Martinez",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Disguise",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Fellowship",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Orc-Disguise.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Armor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to the Ring-bearer. Limit 1 per hero.",
-                    "While an Orc is making an enagement check with you, it gets +5 engagement cost.",
-                    "Response: After an Orc engages you, discard Orc Disguise. Until the end of the round, that enemy cannot attack you."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Mountain of Fire",
-            "EncounterInfo": null,
-            "Number": 13,
-            "Quantity": 3,
-            "Artist": "Borja Pindado",
-            "HasErrata": false,
+            "OctgnGuid": "0ff72c0f-a6d6-48d3-8781-1988a7e3ba11",
+            "RingsDbCardId": "146006",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 269,
             "Categories": null
         },
         {
             "Title": "Raise the Shire",
+            "Slug": "Raise-the-Shire-TMoF",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -385,10 +439,15 @@
             "Quantity": 3,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "08d95282-e88d-4a9c-a01b-651d569052ee",
+            "RingsDbCardId": "146010",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 114,
             "Categories": null
         },
         {
             "Title": "Captains of the West",
+            "Slug": "Captains-of-the-West-TMoF",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -414,10 +473,15 @@
             "Quantity": 3,
             "Artist": "Igor Artyomenko",
             "HasErrata": false,
+            "OctgnGuid": "cb08f48e-7acf-44ff-ac6f-36d4f017a962",
+            "RingsDbCardId": "146009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 47,
             "Categories": null
         },
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-TMoF",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -456,10 +520,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "f1cc6057-ced3-4105-9172-869d26a54af5",
+            "RingsDbCardId": "146002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Last of the Company",
+            "Slug": "Last-of-the-Company-TMoF",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -492,10 +561,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "ad4739ac-fd18-4add-9b83-860c1fcc2b54",
+            "RingsDbCardId": "146014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Topmost Chamber",
+            "Slug": "Topmost-Chamber-TMoF",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -534,10 +608,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "490a363e-2f00-4c66-9c6f-5bdfb83f6b08",
+            "RingsDbCardId": "146015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Echoing Passage",
+            "Slug": "Echoing-Passage-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -573,10 +652,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "e53df85c-f6e6-41df-9fd1-03dd2d2a1c65",
+            "RingsDbCardId": "146016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Bloodied Courtyard",
+            "Slug": "Bloodied-Courtyard-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -612,10 +696,15 @@
             "Quantity": 3,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "46c6afb3-9a68-4f1a-acfa-e421c84da528",
+            "RingsDbCardId": "146017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Winding Stairs",
+            "Slug": "Winding-Stairs-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -651,10 +740,15 @@
             "Quantity": 3,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "cf74c777-dfe4-4cea-8b7f-4b09fc1aa5b2",
+            "RingsDbCardId": "146018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Torch-lit Hall",
+            "Slug": "Torch-lit-Hall-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -689,10 +783,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "32706788-e37c-47b1-831b-40c7f711cb10",
+            "RingsDbCardId": "146019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shagrat",
+            "Slug": "Shagrat-TMoF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -735,10 +834,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "a246d29f-f370-4308-828d-c1ff09029b4a",
+            "RingsDbCardId": "146020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gorbag",
+            "Slug": "Gorbag-TMoF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -780,10 +884,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Rodriguez",
             "HasErrata": false,
+            "OctgnGuid": "74f40d23-068a-40ea-9965-81df44294490",
+            "RingsDbCardId": "146021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wounded Uruk",
+            "Slug": "Wounded-Uruk-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -823,10 +932,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "03abe728-0062-49bb-9a04-e78bff777e83",
+            "RingsDbCardId": "146022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orcish Howls",
+            "Slug": "Orcish-Howls-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -856,10 +970,15 @@
             "Quantity": 3,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "66489fc6-7074-4cbb-8a60-37acd641f7a6",
+            "RingsDbCardId": "146023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Black Gate",
+            "Slug": "The-Black-Gate-TMoF",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -896,10 +1015,15 @@
             "Quantity": 1,
             "Artist": "Igor Artyomenko",
             "HasErrata": false,
+            "OctgnGuid": "c6b0a8d2-32fe-4750-9270-7270cd5f062b",
+            "RingsDbCardId": "146024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Towers of the Teeth",
+            "Slug": "Towers-of-the-Teeth-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -936,10 +1060,15 @@
             "Quantity": 2,
             "Artist": "Igor Artyomenko",
             "HasErrata": false,
+            "OctgnGuid": "e5b56e5a-3286-4ea6-bbdd-da7e47750125",
+            "RingsDbCardId": "146025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Beleaguered Hills",
+            "Slug": "Beleaguered-Hills-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -975,10 +1104,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "1eab8808-f8ee-4935-b456-7dd940afbc28",
+            "RingsDbCardId": "146026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Waste of Dagorlad",
+            "Slug": "Waste-of-Dagorlad-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1011,12 +1145,17 @@
             },
             "Number": 27,
             "Quantity": 3,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "77bcda70-5126-4e58-919e-447c03d7ab02",
+            "RingsDbCardId": "146027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Slopes of Cirith Gorgor",
+            "Slug": "Slopes-of-Cirith-Gorgor-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1049,12 +1188,17 @@
             },
             "Number": 28,
             "Quantity": 2,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "3551cf11-1670-46de-b404-7b8fd20d3aff",
+            "RingsDbCardId": "146028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Reeking Moat",
+            "Slug": "Reeking-Moat-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1090,10 +1234,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "f13a2e94-0ece-45c3-a7ce-0248f9ff92b3",
+            "RingsDbCardId": "146029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wall of Morannon",
+            "Slug": "Wall-of-Morannon-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1111,7 +1260,7 @@
                 "Keywords": [],
                 "Text": [
                     "While Wall of Morannon is the active location, each enemy and location in the staging area is immune to player card effects.",
-                    "Forced: After Wall of Morannon becomes of the active location, return each enaged enemy to the staging area."
+                    "Forced: After Wall of Morannon becomes of the active location, return each engaged enemy to the staging area."
                 ],
                 "Shadow": null,
                 "FlavorText": "...behind the Morannon were the tunnels and deep armouries that the servants of Mordor had made for the defence of the Black Gate...\r\n-The Return of the King"
@@ -1127,12 +1276,17 @@
             },
             "Number": 30,
             "Quantity": 2,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "6aaf94eb-c656-4589-acf1-c6637a755946",
+            "RingsDbCardId": "146030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Mouth of Sauron",
+            "Slug": "The-Mouth-of-Sauron-TMoF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1171,10 +1325,15 @@
             "Quantity": 1,
             "Artist": "Jason Jenicke",
             "HasErrata": false,
+            "OctgnGuid": "a3a28453-4292-49b3-9b78-fc958310a800",
+            "RingsDbCardId": "146031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nazgûl of Mordor",
+            "Slug": "Nazgul-of-Mordor-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1213,10 +1372,15 @@
             "Quantity": 3,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "e62cec6d-6b96-4662-9a86-bcc0f5aee453",
+            "RingsDbCardId": "146032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gorgoroth Hill-troll",
+            "Slug": "Gorgoroth-Hill-troll-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1255,10 +1419,15 @@
             "Quantity": 2,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "fafbd12c-b97e-41d8-a696-5c89566927ba",
+            "RingsDbCardId": "146033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Easterling Bowman",
+            "Slug": "Easterling-Bowman-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1299,10 +1468,15 @@
             "Quantity": 3,
             "Artist": "Nikolas Hagialas",
             "HasErrata": false,
+            "OctgnGuid": "ce23920a-4b87-4015-88bf-8687a6d3f180",
+            "RingsDbCardId": "146034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1342,10 +1516,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "7108bf9e-3e91-4cbd-977a-fbab0a464512",
+            "RingsDbCardId": "146035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hell-hawk",
+            "Slug": "Hell-hawk-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1379,10 +1558,15 @@
             "Quantity": 2,
             "Artist": "Sam Lamont",
             "HasErrata": false,
+            "OctgnGuid": "5003227b-ebc3-454a-88b4-2d6e20cc48f7",
+            "RingsDbCardId": "146036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Hour of Doom",
+            "Slug": "The-Hour-of-Doom-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1414,10 +1598,15 @@
             "Quantity": 3,
             "Artist": "Sam Lamont",
             "HasErrata": false,
+            "OctgnGuid": "3f736d45-c2b3-429e-9a21-3f8073cdbd48",
+            "RingsDbCardId": "146037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Jaws of Steel",
+            "Slug": "Jaws-of-Steel-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1447,10 +1636,15 @@
             "Quantity": 2,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "d5286130-d03a-49f3-bd70-d40e9320c292",
+            "RingsDbCardId": "146038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rage Filled Him",
+            "Slug": "Rage-Filled-Him-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1482,10 +1676,15 @@
             "Quantity": 3,
             "Artist": "Jason Jenicke",
             "HasErrata": false,
+            "OctgnGuid": "218b6d77-2c40-4967-8487-2a383b4170ce",
+            "RingsDbCardId": "146039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Onslaught of Mordor",
+            "Slug": "Onslaught-of-Mordor-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1515,10 +1714,15 @@
             "Quantity": 3,
             "Artist": "Sebastian Rodriguez",
             "HasErrata": false,
+            "OctgnGuid": "60ac6ce9-7aad-415d-a4af-61f67db59454",
+            "RingsDbCardId": "146040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gwaihir",
+            "Slug": "Gwaihir-TMoF",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "Boon",
@@ -1559,10 +1763,15 @@
             "Quantity": 1,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "5c1973bf-c331-4b8f-8872-4ead564476d3",
+            "RingsDbCardId": "146041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Tower of Barad-dûr",
+            "Slug": "The-Tower-of-Barad-dur-TMoF",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1577,7 +1786,7 @@
                 "Keywords": [],
                 "Text": [
                     "Players do not raise their threat at the end of the refresh phase.",
-                    "Forced: Forced: At the end of the round, each player raises his threat by 1 for each non-Fellowship character he controls."
+                    "Forced: At the end of the round, each player raises his threat by 1 for each non-Fellowship character he controls."
                 ],
                 "Shadow": null,
                 "FlavorText": "...blacker and darker than the vast shades amid which it stood, the cruel pinnacles and iron crown of the topmost tower of Barad-dûr.\r\n-Return of the King"
@@ -1595,10 +1804,15 @@
             "Quantity": 1,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "bb6dd4a6-a72c-400a-9cc6-903d7260ea1b",
+            "RingsDbCardId": "146042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mount Doom",
+            "Slug": "Mount-Doom-TMoF",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1637,10 +1851,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "271fa771-d678-461e-b5c6-483117059ed1",
+            "RingsDbCardId": "146043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc-hold",
+            "Slug": "Orc-hold-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1675,12 +1894,17 @@
             },
             "Number": 44,
             "Quantity": 3,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "1a0189ae-b9ad-49c2-a217-a9c975536384",
+            "RingsDbCardId": "146044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mordor Road",
+            "Slug": "Mordor-Road-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1717,10 +1941,15 @@
             "Quantity": 2,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "e9bdfb84-2f96-4288-bbed-31f52cc10b86",
+            "RingsDbCardId": "146045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Plain of Gorgoroth",
+            "Slug": "Plain-of-Gorgoroth-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1756,10 +1985,15 @@
             "Quantity": 4,
             "Artist": "Igor Artyomenko",
             "HasErrata": false,
+            "OctgnGuid": "c88f14e5-1bd3-4829-ab70-02479df6cdfd",
+            "RingsDbCardId": "146046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Brake of Thorns",
+            "Slug": "Brake-of-Thorns-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1796,10 +2030,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "cfe25792-3c08-4154-8770-821eee3c9e3f",
+            "RingsDbCardId": "146047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Old Water-course",
+            "Slug": "Old-Water-course-TMoF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1837,10 +2076,15 @@
             "Quantity": 1,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "13543061-b855-4e58-9190-e2f56c17cd32",
+            "RingsDbCardId": "146048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gollum",
+            "Slug": "Gollum-TMoF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1882,10 +2126,15 @@
             "Quantity": 1,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "eb232287-e39e-4358-b37f-23b2c45ca6a8",
+            "RingsDbCardId": "146049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ringwraith of Sauron",
+            "Slug": "Ringwraith-of-Sauron-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1925,10 +2174,15 @@
             "Quantity": 2,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "c39c83bf-ee9e-4e4d-9689-b8f7559292bd",
+            "RingsDbCardId": "146050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Captain",
+            "Slug": "Orc-Captain-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1968,10 +2222,15 @@
             "Quantity": 2,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
+            "OctgnGuid": "ae4a4129-ed5d-4902-92e3-ae89e2795fb1",
+            "RingsDbCardId": "146051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Big Uruk",
+            "Slug": "Big-Uruk-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2011,10 +2270,15 @@
             "Quantity": 3,
             "Artist": "Audrey Hotte",
             "HasErrata": false,
+            "OctgnGuid": "6036efda-3456-45d2-817a-4ef8b310db5a",
+            "RingsDbCardId": "146052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Little Snuffler",
+            "Slug": "Little-Snuffler-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2057,10 +2321,15 @@
             "Quantity": 4,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "ad3509b5-b4b4-4fe5-bfdc-e655cc2470d3",
+            "RingsDbCardId": "146053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "'Wicked Master!'",
+            "Slug": "'Wicked-Master'-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2093,10 +2362,15 @@
             "Quantity": 1,
             "Artist": "Jennifer Hrabota Lesser",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Lidless Eye",
+            "Slug": "The-Lidless-Eye-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2129,10 +2403,15 @@
             "Quantity": 4,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "d71de165-8632-4628-94ea-793a1c20e6f8",
+            "RingsDbCardId": "146055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Foul Fumes",
+            "Slug": "Foul-Fumes-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2163,10 +2442,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "01a03d74-06d9-4fc8-afd7-2739fa900c32",
+            "RingsDbCardId": "146056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Heavy and Tired",
+            "Slug": "Heavy-and-Tired-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2197,10 +2481,15 @@
             "Quantity": 2,
             "Artist": "Borja Pindado",
             "HasErrata": false,
+            "OctgnGuid": "cdf7a6c5-23f6-4314-a122-3b7df1b97501",
+            "RingsDbCardId": "146057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc of Mordor",
+            "Slug": "Orc-of-Mordor-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2240,10 +2529,15 @@
             "Quantity": 3,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "7d9a3914-bc46-40d6-b489-3157d7430382",
+            "RingsDbCardId": "146058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Snaga Archer",
+            "Slug": "Snaga-Archer-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2284,10 +2578,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "194ceae6-a5e2-4a52-ba07-76e6c2611e8e",
+            "RingsDbCardId": "146059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk Soldier",
+            "Slug": "Uruk-Soldier-TMoF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2326,10 +2625,15 @@
             "Quantity": 3,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "50f294ff-ee4b-4685-b7e1-86cd7f2e0a59",
+            "RingsDbCardId": "146060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drawn to the Ring",
+            "Slug": "Drawn-to-the-Ring-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2359,10 +2663,15 @@
             "Quantity": 3,
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
+            "OctgnGuid": "a442dbd4-ec18-44e6-b762-b0ebf94a8897",
+            "RingsDbCardId": "146061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Shadows",
+            "Slug": "Deep-Shadows-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2394,10 +2703,15 @@
             "Quantity": 2,
             "Artist": "Igor Artyomenko",
             "HasErrata": false,
+            "OctgnGuid": "ef94d441-715f-42e8-bb3a-764592cdf44c",
+            "RingsDbCardId": "146062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Evil Vigilance",
+            "Slug": "Evil-Vigilance-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2427,10 +2741,15 @@
             "Quantity": 3,
             "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
+            "OctgnGuid": "15f9c6b7-2bb0-48ea-9a5d-b8ec3b1a7e2d",
+            "RingsDbCardId": "146063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "In Darkness Bind Them",
+            "Slug": "In-Darkness-Bind-Them-TMoF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2460,10 +2779,15 @@
             "Quantity": 2,
             "Artist": "Gabriela Birchal",
             "HasErrata": false,
+            "OctgnGuid": "23402087-6d53-45c7-86be-3c6b9f5a651c",
+            "RingsDbCardId": "146064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The One Ring",
+            "Slug": "The-One-Ring-TMoF",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2499,10 +2823,15 @@
             "Quantity": 1,
             "Artist": "Mike Nash",
             "HasErrata": false,
+            "OctgnGuid": "06b1e27e-6493-4f05-9203-1835058073df",
+            "RingsDbCardId": "146065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pass the Two Watchers",
+            "Slug": "Pass-the-Two-Watchers-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2510,7 +2839,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Pass-the-Two-Watchers-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2521,8 +2852,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Pass-the-Two-Watchers-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2537,7 +2871,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Tower of Cirith Ungol",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2545,10 +2882,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "22e79f71-9496-4f1a-bf7e-36834378d68c",
+            "RingsDbCardId": "146066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fighting in the Tower",
+            "Slug": "Fighting-in-the-Tower-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2556,7 +2898,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Fighting-in-the-Tower-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2567,8 +2911,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Fighting-in-the-Tower-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "18"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2582,7 +2929,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Tower of Cirith Ungol",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2590,10 +2940,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "26eb433a-01e2-4b0e-83c4-680b0e0c4854",
+            "RingsDbCardId": "146067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Escape from Cirith Ungol",
+            "Slug": "Escape-from-Cirith-Ungol-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2601,7 +2956,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Escape-from-Cirith-Ungol-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2612,8 +2969,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Escape-from-Cirith-Ungol-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2628,7 +2988,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Tower of Cirith Ungol",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -2636,10 +2999,15 @@
             "Quantity": 1,
             "Artist": "Ryan Valle",
             "HasErrata": false,
+            "OctgnGuid": "196dd43b-1df2-4eae-9dcf-2e8d2723af67",
+            "RingsDbCardId": "146068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Tower of Cirith Ungol",
+            "Slug": "The-Tower-of-Cirith-Ungol-Campaign-TMoF",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2675,10 +3043,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Two Watchers",
+            "Slug": "The-Two-Watchers-Location-TMoF",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -2715,10 +3088,15 @@
             "Quantity": 1,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Two Watchers",
+            "Slug": "The-Two-Watchers-Enemy-TMoF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2759,10 +3137,15 @@
             "Quantity": 1,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Embassy from the Dark Tower",
+            "Slug": "Embassy-from-the-Dark-Tower-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2770,7 +3153,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Embassy-from-the-Dark-Tower-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -2783,8 +3168,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Embassy-from-the-Dark-Tower-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2797,7 +3185,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Black Gate Opens",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2805,10 +3195,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Battle of the Morannon",
+            "Slug": "The-Battle-of-the-Morannon-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2816,7 +3211,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Battle-of-the-Morannon-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -2829,8 +3226,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Battle-of-the-Morannon-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2845,7 +3245,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Black Gate Opens",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2853,10 +3255,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "48c071bf-b00f-4677-b43f-aa119f736428",
+            "RingsDbCardId": "146073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Black Gate Opens",
+            "Slug": "The-Black-Gate-Opens-Campaign-TMoF",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2891,10 +3298,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Land of Mordor",
+            "Slug": "The-Land-of-Mordor-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2902,7 +3314,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Land-of-Mordor-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -2915,8 +3329,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Land-of-Mordor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2930,7 +3347,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -2938,10 +3357,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "39a64a5a-7074-46a5-aacc-a42537fe0ddd",
+            "RingsDbCardId": "146075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Road to Isenmouthe",
+            "Slug": "The-Road-to-Isenmouthe-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2949,7 +3373,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Road-to-Isenmouthe-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -2962,8 +3388,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Road-to-Isenmouthe-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2977,7 +3406,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -2985,10 +3416,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "6a24a5e8-80e9-4bba-af55-64be11742dde",
+            "RingsDbCardId": "146076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Last Gasp",
+            "Slug": "The-Last-Gasp-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2996,7 +3432,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Last-Gasp-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -3009,8 +3447,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Last-Gasp-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3025,7 +3466,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -3033,10 +3476,15 @@
             "Quantity": 1,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "ec2049ab-c950-46f7-9f1b-30ada69db857",
+            "RingsDbCardId": "146077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Crack of Doom",
+            "Slug": "The-Crack-of-Doom-TMoF",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -3044,7 +3492,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Crack-of-Doom-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Dire."
@@ -3057,8 +3507,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Crack-of-Doom-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3072,7 +3525,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Mount Doom",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -3080,10 +3535,15 @@
             "Quantity": 1,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "ad73bb42-f0fb-4732-956d-e921140e99bb",
+            "RingsDbCardId": "146078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mount Doom",
+            "Slug": "Mount-Doom-Campaign-TMoF",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -3120,10 +3580,15 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Epic Multiplayer Mode",
+            "Slug": "Epic-Multiplayer-Mode-Campaign-TMoF",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -3160,10 +3625,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Eye of Sauron",
+            "Slug": "The-Eye-of-Sauron-Mount-Doom-TMoF",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3196,10 +3666,15 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146081",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Eye of Sauron",
+            "Slug": "The-Eye-of-Sauron-The-Black-Gate-Opens-TMoF",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -3232,6 +3707,10 @@
             "Quantity": 1,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "146082",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

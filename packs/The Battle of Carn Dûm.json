@@ -1,10 +1,58 @@
 {
     "Name": "The Battle of Carn Dûm",
+    "Slug": "The-Battle-of-Carn-Dum",
+    "Abbreviation": "TBoCD",
     "Cycle": "Angmar Awakened",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Guardian of Arnor",
+            "Slug": "Guardian-of-Arnor-TBoCD",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Guardian-of-Arnor.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.",
+                    "Guardian of Arnor gets +1 Defense for each enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Travellers scowl at us, and countrymen give us scornful names.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Battle of Carn Dûm",
+            "EncounterInfo": null,
+            "Number": 116,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "0f2501c7-16ad-4fee-bea6-17b767fb0d14",
+            "RingsDbCardId": "10116",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 997,
+            "Categories": null
+        },
+        {
             "Title": "Amarthiúl",
+            "Slug": "Amarthiul-TBoCD",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -39,48 +87,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Guardian of Arnor",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Guardian-of-Arnor.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Ranger."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Guardian of Arnor gets +1 Defense for each enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Travellers scowl at us, and countrymen give us scornful names.` -Aragorn, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Battle of Carn Dûm",
-            "EncounterInfo": null,
-            "Number": 116,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
+            "OctgnGuid": "94726dff-4b95-4c7c-9542-320b45652d7a",
+            "RingsDbCardId": "10115",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 390,
             "Categories": null
         },
         {
             "Title": "The Long Defeat",
+            "Slug": "The-Long-Defeat-TBoCD",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -109,10 +124,15 @@
             "Quantity": 3,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "0b483cda-22e0-418d-b906-8a93e94fe95d",
+            "RingsDbCardId": "10122",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 737,
             "Categories": null
         },
         {
             "Title": "Lindir",
+            "Slug": "Lindir-TBoCD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -144,10 +164,52 @@
             "Quantity": 3,
             "Artist": "Tawny Fritzinger",
             "HasErrata": false,
+            "OctgnGuid": "4bff71e7-f66c-4a2d-ba7d-633a6c77f765",
+            "RingsDbCardId": "10120",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 723,
+            "Categories": null
+        },
+        {
+            "Title": "Favor of the Valar",
+            "Slug": "Favor-of-the-Valar-TBoCD",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Favor-of-the-Valar.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a player`s threat dial. Limit 1 per player.",
+                    "Forced: When you would be eliminated by reaching your threat elimination level, instead discard Favor of the Valar and reduce your threat to 5 less than your threat elimination level. You are not eliminated."
+                ],
+                "Shadow": null,
+                "FlavorText": "`...their hearts were lifted up in such a hope as they had not known since the darkness came out of the East...` -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Battle of Carn Dûm",
+            "EncounterInfo": null,
+            "Number": 124,
+            "Quantity": 3,
+            "Artist": "Matthew Cowdery",
+            "HasErrata": false,
+            "OctgnGuid": "c9cdf75b-7535-4d17-804f-0f22569812c7",
+            "RingsDbCardId": "10124",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 700,
             "Categories": null
         },
         {
             "Title": "Beechbone",
+            "Slug": "Beechbone-TBoCD",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -181,42 +243,15 @@
             "Quantity": 3,
             "Artist": "Katayanagi",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Favor of the Valar",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Favor-of-the-Valar.jpg",
-                "Stats": {
-                    "ResourceCost": "3"
-                },
-                "Traits": [
-                    "Condition."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a player`s threat dial. Limit 1 per player.",
-                    "Forced: When you would be eliminated by reaching your threat elimination level, instead discard Favor of the Valar and reduce your threat to 5 less than your threat elimination level. You are not eliminated."
-                ],
-                "Shadow": null,
-                "FlavorText": "`...their hearts were lifted up in such a hope as they had not known since the darkness came out of the East...` -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Battle of Carn Dûm",
-            "EncounterInfo": null,
-            "Number": 124,
-            "Quantity": 3,
-            "Artist": "Matthew Cowdery",
-            "HasErrata": false,
+            "OctgnGuid": "b1584166-c8b3-4984-bfdc-06c33f31e153",
+            "RingsDbCardId": "10118",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 625,
             "Categories": null
         },
         {
             "Title": "Lords of the Eldar",
+            "Slug": "Lords-of-the-Eldar-TBoCD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -243,10 +278,15 @@
             "Quantity": 3,
             "Artist": "Rovina Cai",
             "HasErrata": false,
+            "OctgnGuid": "ff265d76-021b-4f23-9e62-a57e16b3e77d",
+            "RingsDbCardId": "10121",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 574,
             "Categories": null
         },
         {
             "Title": "Hold Your Ground!",
+            "Slug": "Hold-Your-Ground-TBoCD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -273,10 +313,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "8588e98f-1aaf-4e90-95b9-48b76c0fc4be",
+            "RingsDbCardId": "10119",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 342,
             "Categories": null
         },
         {
             "Title": "Quick Ears",
+            "Slug": "Quick-Ears-TBoCD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -302,10 +347,15 @@
             "Quantity": 3,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "fddb01e7-102e-44c8-a469-e920e76a79e0",
+            "RingsDbCardId": "10123",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 94,
             "Categories": null
         },
         {
             "Title": "Doom Hangs Still",
+            "Slug": "Doom-Hangs-Still-TBoCD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -332,10 +382,15 @@
             "Quantity": 3,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "c48b1c7f-f3df-4e5c-ad63-a68efc66c02c",
+            "RingsDbCardId": "10117",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 63,
             "Categories": null
         },
         {
             "Title": "The Clutches of Carn Dûm",
+            "Slug": "The-Clutches-of-Carn-Dum-TBoCD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -343,7 +398,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/The-Clutches-of-Carn-Dûm-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -354,8 +411,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/The-Clutches-of-Carn-Dûm-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -378,10 +438,15 @@
             "Quantity": 1,
             "Artist": "Wibben",
             "HasErrata": false,
+            "OctgnGuid": "b1662195-6d46-474c-9ee9-ccbf14c7b70e",
+            "RingsDbCardId": "10125",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Midwinter's Crux",
+            "Slug": "Midwinter's-Crux-TBoCD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -389,7 +454,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Midwinter's-Crux-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -400,8 +467,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Midwinter's-Crux-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -424,10 +494,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "b659e2a1-55b1-4562-ab2c-0e36772d8183",
+            "RingsDbCardId": "10126",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir",
+            "Slug": "Thaurdir-Captain-TBoCD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -451,7 +526,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Indestructible. Cannot have attachments.",
                     "Each other enemy gets +10 engagement cost.",
                     "Forced: After Thaurdir is flipped or a treachery card with the Sorcery trait is revealed, deal 1 shadow card to each enemy in play."
                 ],
@@ -471,10 +546,15 @@
             "Quantity": 1,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10127",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Thaurdir",
+            "Slug": "Thaurdir-Champion-TBoCD",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -498,7 +578,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Indestructible. Cannot have attachments.",
                     "Each other enemy gets -10 engagement cost.",
                     "Forced: After Thaurdir is flipped or a treachery with the Sorcery trait is revealed, Thaurdir heals 3 damage and makes an immediate attack against the first player."
                 ],
@@ -518,10 +598,15 @@
             "Quantity": 1,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10128",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Carn Dûm Garrison",
+            "Slug": "Carn-Dum-Garrison-TBoCD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -559,10 +644,15 @@
             "Quantity": 4,
             "Artist": "Brian Valenzuela",
             "HasErrata": false,
+            "OctgnGuid": "9e0bb4e8-9b4f-4780-9b83-ea6bc86745ae",
+            "RingsDbCardId": "10129",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Grunts",
+            "Slug": "Orc-Grunts-TBoCD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -585,6 +675,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Doomed 1. Surge.",
                     "Any time progress is placed on the current quest, reduce the amount of progress placed by 1."
                 ],
                 "Shadow": "Shadow: Add Orc Grunts to the staging area.",
@@ -603,10 +694,15 @@
             "Quantity": 4,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "f41fb428-d21c-47b2-9bd7-cc97202c2a7e",
+            "RingsDbCardId": "10130",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Werewolf of Angmar",
+            "Slug": "Werewolf-of-Angmar-TBoCD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -646,10 +742,15 @@
             "Quantity": 2,
             "Artist": "Matthew Starbuck",
             "HasErrata": false,
+            "OctgnGuid": "57b1cf62-1841-4f65-b9eb-fc82b1eac918",
+            "RingsDbCardId": "10131",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Accursed Battlefield",
+            "Slug": "Accursed-Battlefield-TBoCD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -684,10 +785,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "f49b1e33-6190-4e21-8779-ecfb3a39bb75",
+            "RingsDbCardId": "10132",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mountains of Angmar",
+            "Slug": "Mountains-of-Angmar-TBoCD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -722,10 +828,15 @@
             "Quantity": 2,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "afd48fc2-1bca-44d1-9b30-380d2035f2fb",
+            "RingsDbCardId": "10133",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blight of Carn Dûm",
+            "Slug": "Blight-of-Carn-Dum-TBoCD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -762,10 +873,15 @@
             "Quantity": 3,
             "Artist": "Logan Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "23670d99-7a26-4838-a112-2f6d8a7186f8",
+            "RingsDbCardId": "10134",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fortress Walls",
+            "Slug": "Fortress-Walls-TBoCD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -798,12 +914,17 @@
             },
             "Number": 135,
             "Quantity": 3,
-            "Artist": "Mikail Greuli",
+            "Artist": "Mikhail Greuli",
             "HasErrata": false,
+            "OctgnGuid": "be784402-7f83-43aa-9e77-c2aac8dd3526",
+            "RingsDbCardId": "10135",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Sky Darkens",
+            "Slug": "The-Sky-Darkens-TBoCD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -835,10 +956,15 @@
             "Quantity": 2,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "f330efb5-6263-48a1-9f08-0911f214bd96",
+            "RingsDbCardId": "10136",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Vile Afflication",
+            "Slug": "Vile-Afflication-TBoCD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -870,10 +996,15 @@
             "Quantity": 3,
             "Artist": "Beth Sobel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10137",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Daechanar's Will",
+            "Slug": "Daechanar's-Will-TBoCD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -903,10 +1034,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "5fd6638a-3135-460f-bf5e-b3cb0128f939",
+            "RingsDbCardId": "10138",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Furious Charge",
+            "Slug": "Furious-Charge-TBoCD",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -921,6 +1057,7 @@
                     "Victory 10."
                 ],
                 "Text": [
+                    "Surge.",
                     "Forced: When at least 1 progress is placed on Furious Charge, each character gets -2 Defense until the end of the round. If Thaurdir is Captain side faceup, flip him.",
                     "Response: After Furious Charge is defeated, add 10 progress to the main quest."
                 ],
@@ -934,6 +1071,10 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "21eb71b5-6b96-4388-bd95-e2576483a95a",
+            "RingsDbCardId": "10139",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

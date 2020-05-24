@@ -1,10 +1,14 @@
 {
     "Name": "A Shadow of the Past Nightmare",
+    "Slug": "A-Shadow-of-the-Past-Nightmare",
+    "Abbreviation": "ASotPN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "A Shadow of the Past Nightmare",
+            "Slug": "A-Shadow-of-the-Past-Nightmare-ASotPN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Khamûl the Easterling",
+            "Slug": "Khamul-the-Easterling-ASotPN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -82,10 +91,15 @@
             "Quantity": 1,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Horseman",
+            "Slug": "Dark-Horseman-ASotPN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -108,6 +122,7 @@
                     "Hide 2."
                 ],
                 "Text": [
+                    "Peril. Hide 2.",
                     "Cannot have non-Morgul attachments.",
                     "While Dark Horseman is engaged with you, characters you control get -1 Willpower during Hide tests."
                 ],
@@ -127,10 +142,15 @@
             "Quantity": 2,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Eastfarthing",
+            "Slug": "Eastfarthing-ASotPN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -166,10 +186,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Green-Hill Country",
+            "Slug": "Green-Hill-Country-ASotPN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -205,10 +230,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stock Woods",
+            "Slug": "Stock-Woods-ASotPN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -244,10 +274,15 @@
             "Quantity": 3,
             "Artist": "Dimitri Bielak",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "In the Name of Mordor!",
+            "Slug": "In-the-Name-of-Mordor-ASotPN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -263,6 +298,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player fails a Hide test, he discards a random card from his hand.`)"
                 ],
                 "Shadow": null,
@@ -281,10 +317,15 @@
             "Quantity": 2,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Followed by Shadows",
+            "Slug": "Followed-by-Shadows-ASotPN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -314,10 +355,15 @@
             "Quantity": 3,
             "Artist": "Helge C. Balzer",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sniffing and Hissing",
+            "Slug": "Sniffing-and-Hissing-ASotPN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -331,6 +377,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: The first player must either exhaust the One Ring and reveal an encounter card, or make a Hide 3 test."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack. If this attack destroys a character, raise your threat by 3.",
@@ -349,6 +396,10 @@
             "Quantity": 2,
             "Artist": "Oleg Saakyan",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Conflict at the Carrock Nightmare",
+    "Slug": "Conflict-at-the-Carrock-Nightmare",
+    "Abbreviation": "CatCN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Conflict at the Carrock Nightmare",
+            "Slug": "Conflict-at-the-Carrock-Nightmare-CatCN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -41,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Savage Hill-troll",
+            "Slug": "Savage-Hill-troll-CatCN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -84,10 +93,15 @@
             "Quantity": 4,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rob and Bob",
+            "Slug": "Rob-and-Bob-CatCN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -125,10 +139,15 @@
             "Quantity": 1,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Louis",
+            "Slug": "Louis-CatCN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -169,10 +188,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morris",
+            "Slug": "Morris-CatCN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -213,10 +237,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rupert",
+            "Slug": "Rupert-CatCN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -257,10 +286,15 @@
             "Quantity": 1,
             "Artist": "Sidharth Chatursedi",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stuart",
+            "Slug": "Stuart-CatCN",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -301,10 +335,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Troll Lair",
+            "Slug": "Troll-Lair-CatCN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -339,10 +378,15 @@
             "Quantity": 3,
             "Artist": "Ed Mattinian",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hives and Hives",
+            "Slug": "Hives-and-Hives-CatCN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -377,10 +421,15 @@
             "Quantity": 3,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Time for Supper",
+            "Slug": "Time-for-Supper-CatCN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -410,10 +459,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grimbeorn's Folly",
+            "Slug": "Grimbeorn's-Folly-CatCN",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -421,7 +475,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Grimbeorn's-Folly-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -432,8 +488,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Grimbeorn's-Folly-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -454,6 +513,10 @@
             "Quantity": 3,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

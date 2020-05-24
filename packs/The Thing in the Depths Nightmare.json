@@ -1,10 +1,14 @@
 {
     "Name": "The Thing in the Depths Nightmare",
+    "Slug": "The-Thing-in-the-Depths-Nightmare",
+    "Abbreviation": "TTiTDN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Thing in the Depths Nightmare",
+            "Slug": "The-Thing-in-the-Depths-Nightmare-TTiTDN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -42,10 +46,15 @@
             "Quantity": 1,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Captain's Quarters",
+            "Slug": "Captain's-Quarters-TTiTDN",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -81,10 +90,15 @@
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Aft Cabin",
+            "Slug": "Aft-Cabin-TTiTDN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -121,10 +135,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tumultuous Waters",
+            "Slug": "Tumultuous-Waters-TTiTDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -156,10 +175,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Duelist",
+            "Slug": "Corsair-Duelist-TTiTDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -199,10 +223,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Slithering Arm",
+            "Slug": "Slithering-Arm-TTiTDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -226,6 +255,7 @@
                     "Grapple (most enemies grappled)."
                 ],
                 "Text": [
+                    "Surge. Grapple (most enemies grappled).",
                     "Forced: After Slitering Arm engages a player, it makes an immediate attack against that player."
                 ],
                 "Shadow": null,
@@ -244,10 +274,15 @@
             "Quantity": 3,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Crashing Arm",
+            "Slug": "Crashing-Arm-TTiTDN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -270,6 +305,7 @@
                     "Grapple (fewest enemies grappled)."
                 ],
                 "Text": [
+                    "Grapple (fewest enemies grappled).",
                     "Forced: After Crashing Arm is detaced from a location, deal it 3 shadow cards."
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
@@ -288,10 +324,15 @@
             "Quantity": 3,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deep Maelstrom",
+            "Slug": "Deep-Maelstrom-TTiTDN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -321,6 +362,10 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Into Fangorn Nightmare",
+    "Slug": "Into-Fangorn-Nightmare",
+    "Abbreviation": "TCaON",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Into Fangorn Nightmare",
+            "Slug": "Into-Fangorn-Nightmare-TCaON",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -47,10 +51,15 @@
             "Quantity": 1,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Huorn of Fangorn",
+            "Slug": "Huorn-of-Fangorn-TCaON",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -72,7 +81,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "Forced: At the beginning of each resource phase, the engaged player discards 1 attachment he controls."
                 ],
                 "Shadow": "Shadow: Deal 1 damage to the defending character.",
@@ -91,10 +100,15 @@
             "Quantity": 3,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blocking Huorn",
+            "Slug": "Blocking-Huorn-TCaON",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -116,7 +130,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "While Blocking Huorn is engaged with a player, it adds its Threat to the staging area."
                 ],
                 "Shadow": "Shadow: Put Blocking Huorn into play engaged with you.",
@@ -135,10 +149,15 @@
             "Quantity": 2,
             "Artist": "Katy Grierson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wicked Huorn",
+            "Slug": "Wicked-Huorn-TCaON",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -160,7 +179,7 @@
                     "Hinder."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
+                    "Hinder. Cannot have attachments.",
                     "Forced: At the beginning of each resource phase, the engaged player exhausts a hero he controls."
                 ],
                 "Shadow": "Shadow: Attacking enemy cannot take damage until the end of the round.",
@@ -179,10 +198,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tangled Forest",
+            "Slug": "Tangled-Forest-TCaON",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -217,10 +241,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Entwood",
+            "Slug": "Entwood-TCaON",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -256,10 +285,15 @@
             "Quantity": 3,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Corner of Fangorn",
+            "Slug": "Dark-Corner-of-Fangorn-TCaON",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -276,7 +310,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Dark Corner of Fangorn is in the staging area, each Huorn enemy loses the hunder keyword.",
+                    "While Dark Corner of Fangorn is in the staging area, each Huorn enemy loses the hinder keyword.",
                     "Forced: After Dark Corner of Fangorn becomes the active location, each engaged Huorn enemy makes an immediate attack."
                 ],
                 "Shadow": null,
@@ -295,10 +329,15 @@
             "Quantity": 2,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stifling Woods",
+            "Slug": "Stifling-Woods-TCaON",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -328,10 +367,15 @@
             "Quantity": 2,
             "Artist": "Suzanne Helmigh",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fangorn's Anger",
+            "Slug": "Fangorn's-Anger-TCaON",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -361,6 +405,10 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

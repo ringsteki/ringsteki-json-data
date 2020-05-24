@@ -1,10 +1,14 @@
 {
     "Name": "The Drowned Ruins",
+    "Slug": "The-Drowned-Ruins",
+    "Abbreviation": "TDRu",
     "Cycle": "Dream-chaser",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Marksman of Lórien",
+            "Slug": "Marksman-of-Lorien-TDRu",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -27,6 +31,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Marksman of Lórien enters play, choose an enemy. That enemy gets -2 Defense until the end of the round."
                 ],
                 "Shadow": null,
@@ -39,10 +44,15 @@
             "Quantity": 3,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12085",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1278,
             "Categories": null
         },
         {
             "Title": "Dúnedain Remedy",
+            "Slug": "Dunedain-Remedy-TDRu",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -72,10 +82,15 @@
             "Quantity": 3,
             "Artist": "Drazenka Kimpel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12084",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1188,
             "Categories": null
         },
         {
             "Title": "Strider",
+            "Slug": "Strider-TDRu",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -86,7 +101,9 @@
                 "Stats": {
                     "ResourceCost": "1"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Title."
+                ],
                 "Keywords": [],
                 "Text": [
                     "Attach to a hero.",
@@ -103,10 +120,15 @@
             "Quantity": 3,
             "Artist": "Ken McCuen",
             "HasErrata": false,
+            "OctgnGuid": "789fbae0-a33e-4ea0-a34f-adfe3b62dba7",
+            "RingsDbCardId": "12091",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1087,
             "Categories": null
         },
         {
             "Title": "Dwarven Sellsword",
+            "Slug": "Dwarven-Sellsword-TDRu",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -139,84 +161,15 @@
             "Quantity": 3,
             "Artist": "Marius Bota",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Argalad",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Argalad.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Scout."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "Action: Exhaust Argalad to choose an enemy in the staging area. Until the end of the phase, that enemy gets -X Threat, where X is Argalad`s Attack. If this effect reduces the enemy`s Threat to 0, deal 1 damage to it. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Drowned Ruins",
-            "EncounterInfo": null,
-            "Number": 82,
-            "Quantity": 1,
-            "Artist": "Andreia Ugrai",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Woodland Courier",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Woodland-Courier.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Scout."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Woodland Courier enters play, place 1 progress on a location (2 progress instead if that location has the Forest trait)."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Drowned Ruins",
-            "EncounterInfo": null,
-            "Number": 87,
-            "Quantity": 3,
-            "Artist": "Drazenka Kimpel",
-            "HasErrata": false,
+            "OctgnGuid": "836d10fb-8bca-4dee-bea7-0164667b7a61",
+            "RingsDbCardId": "12083",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 627,
             "Categories": null
         },
         {
             "Title": "Robin Smallburrow",
+            "Slug": "Robin-Smallburrow-TDRu",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -249,10 +202,100 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "697e1c80-a218-4dc7-b0c3-06921e879b81",
+            "RingsDbCardId": "12089",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 413,
+            "Categories": null
+        },
+        {
+            "Title": "Woodland Courier",
+            "Slug": "Woodland-Courier-TDRu",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Woodland-Courier.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Woodland Courier enters play, place 1 progress on a location (2 progress instead if that location has the Forest trait)."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins",
+            "EncounterInfo": null,
+            "Number": 87,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "905dbe88-7974-4b0c-9a82-f96ba4dd866f",
+            "RingsDbCardId": "12087",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 411,
+            "Categories": null
+        },
+        {
+            "Title": "Argalad",
+            "Slug": "Argalad-TDRu",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Argalad.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Action: Exhaust Argalad to choose an enemy in the staging area. Until the end of the phase, that enemy gets -X Threat, where X is Argalad`s Attack. If this effect reduces the enemy`s Threat to 0, deal 1 damage to it. (Limit once per round.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Drowned Ruins",
+            "EncounterInfo": null,
+            "Number": 82,
+            "Quantity": 1,
+            "Artist": "Andreia Ugrai",
+            "HasErrata": false,
+            "OctgnGuid": "8aea2aaf-8320-4694-bc64-fc264b409bab",
+            "RingsDbCardId": "12082",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 153,
             "Categories": null
         },
         {
             "Title": "Interrogation",
+            "Slug": "Interrogation-TDRu",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -278,10 +321,15 @@
             "Quantity": 3,
             "Artist": "Joshua Cairós",
             "HasErrata": false,
+            "OctgnGuid": "1c824f05-d8be-40e4-be13-5cea37128bf8",
+            "RingsDbCardId": "12090",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 303,
             "Categories": null
         },
         {
             "Title": "Battle-fury",
+            "Slug": "Battle-fury-TDRu",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -308,10 +356,15 @@
             "Quantity": 3,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12086",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 172,
             "Categories": null
         },
         {
             "Title": "Hithlain",
+            "Slug": "Hithlain-TDRu",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -340,10 +393,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "12ce640e-dd4e-4c02-be87-f273252cc9be",
+            "RingsDbCardId": "12088",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 113,
             "Categories": null
         },
         {
             "Title": "The Grotto",
+            "Slug": "The-Grotto-TDRu",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -351,7 +409,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/The-Grotto-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -362,8 +422,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/The-Grotto-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -378,7 +441,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Drowned Ruins",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Stormcaller Elite",
+                    "Drowned Dead"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -386,10 +452,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "31bd075d-e116-4a0f-81dd-942b52a6267c",
+            "RingsDbCardId": "12092",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sahír's Betrayal",
+            "Slug": "Sahir's-Betrayal-TDRu",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -397,7 +468,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Sahír's-Betrayal-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -408,8 +481,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Sahír's-Betrayal-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -422,7 +498,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Drowned Ruins",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "The Stormcaller Elite",
+                    "Drowned Dead"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -430,10 +509,15 @@
             "Quantity": 1,
             "Artist": "Sara Winters",
             "HasErrata": false,
+            "OctgnGuid": "e48c7313-d1cb-4291-9dc1-9fff6fb23e83",
+            "RingsDbCardId": "12093",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shrine to Morgoth",
+            "Slug": "Shrine-to-Morgoth-Grotto-TDRu",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -474,10 +558,15 @@
             "Quantity": 1,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shrine to Morgoth",
+            "Slug": "Shrine-to-Morgoth-Underwater-TDRu",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -518,10 +607,15 @@
             "Quantity": 1,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sea-scorpion",
+            "Slug": "Sea-scorpion-TDRu",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -559,10 +653,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cave Eel",
+            "Slug": "Cave-Eel-TDRu",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -601,10 +700,15 @@
             "Quantity": 3,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "34bfcbad-5557-48bc-8abd-3ac472ee4d3b",
+            "RingsDbCardId": "12097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Undersea Grotto",
+            "Slug": "Undersea-Grotto-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -641,10 +745,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "c95b4c6a-3dd0-4f11-8620-df7af65c11bc",
+            "RingsDbCardId": "12098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Caverns",
+            "Slug": "Cursed-Caverns-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -681,10 +790,15 @@
             "Quantity": 3,
             "Artist": "Timo Karhula",
             "HasErrata": false,
+            "OctgnGuid": "4be4e706-1bd2-455a-a712-833c1bbcea55",
+            "RingsDbCardId": "12099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Watter-logged Halls",
+            "Slug": "Watter-logged-Halls-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -722,10 +836,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Abyss",
+            "Slug": "Dark-Abyss-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -764,10 +883,15 @@
             "Quantity": 3,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Twisting Hollow",
+            "Slug": "Twisting-Hollow-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -806,10 +930,15 @@
             "Quantity": 3,
             "Artist": "Niten",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sunken Temple",
+            "Slug": "Sunken-Temple-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -849,10 +978,15 @@
             "Quantity": 2,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drowned Cave",
+            "Slug": "Drowned-Cave-TDRu",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -889,10 +1023,15 @@
             "Quantity": 2,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "b59afed1-a224-4793-b149-0a6aadc9ba7e",
+            "RingsDbCardId": "12104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Powerful Undertow",
+            "Slug": "Powerful-Undertow-TDRu",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -924,10 +1063,15 @@
             "Quantity": 3,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "befbd3c9-45b3-4e68-b19e-5981a6571835",
+            "RingsDbCardId": "12105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Into the Abyss",
+            "Slug": "Into-the-Abyss-TDRu",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -957,10 +1101,15 @@
             "Quantity": 3,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "54014fda-7adc-49b0-96ac-656e849eaf7b",
+            "RingsDbCardId": "12106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tangling and Grasping",
+            "Slug": "Tangling-and-Grasping-TDRu",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -992,10 +1141,15 @@
             "Quantity": 4,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "c0d85826-dc42-4ac8-851c-4ed671917e9d",
+            "RingsDbCardId": "12107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Depths",
+            "Slug": "Ancient-Depths-TDRu",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1025,6 +1179,10 @@
             "Quantity": 3,
             "Artist": "Beth Sobel",
             "HasErrata": false,
+            "OctgnGuid": "a9321cbd-897f-4a77-a548-85ad00112273",
+            "RingsDbCardId": "12108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

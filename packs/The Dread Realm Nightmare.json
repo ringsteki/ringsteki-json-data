@@ -1,10 +1,14 @@
 {
     "Name": "The Dread Realm Nightmare",
+    "Slug": "The-Dread-Realm-Nightmare",
+    "Abbreviation": "TDRN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "The Dread Realm Nightmare",
+            "Slug": "The-Dread-Realm-Nightmare-TDRN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Silent Guardian",
+            "Slug": "Silent-Guardian-TDRN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -80,10 +89,15 @@
             "Quantity": 2,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Necromancer of Carn Dûm",
+            "Slug": "Necromancer-of-Carn-Dum-TDRN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -121,10 +135,15 @@
             "Quantity": 3,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Inner Sanctum",
+            "Slug": "Inner-Sanctum-TDRN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -161,10 +180,15 @@
             "Quantity": 2,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cursed Halls",
+            "Slug": "Cursed-Halls-TDRN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -200,10 +224,15 @@
             "Quantity": 3,
             "Artist": "Federico Musetti",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Power Beyond Death",
+            "Slug": "Power-Beyond-Death-TDRN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -219,6 +248,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to the main quest. (Counts as a Condition attachment with the text: `Daechanar gets +2 Defense.`)"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, resolve this card`s `when revealed` effect.",
@@ -237,10 +267,15 @@
             "Quantity": 3,
             "Artist": "JB Casacop",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Daechanar's Curse",
+            "Slug": "Daechanar's-Curse-TDRN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -256,6 +291,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach Daechanar`s Curse to the top of the first player`s deck. (Counts as a Condition attachment with the text: `The next time a player would draw 1 or more cards from attached deck, reanimate those cards instead. Then, discard Daechanar`s Curse.`)"
                 ],
                 "Shadow": null,
@@ -274,10 +310,15 @@
             "Quantity": 3,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "All is Lost",
+            "Slug": "All-is-Lost-TDRN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -309,10 +350,15 @@
             "Quantity": 2,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Witch-king's Gift",
+            "Slug": "The-Witch-king's-Gift-TDRN",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -326,6 +372,7 @@
                     "Time 5."
                 ],
                 "Text": [
+                    "Time 5.",
                     "Forced: When the last time counter is removed from this quest, reanimated each card in each player`s discard pile. Then, remove The Witch-king`s Gift from the game.",
                     "When this quest is defeated, place it in the encounter discard pile."
                 ],
@@ -339,6 +386,10 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "The Drúadan Forest",
+    "Slug": "The-Druadan-Forest",
+    "Abbreviation": "TDF",
     "Cycle": "Against the Shadow",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Silvan Refugee",
+            "Slug": "Silvan-Refugee-TDF",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -36,45 +40,15 @@
             "Quantity": 3,
             "Artist": "Lorraine Schleter",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Mirlonde",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/Mirlonde.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Each hero you control with a printed Lore resource icon gets -1 threat cost."
-                ],
-                "Shadow": null,
-                "FlavorText": "`...the Elves feared and distrusted the world outside...`\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Drúadan Forest",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "e4fd6e25-982a-464f-82d8-812269864d46",
+            "RingsDbCardId": "06037",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1344,
             "Categories": null
         },
         {
             "Title": "White Tower Watchman",
+            "Slug": "White-Tower-Watchman-TDF",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -106,10 +80,15 @@
             "Quantity": 3,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "31cd848b-a1bc-4ccd-af0c-eb3cc3ba593b",
+            "RingsDbCardId": "06041",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 798,
             "Categories": null
         },
         {
             "Title": "Strength of Arms",
+            "Slug": "Strength-of-Arms-TDF",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -136,10 +115,55 @@
             "Quantity": 3,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "91f28bdf-4b78-4750-9853-65e783e4cb15",
+            "RingsDbCardId": "06034",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 758,
+            "Categories": null
+        },
+        {
+            "Title": "Mirlonde",
+            "Slug": "Mirlonde-TDF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/Mirlonde.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each hero you control with a printed Lore resource icon gets -1 threat cost."
+                ],
+                "Shadow": null,
+                "FlavorText": "`...the Elves feared and distrusted the world outside...`\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "536c80ba-ad8b-447e-b378-1684508eb0f9",
+            "RingsDbCardId": "06032",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 300,
             "Categories": null
         },
         {
             "Title": "Forlong",
+            "Slug": "Forlong-TDF",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -171,40 +195,15 @@
             "Quantity": 3,
             "Artist": "Emile Denis",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Advance Warning",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/Advance-Warning.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only if each hero you control has a printed Lore resource icon.",
-                    "Action: Until the end of the phase, enemies do not make engagement checks"
-                ],
-                "Shadow": null,
-                "FlavorText": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Drúadan Forest",
-            "EncounterInfo": null,
-            "Number": 40,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
+            "OctgnGuid": "c6ae1840-dd7d-46ea-baf8-6d30614506de",
+            "RingsDbCardId": "06033",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 567,
             "Categories": null
         },
         {
             "Title": "Mighty Prowess",
+            "Slug": "Mighty-Prowess-TDF",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -233,10 +232,50 @@
             "Quantity": 3,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "4ed8bd53-0453-4490-a4bb-20a7d793c17f",
+            "RingsDbCardId": "06035",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 410,
+            "Categories": null
+        },
+        {
+            "Title": "Advance Warning",
+            "Slug": "Advance-Warning-TDF",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/Advance-Warning.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if each hero you control has a printed Lore resource icon.",
+                    "Action: Until the end of the phase, enemies do not make engagement checks"
+                ],
+                "Shadow": null,
+                "FlavorText": "Suddenly he halted and listened. Had he heard a whistle or not? Or was it the call of some strange bird? -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": null,
+            "Number": 40,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "e678be7e-8048-458d-b4f9-25c2a718fabb",
+            "RingsDbCardId": "06040",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 364,
             "Categories": null
         },
         {
             "Title": "Trained for War",
+            "Slug": "Trained-for-War-TDF",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -263,10 +302,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": true,
+            "OctgnGuid": "5c7a6b89-0439-4b46-b9f1-09189f981a0d",
+            "RingsDbCardId": "06036",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 164,
             "Categories": null
         },
         {
             "Title": "Harbor Master",
+            "Slug": "Harbor-Master-TDF",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -298,10 +342,15 @@
             "Quantity": 3,
             "Artist": "Kristina Gehrmann",
             "HasErrata": false,
+            "OctgnGuid": "b7f8b82b-c448-4f43-a025-bf6b7e6f0310",
+            "RingsDbCardId": "06039",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 98,
             "Categories": null
         },
         {
             "Title": "Against the Shadow",
+            "Slug": "Against-the-Shadow-TDF",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -328,10 +377,185 @@
             "Quantity": 3,
             "Artist": "Andrew Ryan",
             "HasErrata": false,
+            "OctgnGuid": "0801c2c0-2bf7-4a0a-838a-13740f6cdbaf",
+            "RingsDbCardId": "06038",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 75,
+            "Categories": null
+        },
+        {
+            "Title": "The Pursuit",
+            "Slug": "The-Pursuit-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Pursuit-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Drû-buri-Drû and set him aside, out of play. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The leader of the underworld cabal from Minas Tirith has fled with his remaining henchmen. You have followed his trail to The Drúadan Forest, hoping to bring the nameless villain to justice."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Pursuit-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Drúadan Forest is a wild and dangerous place. It is said that Woses, reclusive forest dwellers, still reside among the trees. You wonder if your quarry has considered the dangers of this course."
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 42,
+            "Quantity": 1,
+            "Artist": "Emile Denis",
+            "HasErrata": false,
+            "OctgnGuid": "71079813-3afe-41b7-8746-92dcc1f91084",
+            "RingsDbCardId": "06042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "An Untimely End",
+            "Slug": "An-Untimely-End-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/An-Untimely-End-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "As you move deeper into the forest, the wilderness quickly swallows all trace of civilization. Pushing through a dense patch of undergrowth, you came upon a dark and tangled grove. The scent of death strikes you."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/An-Untimely-End-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "17"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Archery damage must be assigned to allies, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the grove, the fleeing traitors lie slain, pierced by poisoned arrows. As you search the pain-wracked corpses for the body of their leader, the ominous echo of drums begins to sound among the trees. You desperately begin to retrace your steps from the woods, lest the fate of the traitors becomes your own."
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 43,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "346fda89-94df-410a-8027-41eacbf27238",
+            "RingsDbCardId": "06043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Passage Out",
+            "Slug": "The-Passage-Out-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Passage-Out-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege."
+                ],
+                "Text": [
+                    "When Revealed: Add Drû-buri-Drû to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You sense that the edge of the forest must be near at hand, but Woses are master huntsmen and a band of them block your path. your situation seems hopeless: there are simply too many of them. As they begin their attack, you realize your only hope of survival is to convince the Pukel-men that you are not their enemy."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Passage-Out-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "14"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege.",
+                    "Characters use their Willpower instead of Attack when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 44,
+            "Quantity": 1,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": "f6578eb7-1b94-458b-aba1-82b406507a4d",
+            "RingsDbCardId": "06044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drû-buri-Drû",
+            "Slug": "Dru-buri-Dru-TDF",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -371,10 +595,15 @@
             "Quantity": 1,
             "Artist": "David A. Nash",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drúadan Drummer",
+            "Slug": "Druadan-Drummer-TDF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -412,10 +641,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drúadan Elite",
+            "Slug": "Druadan-Elite-TDF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -438,6 +672,7 @@
                     "Prowl X."
                 ],
                 "Text": [
+                    "Archery 2. Prowl X.",
                     "X is the number of players in the game."
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource.",
@@ -456,10 +691,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drúadan Hunter",
+            "Slug": "Druadan-Hunter-TDF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -482,6 +722,7 @@
                     "Archery X."
                 ],
                 "Text": [
+                    "Prowl 1. Archery X.",
                     "X is the number of heroes in play with no resources in their resource pool."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
@@ -500,10 +741,15 @@
             "Quantity": 4,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Drúadan Thief",
+            "Slug": "Druadan-Thief-TDF",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -525,7 +771,9 @@
                     "Surge.",
                     "Prowl 1."
                 ],
-                "Text": [],
+                "Text": [
+                    "Surge. Prowl 1."
+                ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after it attacks unless any player pays 1 resource.",
                 "FlavorText": null
             },
@@ -542,10 +790,15 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancestral Clearing",
+            "Slug": "Ancestral-Clearing-TDF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -581,10 +834,15 @@
             "Quantity": 1,
             "Artist": "Grzegorz Pedrycz",
             "HasErrata": false,
+            "OctgnGuid": "0ebedc5b-fd8b-46b8-a2a1-1a6f739e8819",
+            "RingsDbCardId": "06050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Garden of Poisons",
+            "Slug": "Garden-of-Poisons-TDF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -620,10 +878,15 @@
             "Quantity": 3,
             "Artist": "Simon Dominic",
             "HasErrata": false,
+            "OctgnGuid": "41c3779a-a28a-44db-8b9b-bc5e81d1111a",
+            "RingsDbCardId": "06051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Glade of Cleansing",
+            "Slug": "Glade-of-Cleansing-TDF",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -659,10 +922,15 @@
             "Quantity": 3,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "801078c6-56a9-45f2-b5a4-7e38cb5bc507",
+            "RingsDbCardId": "06052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Men in the Dark",
+            "Slug": "Men-in-the-Dark-TDF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -692,10 +960,15 @@
             "Quantity": 3,
             "Artist": "Marcia George-Bogdan",
             "HasErrata": false,
+            "OctgnGuid": "24e431be-cde9-4f93-943a-de5e5ca9108b",
+            "RingsDbCardId": "06053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stars in Sky",
+            "Slug": "Stars-in-Sky-TDF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -709,6 +982,7 @@
                     "Prowl 2."
                 ],
                 "Text": [
+                    "Prowl 2.",
                     "When Revealed: Each questing hero must pay 1 resource or it is removed from the quest."
                 ],
                 "Shadow": "Shadow: Discard all resources from the defending character`s resource pool.",
@@ -727,10 +1001,15 @@
             "Quantity": 3,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "7cbf23fd-28c4-494c-97aa-b7fed050ad8b",
+            "RingsDbCardId": "06054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Leaves on Tree",
+            "Slug": "Leaves-on-Tree-TDF",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -744,6 +1023,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Each player must pay 1 resource for each attachment he controls or discard all attachments he controls."
                 ],
                 "Shadow": "Shadow: Discard an attachment from the defending character.",
@@ -762,138 +1042,10 @@
             "Quantity": 2,
             "Artist": "Jason Ward",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Pursuit",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Pursuit-1A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Setup: Search the encounter deck for Drû-buri-Drû and set him aside, out of play. Shuffle the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "The leader of the underworld cabal from Minas Tirith has fled with his remaining henchmen. You have followed his trail to The Drúadan Forest, hoping to bring the nameless villain to justice."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "The Drúadan Forest is a wild and dangerous place. It is said that Woses, reclusive forest dwellers, still reside among the trees. You wonder if your quarry has considered the dangers of this course."
-            },
-            "CardSet": "The Drúadan Forest",
-            "EncounterInfo": {
-                "EncounterSet": "The Drúadan Forest",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 1,
-                "StageLetter": "A"
-            },
-            "Number": 42,
-            "Quantity": 1,
-            "Artist": "Emile Denis",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "An Untimely End",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/An-Untimely-End-2A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "As you move deeper into the forest, the wilderness quickly swallows all trace of civilization. Pushing through a dense patch of undergrowth, you came upon a dark and tangled grove. The scent of death strikes you."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Archery damage must be assigned to allies, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": "In the grove, the fleeing traitors lie slain, pierced by poisoned arrows. As you search the pain-wracked corpses for the body of their leader, the ominous echo of drums begins to sound among the trees. You desperately begin to retrace your steps from the woods, lest the fate of the traitors becomes your own."
-            },
-            "CardSet": "The Drúadan Forest",
-            "EncounterInfo": {
-                "EncounterSet": "The Drúadan Forest",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 2,
-                "StageLetter": "A"
-            },
-            "Number": 43,
-            "Quantity": 1,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "The Passage Out",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Passage-Out-3A.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Siege."
-                ],
-                "Text": [
-                    "When Revealed: Add Drû-buri-Drû to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "You sense that the edge of the forest must be near at hand, but Woses are master huntsmen and a band of them block your path. your situation seems hopeless: there are simply too many of them. As they begin their attack, you realize your only hope of survival is to convince the Pukel-men that you are not their enemy."
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Characters use their Willpower instead of Attack when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.\n\nIf the players defeat this stage, they have won the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Drúadan Forest",
-            "EncounterInfo": {
-                "EncounterSet": "The Drúadan Forest",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 3,
-                "StageLetter": "A"
-            },
-            "Number": 44,
-            "Quantity": 1,
-            "Artist": "Jason Ward",
-            "HasErrata": false,
+            "OctgnGuid": "9dda3cf1-e5bd-4cab-8c3b-b29db1220249",
+            "RingsDbCardId": "06055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

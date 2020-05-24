@@ -1,10 +1,14 @@
 {
     "Name": "The Flame of the West",
+    "Slug": "The-Flame-of-the-West",
+    "Abbreviation": "TFotW",
     "Cycle": "The Lord of the Rings",
     "SetType": "Saga_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Éowyn",
+            "Slug": "Eowyn-TFotW",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -38,10 +42,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 970,
             "Categories": null
         },
         {
             "Title": "Sterner than Steel",
+            "Slug": "Sterner-than-Steel-TFotW",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -55,7 +64,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Response: Exhaust a Weapon or Armor card attached to the defending character to cancel a shadow effect just triggered in combat"
+                    "Response: Exhaust a Weapon or Armor card attached to the defending character to cancel a shadow effect just triggered during combat."
                 ],
                 "Shadow": null,
                 "FlavorText": "`Do what you will; but I will hinder it, if I may.`\r\n-Éowyn, The Return of the King"
@@ -67,10 +76,96 @@
             "Quantity": 3,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "1f71a208-836b-4bf9-8cdb-a3f9bfa05667",
+            "RingsDbCardId": "145008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1125,
+            "Categories": null
+        },
+        {
+            "Title": "Golden Shield",
+            "Slug": "Golden-Shield-TFotW",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Golden-Shield.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Rohan hero. Restricted.",
+                    "Response: After attached hero is declared as a defender, exhaust Golden Shield to add attached hero`s Willpower to its Defense for this attack."
+                ],
+                "Shadow": null,
+                "FlavorText": "His golden shield was uncovered, and lo! it shone like an image of the Sun...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Sasha Jones",
+            "HasErrata": false,
+            "OctgnGuid": "a87da7c6-14fe-4213-b66f-43836531e213",
+            "RingsDbCardId": "145010",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1068,
+            "Categories": null
+        },
+        {
+            "Title": "Grimbold",
+            "Slug": "Grimbold-TFotW",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Grimbold.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Discard Grimbold to choose an enemy engaged with a player. That enemy cannot attack that player this phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Grimbold`s men turned aside and passed round to a great gap in the wall further eastward.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "825dfbbb-6ba7-44ad-8327-d06ff46830eb",
+            "RingsDbCardId": "145004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1053,
             "Categories": null
         },
         {
             "Title": "Beregond",
+            "Slug": "Beregond-TFotW",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -105,146 +200,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Grimbold",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Grimbold.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Discard Grimbold to choose an enemy engaged with a player. That enemy cannot attack that player this phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "Grimbold`s men turned aside and passed round to a great gap in the wall further eastward.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Flame of the West",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Lucas Durham",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Golden Shield",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Golden-Shield.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Armor."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Rohan hero.",
-                    "Response: After attached hero is declared as a defender, exhaust Golden Shield to add attached hero`s Willpower to its Defense for this attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "His golden shield was uncovered, and lo! it shone like an image of the Sun...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Flame of the West",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Sasha Jones",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Desperate Defense",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Desperate-Defense.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a sentinel character is declared as a defender, it gets +2 Defense for this attack. If this attack deals no damage, ready the defending character."
-                ],
-                "Shadow": null,
-                "FlavorText": "...but alone in the porch upon the topmost step stood Beregond, clad in the black and silver of the Guard; and he held the door against them.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Flame of the West",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Prince Imrahil",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Prince-Imrahil.jpg",
-                "Stats": {
-                    "ResourceCost": "4",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While there is a hero in your discard pile, Prince Imrahil loses the ally card type and gains the hero card type."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We must gather all of the strength that we can find.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Flame of the West",
-            "EncounterInfo": null,
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Gabriel Verdon",
-            "HasErrata": false,
+            "OctgnGuid": "da4c926c-7917-4b6d-a1be-cc90fbdce597",
+            "RingsDbCardId": "145003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 409,
             "Categories": null
         },
         {
             "Title": "Ghân-buri-Ghân",
+            "Slug": "Ghan-buri-Ghan-TFotW",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -277,10 +241,90 @@
             "Quantity": 3,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 669,
+            "Categories": null
+        },
+        {
+            "Title": "Desperate Defense",
+            "Slug": "Desperate-Defense-TFotW",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Desperate-Defense.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a sentinel character is declared as a defender, it gets +2 Defense for this attack. If this attack deals no damage, ready the defending character."
+                ],
+                "Shadow": null,
+                "FlavorText": "...but alone in the porch upon the topmost step stood Beregond, clad in the black and silver of the Guard; and he held the door against them.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "478bc3aa-c148-4f20-8b4b-6b2a477a64b6",
+            "RingsDbCardId": "145009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 664,
+            "Categories": null
+        },
+        {
+            "Title": "Prince Imrahil",
+            "Slug": "Prince-Imrahil-TFotW",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Prince-Imrahil.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While there is a hero in your discard pile, Prince Imrahil loses the ally card type and gains the hero card type."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We must gather all of the strength that we can find.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Gabriel Verdon",
+            "HasErrata": false,
+            "OctgnGuid": "6238c12d-b4c0-478f-bd7e-b59ef9b4e86f",
+            "RingsDbCardId": "145005",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 626,
             "Categories": null
         },
         {
             "Title": "Halbarad",
+            "Slug": "Halbarad-TFotW",
             "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -314,10 +358,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "66bcd2b8-fcc7-402b-94b2-a45a6c469981",
+            "RingsDbCardId": "145006",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 427,
             "Categories": null
         },
         {
             "Title": "Roheryn",
+            "Slug": "Roheryn-TFotW",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -347,10 +396,15 @@
             "Quantity": 3,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "83febe3a-95e8-4c38-8de7-4c1b1d43c917",
+            "RingsDbCardId": "145012",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 423,
             "Categories": null
         },
         {
             "Title": "Livery of the Tower",
+            "Slug": "Livery-of-the-Tower-TFotW",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -369,7 +423,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Gondor hero.",
+                    "Attach to a Gondor hero. Restricted.",
                     "Response: Spend X resources from attached hero`s pool to cancel X damage just dealt to attached hero."
                 ],
                 "Shadow": null,
@@ -382,10 +436,15 @@
             "Quantity": 3,
             "Artist": "Suzanne Helmigh",
             "HasErrata": false,
+            "OctgnGuid": "6fa385cc-3430-44ce-9761-d0558e2b569d",
+            "RingsDbCardId": "145011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 218,
             "Categories": null
         },
         {
             "Title": "Banner of Elendil",
+            "Slug": "Banner-of-Elendil-TFotW",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -416,10 +475,15 @@
             "Quantity": 3,
             "Artist": "Jenn Tran",
             "HasErrata": false,
+            "OctgnGuid": "fcf56ddf-cbff-4441-95f4-951cc5ae82c2",
+            "RingsDbCardId": "145013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 86,
             "Categories": null
         },
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-TFotW",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -454,10 +518,15 @@
             "Quantity": 1,
             "Artist": "Javier Charro Martinez",
             "HasErrata": false,
+            "OctgnGuid": "2e778689-9e3f-4da8-a473-781c777f6473",
+            "RingsDbCardId": "145001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Esquire of Rohan",
+            "Slug": "Esquire-of-Rohan-TFotW",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -489,10 +558,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "9eb45361-6325-4e39-9029-9a8401d0d294",
+            "RingsDbCardId": "145014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Esquire of Gondor",
+            "Slug": "Esquire-of-Gondor-TFotW",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
@@ -524,10 +598,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "b2df0294-f962-4e05-998a-d824d88cc13c",
+            "RingsDbCardId": "145015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overcome by Fear",
+            "Slug": "Overcome-by-Fear-TFotW",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "Burden",
@@ -561,10 +640,15 @@
             "Quantity": 4,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "926d92fd-b7b8-4f13-8018-3f632c84a3d7",
+            "RingsDbCardId": "145016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Stone of Erech",
+            "Slug": "The-Stone-of-Erech-TFotW",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -601,10 +685,15 @@
             "Quantity": 1,
             "Artist": "Dawn Carlos",
             "HasErrata": false,
+            "OctgnGuid": "4d904ec3-1c74-4091-861d-c543412b5443",
+            "RingsDbCardId": "145017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark Door",
+            "Slug": "Dark-Door-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -640,10 +729,15 @@
             "Quantity": 2,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "d4e4ab9d-d5ea-4d33-89f1-d8d24d166002",
+            "RingsDbCardId": "145018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trysting Place",
+            "Slug": "Trysting-Place-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -679,10 +773,15 @@
             "Quantity": 3,
             "Artist": "Leanna Crossan",
             "HasErrata": false,
+            "OctgnGuid": "87ca18e7-934a-4da9-bbb0-3a66f3d1b4c3",
+            "RingsDbCardId": "145019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Deadly Road",
+            "Slug": "Deadly-Road-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -718,10 +817,15 @@
             "Quantity": 3,
             "Artist": "Pedro Amato",
             "HasErrata": false,
+            "OctgnGuid": "70fc56ec-dca4-485a-8c5e-7d0cf4e17038",
+            "RingsDbCardId": "145020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haunted Path",
+            "Slug": "Haunted-Path-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -757,10 +861,15 @@
             "Quantity": 3,
             "Artist": "Stephen Najarian",
             "HasErrata": false,
+            "OctgnGuid": "46e10da4-a188-4502-b53f-6644495a1319",
+            "RingsDbCardId": "145021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dead Man of Dunharrow",
+            "Slug": "Dead-Man-of-Dunharrow-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -801,10 +910,15 @@
             "Quantity": 4,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "78520dc7-5891-47f3-8782-ca930c434374",
+            "RingsDbCardId": "145022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Faithless Dead",
+            "Slug": "Faithless-Dead-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -846,10 +960,15 @@
             "Quantity": 3,
             "Artist": "Chris Grun",
             "HasErrata": false,
+            "OctgnGuid": "abfe3930-7bca-4ce8-9594-038ad4846205",
+            "RingsDbCardId": "145023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ghosts of Men",
+            "Slug": "Ghosts-of-Men-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -891,10 +1010,15 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "28b27afb-c966-4960-a4e7-5e5364e45c05",
+            "RingsDbCardId": "145024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shadow Host",
+            "Slug": "Shadow-Host-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -935,10 +1059,15 @@
             "Quantity": 2,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "8a5f4d2e-9558-413f-9913-376ec6a0c184",
+            "RingsDbCardId": "145025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blood Runs Chill",
+            "Slug": "Blood-Runs-Chill-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -970,10 +1099,15 @@
             "Quantity": 3,
             "Artist": "Uriah Voth",
             "HasErrata": false,
+            "OctgnGuid": "7cf91fea-06b4-43f3-ae5d-96f00884fd71",
+            "RingsDbCardId": "145026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Way is Shut",
+            "Slug": "The-Way-is-Shut-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1006,10 +1140,15 @@
             "Quantity": 2,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "faacffc1-0c11-42ea-aca9-96982cc80e7a",
+            "RingsDbCardId": "145027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Whispers in the Dark",
+            "Slug": "Whispers-in-the-Dark-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1041,10 +1180,15 @@
             "Quantity": 3,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "474616b8-11f2-44fe-bad3-a9d3e2bdd208",
+            "RingsDbCardId": "145028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "No Turning Back",
+            "Slug": "No-Turning-Back-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1074,10 +1218,15 @@
             "Quantity": 2,
             "Artist": "Preston Stone",
             "HasErrata": false,
+            "OctgnGuid": "06ff6757-f80c-499b-8450-1e85e793d02c",
+            "RingsDbCardId": "145029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Corsair Ship",
+            "Slug": "Great-Corsair-Ship-TFotW",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1116,10 +1265,15 @@
             "Quantity": 1,
             "Artist": "Johan Törnlund",
             "HasErrata": false,
+            "OctgnGuid": "83dd1a59-118c-468d-a47e-e472b066ff3e",
+            "RingsDbCardId": "145030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Umbar War Galley",
+            "Slug": "Umbar-War-Galley-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1155,10 +1309,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "f3ffbb95-5024-41d4-b783-d5fbff5bfa32",
+            "RingsDbCardId": "145031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Dromon",
+            "Slug": "Corsair-Dromon-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1196,10 +1355,15 @@
             "Quantity": 3,
             "Artist": "Jessica Cheng",
             "HasErrata": false,
+            "OctgnGuid": "9c6c003c-b9c7-4240-9e59-414d31b4be3c",
+            "RingsDbCardId": "145032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Port of Pelargir",
+            "Slug": "Port-of-Pelargir-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1234,10 +1398,15 @@
             "Quantity": 3,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "688d04e8-80d8-4ea8-9274-0712f26fac9b",
+            "RingsDbCardId": "145033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pelargir Quays",
+            "Slug": "Pelargir-Quays-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1272,10 +1441,15 @@
             "Quantity": 2,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "2251670c-c03c-4fd7-9621-c179c9ce79f8",
+            "RingsDbCardId": "145034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair Captain",
+            "Slug": "Corsair-Captain-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1314,10 +1488,15 @@
             "Quantity": 2,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "87464aa2-e890-4151-8a93-55c2be3e44b2",
+            "RingsDbCardId": "145035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Corsair of Umbar",
+            "Slug": "Corsair-of-Umbar-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1355,10 +1534,15 @@
             "Quantity": 3,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "22c55625-210c-4843-81ee-d8d6430885b0",
+            "RingsDbCardId": "145036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Umbar Pirate Crew",
+            "Slug": "Umbar-Pirate-Crew-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1397,10 +1581,15 @@
             "Quantity": 2,
             "Artist": "Gabriel Verdon",
             "HasErrata": false,
+            "OctgnGuid": "8d3c19e0-28f2-4a3d-91b2-8e9911ac4c91",
+            "RingsDbCardId": "145037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Haradrim Pirate",
+            "Slug": "Haradrim-Pirate-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1438,10 +1627,15 @@
             "Quantity": 3,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "2c3f8a11-c7a5-4709-ab8d-7435763f558b",
+            "RingsDbCardId": "145038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fell Folk of Umbar",
+            "Slug": "Fell-Folk-of-Umbar-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1473,10 +1667,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "a7ac2b78-52a7-4bd9-b37f-3d424876c7d8",
+            "RingsDbCardId": "145039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Sails",
+            "Slug": "Black-Sails-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1508,10 +1707,15 @@
             "Quantity": 3,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "1600dd03-7b19-4dd2-924c-30c30b09cb9d",
+            "RingsDbCardId": "145040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Raiding the Coasts",
+            "Slug": "Raiding-the-Coasts-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1541,10 +1745,15 @@
             "Quantity": 2,
             "Artist": "Johan Törnlund",
             "HasErrata": false,
+            "OctgnGuid": "a7a8a783-8a22-49fd-a1b7-42e92a44f78c",
+            "RingsDbCardId": "145041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Driven to the Brink",
+            "Slug": "Driven-to-the-Brink-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1576,10 +1785,15 @@
             "Quantity": 2,
             "Artist": "Jenn Tran",
             "HasErrata": false,
+            "OctgnGuid": "1db13c26-879b-49cd-9f94-8ba1a0c4f5a4",
+            "RingsDbCardId": "145042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Minas Tirith",
+            "Slug": "Minas-Tirith-TFotW",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -1611,12 +1825,17 @@
             },
             "Number": 43,
             "Quantity": 1,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "47360b1a-2428-4795-aec5-30f0a8805d76",
+            "RingsDbCardId": "145043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Grond",
+            "Slug": "Grond-TFotW",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1656,10 +1875,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "09b27f8f-60ab-4764-8c78-52fb09597921",
+            "RingsDbCardId": "145044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gate of Gondor",
+            "Slug": "Gate-of-Gondor-TFotW",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1698,10 +1922,15 @@
             "Quantity": 1,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "0002f646-cdaf-40cf-9993-faccb260c583",
+            "RingsDbCardId": "145045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "City Wall",
+            "Slug": "City-Wall-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1737,10 +1966,15 @@
             "Quantity": 3,
             "Artist": "Eva Maria Toker",
             "HasErrata": false,
+            "OctgnGuid": "7c069b32-99b8-42b7-a310-893d925c8ca7",
+            "RingsDbCardId": "145046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pelennor Field",
+            "Slug": "Pelennor-Field-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1773,12 +2007,17 @@
             },
             "Number": 47,
             "Quantity": 4,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "3612e715-a474-4911-a247-58c76f2ef277",
+            "RingsDbCardId": "145047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fire-filled Trench",
+            "Slug": "Fire-filled-Trench-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1814,10 +2053,15 @@
             "Quantity": 3,
             "Artist": "Jessica Cheng",
             "HasErrata": false,
+            "OctgnGuid": "bf56e98f-1aa5-4e79-a116-d99bf2408e07",
+            "RingsDbCardId": "145048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Siege Tower",
+            "Slug": "Siege-Tower-TFotW",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1853,10 +2097,15 @@
             "Quantity": 3,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "b5afe22c-f57f-4e26-993f-ef40fba8e105",
+            "RingsDbCardId": "145049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Black Serpent",
+            "Slug": "The-Black-Serpent-TFotW",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1897,10 +2146,15 @@
             "Quantity": 1,
             "Artist": "Ryan Barger",
             "HasErrata": false,
+            "OctgnGuid": "9be86dec-0c44-4468-ac29-260dedaca54b",
+            "RingsDbCardId": "145050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "War Mûmak",
+            "Slug": "War-Mumak-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1943,10 +2197,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "ae16b39f-ed64-4aa9-b6b8-1fbfbda70e6f",
+            "RingsDbCardId": "145051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southron Champion",
+            "Slug": "Southron-Champion-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -1984,10 +2243,15 @@
             "Quantity": 2,
             "Artist": "Micah Epstein",
             "HasErrata": false,
+            "OctgnGuid": "097b7d54-bfa9-4b13-a1b8-337b03cac21d",
+            "RingsDbCardId": "145052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Captain",
+            "Slug": "Morgul-Captain-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2028,10 +2292,15 @@
             "Quantity": 2,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "b8d832c5-e9f8-4690-a60c-07c09980ea27",
+            "RingsDbCardId": "145053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc of the Eye",
+            "Slug": "Orc-of-the-Eye-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2073,10 +2342,15 @@
             "Quantity": 3,
             "Artist": "Tey Bartolome",
             "HasErrata": false,
+            "OctgnGuid": "83d7214f-d8ae-47f8-bd0a-c48f9a187568",
+            "RingsDbCardId": "145054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Mordor Orc",
+            "Slug": "Mordor-Orc-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2117,10 +2391,15 @@
             "Quantity": 5,
             "Artist": "Ivan Dixon",
             "HasErrata": false,
+            "OctgnGuid": "d7a51190-1d0e-4363-b71d-6bb44a133e1b",
+            "RingsDbCardId": "145055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Rammas is Breached",
+            "Slug": "The-Rammas-is-Breached-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2150,10 +2429,15 @@
             "Quantity": 2,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "a531dc43-7feb-4e63-96ad-a33cdb3b717a",
+            "RingsDbCardId": "145056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fell Beast",
+            "Slug": "Fell-Beast-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2187,10 +2471,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "6e85113d-a2a6-44a7-895c-ca5115f7b7d2",
+            "RingsDbCardId": "145057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Black Dart",
+            "Slug": "Black-Dart-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2222,10 +2511,15 @@
             "Quantity": 2,
             "Artist": "Johan Törnlund",
             "HasErrata": false,
+            "OctgnGuid": "9f1f5ce8-2fa6-40e3-ba7c-34fb94db014b",
+            "RingsDbCardId": "145058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Spells of Ruin",
+            "Slug": "Spells-of-Ruin-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2257,10 +2551,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "503d55b2-1f02-46d2-b672-230912c8563e",
+            "RingsDbCardId": "145059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dread and Despair",
+            "Slug": "Dread-and-Despair-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2295,10 +2594,15 @@
             "Quantity": 2,
             "Artist": "Uriah Voth",
             "HasErrata": false,
+            "OctgnGuid": "4a6539aa-2404-430f-94ab-0f674d965adc",
+            "RingsDbCardId": "145060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shadow of Mordor",
+            "Slug": "Shadow-of-Mordor-TFotW",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -2330,12 +2634,17 @@
             },
             "Number": 61,
             "Quantity": 2,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "70e85866-2f0a-4f4b-b39d-34d36adfc7ab",
+            "RingsDbCardId": "145061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Wraith on Wings",
+            "Slug": "Wraith-on-Wings-TFotW",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "Burden",
@@ -2378,10 +2687,15 @@
             "Quantity": 4,
             "Artist": "S. C. Watson",
             "HasErrata": false,
+            "OctgnGuid": "0c030b4b-1012-4b80-a942-0177e3923903",
+            "RingsDbCardId": "145062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Forbidden Door",
+            "Slug": "The-Forbidden-Door-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2389,7 +2703,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Forbidden-Door-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2400,8 +2716,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Forbidden-Door-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2423,10 +2742,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "2878bd63-b20b-419a-85a2-dff419864e08",
+            "RingsDbCardId": "145063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Paths of the Dead",
+            "Slug": "The-Paths-of-the-Dead-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2434,7 +2758,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Paths-of-the-Dead-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2445,8 +2771,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Paths-of-the-Dead-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2469,10 +2798,15 @@
             "Quantity": 1,
             "Artist": "Jennifer Hrabota Lesser",
             "HasErrata": false,
+            "OctgnGuid": "820e2015-fc9c-4547-8e93-d4eb7cd79691",
+            "RingsDbCardId": "145064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Dead are Following",
+            "Slug": "The-Dead-are-Following-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2480,7 +2814,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Dead-are-Following-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2491,8 +2827,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Dead-are-Following-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2514,10 +2853,15 @@
             "Quantity": 1,
             "Artist": "S. C. Watson",
             "HasErrata": false,
+            "OctgnGuid": "90203b8d-a359-4f18-8314-12815090a9d0",
+            "RingsDbCardId": "145065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Passing of the Grey Company",
+            "Slug": "The-Passing-of-the-Grey-Company-Campaign-TFotW",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2552,10 +2896,15 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Army of the Dead",
+            "Slug": "Army-of-the-Dead-Enemy-TFotW",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -2599,10 +2948,15 @@
             "Quantity": 1,
             "Artist": "Uwe Jarling",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Army of the Dead",
+            "Slug": "Army-of-the-Dead-Objective-Ally-TFotW",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "Boon",
@@ -2641,10 +2995,15 @@
             "Quantity": 1,
             "Artist": "Uwe Jarling",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Attack on Pelargir",
+            "Slug": "Attack-on-Pelargir-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2652,7 +3011,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Attack-on-Pelargir-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2663,8 +3024,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Attack-on-Pelargir-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2686,10 +3050,15 @@
             "Quantity": 1,
             "Artist": "Javier Charro Martinez",
             "HasErrata": false,
+            "OctgnGuid": "7ea102d6-77de-431f-9475-c9be874a5195",
+            "RingsDbCardId": "145069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Siege of Gondor",
+            "Slug": "The-Siege-of-Gondor-Campaign-TFotW",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -2724,10 +3093,15 @@
             "Quantity": 1,
             "Artist": "Javier Charro Martinez",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Corsair Fleet",
+            "Slug": "The-Corsair-Fleet-Corsair-TFotW",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2759,10 +3133,15 @@
             "Quantity": 1,
             "Artist": "Johan Törnlund",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Corsair Fleet",
+            "Slug": "The-Corsair-Fleet-Gondor-TFotW",
             "IsUnique": true,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -2794,10 +3173,15 @@
             "Quantity": 1,
             "Artist": "Johan Törnlund",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Garrison of Gondor",
+            "Slug": "The-Garrison-of-Gondor-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2805,7 +3189,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Garrison-of-Gondor-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2816,8 +3202,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Garrison-of-Gondor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "2"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2839,10 +3228,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "77a7f095-bd59-45a1-a866-d58e17e3bd6d",
+            "RingsDbCardId": "145073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Retreat from Osgiliath",
+            "Slug": "Retreat-from-Osgiliath-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2850,7 +3244,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Retreat-from-Osgiliath-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2861,8 +3257,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Retreat-from-Osgiliath-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2883,12 +3282,17 @@
             },
             "Number": 74,
             "Quantity": 1,
-            "Artist": "Kamila Tzutenberg",
+            "Artist": "Kamila Szutenberg",
             "HasErrata": false,
+            "OctgnGuid": "58616050-8a7f-4a9b-a8dc-e0d09e383741",
+            "RingsDbCardId": "145074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The White City Besieged",
+            "Slug": "The-White-City-Besieged-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2896,7 +3300,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-White-City-Besieged-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Assault."
@@ -2909,8 +3315,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-White-City-Besieged-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "4"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2933,10 +3342,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "98a48eec-841f-48da-83e7-fa148a03de8b",
+            "RingsDbCardId": "145075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Rohan has Come!",
+            "Slug": "Rohan-has-Come-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2944,7 +3358,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Rohan-has-Come-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2955,8 +3371,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Rohan-has-Come-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -2978,10 +3397,15 @@
             "Quantity": 1,
             "Artist": "Sara Biddle",
             "HasErrata": false,
+            "OctgnGuid": "0507932f-0030-4763-8478-29bb407103d4",
+            "RingsDbCardId": "145076",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fighting in the Fields",
+            "Slug": "Fighting-in-the-Fields-TFotW",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -2989,7 +3413,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Fighting-in-the-Fields-5A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "5A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3000,8 +3426,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Fighting-in-the-Fields-5B.jpg",
+                "Stats": {
+                    "StageNumber": "5B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -3024,10 +3453,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "7367d16a-2b23-4a95-9050-266e93d8ab50",
+            "RingsDbCardId": "145077",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Battle of the Pelennor Fields",
+            "Slug": "The-Battle-of-the-Pelennor-Fields-Campaign-TFotW",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -3063,10 +3497,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145078",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Witch-king",
+            "Slug": "The-Witch-king-Captain-TFotW",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3107,10 +3546,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145079",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Witch-king",
+            "Slug": "The-Witch-king-Sorcerer-TFotW",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -3152,6 +3596,10 @@
             "Quantity": 1,
             "Artist": "Chris Rahn",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "145080",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,10 +1,14 @@
 {
     "Name": "Encounter at Amon Dîn Nightmare",
+    "Slug": "Encounter-at-Amon-Din-Nightmare",
+    "Abbreviation": "EaADN",
     "Cycle": "NIGHTMARE",
     "SetType": "Nightmare_Expansion",
+    "Cards": null,
     "cards": [
         {
             "Title": "Encounter at Amon Dîn Nightmare",
+            "Slug": "Encounter-at-Amon-Din-Nightmare-EaADN",
             "IsUnique": false,
             "CardType": "Nightmare_Setup",
             "CardSubType": "None",
@@ -39,10 +43,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Orc Raiders",
+            "Slug": "Orc-Raiders-EaADN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -80,10 +89,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pillaging Orc",
+            "Slug": "Pillaging-Orc-EaADN",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -121,10 +135,15 @@
             "Quantity": 3,
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Besieged Homestead",
+            "Slug": "Besieged-Homestead-EaADN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -144,6 +163,7 @@
                     "Victory 1."
                 ],
                 "Text": [
+                    "Villagers 2.",
                     "Forced: When any amount of progress is placed on a location in the staging area, discard 1 villager token from that location.",
                     "Travel: The first player searches the encounter deck for an enemy, reveals it, and puts it into play engaged with him. Shuffle the encounter deck."
                 ],
@@ -163,10 +183,15 @@
             "Quantity": 3,
             "Artist": "Lino Drieghe",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Overrun Village",
+            "Slug": "Overrun-Village-EaADN",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -186,6 +211,7 @@
                     "Victory 1."
                 ],
                 "Text": [
+                    "Villagers 2.",
                     "While Overrun Village is in the staging area, it gains: `Forced: After an enemy engages a player, discard 1 villager token from Overrun Village.`",
                     "Travel: Place 1 damage token on Dead Villagers."
                 ],
@@ -205,10 +231,15 @@
             "Quantity": 2,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trapped Villagers",
+            "Slug": "Trapped-Villagers-EaADN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -238,10 +269,15 @@
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Run for your Lives!",
+            "Slug": "Run-for-your-Lives-EaADN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -271,10 +307,15 @@
             "Quantity": 2,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Save Us!",
+            "Slug": "Save-Us-EaADN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -304,10 +345,15 @@
             "Quantity": 2,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Those Now Sundered",
+            "Slug": "Those-Now-Sundered-EaADN",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -324,6 +370,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Surge. Doomed 1.",
                     "When Revealed: Attach to Rescued Villagers. (Counts as a Condition attachment with the text: `Forced: At the end of the round, discard 1 villager token from Rescued Villagers.`)"
                 ],
                 "Shadow": null,
@@ -342,6 +389,10 @@
             "Quantity": 2,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

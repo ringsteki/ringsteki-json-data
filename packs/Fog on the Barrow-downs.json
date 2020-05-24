@@ -1,10 +1,14 @@
 {
     "Name": "Fog on the Barrow-downs",
+    "Slug": "Fog-on-the-Barrow-downs",
+    "Abbreviation": "FotBD",
     "Cycle": "GenCon",
     "SetType": "Fellowship_Deck",
+    "Cards": null,
     "cards": [
         {
             "Title": "Aragorn",
+            "Slug": "Aragorn-FotBD",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -28,6 +32,7 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
                 ],
                 "Shadow": null,
@@ -40,10 +45,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fog on the Barrow-downs Scenario Rules",
+            "Slug": "Fog-on-the-Barrow-downs-Scenario-Rules-FotBD",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -78,10 +88,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fog on the Barrow-downs Campaign Rules",
+            "Slug": "Fog-on-the-Barrow-downs-Campaign-Rules-FotBD",
             "IsUnique": false,
             "CardType": "GenCon_Setup",
             "CardSubType": "None",
@@ -116,10 +131,15 @@
             "Quantity": 1,
             "Artist": "None",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The House of Tom Bombadil",
+            "Slug": "The-House-of-Tom-Bombadil-FotBD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -127,7 +147,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/The-House-of-Tom-Bombadil-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -138,8 +160,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/The-House-of-Tom-Bombadil-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "1"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -161,10 +186,15 @@
             "Quantity": 1,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Across the Downs",
+            "Slug": "Across-the-Downs-FotBD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -172,7 +202,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Across-the-Downs-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -183,8 +215,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Across-the-Downs-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "14"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -206,10 +241,15 @@
             "Quantity": 1,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Fog",
+            "Slug": "Lost-in-the-Fog-FotBD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -217,7 +257,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Lost-in-the-Fog-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -228,8 +270,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Lost-in-the-Fog-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -250,10 +295,15 @@
             "Quantity": 1,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Trapped Inside a Barrow",
+            "Slug": "Trapped-Inside-a-Barrow-FotBD",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -261,7 +311,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Trapped-Inside-a-Barrow-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -272,8 +324,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Trapped-Inside-a-Barrow-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "9"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -294,10 +349,15 @@
             "Quantity": 4,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hollow Circle",
+            "Slug": "Hollow-Circle-FotBD",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -336,10 +396,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Standing Stones",
+            "Slug": "Standing-Stones-FotBD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -378,10 +443,15 @@
             "Quantity": 1,
             "Artist": "Jose Vega",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Great Barrow",
+            "Slug": "Great-Barrow-FotBD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -402,7 +472,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects. The player cannot travel hereo.",
+                    "Peril. Immune to player card effects. The player cannot travel hereo.",
                     "Forced: After Great Barrow enters the staging area, remove each character you control from the quest and create your own staging area. Then advance to a separate stage 4A by yourself."
                 ],
                 "Shadow": null,
@@ -421,10 +491,15 @@
             "Quantity": 5,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Barrow",
+            "Slug": "Ancient-Barrow-FotBD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -461,10 +536,15 @@
             "Quantity": 3,
             "Artist": "Ferdinand Dumago Ladera",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stone Ring",
+            "Slug": "Stone-Ring-FotBD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -497,10 +577,15 @@
             "Quantity": 4,
             "Artist": "Ferdinand Dumago Ladera",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "North Downs",
+            "Slug": "North-Downs-FotBD",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -535,10 +620,15 @@
             "Quantity": 4,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Barrow-wight",
+            "Slug": "Barrow-wight-FotBD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -577,10 +667,15 @@
             "Quantity": 4,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cold-wight",
+            "Slug": "Cold-wight-FotBD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -619,10 +714,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dark-wight",
+            "Slug": "Dark-wight-FotBD",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -661,10 +761,15 @@
             "Quantity": 3,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "I'm Waiting for You!",
+            "Slug": "I'm-Waiting-for-You-FotBD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -694,10 +799,15 @@
             "Quantity": 2,
             "Artist": "Anthony Devine",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Long Groping Arm",
+            "Slug": "Long-Groping-Arm-FotBD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -711,6 +821,7 @@
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Until the end of the phase, each Wight enemy engaged with you contributes its Threat to the total Threat in the staging area. If no enemies are engaged with you, search the encounter deck and discard pile for a Wight enemy and put it into play engaged with you. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
@@ -729,10 +840,15 @@
             "Quantity": 3,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Chill Fog",
+            "Slug": "Chill-Fog-FotBD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -762,10 +878,15 @@
             "Quantity": 2,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Frozen by Fear",
+            "Slug": "Frozen-by-Fear-FotBD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -780,6 +901,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
+                    "Surge. Doomed 1.",
                     "When Revealed: Until the end of the round, players cannot trigger Action or Response effects."
                 ],
                 "Shadow": "Shadow: Until the end of the round, attacking enemy cannot take damage.",
@@ -798,10 +920,15 @@
             "Quantity": 3,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dreadful Song",
+            "Slug": "Dreadful-Song-FotBD",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -817,6 +944,7 @@
                     "Peril."
                 ],
                 "Text": [
+                    "Peril.",
                     "When Revealed: Attach to a questing hero you control. Counts as a Condition attachment with the text: `Limit 1 per hero. Attached hero`s Willpower is 0. Forced: At the end of the round, raise your threat by 1 for each Wight enemy engaged with you.`"
                 ],
                 "Shadow": null,
@@ -835,10 +963,15 @@
             "Quantity": 2,
             "Artist": "Florian Devos",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tom Bombadil",
+            "Slug": "Tom-Bombadil-FotBD",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -875,10 +1008,15 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fog on the Barrow-downs",
+            "Slug": "Fog-on-the-Barrow-downs-Campaign-FotBD",
             "IsUnique": false,
             "CardType": "Campaign",
             "CardSubType": "None",
@@ -914,10 +1052,15 @@
             "Quantity": 1,
             "Artist": "Emrah Elmasli",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ho! Tom Bombadil!",
+            "Slug": "Ho-Tom-Bombadil-FotBD",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "Boon",
@@ -948,6 +1091,10 @@
             "Quantity": 1,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

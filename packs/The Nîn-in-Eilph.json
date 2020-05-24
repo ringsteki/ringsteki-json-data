@@ -1,10 +1,14 @@
 {
     "Name": "The Nîn-in-Eilph",
+    "Slug": "The-Nin-in-Eilph",
+    "Abbreviation": "NiE",
     "Cycle": "The Ring-maker",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Galadhon Archer",
+            "Slug": "Galadhon-Archer-NiE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -27,6 +31,7 @@
                     "Ranged."
                 ],
                 "Text": [
+                    "Ranged.",
                     "Response: After Galadhon Archer enters play, deal 1 damage to an enemy not engaged with you."
                 ],
                 "Shadow": null,
@@ -39,10 +44,136 @@
             "Quantity": 3,
             "Artist": "Sara K. Diesel",
             "HasErrata": false,
+            "OctgnGuid": "39775f69-5cf4-4133-9cf4-45a1522aa9ea",
+            "RingsDbCardId": "08087",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1991,
+            "Categories": null
+        },
+        {
+            "Title": "Bow of the Galadhrim",
+            "Slug": "Bow-of-the-Galadhrim-NiE",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Bow-of-the-Galadhrim.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Silvan character with the ranged keyword. Restricted.",
+                    "Attached character gets +1 Attack. (+2 Attack instead if attacking an enemy not engaged with you.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "...longer and stronger than the bows of Mirkwood, and strung with a string of elf-hair. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph",
+            "EncounterInfo": null,
+            "Number": 88,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "12d436ac-15e6-47c5-8288-357c918071a7",
+            "RingsDbCardId": "08088",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1322,
+            "Categories": null
+        },
+        {
+            "Title": "Wingfoot",
+            "Slug": "Wingfoot-NiE",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Wingfoot.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Ranger hero.",
+                    "Response: After attached hero commits to a quest, name enemy, location or treachery. If a card of the named type is revealed during this quest phase, exhaust Wingfoot to ready attached hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Wingfoot I name you. This deed of the three friends should be sung in many a hall. Forty leagues and five you have measured ere the forth day is ended!`\r\n-Éomer, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph",
+            "EncounterInfo": null,
+            "Number": 92,
+            "Quantity": 3,
+            "Artist": "Gabriel Verdon",
+            "HasErrata": true,
+            "OctgnGuid": "17cb8a9a-6369-4ea9-a614-02908bd7b77f",
+            "RingsDbCardId": "08092",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1222,
+            "Categories": null
+        },
+        {
+            "Title": "Celduin Traveler",
+            "Slug": "Celduin-Traveler-NiE",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Celduin-Traveler.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Secrecy 2."
+                ],
+                "Text": [
+                    "Secrecy 2.",
+                    "Response: After Celduin Traveler enters play, look at the top card of the encounter deck. If it is a location, you may discard it."
+                ],
+                "Shadow": null,
+                "FlavorText": "In two days going they rowed right up the Long Lake and passed out into the River Running... -The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph",
+            "EncounterInfo": null,
+            "Number": 89,
+            "Quantity": 3,
+            "Artist": "Melanie Maier",
+            "HasErrata": false,
+            "OctgnGuid": "c541b65a-d6d4-4b2c-8925-96c31d52aa1c",
+            "RingsDbCardId": "08089",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1069,
             "Categories": null
         },
         {
             "Title": "Mablung",
+            "Slug": "Mablung-NiE",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -75,115 +206,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Giacobino",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Bow of the Galadhrim",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Bow-of-the-Galadhrim.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Silvan character with the ranged keyword.",
-                    "Attached character gets +1 Attack. (+2 Attack instead if attacking an enemy not engaged with you.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "...longer and stronger than the bows of Mirkwood, and strung with a string of elf-hair. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph",
-            "EncounterInfo": null,
-            "Number": 88,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Wingfoot",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Wingfoot.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Ranger hero.",
-                    "Response: After attached hero commits to a quest, name enemy, location or treachery. If a card of the named type is revealed during this quest phase, exhaust Wingfoot to ready attached hero."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Wingfoot I name you. This deed of the three friends should be sung in many a hall. Forty leagues and five you have measured ere the forth day is ended!`\r\n-Éomer, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph",
-            "EncounterInfo": null,
-            "Number": 92,
-            "Quantity": 3,
-            "Artist": "Gabriel Verdon",
-            "HasErrata": true,
-            "Categories": null
-        },
-        {
-            "Title": "Celduin Traveler",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Celduin-Traveler.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "0",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dale.",
-                    "Scout."
-                ],
-                "Keywords": [
-                    "Secrecy 2."
-                ],
-                "Text": [
-                    "Response: After Celduin Traveler enters play, look at the top card of the encounter deck. If it is a location, you may discard it."
-                ],
-                "Shadow": null,
-                "FlavorText": "In two days going they rowed right up the Long Lake and passed out into the River Running... -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph",
-            "EncounterInfo": null,
-            "Number": 89,
-            "Quantity": 3,
-            "Artist": "Melanie Maier",
-            "HasErrata": false,
+            "OctgnGuid": "9e3a4b3b-7bb7-4403-984c-411af5ec8467",
+            "RingsDbCardId": "08084",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 486,
             "Categories": null
         },
         {
             "Title": "Tighten Our Belts",
+            "Slug": "Tighten-Our-Belts-NiE",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -209,10 +240,15 @@
             "Quantity": 3,
             "Artist": "Matt Stawicki",
             "HasErrata": false,
+            "OctgnGuid": "e1ff74ae-0c48-4f6c-86c8-9ac7339eb554",
+            "RingsDbCardId": "08086",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 799,
             "Categories": null
         },
         {
             "Title": "Island Amid Perils",
+            "Slug": "Island-Amid-Perils-NiE",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -226,10 +262,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Action: Return a Silvan you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand."
+                    "Action: Return a Silvan ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand."
                 ],
                 "Shadow": null,
-                "FlavorText": "`...we dare not by our own trust endanger our land. We live now upon an island amid many perils...` \r\n-Haldir, The Fellowship of the Ring"
+                "FlavorText": "`...we dare not by our own trust endanger our land. We live now upon an island amid many perils...`\r\n-Haldir, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Nîn-in-Eilph",
@@ -238,10 +274,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "26a52bdc-f8e4-40a3-8047-8d696b842cdf",
+            "RingsDbCardId": "08090",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 578,
             "Categories": null
         },
         {
             "Title": "Mirkwood Pioneer",
+            "Slug": "Mirkwood-Pioneer-NiE",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -273,39 +314,15 @@
             "Quantity": 3,
             "Artist": "Melanie Maier",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Follow Me!",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Follow-Me.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Take control of the first player token and draw 1 card."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Come! I will lead you now!`\r\n-Aragorn, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph",
-            "EncounterInfo": null,
-            "Number": 85,
-            "Quantity": 3,
-            "Artist": "Ilich Henriquez",
-            "HasErrata": false,
+            "OctgnGuid": "c75056aa-907b-40b8-a54a-18ea07b33dc3",
+            "RingsDbCardId": "08091",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 148,
             "Categories": null
         },
         {
             "Title": "Defender of the West",
+            "Slug": "Defender-of-the-West-NiE",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -335,10 +352,49 @@
             "Quantity": 3,
             "Artist": "Romana Kendelic",
             "HasErrata": false,
+            "OctgnGuid": "a1f5a577-30bf-44ed-b60b-e733b5f26d55",
+            "RingsDbCardId": "08093",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 115,
+            "Categories": null
+        },
+        {
+            "Title": "Follow Me!",
+            "Slug": "Follow-Me-NiE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Follow-Me.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Take control of the first player token and draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Come! I will lead you now!`\r\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph",
+            "EncounterInfo": null,
+            "Number": 85,
+            "Quantity": 3,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "b86c3959-86af-4ce4-927f-769b873e4774",
+            "RingsDbCardId": "08085",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 90,
             "Categories": null
         },
         {
             "Title": "Fleeing from Tharbad",
+            "Slug": "Fleeing-from-Tharbad-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -346,7 +402,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Fleeing-from-Tharbad-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -357,8 +415,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Fleeing-from-Tharbad-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -371,7 +432,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -379,10 +442,15 @@
             "Quantity": 1,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
+            "OctgnGuid": "874a98ba-9b90-49b3-9cd4-c06464696b5b",
+            "RingsDbCardId": "08094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Through the Marsh",
+            "Slug": "Through-the-Marsh-No-End-in-Sight-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -390,7 +458,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-No-End-in-Sight-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -401,8 +471,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-No-End-in-Sight-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -418,7 +491,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -426,10 +501,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Through the Marsh",
+            "Slug": "Through-the-Marsh-A-Weary-Passage-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -437,7 +517,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-A-Weary-Passage-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -448,8 +530,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-A-Weary-Passage-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -465,7 +550,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -473,10 +560,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Through the Marsh",
+            "Slug": "Through-the-Marsh-A-Forgotten-Land-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -484,7 +576,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-A-Forgotten-Land-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -495,8 +589,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Through-the-Marsh-A-Forgotten-Land-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -512,7 +609,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -520,10 +619,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Swanfleet",
+            "Slug": "Lost-in-the-Swanfleet-Impassable-Marshland-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -531,7 +635,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-Impassable-Marshland-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -542,8 +648,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-Impassable-Marshland-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -558,18 +667,25 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
             "Number": 98,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Swanfleet",
+            "Slug": "Lost-in-the-Swanfleet-A-Treacherous-Swamp-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -577,7 +693,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-A-Treacherous-Swamp-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -588,8 +706,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-A-Treacherous-Swamp-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -604,18 +725,25 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
             "Number": 99,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lost in the Swanfleet",
+            "Slug": "Lost-in-the-Swanfleet-Creatures-of-a-Forgotten-Age-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -623,7 +751,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-Creatures-of-a-Forgotten-Age-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -634,8 +764,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Lost-in-the-Swanfleet-Creatures-of-a-Forgotten-Age-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -650,18 +783,25 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
             "Number": 100,
             "Quantity": 1,
-            "Artist": "Silver Saaremäel",
+            "Artist": "Silver Saaremäel",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Out of the Swamp",
+            "Slug": "Out-of-the-Swamp-NiE",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -669,7 +809,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Out-of-the-Swamp-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -680,8 +822,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph/Out-of-the-Swamp-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -696,7 +841,9 @@
             "EncounterInfo": {
                 "EncounterSet": "The Nîn-in-Eilph",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -704,10 +851,15 @@
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "b49b5be7-5bfc-4e65-bced-862a409e097d",
+            "RingsDbCardId": "08101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nalir",
+            "Slug": "Nalir-NiE",
             "IsUnique": true,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -746,10 +898,15 @@
             "Quantity": 1,
             "Artist": "Mariusz Gandzel",
             "HasErrata": false,
+            "OctgnGuid": "d5134ddf-8c78-4e68-a603-7df5d48f5016",
+            "RingsDbCardId": "08102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Marsh-dweller",
+            "Slug": "Ancient-Marsh-dweller-NiE",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -791,10 +948,15 @@
             "Quantity": 1,
             "Artist": "Tom Garden",
             "HasErrata": false,
+            "OctgnGuid": "b34e79d4-7806-4fd9-b12d-bb291e44f354",
+            "RingsDbCardId": "08103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Giant Swamp Adder",
+            "Slug": "Giant-Swamp-Adder-NiE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -833,10 +995,15 @@
             "Quantity": 4,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "356f37d9-34c9-4fae-864d-c34dff7eaaa4",
+            "RingsDbCardId": "08104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Neekerbreekers",
+            "Slug": "Neekerbreekers-NiE",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -875,10 +1042,15 @@
             "Quantity": 3,
             "Artist": "Dmitry Prosvirnin",
             "HasErrata": false,
+            "OctgnGuid": "8ef56cb3-b483-4b38-b208-6c16e16bdb6d",
+            "RingsDbCardId": "08105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Fen of Reeds",
+            "Slug": "Fen-of-Reeds-NiE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -913,10 +1085,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "3d19de02-b3a9-4612-a90a-30b37bd1e9b1",
+            "RingsDbCardId": "08106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Finger of Glanduin",
+            "Slug": "Finger-of-Glanduin-NiE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -952,10 +1129,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "f542bca1-68d1-4975-aea9-3ff3e7801be5",
+            "RingsDbCardId": "08107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hidden Eyot",
+            "Slug": "Hidden-Eyot-NiE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -991,10 +1173,15 @@
             "Quantity": 2,
             "Artist": "Titus Lunter",
             "HasErrata": false,
+            "OctgnGuid": "1156ac5f-09cf-418b-9486-030b397a5514",
+            "RingsDbCardId": "08108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sinking Bog",
+            "Slug": "Sinking-Bog-NiE",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -1029,10 +1216,15 @@
             "Quantity": 3,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
+            "OctgnGuid": "1e96a8e3-ad11-48d5-8554-7cb1a90937a7",
+            "RingsDbCardId": "08109",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Shifting Marshland",
+            "Slug": "Shifting-Marshland-NiE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1046,6 +1238,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Remove 1 time counter from the current quest."
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
@@ -1064,10 +1257,15 @@
             "Quantity": 3,
             "Artist": "Rick Price",
             "HasErrata": false,
+            "OctgnGuid": "a0f5082c-acc7-4884-a3d4-a7eed0f053e6",
+            "RingsDbCardId": "08110",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Remnants of Elder Days",
+            "Slug": "Remnants-of-Elder-Days-NiE",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1097,6 +1295,10 @@
             "Quantity": 1,
             "Artist": "Mark Bulahao",
             "HasErrata": false,
+            "OctgnGuid": "944aaafa-17e2-4352-9a04-384673089ee6",
+            "RingsDbCardId": "08111",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

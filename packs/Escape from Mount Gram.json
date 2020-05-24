@@ -1,10 +1,14 @@
 {
     "Name": "Escape from Mount Gram",
+    "Slug": "Escape-from-Mount-Gram",
+    "Abbreviation": "EfMG",
     "Cycle": "Angmar Awakened",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Derndingle Warrior",
+            "Slug": "Derndingle-Warrior-EfMG",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -27,8 +31,9 @@
                     "Sentinel."
                 ],
                 "Text": [
+                    "Sentinel.",
                     "Cannot have restricted attachments. Enters play exhausted.",
-                    " While Derndingle Warrior is defending, it gains: `Action: Deal 1 damage to Derndingle Warrior to give it +3 Defense for this attack.` (Limit once per attack.)"
+                    "While Derndingle Warrior is defending, it gains: `Action: Deal 1 damage to Derndingle Warrior to give it +3 Defense for this attack.` (Limit once per attack.)"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -40,10 +45,15 @@
             "Quantity": 3,
             "Artist": "Oscar Römer",
             "HasErrata": false,
+            "OctgnGuid": "e562d744-bf7d-4325-97ba-424bf3ca3ca8",
+            "RingsDbCardId": "10031",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1955,
             "Categories": null
         },
         {
             "Title": "Elven Jeweler",
+            "Slug": "Elven-Jeweler-EfMG",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -64,7 +74,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    " Discard 2 cards from your hand to put Elven Jeweler into play from your hand, under your control."
+                    "Discard 2 cards from your hand to put Elven Jeweler into play from your hand, under your control."
                 ],
                 "Shadow": null,
                 "FlavorText": "`...to the Elven-smiths they were but trifles...` -Gandalf, The Fellowship of the Ring"
@@ -76,38 +86,15 @@
             "Quantity": 3,
             "Artist": "Cassandre Bolan",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Double Back",
-            "IsUnique": false,
-            "CardType": "Player_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Double-Back.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Limit 1 per deck.",
-                    "Response: When this stage is defeated, reduce each player`s threat by 5."
-                ],
-                "Shadow": null,
-                "FlavorText": "He was taking a wandering course with many turns and doublings, to put off any pursuit. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Escape from Mount Gram",
-            "EncounterInfo": null,
-            "Number": 34,
-            "Quantity": 3,
-            "Artist": "Jorge Borrero",
-            "HasErrata": false,
+            "OctgnGuid": "9c42d496-267e-4822-8df4-6fcc7ae4c2d1",
+            "RingsDbCardId": "10033",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1116,
             "Categories": null
         },
         {
             "Title": "Keen as Lances",
+            "Slug": "Keen-as-Lances-EfMG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -134,77 +121,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Rossiel",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Rossiel.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If the active location shares a Trait with a location in the victory display, Rossiel gets +2 Willpower.",
-                    "If the attacking enemy shares a Trait with an enemy in the victory display, Rossiel gets +2 Defense."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Did you not say that you wished to see Elf-magic?` —Galadriel, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Escape from Mount Gram",
-            "EncounterInfo": null,
-            "Number": 28,
-            "Quantity": 1,
-            "Artist": "Alexandre Dainche",
-            "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Boomed and Trumpeted",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Boomed-and-Trumpeted.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Ent."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After an Ent character takes any amount of damage, ready it. That character gets +3 Attack until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`They roared and boomed and trumpeted, until stones began to crack and fall at the mere noise of them.` —Merry, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Escape from Mount Gram",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Jordan Saia",
-            "HasErrata": false,
+            "OctgnGuid": "ede00b4b-15e0-4469-aaf6-ea60c9376898",
+            "RingsDbCardId": "10037",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1034,
             "Categories": null
         },
         {
             "Title": "Veteran of Osgiliath",
+            "Slug": "Veteran-of-Osgiliath-EfMG",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -237,10 +162,88 @@
             "Quantity": 3,
             "Artist": "John Stanko",
             "HasErrata": false,
+            "OctgnGuid": "0484e428-6a72-4841-b2d5-d8df7cfb51bf",
+            "RingsDbCardId": "10029",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 879,
+            "Categories": null
+        },
+        {
+            "Title": "Double Back",
+            "Slug": "Double-Back-EfMG",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Double-Back.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.",
+                    "Response: When this stage is defeated, reduce each player`s threat by 5."
+                ],
+                "Shadow": null,
+                "FlavorText": "He was taking a wandering course with many turns and doublings, to put off any pursuit. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Jorge Barrero",
+            "HasErrata": false,
+            "OctgnGuid": "f4d94f3d-d3af-44d6-9896-764484302bb1",
+            "RingsDbCardId": "10034",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 878,
+            "Categories": null
+        },
+        {
+            "Title": "Boomed and Trumpeted",
+            "Slug": "Boomed-and-Trumpeted-EfMG",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Boomed-and-Trumpeted.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an Ent character takes any amount of damage, ready it. That character gets +3 Attack until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`They roared and boomed and trumpeted, until stones began to crack and fall at the mere noise of them.` —Merry, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "f4b2af17-b589-49c1-a884-ecd4570d8545",
+            "RingsDbCardId": "10032",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 785,
             "Categories": null
         },
         {
             "Title": "Leave No Trace",
+            "Slug": "Leave-No-Trace-EfMG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -267,10 +270,56 @@
             "Quantity": 3,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
+            "OctgnGuid": "57658f13-fb9c-4a87-bb05-965a022cc69d",
+            "RingsDbCardId": "10035",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 640,
+            "Categories": null
+        },
+        {
+            "Title": "Rossiel",
+            "Slug": "Rossiel-EfMG",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Rossiel.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the active location shares a Trait with a location in the victory display, Rossiel gets +2 Willpower.",
+                    "If the attacking enemy shares a Trait with an enemy in the victory display, Rossiel gets +2 Defense."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Did you not say that you wished to see Elf-magic?` —Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": null,
+            "Number": 28,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "18fea279-cd38-4a5e-b271-b94d4f64eda1",
+            "RingsDbCardId": "10028",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 233,
             "Categories": null
         },
         {
             "Title": "Descendants of Kings",
+            "Slug": "Descendants-of-Kings-EfMG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -296,10 +345,15 @@
             "Quantity": 3,
             "Artist": "Smirtouille",
             "HasErrata": false,
+            "OctgnGuid": "25641d97-e196-40d5-8481-727602aa2da2",
+            "RingsDbCardId": "10030",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 463,
             "Categories": null
         },
         {
             "Title": "Distant Stars",
+            "Slug": "Distant-Stars-EfMG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -325,10 +379,15 @@
             "Quantity": 3,
             "Artist": "John Stanko",
             "HasErrata": false,
+            "OctgnGuid": "3ba15db9-9967-48b8-9b38-4fdfb4866676",
+            "RingsDbCardId": "10036",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 165,
             "Categories": null
         },
         {
             "Title": "Unexpected Rescue",
+            "Slug": "Unexpected-Rescue-EfMG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -336,7 +395,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Unexpected-Rescue-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -347,8 +408,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Unexpected-Rescue-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -361,7 +425,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Mount Gram",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -369,10 +435,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "d1a3a535-7679-4757-871c-80c50c003cff",
+            "RingsDbCardId": "10038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Gornákh's Dungeons",
+            "Slug": "Gornakh's-Dungeons-EfMG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -380,12 +451,15 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Gornákh's-Dungeons-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [
                     "Capture 7."
                 ],
                 "Text": [
+                    "Capture 7.",
                     "When Revealed: Search the encounter deck for 1 copy of Prison Cell, reveal it, and add it to your staging area. Then capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."
                 ],
                 "Shadow": null,
@@ -393,8 +467,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Gornákh's-Dungeons-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -408,7 +485,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Mount Gram",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -416,10 +495,15 @@
             "Quantity": 4,
             "Artist": "Katayanagi",
             "HasErrata": false,
+            "OctgnGuid": "e3d50c1b-4626-4bff-a247-f965166f9d2f",
+            "RingsDbCardId": "10039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Flight from Mount Gram",
+            "Slug": "Flight-from-Mount-Gram-EfMG",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -427,7 +511,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Flight-from-Mount-Gram-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -438,8 +524,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Flight-from-Mount-Gram-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -453,7 +542,9 @@
             "EncounterInfo": {
                 "EncounterSet": "Escape from Mount Gram",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -461,10 +552,15 @@
             "Quantity": 1,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "e83f33da-6723-4730-8691-8d1a48b1f8e0",
+            "RingsDbCardId": "10040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Jailor Gornákh",
+            "Slug": "Jailor-Gornakh-EfMG",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -505,10 +601,15 @@
             "Quantity": 1,
             "Artist": "Joel Hustak",
             "HasErrata": false,
+            "OctgnGuid": "f92ddbe7-0db6-494f-bdab-b5bd20439c18",
+            "RingsDbCardId": "10041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southern Gate",
+            "Slug": "Southern-Gate-EfMG",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -547,10 +648,15 @@
             "Quantity": 1,
             "Artist": "Jake Bullock",
             "HasErrata": false,
+            "OctgnGuid": "d760ba6c-e377-4d22-ac46-04bfb2b3c65f",
+            "RingsDbCardId": "10042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Cruel Torturer",
+            "Slug": "Cruel-Torturer-EfMG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -573,6 +679,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "Forced: When Cruel Torturer would damage an ally by an attack, capture that ally underneath Cruel Torturer instead."
                 ],
                 "Shadow": null,
@@ -591,10 +698,15 @@
             "Quantity": 2,
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
+            "OctgnGuid": "e15ba98d-806f-4847-823c-ca90c0f58f0b",
+            "RingsDbCardId": "10043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Dungeon Guard",
+            "Slug": "Dungeon-Guard-EfMG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -617,6 +729,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "Response: After the captured card(s) underneath Dungeon Guard are rescued, the players may put 1 of them into play at no cost."
                 ],
                 "Shadow": null,
@@ -635,10 +748,15 @@
             "Quantity": 3,
             "Artist": "Anthony Feliciano",
             "HasErrata": false,
+            "OctgnGuid": "e920ecab-29dc-48a6-908d-f4919d5b468d",
+            "RingsDbCardId": "10044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Goblin Tormentor",
+            "Slug": "Goblin-Tormentor-EfMG",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -661,6 +779,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "X is the number of cards in play with 1 or more captured cards underneath them."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if it has no captured cards underneath it).",
@@ -679,10 +798,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "2e1bb6cc-2f05-47f1-8ea5-78955cd0cbf2",
+            "RingsDbCardId": "10045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Prison Cell",
+            "Slug": "Prison-Cell-EfMG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -701,6 +825,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "Response: After the players travel to Prison Cell, look at the captured card(s) underneath it and choose 1 to put into play at no cost. Place the other cards back underneath Prison Cell."
                 ],
                 "Shadow": null,
@@ -719,10 +844,15 @@
             "Quantity": 4,
             "Artist": "Ferdinand Dumago Ladera",
             "HasErrata": false,
+            "OctgnGuid": "18d6f0aa-a62e-4ce5-b169-cae8836d8442",
+            "RingsDbCardId": "10046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Patrol Room",
+            "Slug": "Patrol-Room-EfMG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -741,6 +871,7 @@
                     "Capture 2."
                 ],
                 "Text": [
+                    "Capture 2.",
                     "Travel: Each player raises his threat by 3 to travel here."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if the defending player`s threat is 20 or higher).",
@@ -759,10 +890,15 @@
             "Quantity": 2,
             "Artist": "Jordan Saia",
             "HasErrata": false,
+            "OctgnGuid": "0a6774e7-f110-4917-84b5-1f81a7aefbf8",
+            "RingsDbCardId": "10047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Tunnels of Mount Gram",
+            "Slug": "Tunnels-of-Mount-Gram-EfMG",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -781,6 +917,7 @@
                     "Capture 1."
                 ],
                 "Text": [
+                    "Capture 1.",
                     "X is the number of captured cards underneath Tunnels of Mount Gram."
                 ],
                 "Shadow": "Shadow: Capture each attachment attached to the defending character underneath the attacking enemy.",
@@ -799,10 +936,15 @@
             "Quantity": 2,
             "Artist": "Ferdinand Dumago Ladera",
             "HasErrata": false,
+            "OctgnGuid": "6df2979e-ad8d-4c3b-a27c-5ed4b9b2f948",
+            "RingsDbCardId": "10048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sound the Alarm!",
+            "Slug": "Sound-the-Alarm-EfMG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -816,6 +958,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
+                    "Doomed 3.",
                     "When Revealed: Until the end of the round, each enemy gets -10 engagement cost and +1 Attack. If there are no enemies in play, search the encounter deck and discard pile for an enemy and add it to the staging area."
                 ],
                 "Shadow": null,
@@ -834,10 +977,15 @@
             "Quantity": 2,
             "Artist": "Owen William Weber",
             "HasErrata": false,
+            "OctgnGuid": "275c7232-3671-4092-bb9a-9a62f9538225",
+            "RingsDbCardId": "10049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Feeble and Weary",
+            "Slug": "Feeble-and-Weary-EfMG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -867,10 +1015,15 @@
             "Quantity": 2,
             "Artist": "Tawny Fritzinger",
             "HasErrata": false,
+            "OctgnGuid": "d69092af-f96b-4885-a194-5d5f31d90e6d",
+            "RingsDbCardId": "10050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Captives of Gornákh",
+            "Slug": "Captives-of-Gornakh-EfMG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -900,10 +1053,15 @@
             "Quantity": 2,
             "Artist": "Kaija Rudkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "51e187ea-691c-46bc-b74f-c03d110d02cd",
+            "RingsDbCardId": "10051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Interrogation",
+            "Slug": "Interrogation-EfMG",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -933,10 +1091,15 @@
             "Quantity": 2,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "663a47fc-e264-485b-832d-2c327aa1a493",
+            "RingsDbCardId": "10052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Stop the Executioners!",
+            "Slug": "Stop-the-Executioners-EfMG",
             "IsUnique": false,
             "CardType": "Encounter_Side_Quest",
             "CardSubType": "None",
@@ -952,7 +1115,8 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Forced: When the last time counter is removed from this quest, discard its captured cards and remove this quest from the game. Then, raise each player`s threat by 3 for each of his characters that was discarded by this effect."
+                    "Capture 5.",
+                    "Time 4. Forced: When the last time counter is removed from this quest, discard its captured cards and remove this quest from the game. Then, raise each player`s threat by 3 for each of his characters that was discarded by this effect."
                 ],
                 "Shadow": null,
                 "FlavorText": "Several of your captured companions are being sent to the executioner`s block. If you make it in time, you might be able to save them before they are slain!"
@@ -964,6 +1128,10 @@
             "Quantity": 1,
             "Artist": "Guillaume Ducos",
             "HasErrata": false,
+            "OctgnGuid": "414353af-e004-4e7c-b288-e168e2acfee7",
+            "RingsDbCardId": "10053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

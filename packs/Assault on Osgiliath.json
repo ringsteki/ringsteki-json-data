@@ -1,10 +1,51 @@
 {
     "Name": "Assault on Osgiliath",
+    "Slug": "Assault-on-Osgiliath",
+    "Abbreviation": "AoO",
     "Cycle": "Against the Shadow",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Gondorian Fire",
+            "Slug": "Gondorian-Fire-AoO",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Gondorian-Fire.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Gondor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Gondor or Dúnedain hero.",
+                    "Action: Spend 1 resource from attached hero`s resource pool to give attached hero +1 Attack for each resource in its resource pool until the end of the phase. (Limit once per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Assault on Osgiliath",
+            "EncounterInfo": null,
+            "Number": 85,
+            "Quantity": 3,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "a7f12d87-5f28-46ca-a301-0ac48ca5e471",
+            "RingsDbCardId": "06085",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1087,
+            "Categories": null
+        },
+        {
             "Title": "Pelargir Shipwright",
+            "Slug": "Pelargir-Shipwright-AoO",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -37,42 +78,15 @@
             "Quantity": 3,
             "Artist": "David A. Nash",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Gondorian Fire",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Gondorian-Fire.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Gondor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Gondor or Dúnedain hero.",
-                    "Action: Spend 1 resource from attached hero`s resource pool to give attached hero +1 Attack for each resource in its resource pool until the end of the phase. (Limit once per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Assault on Osgiliath",
-            "EncounterInfo": null,
-            "Number": 85,
-            "Quantity": 3,
-            "Artist": "Michael Rasmussen",
-            "HasErrata": false,
+            "OctgnGuid": "d8d1e7b4-3639-4ca0-bc83-daa7f78554b2",
+            "RingsDbCardId": "06086",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1015,
             "Categories": null
         },
         {
             "Title": "Knight of Minas Tirith",
+            "Slug": "Knight-of-Minas-Tirith-AoO",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -105,49 +119,15 @@
             "Quantity": 3,
             "Artist": "Emile Denis",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Faramir",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Faramir.jpg",
-                "Stats": {
-                    "ThreatCost": "11",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Ranger.",
-                    "Noble."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "Faramir gets +1 Attack for each enemy in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "`The road may pass, but they shall not! Not while Faramir is Captain.` -Mablung, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Assault on Osgiliath",
-            "EncounterInfo": null,
-            "Number": 81,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "237b31e7-d0b0-4c1e-bd4a-40a175f7d7d1",
+            "RingsDbCardId": "06084",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 715,
             "Categories": null
         },
         {
             "Title": "Map of Earnil",
+            "Slug": "Map-of-Earnil-AoO",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -177,10 +157,15 @@
             "Quantity": 3,
             "Artist": "Florian Stitz",
             "HasErrata": false,
+            "OctgnGuid": "72cb5c31-c62f-4870-a5f4-099cdec1d4a7",
+            "RingsDbCardId": "06087",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 711,
             "Categories": null
         },
         {
             "Title": "Forest Patrol",
+            "Slug": "Forest-Patrol-AoO",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -207,10 +192,99 @@
             "Quantity": 3,
             "Artist": "Kristina Gehrmann",
             "HasErrata": false,
+            "OctgnGuid": "50aa4aab-6daa-4cb5-bfb1-a13db03c1a23",
+            "RingsDbCardId": "06089",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 670,
+            "Categories": null
+        },
+        {
+            "Title": "Faramir",
+            "Slug": "Faramir-AoO",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Faramir.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Ranger.",
+                    "Noble."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Faramir gets +1 Attack for each enemy in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "`The road may pass, but they shall not! Not while Faramir is Captain.` -Mablung, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Assault on Osgiliath",
+            "EncounterInfo": null,
+            "Number": 81,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "323ebfa3-57e5-4394-9f55-284b2f7ee0be",
+            "RingsDbCardId": "06081",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 203,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger Bow",
+            "Slug": "Ranger-Bow-AoO",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Ranger-Bow.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Ranger character. Restricted.",
+                    "Action: Exhaust Ranger Bow and attached character to deal 1 damage to an enemy in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Two had great bows, almost of their own height, and great quivers of long green-feathered arrows.\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Assault on Osgiliath",
+            "EncounterInfo": null,
+            "Number": 88,
+            "Quantity": 3,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "3fa0b17f-a7d1-4f0c-a779-c20cb6084e78",
+            "RingsDbCardId": "06088",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 508,
             "Categories": null
         },
         {
             "Title": "Men of the West",
+            "Slug": "Men-of-the-West-AoO",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -238,44 +312,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Ranger Bow",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Ranger-Bow.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Ranger character.",
-                    "Action: Exhaust Ranger Bow and attached character to deal 1 damage to an enemy in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "Two had great bows, almost of their own height, and great quivers of long green-feathered arrows.\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Assault on Osgiliath",
-            "EncounterInfo": null,
-            "Number": 88,
-            "Quantity": 3,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
+            "OctgnGuid": "a2d440c4-6150-4b6f-9a36-faa51ace7908",
+            "RingsDbCardId": "06083",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 506,
             "Categories": null
         },
         {
             "Title": "Palantir",
+            "Slug": "Palantir-AoO",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -305,10 +350,15 @@
             "Quantity": 3,
             "Artist": "Sandara Tang",
             "HasErrata": false,
+            "OctgnGuid": "1e9a6c59-8dc7-4dc4-a5a4-f5f4f9ccdc55",
+            "RingsDbCardId": "06090",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 230,
             "Categories": null
         },
         {
             "Title": "Sword of Morthond",
+            "Slug": "Sword-of-Morthond-AoO",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -338,10 +388,15 @@
             "Quantity": 3,
             "Artist": "Sara K. Diesel",
             "HasErrata": false,
+            "OctgnGuid": "98ba9e54-d6c3-41ff-b886-81a29e29eb64",
+            "RingsDbCardId": "06082",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 221,
             "Categories": null
         },
         {
             "Title": "Retake the City",
+            "Slug": "Retake-the-City-AoO",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -349,19 +404,24 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Retake-the-City-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
                     "Setup: Each player chooses 1 enemy and 1 unique location and add them to the staging area. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "You have returned to Minas Tirith just in time to join the army of Gondor as it marches to Osgiliath. An army of orcs and southrons have garrisoned the ancient city, but Lord Boromir means to retake it. Eager to strike a blow against Mordor, you will see the city retaken or die in the attempt... "
+                "FlavorText": "You have returned to Minas Tirith just in time to join the army of Gondor as it marches to Osgiliath. An army of orcs and southrons have garrisoned the ancient city, but Lord Boromir means to retake it. Eager to strike a blow against Mordor, you will see the city retaken or die in the attempt..."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Retake-the-City-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -376,7 +436,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Assault on Osgiliath",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Elite",
+                    "Southrons"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -384,10 +447,15 @@
             "Quantity": 1,
             "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
+            "OctgnGuid": "c46c37c3-b2e7-4e28-9466-e3a371417c8b",
+            "RingsDbCardId": "06091",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk Lieutenant",
+            "Slug": "Uruk-Lieutenant-AoO",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -427,10 +495,15 @@
             "Quantity": 2,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "bfa3b9da-d0e3-4ad6-8d1d-f32975f69551",
+            "RingsDbCardId": "06092",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk Soldier",
+            "Slug": "Uruk-Soldier-AoO",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -470,10 +543,15 @@
             "Quantity": 4,
             "Artist": "Blake Henriksen",
             "HasErrata": false,
+            "OctgnGuid": "f89b8962-1081-4f61-bc08-b2ca4eb08ba8",
+            "RingsDbCardId": "06093",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southron Phalanx",
+            "Slug": "Southron-Phalanx-AoO",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -511,10 +589,15 @@
             "Quantity": 3,
             "Artist": "J. Lonnee",
             "HasErrata": false,
+            "OctgnGuid": "1c95d49a-5638-4f31-a42f-f93a5d1f50db",
+            "RingsDbCardId": "06094",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Southron Commander",
+            "Slug": "Southron-Commander-AoO",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -552,10 +635,15 @@
             "Quantity": 2,
             "Artist": "J. Lonnee",
             "HasErrata": false,
+            "OctgnGuid": "264adf61-31e1-46db-a655-7fee1d4282ae",
+            "RingsDbCardId": "06095",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "West Gate",
+            "Slug": "West-Gate-AoO",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -591,10 +679,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "5a3d198a-5c72-42ec-b5ae-f183194632cf",
+            "RingsDbCardId": "06096",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The King's Library",
+            "Slug": "The-King's-Library-AoO",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -630,10 +723,15 @@
             "Quantity": 1,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "fa9df618-126b-4ea9-95d7-22cd5dad6d2f",
+            "RingsDbCardId": "06097",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ancient Harbor",
+            "Slug": "Ancient-Harbor-AoO",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -650,7 +748,9 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The players cannot travel here.\n\nCombat Action: Exhaust a hero to place 1 progress token on Ancient Harbor.\\r\\nForced: After the player who controls Ancient Harbor lets an attack go undefended, return Ancient Harbor to the staging area."
+                    "The players cannot travel here.",
+                    "Combat Action: Exhaust a hero to place 1 progress token on Ancient Harbor.",
+                    "Forced: After the player who controls Ancient Harbor lets an attack go undefended, return Ancient Harbor to the staging area."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -668,10 +768,15 @@
             "Quantity": 1,
             "Artist": "Michael Rasmussen",
             "HasErrata": false,
+            "OctgnGuid": "0c44ed2b-976a-4b17-b7e7-e64b20f74fd7",
+            "RingsDbCardId": "06098",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Old Bridge",
+            "Slug": "The-Old-Bridge-AoO",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -688,7 +793,9 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The players cannot travel here.\n\nPlanning Action: Spend 2 resources to play 1 progress token on The Old Bridge. (1 resource instead if there is another Osgiliath location in the staging area.)\\r\\nForced: After the player who controls The Old Bridge lets an attack go undefended, return The Old Bridge to the staging area."
+                    "The players cannot travel here.",
+                    "Planning Action: Spend 2 resources to play 1 progress token on The Old Bridge. (1 resource instead if there is another Osgiliath location in the staging area.)",
+                    "Forced: After the player who controls The Old Bridge lets an attack go undefended, return The Old Bridge to the staging area."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -706,10 +813,15 @@
             "Quantity": 1,
             "Artist": "Adam Lane",
             "HasErrata": false,
+            "OctgnGuid": "e46a15c0-abbe-4a2e-8951-0e9950aa0288",
+            "RingsDbCardId": "06099",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "West Quarter",
+            "Slug": "West-Quarter-AoO",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -744,10 +856,15 @@
             "Quantity": 2,
             "Artist": "Marcia George-Bogdan",
             "HasErrata": false,
+            "OctgnGuid": "b5c7bf41-7642-4d25-9794-cb247f540182",
+            "RingsDbCardId": "06100",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "East Quarter",
+            "Slug": "East-Quarter-AoO",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -782,10 +899,15 @@
             "Quantity": 2,
             "Artist": "Julian Kok",
             "HasErrata": false,
+            "OctgnGuid": "93bf98f7-fe0f-4c03-bd93-2f8d5753acce",
+            "RingsDbCardId": "06101",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruined Square",
+            "Slug": "Ruined-Square-AoO",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -804,6 +926,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "Response: After an enemy is defeated, place 1 progress token on Ruined Square.",
                     "Forced: If a player controls Ruined Square when a character leaves play, return Ruined Square to the staging area."
                 ],
@@ -823,10 +946,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "fb301d7d-7936-49b6-a938-40ff0ca549cb",
+            "RingsDbCardId": "06102",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Ruined Tower",
+            "Slug": "Ruined-Tower-AoO",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -862,10 +990,15 @@
             "Quantity": 3,
             "Artist": "Ilich Henriquez",
             "HasErrata": false,
+            "OctgnGuid": "ae5727cb-4d88-4a28-99be-84a565292b67",
+            "RingsDbCardId": "06103",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pinned Down",
+            "Slug": "Pinned-Down-AoO",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -895,10 +1028,15 @@
             "Quantity": 2,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "03b6d303-7722-4319-9623-e182b50c90b2",
+            "RingsDbCardId": "06104",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Street Fighting",
+            "Slug": "Street-Fighting-AoO",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -928,10 +1066,15 @@
             "Quantity": 2,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "2573b8e3-d3a1-47c0-acc8-e6151f223383",
+            "RingsDbCardId": "06105",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Counter-attack",
+            "Slug": "Counter-attack-AoO",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -945,6 +1088,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Each player must either return the location he controls with the highest Threat to the staging area, or raise his threat by the total Threat of all locations he controls."
                 ],
                 "Shadow": null,
@@ -963,6 +1107,10 @@
             "Quantity": 2,
             "Artist": "Blake Henriksen",
             "HasErrata": true,
+            "OctgnGuid": "1f1ad7bb-68ca-4b48-b7fa-516e5314e272",
+            "RingsDbCardId": "06106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

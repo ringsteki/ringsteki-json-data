@@ -1,10 +1,14 @@
 {
     "Name": "The Morgul Vale",
+    "Slug": "The-Morgul-Vale",
+    "Abbreviation": "TMV",
     "Cycle": "Against the Shadow",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
             "Title": "Hidden Cache",
+            "Slug": "Hidden-Cache-TMV",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -31,49 +35,15 @@
             "Quantity": 3,
             "Artist": "Aurelien Hubert",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Théoden",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/Théoden.jpg",
-                "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Noble.",
-                    "Warrior."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Each hero with a printed Tactics resource icon gets +1 Willpower."
-                ],
-                "Shadow": null,
-                "FlavorText": "`To me! To me!` cried Théoden. `Up Eorlingas! Fear no darkness!` -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Morgul Vale",
-            "EncounterInfo": null,
-            "Number": 134,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
+            "OctgnGuid": "6a871e9e-fa3e-4556-8730-09aed1a3ec40",
+            "RingsDbCardId": "06143",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1599,
             "Categories": null
         },
         {
             "Title": "Visionary Leadership",
+            "Slug": "Visionary-Leadership-TMV",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -102,10 +72,15 @@
             "Quantity": 3,
             "Artist": "Milek Jakubiec",
             "HasErrata": false,
+            "OctgnGuid": "2f0a3f18-c84f-4458-b6f7-2e6be9acee6b",
+            "RingsDbCardId": "06136",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 1124,
             "Categories": null
         },
         {
             "Title": "Spear of the Mark",
+            "Slug": "Spear-of-the-Mark-TMV",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -124,7 +99,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Rohan character.",
+                    "Attach to a Rohan character. Restricted.",
                     "Attached character gets +1 Attack. (+2 Attack instead if attacking an enemy in the staging area)."
                 ],
                 "Shadow": null,
@@ -137,10 +112,15 @@
             "Quantity": 3,
             "Artist": "Jon Bosco",
             "HasErrata": false,
+            "OctgnGuid": "66d8e628-8ca8-4605-9017-aece027f054f",
+            "RingsDbCardId": "06137",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 864,
             "Categories": null
         },
         {
             "Title": "Pelargir Ship Captain",
+            "Slug": "Pelargir-Ship-Captain-TMV",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -172,10 +152,53 @@
             "Quantity": 3,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "1f28f098-09d4-43fa-8fba-eae551a5d4fe",
+            "RingsDbCardId": "06135",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 760,
+            "Categories": null
+        },
+        {
+            "Title": "Scroll of Isildur",
+            "Slug": "Scroll-of-Isildur-TMV",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/Scroll-of-Isildur.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [
+                    "Record."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Lore hero.",
+                    "Reduce the cost to play Scroll of Isildur by 1 for each hero you control with a printed Lore resource icon.",
+                    "Action: Discard Scroll of Isildur to play any Lore event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Morgul Vale",
+            "EncounterInfo": null,
+            "Number": 142,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "63c6bd3a-5566-412d-9199-3929d2fc3cf2",
+            "RingsDbCardId": "06142",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 703,
             "Categories": null
         },
         {
             "Title": "Ered Nimrais Prospector",
+            "Slug": "Ered-Nimrais-Prospector-TMV",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -207,43 +230,60 @@
             "Quantity": 3,
             "Artist": "Jason Ward",
             "HasErrata": false,
+            "OctgnGuid": "3eb1141f-bf1f-401e-a69d-e4df0af2a8ab",
+            "RingsDbCardId": "06141",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 689,
             "Categories": null
         },
         {
-            "Title": "Scroll of Isildur",
+            "Title": "Théoden",
+            "Slug": "Theoden-TMV",
             "IsUnique": true,
-            "CardType": "Attachment",
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/Scroll-of-Isildur.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/Théoden.jpg",
                 "Stats": {
-                    "ResourceCost": "4"
+                    "ThreatCost": "12",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "4"
                 },
                 "Traits": [
-                    "Record."
+                    "Rohan.",
+                    "Noble.",
+                    "Warrior."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Sentinel."
+                ],
                 "Text": [
-                    "Attach to a Lore hero.",
-                    "Reduce the cost to play Scroll of Isildur by 1 for each hero you control with a printed Lore resource icon.",
-                    "Action: Discard Scroll of Isildur to play any Lore event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck."
+                    "Sentinel.",
+                    "Each hero with a printed Tactics resource icon gets +1 Willpower."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "`To me! To me!` cried Théoden. `Up Eorlingas! Fear no darkness!` -The Return of the King"
             },
             "Back": null,
             "CardSet": "The Morgul Vale",
             "EncounterInfo": null,
-            "Number": 142,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
+            "Number": 134,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "29d5feef-6165-4077-bb80-692526a8a924",
+            "RingsDbCardId": "06134",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 259,
             "Categories": null
         },
         {
             "Title": "Steed of the Mark",
+            "Slug": "Steed-of-the-Mark-TMV",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -272,10 +312,15 @@
             "Quantity": 3,
             "Artist": "Sandara Tang",
             "HasErrata": false,
+            "OctgnGuid": "90d300da-a557-44b1-a634-d54782ff5e48",
+            "RingsDbCardId": "06139",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 555,
             "Categories": null
         },
         {
             "Title": "Forth Eorlingas!",
+            "Slug": "Forth-Eorlingas-TMV",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -301,10 +346,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "80cdd2b5-60cf-4d47-afe7-505b79abcb1b",
+            "RingsDbCardId": "06138",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 264,
             "Categories": null
         },
         {
             "Title": "Lay of Nimrodel",
+            "Slug": "Lay-of-Nimrodel-TMV",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -332,10 +382,15 @@
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "b442354c-887d-403e-815b-a11f10a8760d",
+            "RingsDbCardId": "06140",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 209,
             "Categories": null
         },
         {
             "Title": "The Rearguard",
+            "Slug": "The-Rearguard-TMV",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -343,7 +398,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Rearguard-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -354,8 +411,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Rearguard-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -368,7 +428,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Morgul Vale",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Elite",
+                    "Creatures of the Forest"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -376,10 +439,15 @@
             "Quantity": 1,
             "Artist": "Sidharth Chatursedi",
             "HasErrata": false,
+            "OctgnGuid": "30a319ff-6092-4d5f-9b94-2a9b4f44f9c1",
+            "RingsDbCardId": "06144",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Betrayal",
+            "Slug": "The-Betrayal-TMV",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -387,7 +455,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Betrayal-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -398,8 +468,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Betrayal-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -412,7 +485,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Morgul Vale",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Elite",
+                    "Creatures of the Forest"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -420,10 +496,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "49aa4e88-3774-43f7-ab8d-05268ed3fb7e",
+            "RingsDbCardId": "06145",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Morgul Rider",
+            "Slug": "The-Morgul-Rider-TMV",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -431,7 +512,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Morgul-Rider-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -442,8 +525,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Morgul-Vale/The-Morgul-Rider-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -458,7 +544,10 @@
             "EncounterInfo": {
                 "EncounterSet": "The Morgul Vale",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Elite",
+                    "Creatures of the Forest"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -466,10 +555,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "8b4dd0c5-3847-46f6-a69b-a4c7ee2b21c8",
+            "RingsDbCardId": "06146",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "To the Tower",
+            "Slug": "To-the-Tower-TMV",
             "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
@@ -503,10 +597,15 @@
             "Quantity": 1,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "a6dd52d0-375a-41ea-ae77-b0fd9bcb6629",
+            "RingsDbCardId": "06147",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Bodyguard",
+            "Slug": "Morgul-Bodyguard-TMV",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -544,10 +643,15 @@
             "Quantity": 4,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
+            "OctgnGuid": "aca1ee7f-ad29-4218-8dd5-f7f7a8e617fe",
+            "RingsDbCardId": "06148",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Sorcerer",
+            "Slug": "Morgul-Sorcerer-TMV",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -585,10 +689,15 @@
             "Quantity": 2,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "c12057ee-64d0-419a-adb8-17632e3182b0",
+            "RingsDbCardId": "06149",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Tracker",
+            "Slug": "Morgul-Tracker-TMV",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -627,10 +736,15 @@
             "Quantity": 3,
             "Artist": "Yigit Koroglu",
             "HasErrata": false,
+            "OctgnGuid": "6987d363-bcba-4f34-97b1-d26f080c843e",
+            "RingsDbCardId": "06150",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Murzag",
+            "Slug": "Murzag-TMV",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -670,10 +784,15 @@
             "Quantity": 1,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "a305f78f-0d26-4a56-9d5b-7fb0210e6bd4",
+            "RingsDbCardId": "06151",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Lord Alcaron",
+            "Slug": "Lord-Alcaron-TMV",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -714,10 +833,15 @@
             "Quantity": 1,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
+            "OctgnGuid": "499195c5-389f-4a56-b67e-b6e5b8f2fb91",
+            "RingsDbCardId": "06152",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Nazgûl of Minas Morgul",
+            "Slug": "Nazgul-of-Minas-Morgul-TMV",
             "IsUnique": true,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -757,10 +881,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06153",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Road",
+            "Slug": "Morgul-Road-TMV",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -795,10 +924,15 @@
             "Quantity": 3,
             "Artist": "Trudi Castle",
             "HasErrata": false,
+            "OctgnGuid": "3e0e63ba-d11b-4c8a-aab6-047f19013ca7",
+            "RingsDbCardId": "06154",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Morgul Vale",
+            "Slug": "Morgul-Vale-TMV",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -833,10 +967,15 @@
             "Quantity": 3,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "e176b4d7-2fae-4025-8a71-5c3bc843e2e1",
+            "RingsDbCardId": "06155",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The White Bridge",
+            "Slug": "The-White-Bridge-TMV",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -871,10 +1010,15 @@
             "Quantity": 1,
             "Artist": "Jake Murray",
             "HasErrata": false,
+            "OctgnGuid": "95f2f7ac-5d85-43e5-930d-d866b00bef26",
+            "RingsDbCardId": "06156",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Impenetrable Fog",
+            "Slug": "Impenetrable-Fog-TMV",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -904,10 +1048,15 @@
             "Quantity": 2,
             "Artist": "Oleg Saakyan",
             "HasErrata": true,
+            "OctgnGuid": "418e1e02-52fe-4aef-b543-3875837dd38a",
+            "RingsDbCardId": "06157",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Sleepless Malice",
+            "Slug": "Sleepless-Malice-TMV",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -921,6 +1070,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Each player must discard 3 random cards from his hand or place 1 progress token on To the Tower."
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
@@ -939,10 +1089,15 @@
             "Quantity": 2,
             "Artist": "Jim Pavelec",
             "HasErrata": false,
+            "OctgnGuid": "46c7bfd7-96b7-4fe4-a110-3464ba6c0023",
+            "RingsDbCardId": "06158",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Terror Drives Them",
+            "Slug": "Terror-Drives-Them-TMV",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -956,6 +1111,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Place 1 progress token on To the Tower."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each progress token on To the Tower.",
@@ -974,10 +1130,15 @@
             "Quantity": 3,
             "Artist": "Darek Zabrocki",
             "HasErrata": false,
+            "OctgnGuid": "08af0240-fb38-4a33-a1f0-af07fd496b42",
+            "RingsDbCardId": "06159",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Dead City Looms",
+            "Slug": "The-Dead-City-Looms-TMV",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -1007,6 +1168,10 @@
             "Quantity": 2,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
+            "OctgnGuid": "8ac2d3ea-7e6d-4e9e-9cc5-70b65b24b835",
+            "RingsDbCardId": "06160",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

@@ -1,0 +1,459 @@
+{
+    "Name": "The City of Corsairs Nightmare",
+    "Slug": "The-City-of-Corsairs-Nightmare",
+    "Abbreviation": "TCoCN",
+    "Cycle": "NIGHTMARE",
+    "SetType": "Nightmare_Expansion",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "The City of Corsairs Nightmare",
+            "Slug": "The-City-of-Corsairs-Nightmare-TCoCN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/The-City-of-Corsairs-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.",
+                    "Forced: When the `when revealed` effect on stage 2B resolves, also search the encounter deck and discard pule for each copy of Umbar Bridge and each copy of Inspiring Fury and shuffle them into the second encounter deck.",
+                    "Forced: When the `when revealed` effect on stage 3A resolves, also search the encounter deck for The Cursed Sword and attack it to the set-aside Captain Sahír."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The City of Corsairs scenario.",
+                    "Remove the following card, in the specified quantities, from the standard encounter deck:",
+                    "2x Corsair Infiltrator",
+                    "2x Fog Bank",
+                    "2x Starlit Sea",
+                    "2x Scouting Ship",
+                    "2x Serpent`s Tail",
+                    "1x Streets of Umbar",
+                    "During setup, players are instructed to set The City of Corsairs encounter set aside, out of play. After doing so, shuffle the encounter cards in this Nightmare Deck that have The City of Corsairs encounter set icon into the set aside The City of Corsairs encounter set. Then, use the encounter cards in this Nightmare Deck that have the Coast of Umbar encounter set icon to build the standard encounter deck and Corsair deck.",
+                    "Finally, flip this setup card over and placr it next to the quest deck. Its effect remains active throughout the game, which is now ready to being.",
+                    "Wheel*: Some cards in The City of Corsairs Nightmare Deck have Sailing success symbols (Wheel) with an asterisk (*) next to them. This indicates that the card has a Forced effect which will trigger when the card is discarded during a Sailing test."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Logan Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Patrol Ship",
+            "Slug": "Patrol-Ship-TCoCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Patrol-Ship.jpg",
+                "Stats": {
+                    "EngagementCost": "41",
+                    "Threat": "2",
+                    "Attack": "5",
+                    "Defense": "2",
+                    "HitPoints": "7"
+                },
+                "Traits": [
+                    "Corsair.",
+                    "Ship."
+                ],
+                "Keywords": [
+                    "Boarding 2."
+                ],
+                "Text": [
+                    "Boarding 2.",
+                    "Forced: After you shift your heading on-course, Patrol Ship gets -40 engagement cost this round.",
+                    "*Forced: After Patrol Ship is discarded from the encounter deck during a Sailing test, cancel all Wheel symbols found unless you add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Coast of Umbar Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "Igor Artyomenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Corsair Loyalist",
+            "Slug": "Corsair-Loyalist-TCoCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Corsair-Loyalist.jpg",
+                "Stats": {
+                    "EngagementCost": "28",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Corsair.",
+                    "Raider."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Corsair Loyalist has 4 or more resources on it, its attacks are considered to be undefended."
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Raider, either add 2 resources to attacking enemy, or attacking enemy makes an additional attack after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Coast of Umbar Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Walls of Umbar",
+            "Slug": "Walls-of-Umbar-TCoCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Walls-of-Umbar.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Ocean.",
+                    "Coastland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Walls of Umbar is in the staging area, it gains: `Forced: After a player commits an ally to a Sailing test, raise his or her threat by 1.",
+                    "*Forced: After Walls of Umbar is discarded from the encounter deck during a Sailing test, raise each player`s threat by 1 for each ally he or she committed to that test."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Coast of Umbar Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Logan Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Umbar Bridge",
+            "Slug": "Umbar-Bridge-TCoCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Umbar-Bridge.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Umbar.",
+                    "Coastland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Umbar Bridge is in the staging area, cancel the first X progress that would be placed on the current quest each round, where X is the highest number of resources on a Raider enemy in play.",
+                    "Travel: Reduce the engagement cost of each Corsair enemy to 0 until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Coast of Umbar Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Logan Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Inspiring Fury",
+            "Slug": "Inspiring-Fury-TCoCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Inspiring-Fury.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.",
+                    "When Revealed: Deal Ispiring Fury to the enemy with the highest Attack, as a shadow card."
+                ],
+                "Shadow": "Shadow: Shuffle the encounter discard pile into the encounter deck and deal attacking enemy 3 additional shadow cards. During this attack, shadow effects cannot be canceled.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Coast of Umbar Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Cursed Sword",
+            "Slug": "The-Cursed-Sword-TCoCN",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/The-Cursed-Sword.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Cursed."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot be discarded by player card effects.",
+                    "The Cursed Sword counts as a Weapon attachment with the text: `Forced: After Captain Sahír attacks and deals excess damage, assign that excess damage to Captain Sahír as resources. (Limit once per round.)`"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Corsairs Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Umbar Patrol",
+            "Slug": "Umbar-Patrol-TCoCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Umbar-Patrol.jpg",
+                "Stats": {
+                    "EngagementCost": "48",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "4",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Corsair."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the encounter phase, if Umbar Patrol is in the staging area, add 2 resources to the Raider enemy with the most resources on it."
+                ],
+                "Shadow": "Shadow: Add 1 resource to each Raider enemy engaged with you.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Corsairs Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Raise the Alarm!",
+            "Slug": "Raise-the-Alarm-TCoCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Raise-the-Alarm.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Discard cards from the top of the encounter deck until a Raider enemy is discarded. Add that enemy to the staging area and place 3 resources on it."
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Raider, after this attack ends, add 1 resource to attacking enemy for each damage dealt by this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Corsairs Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Slave Trade",
+            "Slug": "Slave-Trade-TCoCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Corsairs-Nightmare/Slave-Trade.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player deals 2 damage to an ally he or she controls. For each ally destroyed by this effect, place resources on a Raider enemy in play equal to that ally`s resource cost."
+                ],
+                "Shadow": "Shadow: Discard an attachment you control. If attacking enemy is a Raider, add resources to it equal to that attachment`s printed cost.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Corsairs Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The City of Corsairs Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

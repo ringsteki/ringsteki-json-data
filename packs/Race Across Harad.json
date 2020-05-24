@@ -1,10 +1,49 @@
 {
     "Name": "Race Across Harad",
+    "Slug": "Race-Across-Harad",
+    "Abbreviation": "RaH",
     "Cycle": "Haradrim",
     "SetType": "Adventure_Pack",
+    "Cards": null,
     "cards": [
         {
+            "Title": "Proud Hunters",
+            "Slug": "Proud-Hunters-RaH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Proud-Hunters.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique character with the Noble trait and another unique character with the Ranger trait.",
+                    "Response: After a hero you control participates in an attack that destroys an enemy, add X resources to that hero’s pool. X is the just destroyed enemy’s printed Threat."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Race Across Harad",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "953f3b7f-f4ca-4f6f-92d5-8d4b465231df",
+            "RingsDbCardId": "17032",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 643,
+            "Categories": null
+        },
+        {
             "Title": "Thurindir",
+            "Slug": "Thurindir-RaH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
@@ -38,40 +77,15 @@
             "Quantity": 1,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Proud Hunters",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Proud-Hunters.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only if you control a unique character with the Noble trait and another unique character with the Ranger trait.",
-                    "Response: After a hero you control participates in an attack that destroys an enemy, add X resources to that hero’s pool. X is the just destroyed enemy’s printed Threat."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Race Across Harad",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
+            "OctgnGuid": "12946b30-a231-4074-a524-960365081360",
+            "RingsDbCardId": "17028",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 334,
             "Categories": null
         },
         {
             "Title": "Dúnedain Pathfinder",
+            "Slug": "Dunedain-Pathfinder-RaH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -104,10 +118,15 @@
             "Quantity": 3,
             "Artist": "Michele Frigo",
             "HasErrata": false,
+            "OctgnGuid": "7114f4a4-aed2-4b6e-87bc-c0e564e55d67",
+            "RingsDbCardId": "17033",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 529,
             "Categories": null
         },
         {
             "Title": "Steed of the North",
+            "Slug": "Steed-of-the-North-RaH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -125,7 +144,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Dúnedain or Ranger hero.",
+                    "Attach to a Dúnedain or Ranger hero. Restricted.",
                     "Response: After you engage an enemy, exhaust Steed of the North to ready attached hero."
                 ],
                 "Shadow": null,
@@ -138,10 +157,15 @@
             "Quantity": 3,
             "Artist": "Álvaro Calvo Escudero",
             "HasErrata": false,
+            "OctgnGuid": "e7df2c09-6d38-4f92-9279-eba5f41370cd",
+            "RingsDbCardId": "17030",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 524,
             "Categories": null
         },
         {
             "Title": "Steward of Orthanc",
+            "Slug": "Steward-of-Orthanc-RaH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -173,10 +197,15 @@
             "Quantity": 3,
             "Artist": "Aleksander Karcz",
             "HasErrata": false,
+            "OctgnGuid": "32ab123f-b12f-4f9d-a6e5-556f54eb6c06",
+            "RingsDbCardId": "17037",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 426,
             "Categories": null
         },
         {
             "Title": "Kahliel's Tribesman",
+            "Slug": "Kahliel's-Tribesman-RaH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -208,10 +237,15 @@
             "Quantity": 3,
             "Artist": "Ryan Valle",
             "HasErrata": false,
+            "OctgnGuid": "129f6237-c00c-41a2-af6e-98a6f966aad1",
+            "RingsDbCardId": "17029",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 289,
             "Categories": null
         },
         {
             "Title": "Eryn Galen Settler",
+            "Slug": "Eryn-Galen-Settler-RaH",
             "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
@@ -243,10 +277,52 @@
             "Quantity": 3,
             "Artist": "Michele Frigo",
             "HasErrata": false,
+            "OctgnGuid": "1e88c101-4e02-4f9a-8447-15a6f2a4e566",
+            "RingsDbCardId": "17035",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 217,
+            "Categories": null
+        },
+        {
+            "Title": "Explore Secret Ways",
+            "Slug": "Explore-Secret-Ways-RaH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Explore-Secret-Ways.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 copy of Explore Secret Ways in the victory display.",
+                    "While Explore Secret Ways is in the victory display, each location in the staging area with the same title as the active location does not contribute its Threat to the total Threat in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I myself dared to pass the doors of the Necromancer in Dul Guldur, and secretly explored his ways...`\r\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Race Across Harad",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 3,
+            "Artist": "Andreia Ugrai",
+            "HasErrata": false,
+            "OctgnGuid": "d7e2e209-7730-48fe-87c7-e226143e462b",
+            "RingsDbCardId": "17036",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 105,
             "Categories": null
         },
         {
             "Title": "Mighty Warrior",
+            "Slug": "Mighty-Warrior-RaH",
             "IsUnique": false,
             "CardType": "Attachment",
             "CardSubType": "None",
@@ -276,40 +352,15 @@
             "Quantity": 3,
             "Artist": "Marius Bota",
             "HasErrata": false,
-            "Categories": null
-        },
-        {
-            "Title": "Explore Secret Ways",
-            "IsUnique": false,
-            "CardType": "Player_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Explore-Secret-Ways.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Victory 1."
-                ],
-                "Text": [
-                    "Limit 1 copy of Explore Secret Ways in the victory display.",
-                    "While Explore Secret Ways is in the victory display, each location in the staging area with the same title as the active location does not contribute its Threat to the total Threat in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I myself dared to pass the doors of the Necromancer in Dul Guldur, and secretly explored his ways...`\r\n-Gandalf, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Race Across Harad",
-            "EncounterInfo": null,
-            "Number": 36,
-            "Quantity": 3,
-            "Artist": "Andreia Ugrai",
-            "HasErrata": false,
+            "OctgnGuid": "775422b6-68bd-4ae3-8229-ce65e38465a9",
+            "RingsDbCardId": "17031",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 92,
             "Categories": null
         },
         {
             "Title": "Backtrack",
+            "Slug": "Backtrack-RaH",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
@@ -336,10 +387,15 @@
             "Quantity": 3,
             "Artist": "John Pacer",
             "HasErrata": false,
+            "OctgnGuid": "7b60b869-4232-40cf-bbc5-6856edeef419",
+            "RingsDbCardId": "17034",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 64,
             "Categories": null
         },
         {
             "Title": "Tamed Mûmak",
+            "Slug": "Tamed-Mumak-RaH",
             "IsUnique": false,
             "CardType": "Objective_Ally",
             "CardSubType": "None",
@@ -379,10 +435,15 @@
             "Quantity": 4,
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
+            "OctgnGuid": "5a3a6917-900b-4878-9545-56c297a50248",
+            "RingsDbCardId": "17038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "River Harnen",
+            "Slug": "River-Harnen-RaH",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
@@ -423,10 +484,15 @@
             "Quantity": 1,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "715625a1-320e-478c-afd3-bec7111105f2",
+            "RingsDbCardId": "17039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Expanse of Harad",
+            "Slug": "Expanse-of-Harad-RaH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -462,10 +528,15 @@
             "Quantity": 2,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "50950a5b-0002-432a-b6d6-4ac2ca12e501",
+            "RingsDbCardId": "17040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Blistering Erg",
+            "Slug": "Blistering-Erg-RaH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -501,10 +572,15 @@
             "Quantity": 3,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
+            "OctgnGuid": "4a18a702-0c0e-4be8-b26d-ccf5d4d95e2a",
+            "RingsDbCardId": "17041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Harad Road",
+            "Slug": "Harad-Road-RaH",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
@@ -540,10 +616,15 @@
             "Quantity": 2,
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
+            "OctgnGuid": "5ae90f6e-1b35-4f08-9f10-912bc9cdd3d1",
+            "RingsDbCardId": "17042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Uruk Pursuer",
+            "Slug": "Uruk-Pursuer-RaH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -582,10 +663,15 @@
             "Quantity": 4,
             "Artist": "Lukasz Jaskolski",
             "HasErrata": false,
+            "OctgnGuid": "590dd523-5743-4c36-b905-c34c021c2676",
+            "RingsDbCardId": "17043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Racing Warg",
+            "Slug": "Racing-Warg-RaH",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
@@ -607,6 +693,7 @@
                     "Surge."
                 ],
                 "Text": [
+                    "Surge.",
                     "When Revealed: Attach to an Orc enemy. Limit 1 per enemy. (Counts as a Mount attachment with the text: `Attached enemy gets +1 Threat, +1 Attack, +1 Defense, and +1 hit point. Forced: When attached enemy leaves play, return Racing Warg to the staging area.`)"
                 ],
                 "Shadow": null,
@@ -616,7 +703,7 @@
             "CardSet": "Race Across Harad",
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
-                "EasyModeQuantity": 0,
+                "EasyModeQuantity": 2,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -625,10 +712,15 @@
             "Quantity": 3,
             "Artist": "Alexander Gustafson",
             "HasErrata": false,
+            "OctgnGuid": "25b9113d-1096-4b8d-a2d3-1eb134fbca62",
+            "RingsDbCardId": "17044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Pursuers from Mordor",
+            "Slug": "Pursuers-from-Mordor-RaH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -642,6 +734,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
+                    "Doomed 2.",
                     "When Revealed: Discard cards from the top of the encounter deck until an Orc enemy is discarded. Add that enemy to the Orc`s area."
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, place 2 progress on the Orc`s stage.",
@@ -660,10 +753,15 @@
             "Quantity": 2,
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
+            "OctgnGuid": "610f3112-1123-4956-a955-df9d42b937bf",
+            "RingsDbCardId": "17045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Howling at their Heels",
+            "Slug": "Howling-at-their-Heels-RaH",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
@@ -684,7 +782,7 @@
             "CardSet": "Race Across Harad",
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
-                "EasyModeQuantity": 0,
+                "EasyModeQuantity": 2,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
@@ -693,10 +791,15 @@
             "Quantity": 3,
             "Artist": "Alexander Gustafson",
             "HasErrata": false,
+            "OctgnGuid": "2ce0c7c6-e7ae-4847-a02d-2be874afa3d4",
+            "RingsDbCardId": "17046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Setting Out",
+            "Slug": "Setting-Out-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -704,7 +807,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Setting-Out-1A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -715,8 +820,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Setting-Out-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -729,7 +837,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
@@ -737,10 +848,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "447061f6-3399-4309-9885-1045f115820f",
+            "RingsDbCardId": "17047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Racing North",
+            "Slug": "Racing-North-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -748,7 +864,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Racing-North-2A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -759,8 +877,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Racing-North-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -774,7 +895,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
@@ -782,10 +906,15 @@
             "Quantity": 1,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "a11f08ac-541b-46ba-9528-467dcbdc90c6",
+            "RingsDbCardId": "17048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunted in Harad",
+            "Slug": "Hunted-in-Harad-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -793,7 +922,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Hunted-in-Harad-3A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -804,8 +935,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Hunted-in-Harad-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -820,7 +954,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
@@ -828,10 +965,15 @@
             "Quantity": 1,
             "Artist": "S. C. Watson",
             "HasErrata": false,
+            "OctgnGuid": "b21850eb-ca62-47d8-b7aa-6d6c5ff29867",
+            "RingsDbCardId": "17049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ford of Harnen",
+            "Slug": "The-Ford-of-Harnen-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -839,7 +981,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/The-Ford-of-Harnen-4A.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4A"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -850,8 +994,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/The-Ford-of-Harnen-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -866,7 +1013,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "A"
             },
@@ -874,10 +1024,15 @@
             "Quantity": 1,
             "Artist": "Uriah Voth",
             "HasErrata": false,
+            "OctgnGuid": "a7f5f1b7-6510-4c0f-9198-fd109e19a5c3",
+            "RingsDbCardId": "17050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Setting Out",
+            "Slug": "Setting-Out-C-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -885,7 +1040,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Setting-Out-C-1C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "1C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -894,12 +1051,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Setting-Out-C-1D.jpg",
+                "Stats": {
+                    "StageNumber": "1D",
+                    "QuestPoints": "10"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Uruk Chieftain cannot leave the Orc`s area.",
                     "Forced: At the end of the quest phase, discard the top card of the encounter deck. Place X progress on this stage, where X is the discarded card`s Threat plus the total Threat in the Orc`s area."
                 ],
                 "Shadow": null,
@@ -909,7 +1068,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 1,
                 "StageLetter": "C"
             },
@@ -917,10 +1079,15 @@
             "Quantity": 1,
             "Artist": "Sebastian Zakrzewski",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Racing North",
+            "Slug": "Racing-North-C-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -928,7 +1095,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Racing-North-C-2C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "2C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -939,8 +1108,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Racing-North-C-2D.jpg",
+                "Stats": {
+                    "StageNumber": "2D",
+                    "QuestPoints": "15"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -955,7 +1127,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 2,
                 "StageLetter": "C"
             },
@@ -963,10 +1138,15 @@
             "Quantity": 1,
             "Artist": "Alexandr Elichev",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "Hunted in Harad",
+            "Slug": "Hunted-in-Harad-C-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -974,7 +1154,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Hunted-in-Harad-C-3C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "3C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -985,8 +1167,11 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/Hunted-in-Harad-C-3D.jpg",
+                "Stats": {
+                    "StageNumber": "3D",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
@@ -1001,7 +1186,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 3,
                 "StageLetter": "C"
             },
@@ -1009,10 +1197,15 @@
             "Quantity": 1,
             "Artist": "S. C. Watson",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         },
         {
             "Title": "The Ford of Harnen",
+            "Slug": "The-Ford-of-Harnen-C-RaH",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
@@ -1020,7 +1213,9 @@
             "Front": {
                 "Subtitle": null,
                 "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/The-Ford-of-Harnen-C-4C.jpg",
-                "Stats": {},
+                "Stats": {
+                    "StageNumber": "4C"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [],
@@ -1029,13 +1224,14 @@
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "",
-                "Stats": {},
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Race-Across-Harad/The-Ford-of-Harnen-C-4D.jpg",
+                "Stats": {
+                    "StageNumber": "4D",
+                    "QuestPoints": "20"
+                },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Uruk Chieftain cannot take damage while River Harnen is in the staging area.",
-                    "Forced: At the end of the quest phase, discard the top card of the encounter deck. Place X progress on this stage, where X is the discarded card`s Threat plus the total Threat of each engaged enemy.",
                     "If the Orcs defeat this stage, the Orcs have caught you and you lose the game."
                 ],
                 "Shadow": null,
@@ -1045,7 +1241,10 @@
             "EncounterInfo": {
                 "EncounterSet": "Race Across Harad",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Desert Sands"
+                ],
                 "StageNumber": 4,
                 "StageLetter": "C"
             },
@@ -1053,6 +1252,10 @@
             "Quantity": 1,
             "Artist": "Uriah Voth",
             "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "17054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]
