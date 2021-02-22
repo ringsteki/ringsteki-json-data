@@ -7,164 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Armored Destrier",
-            "Slug": "Armored-Destrier-TotD",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Armored-Destrier.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Mount."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Leadership or sentinel hero. Restricted.",
-                    "Response: After attached hero defends against an attack, exhaust Armored Destrier to ready attached hero. Then, discard a shadow card from another enemy engaged with the defending player."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 59,
-            "Quantity": 3,
-            "Artist": "Sandara Tang",
-            "HasErrata": false,
-            "OctgnGuid": "a55bc730-259b-4d52-8c98-648d43840738",
-            "RingsDbCardId": "12059",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 2272,
-            "Categories": null
-        },
-        {
-            "Title": "Entangling Nets",
-            "Slug": "Entangling-Nets-TotD",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Entangling-Nets.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Trap."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Play Entagling Nets into the staging area, unattached.",
-                    "If unattached, attach Entangling Nets to the next eligible enemy that enters the staging area.",
-                    "Attached enemy gets -2 Attack and -2 Defense."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 64,
-            "Quantity": 3,
-            "Artist": "Sam Lamont",
-            "HasErrata": false,
-            "OctgnGuid": "44b36766-fbb5-464d-bf9c-6a9cb9f48fad",
-            "RingsDbCardId": "12064",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1149,
-            "Categories": null
-        },
-        {
-            "Title": "Rhovanion Outrider",
-            "Slug": "Rhovanion-Outrider-TotD",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Rhovanion-Outrider.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dale.",
-                    "Scout."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Rhovanion Outrider commits to the quest, place 1 progress on a location in the staging area. If that location is not explored by this effect, give Rhovanion Outrider +1 Willpower until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 62,
-            "Quantity": 3,
-            "Artist": "Beth Sobel",
-            "HasErrata": false,
-            "OctgnGuid": "2c1b7d82-e14e-4e2d-9270-86b59f95e0a9",
-            "RingsDbCardId": "12062",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1140,
-            "Categories": null
-        },
-        {
-            "Title": "Ered Luin Miner",
-            "Slug": "Ered-Luin-Miner-TotD",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Ered-Luin-Miner.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Ered Luin Miner is discarded from the top of your deck, put it into play under your control."
-                ],
-                "Shadow": null,
-                "FlavorText": "Tools were to be found in plenty that the miners and quarriers and builders of old had used; and at such work the dwarves were still very skilled.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 66,
-            "Quantity": 3,
-            "Artist": "Lukasz Jaskolski",
-            "HasErrata": false,
-            "OctgnGuid": "c2c8d69a-6639-49af-89ed-86f2ffc8c096",
-            "RingsDbCardId": "12066",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 877,
-            "Categories": null
-        },
-        {
             "Title": "Elfhelm",
             "Slug": "Elfhelm-TotD",
             "IsUnique": true,
@@ -204,8 +46,88 @@
             "HasErrata": false,
             "OctgnGuid": "14820d35-cb36-499b-80ec-da6442548f7b",
             "RingsDbCardId": "12057",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 261,
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 7384,
+            "Categories": null
+        },
+        {
+            "Title": "Ceorl",
+            "Slug": "Ceorl-TotD",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Ceorl.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Spirit resource to ready Ceorl. Then, you may give control of Ceorl to another player. Any player may trigger this action. (Limit once per phase)."
+                ],
+                "Shadow": null,
+                "FlavorText": "He drew himself up. Then he knelt, offering his notched sword to the king. `Command me, lord!` he cried.\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 58,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "7e1db97c-f6dc-43e1-a6f3-7ab600845e93",
+            "RingsDbCardId": "12058",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 115504,
+            "Categories": null
+        },
+        {
+            "Title": "Armored Destrier",
+            "Slug": "Armored-Destrier-TotD",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Armored-Destrier.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Leadership or sentinel hero. Restricted.",
+                    "Response: After attached hero defends against an attack, exhaust Armored Destrier to ready attached hero. Then, discard a shadow card from another enemy engaged with the defending player."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 59,
+            "Quantity": 3,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "a55bc730-259b-4d52-8c98-648d43840738",
+            "RingsDbCardId": "12059",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 443445,
             "Categories": null
         },
         {
@@ -248,84 +170,8 @@
             "HasErrata": false,
             "OctgnGuid": "1987caf1-aedd-4fe0-bbe9-41539c2a7910",
             "RingsDbCardId": "12060",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 576,
-            "Categories": null
-        },
-        {
-            "Title": "Ceorl",
-            "Slug": "Ceorl-TotD",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Ceorl.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Scout."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Spend 1 Spirit resource to ready Ceorl. Then, you may give control of Ceorl to another player. Any player may trigger this action. (Limit once per phase)."
-                ],
-                "Shadow": null,
-                "FlavorText": "He drew himself up. Then he knelt, offering his notched sword to the king. `Command me, lord!` he cried.\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 58,
-            "Quantity": 3,
-            "Artist": "Aleksander Karcz",
-            "HasErrata": false,
-            "OctgnGuid": "7e1db97c-f6dc-43e1-a6f3-7ab600845e93",
-            "RingsDbCardId": "12058",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 486,
-            "Categories": null
-        },
-        {
-            "Title": "Arrows from the Trees",
-            "Slug": "Arrows-from-the-Trees-TotD",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Arrows-from-the-Trees.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only after making engagement checks.",
-                    "Encounter Action: If no enemies were engaged this phase, deal 1 damage to each enemy in the staging area. Then, the players as a group may spend 3 Tactics resources to deal 2 additional damage to each enemy in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Temple of the Deceived",
-            "EncounterInfo": null,
-            "Number": 65,
-            "Quantity": 3,
-            "Artist": "Tristan Denecke",
-            "HasErrata": false,
-            "OctgnGuid": "f07ea741-4991-46c9-9c6a-439dc186cec6",
-            "RingsDbCardId": "12065",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 179,
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 130784,
             "Categories": null
         },
         {
@@ -359,8 +205,49 @@
             "HasErrata": false,
             "OctgnGuid": "94727856-c487-4cf8-b8d5-8c18a3bca3d8",
             "RingsDbCardId": "12061",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 155,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 30368,
+            "Categories": null
+        },
+        {
+            "Title": "Rhovanion Outrider",
+            "Slug": "Rhovanion-Outrider-TotD",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Rhovanion-Outrider.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Rhovanion Outrider commits to the quest, place 1 progress on a location in the staging area. If that location is not explored by this effect, give Rhovanion Outrider +1 Willpower until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 62,
+            "Quantity": 3,
+            "Artist": "Beth Sobel",
+            "HasErrata": false,
+            "OctgnGuid": "2c1b7d82-e14e-4e2d-9270-86b59f95e0a9",
+            "RingsDbCardId": "12062",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 202551,
             "Categories": null
         },
         {
@@ -394,7 +281,120 @@
             "OctgnGuid": "21c68054-6070-49cd-be5f-7d432842a879",
             "RingsDbCardId": "12063",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 123,
+            "RingsDbVotes": 18814,
+            "Categories": null
+        },
+        {
+            "Title": "Entangling Nets",
+            "Slug": "Entangling-Nets-TotD",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Entangling-Nets.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Trap."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play Entagling Nets into the staging area, unattached.",
+                    "If unattached, attach Entangling Nets to the next eligible enemy that enters the staging area.",
+                    "Attached enemy gets -2 Attack and -2 Defense."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 3,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "44b36766-fbb5-464d-bf9c-6a9cb9f48fad",
+            "RingsDbCardId": "12064",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 196272,
+            "Categories": null
+        },
+        {
+            "Title": "Arrows from the Trees",
+            "Slug": "Arrows-from-the-Trees-TotD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Arrows-from-the-Trees.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only after making engagement checks.",
+                    "Encounter Action: If no enemies were engaged this phase, deal 1 damage to each enemy in the staging area. Then, the players as a group may spend 3 Tactics resources to deal 2 additional damage to each enemy in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 65,
+            "Quantity": 3,
+            "Artist": "Tristan Denecke",
+            "HasErrata": false,
+            "OctgnGuid": "f07ea741-4991-46c9-9c6a-439dc186cec6",
+            "RingsDbCardId": "12065",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 33521,
+            "Categories": null
+        },
+        {
+            "Title": "Ered Luin Miner",
+            "Slug": "Ered-Luin-Miner-TotD",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Ered-Luin-Miner.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Ered Luin Miner is discarded from the top of your deck, put it into play under your control."
+                ],
+                "Shadow": null,
+                "FlavorText": "Tools were to be found in plenty that the miners and quarriers and builders of old had used; and at such work the dwarves were still very skilled.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": null,
+            "Number": 66,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "c2c8d69a-6639-49af-89ed-86f2ffc8c096",
+            "RingsDbCardId": "12066",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 157327,
             "Categories": null
         },
         {

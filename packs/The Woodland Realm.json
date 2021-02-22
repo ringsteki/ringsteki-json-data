@@ -2,8 +2,8 @@
     "Name": "The Woodland Realm",
     "Slug": "The-Woodland-Realm",
     "Abbreviation": "TWR",
-    "Cycle": "GenCon",
-    "SetType": "Fellowship_Deck",
+    "Cycle": "Custom Scenario Kit",
+    "SetType": "Custom_Scenario_Kit",
     "Cards": null,
     "cards": [
         {
@@ -37,12 +37,12 @@
             "Back": null,
             "CardSet": "The Woodland Realm",
             "EncounterInfo": null,
-            "Number": 7,
+            "Number": 0,
             "Quantity": 1,
             "Artist": "Audrey Hotte",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00007",
+            "RingsDbCardId": "00000",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -834,15 +834,15 @@
             "Categories": null
         },
         {
-            "Title": "Enchanted Steam",
-            "Slug": "Enchanted-Steam-TWR",
+            "Title": "Enchanted Stream",
+            "Slug": "Enchanted-Stream-TWR",
             "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Woodland-Realm/Enchanted-Steam.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Woodland-Realm/Enchanted-Stream.jpg",
                 "Stats": {
                     "Threat": "2",
                     "QuestPoints": "6"
@@ -850,7 +850,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While Enchanted Steam is in the staging area, progress cannot be placed on the main quest.",
+                    "While Enchanted Stream is in the staging area, progress cannot be placed on the main quest.",
                     "Travel: Each player exhausts a hero he controls. Those heroes cannot ready while Enchanted Stream is the active location."
                 ],
                 "Shadow": null,
@@ -1088,15 +1088,15 @@
             "Categories": null
         },
         {
-            "Title": "The Goblins' Cave",
-            "Slug": "The-Goblins'-Cave-TWR",
+            "Title": "The Goblins' Caves",
+            "Slug": "The-Goblins'-Caves-TWR",
             "IsUnique": true,
             "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Woodland-Realm/The-Goblins'-Cave.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Woodland-Realm/The-Goblins'-Caves.jpg",
                 "Stats": {
                     "Threat": "3",
                     "QuestPoints": "5"
@@ -1107,8 +1107,8 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While The Goblins` Cave is in the staging area, each Orc enemy gets +1 Attack.",
-                    "Forced: When The Goblin`s Cave is explored, the opposing team searches the encounter deck and discard pile for a non-unique Orc enemy and adds it to the staging area."
+                    "While The Goblins` Caves is in the staging area, each Orc enemy gets +1 Attack.",
+                    "Forced: When The Goblin`s Caves is explored, the opposing team searches the encounter deck and discard pile for a non-unique Orc enemy and adds it to the staging area."
                 ],
                 "Shadow": null,
                 "FlavorText": null

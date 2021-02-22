@@ -7,348 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Envoy of Pelargir",
-            "Slug": "Envoy-of-Pelargir-HoN",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Envoy-of-Pelargir.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Gondor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Envoy of Pelargir enters play, add 1 resource to a Gondor or Noble hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 18,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9015",
-            "RingsDbCardId": "05018",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 4350,
-            "Categories": null
-        },
-        {
-            "Title": "Defender of Rammas",
-            "Slug": "Defender-of-Rammas-HoN",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Defender-of-Rammas.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "0",
-                    "Attack": "1",
-                    "Defense": "4",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "`And the Enemy must pay dearly for the crossing of the River.` -Denethor, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Marcia George-Bogdan",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9014",
-            "RingsDbCardId": "05007",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 3649,
-            "Categories": null
-        },
-        {
-            "Title": "Errand-rider",
-            "Slug": "Errand-rider-HoN",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Errand-rider.jpg",
-                "Stats": {
-                    "ResourceCost": "1",
-                    "Willpower": "0",
-                    "Attack": "0",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Gondor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Errand-rider to move 1 resource from the resource pool of a hero you control to another hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "For the people of the City used horses very little and they were seldom seen in their streets, save only those ridden by the errand-riders of their lord. -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Anna Steinbauer",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9016",
-            "RingsDbCardId": "05003",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 3117,
-            "Categories": null
-        },
-        {
-            "Title": "Ranger Spikes",
-            "Slug": "Ranger-Spikes-HoN",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ranger-Spikes.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Trap."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Play Ranger Spikes into the staging area unattached.If unattached, attach Ranger Spikes to the next eligible enemy that enters the staging area.Players do not make engagement checks against attached enemy. Attached enemy gets -2 Threat."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 17,
-            "Quantity": 3,
-            "Artist": "Titus Lunter",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9071",
-            "RingsDbCardId": "05017",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 2375,
-            "Categories": null
-        },
-        {
-            "Title": "Spear of the Citadel",
-            "Slug": "Spear-of-the-Citadel-HoN",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Spear-of-the-Citadel.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Tactics character. Restricted.",
-                    "Limit 1 per character.",
-                    "Response: After attached character is declared as a defender, deal 1 damage to the attacking enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Dan Masso",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9078",
-            "RingsDbCardId": "05009",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1671,
-            "Categories": null
-        },
-        {
-            "Title": "Behind Strong Walls",
-            "Slug": "Behind-Strong-Walls-HoN",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Behind-Strong-Walls.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Ready a defending Gondor character. That character gets +1 Defense until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "...seven walls of stone so strong and old that it seemed to have been not builded by carven by giants out of the bones of the earth. -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Matt Smith",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9004",
-            "RingsDbCardId": "05008",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1551,
-            "Categories": null
-        },
-        {
-            "Title": "Wealth of Gondor",
-            "Slug": "Wealth-of-Gondor-HoN",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Wealth-of-Gondor.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Choose a Gondor hero. Add 1 resource to that hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "Kings made tombs more splendid than houses of the living, and counted old names in the rolls of their descent dearer than the names of sons. -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Darek Zabrocki",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9087",
-            "RingsDbCardId": "05006",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1466,
-            "Categories": null
-        },
-        {
-            "Title": "Blood of Númenor",
-            "Slug": "Blood-of-Numenor-HoN",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Blood-of-Númenor.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Condition."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Gondor or Dúnedain hero.",
-                    "Action: Spend 1 resource from attached hero`s resource pool to give attached hero +1 Defense for each resource in its resource pool until the end of the phase. (Limit once per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`Believe not that in the land of Gondor the blood of Numenor is spent, nor all its pride and dignity forgotten.` -Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 13,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9007",
-            "RingsDbCardId": "05013",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1165,
-            "Categories": null
-        },
-        {
-            "Title": "Ithilien Tracker",
-            "Slug": "Ithilien-Tracker-HoN",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ithilien-Tracker.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "0",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Ranger."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust Ithilien Tracker to lower the Threat of the next enemy added to the staging area to 0 until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "Green gauntlets covered their hands, and their faces were hooded and masked with green, except for their eyes, which were very keen and bright. -The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 15,
-            "Quantity": 3,
-            "Artist": "David A. Nash",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9048",
-            "RingsDbCardId": "05015",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1014,
-            "Categories": null
-        },
-        {
             "Title": "Beregond",
             "Slug": "Beregond-HoN",
             "IsUnique": true,
@@ -388,49 +46,8 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9005",
             "RingsDbCardId": "05001",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 718,
-            "Categories": null
-        },
-        {
-            "Title": "Hunter of Lamedon",
-            "Slug": "Hunter-of-Lamedon-HoN",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Hunter-of-Lamedon.jpg",
-                "Stats": {
-                    "ResourceCost": "2",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "1"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Outlands."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you play Hunter of Lamedon from your hand, reveal the top card of your deck. If it is an Outlands card, add it to your hand. Otherwise, discard it."
-                ],
-                "Shadow": null,
-                "FlavorText": "From Lamedon, a few grim hillmen without a captain. -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 14,
-            "Quantity": 3,
-            "Artist": "Lorraine Schleter",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9045",
-            "RingsDbCardId": "05014",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 971,
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 18480,
             "Categories": null
         },
         {
@@ -471,8 +88,48 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9008",
             "RingsDbCardId": "05002",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 381,
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 9648,
+            "Categories": null
+        },
+        {
+            "Title": "Errand-rider",
+            "Slug": "Errand-rider-HoN",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Errand-rider.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Errand-rider to move 1 resource from the resource pool of a hero you control to another hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "For the people of the City used horses very little and they were seldom seen in their streets, save only those ridden by the errand-riders of their lord. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Anna Steinbauer",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9016",
+            "RingsDbCardId": "05003",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 507840,
             "Categories": null
         },
         {
@@ -511,8 +168,190 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9010",
             "RingsDbCardId": "05004",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 756,
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 122842,
+            "Categories": null
+        },
+        {
+            "Title": "Mutual Accord",
+            "Slug": "Mutual-Accord-HoN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Mutual-Accord.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Until the end of the phase, each Gondor card in play gains the Rohan trait, and each Rohan card in play gains the Gondor trait."
+                ],
+                "Shadow": null,
+                "FlavorText": "`These are the Rohirrim, as we name them, masters of horses... and have ever proved true to us, aiding us at need, and guarding our northern marches and the Gap of Rohan.` -Faramir, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9060",
+            "RingsDbCardId": "05005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 19969,
+            "Categories": null
+        },
+        {
+            "Title": "Wealth of Gondor",
+            "Slug": "Wealth-of-Gondor-HoN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Wealth-of-Gondor.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a Gondor hero. Add 1 resource to that hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "Kings made tombs more splendid than houses of the living, and counted old names in the rolls of their descent dearer than the names of sons. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9087",
+            "RingsDbCardId": "05006",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 210518,
+            "Categories": null
+        },
+        {
+            "Title": "Defender of Rammas",
+            "Slug": "Defender-of-Rammas-HoN",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Defender-of-Rammas.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "4",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "`And the Enemy must pay dearly for the crossing of the River.` -Denethor, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Marcia George-Bogdan",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9014",
+            "RingsDbCardId": "05007",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 598751,
+            "Categories": null
+        },
+        {
+            "Title": "Behind Strong Walls",
+            "Slug": "Behind-Strong-Walls-HoN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Behind-Strong-Walls.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Ready a defending Gondor character. That character gets +1 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "...seven walls of stone so strong and old that it seemed to have been not builded by carven by giants out of the bones of the earth. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Matt Smith",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9004",
+            "RingsDbCardId": "05008",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 244961,
+            "Categories": null
+        },
+        {
+            "Title": "Spear of the Citadel",
+            "Slug": "Spear-of-the-Citadel-HoN",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Spear-of-the-Citadel.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Tactics character. Restricted.",
+                    "Limit 1 per character.",
+                    "Response: After attached character is declared as a defender, deal 1 damage to the attacking enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Dan Masso",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9078",
+            "RingsDbCardId": "05009",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 298980,
             "Categories": null
         },
         {
@@ -552,8 +391,195 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9013",
             "RingsDbCardId": "05010",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 306,
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 68349,
+            "Categories": null
+        },
+        {
+            "Title": "Light the Beacons",
+            "Slug": "Light-the-Beacons-HoN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Light-the-Beacons.jpg",
+                "Stats": {
+                    "ResourceCost": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: All characters get +2 Defense and do not exhaust to defend until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`The beacons of Gondor are alight, calling for aid.` -Gandalf, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Titus Lunter",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9050",
+            "RingsDbCardId": "05011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 33447,
+            "Categories": null
+        },
+        {
+            "Title": "A Watchful Peace",
+            "Slug": "A-Watchful-Peace-HoN",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/A-Watchful-Peace.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Titus Lunter",
+            "HasErrata": true,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9002",
+            "RingsDbCardId": "05012",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 27502,
+            "Categories": null
+        },
+        {
+            "Title": "Blood of Númenor",
+            "Slug": "Blood-of-Numenor-HoN",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Blood-of-Númenor.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Gondor or Dúnedain hero.",
+                    "Action: Spend 1 resource from attached hero`s resource pool to give attached hero +1 Defense for each resource in its resource pool until the end of the phase. (Limit once per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Believe not that in the land of Gondor the blood of Numenor is spent, nor all its pride and dignity forgotten.` -Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9007",
+            "RingsDbCardId": "05013",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 192310,
+            "Categories": null
+        },
+        {
+            "Title": "Hunter of Lamedon",
+            "Slug": "Hunter-of-Lamedon-HoN",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Hunter-of-Lamedon.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Outlands."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Hunter of Lamedon from your hand, reveal the top card of your deck. If it is an Outlands card, add it to your hand. Otherwise, discard it."
+                ],
+                "Shadow": null,
+                "FlavorText": "From Lamedon, a few grim hillmen without a captain. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Lorraine Schleter",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9045",
+            "RingsDbCardId": "05014",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 130570,
+            "Categories": null
+        },
+        {
+            "Title": "Ithilien Tracker",
+            "Slug": "Ithilien-Tracker-HoN",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ithilien-Tracker.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Ithilien Tracker to lower the Threat of the next enemy added to the staging area to 0 until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Green gauntlets covered their hands, and their faces were hooded and masked with green, except for their eyes, which were very keen and bright. -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9048",
+            "RingsDbCardId": "05015",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 169135,
             "Categories": null
         },
         {
@@ -592,61 +618,29 @@
             "HasErrata": true,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9057",
             "RingsDbCardId": "05016",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 216,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 36874,
             "Categories": null
         },
         {
-            "Title": "Light the Beacons",
-            "Slug": "Light-the-Beacons-HoN",
+            "Title": "Ranger Spikes",
+            "Slug": "Ranger-Spikes-HoN",
             "IsUnique": false,
-            "CardType": "Event",
+            "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Light-the-Beacons.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ranger-Spikes.jpg",
                 "Stats": {
-                    "ResourceCost": "5"
+                    "ResourceCost": "2"
                 },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: All characters get +2 Defense and do not exhaust to defend until the end of the round."
+                "Traits": [
+                    "Trap."
                 ],
-                "Shadow": null,
-                "FlavorText": "`The beacons of Gondor are alight, calling for aid.` -Gandalf, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Heirs of Númenor",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Titus Lunter",
-            "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9050",
-            "RingsDbCardId": "05011",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 163,
-            "Categories": null
-        },
-        {
-            "Title": "A Watchful Peace",
-            "Slug": "A-Watchful-Peace-HoN",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/A-Watchful-Peace.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Response: After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck."
+                    "Play Ranger Spikes into the staging area unattached.If unattached, attach Ranger Spikes to the next eligible enemy that enters the staging area.Players do not make engagement checks against attached enemy. Attached enemy gets -2 Threat."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -654,48 +648,54 @@
             "Back": null,
             "CardSet": "Heirs of Númenor",
             "EncounterInfo": null,
-            "Number": 12,
+            "Number": 17,
             "Quantity": 3,
             "Artist": "Titus Lunter",
-            "HasErrata": true,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9002",
-            "RingsDbCardId": "05012",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 163,
+            "HasErrata": false,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9071",
+            "RingsDbCardId": "05017",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 376332,
             "Categories": null
         },
         {
-            "Title": "Mutual Accord",
-            "Slug": "Mutual-Accord-HoN",
+            "Title": "Envoy of Pelargir",
+            "Slug": "Envoy-of-Pelargir-HoN",
             "IsUnique": false,
-            "CardType": "Event",
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Leadership",
+            "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Mutual-Accord.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Envoy-of-Pelargir.jpg",
                 "Stats": {
-                    "ResourceCost": "0"
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Gondor."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Until the end of the phase, each Gondor card in play gains the Rohan trait, and each Rohan card in play gains the Gondor trait."
+                    "Response: After Envoy of Pelargir enters play, add 1 resource to a Gondor or Noble hero`s resource pool."
                 ],
                 "Shadow": null,
-                "FlavorText": "`These are the Rohirrim, as we name them, masters of horses... and have ever proved true to us, aiding us at need, and guarding our northern marches and the Gap of Rohan.` -Faramir, The Two Towers"
+                "FlavorText": null
             },
             "Back": null,
             "CardSet": "Heirs of Númenor",
             "EncounterInfo": null,
-            "Number": 5,
+            "Number": 18,
             "Quantity": 3,
-            "Artist": "Darek Zabrocki",
+            "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9060",
-            "RingsDbCardId": "05005",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 124,
+            "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9015",
+            "RingsDbCardId": "05018",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 688970,
             "Categories": null
         },
         {
@@ -2814,6 +2814,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Battle.",
                     "When Revealed: Attach Alcaron`s Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron`s Scroll to the staging area."
                 ],
                 "Shadow": null,
@@ -2992,6 +2993,8 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Siege. Archery X.",
+                    "X is the number of players in the game.",
                     "After this stage is completed advance to stage 4A (bypassing stage 3)."
                 ],
                 "Shadow": null,
@@ -3048,6 +3051,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "When Revealed: The first player takes contorl of all Ranger objectives in the staging area.",
                     "Enemies do not make engagement checks and cannot be optionally engaged."
                 ],
                 "Shadow": null,
@@ -3104,6 +3108,8 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "If any players threat is 37 or higher, Approaching Cair Andros gains Siege.",
+                    "Forced: At the end of each round, raise each player`s threat by 2.",
                     "If the players defeat this stage, they have won the game."
                 ],
                 "Shadow": null,
@@ -3279,6 +3285,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Battle.",
                     "Forced: After the players quest unsuccessfully, instead of raising threat each player must choose and discard 1 character he controls."
                 ],
                 "Shadow": null,
@@ -3337,6 +3344,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Siege.",
                     "Breakthrough at the Citadel adds 5 Threat to the staging area."
                 ],
                 "Shadow": null,
@@ -3395,6 +3403,9 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "Siege.",
+                    "When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.",
+                    "If the players have collected 4 or more victory points, The Last Battle gains Battle and loses Siege.",
                     "If the players defeat this stage, they have won the game."
                 ],
                 "Shadow": null,

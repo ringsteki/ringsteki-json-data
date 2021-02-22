@@ -43,80 +43,90 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "10140",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1334,
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 35239,
             "Categories": null
         },
         {
-            "Title": "Elven-light",
-            "Slug": "Elven-light-TDR",
-            "IsUnique": false,
-            "CardType": "Event",
+            "Title": "Éothain",
+            "Slug": "Eothain-TDR",
+            "IsUnique": true,
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Elven-light.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Éothain.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Rohan ally is discarded from play by a card effect, ready Éothain."
+                ],
+                "Shadow": null,
+                "FlavorText": "`We must hasten south, lord. Let us leave these wild folk to their fancies. Or let us bind them and take them to our king.`\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": null,
+            "Number": 141,
+            "Quantity": 3,
+            "Artist": "Glen Osterberger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10141",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 58080,
+            "Categories": null
+        },
+        {
+            "Title": "Sword of Númenor",
+            "Slug": "Sword-of-Numenor-TDR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Sword-of-Númenor.jpg",
                 "Stats": {
                     "ResourceCost": "1"
                 },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Elven-light can only be played from your discard pile.",
-                    "Action: Return Elven-light to your hand from your discard pile. Then, draw 1 card."
-                ],
-                "Shadow": null,
-                "FlavorText": "Then Aragorn was abashed, for he saw the elven-light in her eyes and the wisdom of many days...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm",
-            "EncounterInfo": null,
-            "Number": 145,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "abebff49-8219-4ae0-bd26-266db57bdfc3",
-            "RingsDbCardId": "10145",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 4750,
-            "Categories": null
-        },
-        {
-            "Title": "Sword-thain",
-            "Slug": "Sword-thain-TDR",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Sword-thain.jpg",
-                "Stats": {
-                    "ResourceCost": "4"
-                },
                 "Traits": [
-                    "Title."
+                    "Item.",
+                    "Weapon."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Restricted."
+                ],
                 "Text": [
-                    "Attach to a unique ally belonging to any sphere of influence.",
-                    "Attached character loses the ally card type and gains the hero card type."
+                    "Attach to a Dúnedain or Gondor hero. Restricted.",
+                    "Attached hero gets +1 Attack.",
+                    "Response: After attached hero participates in an attack that destroys an enemy with 5 or more printed hit points, exhaust Sword of Númenor to add 1 resource to attached hero`s resource pool."
                 ],
                 "Shadow": null,
-                "FlavorText": "`But why, lord, did you receive me as sword-thain, if not to stay by your side?`\r\n-Merry, The Return of the King"
+                "FlavorText": "...the flowing characters of Númenor glinted like fire upon the blade.\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Dread Realm",
             "EncounterInfo": null,
-            "Number": 149,
+            "Number": 142,
             "Quantity": 3,
-            "Artist": "Tomasz Jedruszek",
+            "Artist": "Romana Kendelic",
             "HasErrata": false,
-            "OctgnGuid": "59cd2c5f-1986-4065-ad2c-8423d6b200e2",
-            "RingsDbCardId": "10149",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 991,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10142",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 109963,
             "Categories": null
         },
         {
@@ -159,8 +169,78 @@
             "HasErrata": false,
             "OctgnGuid": "40efacf7-f3c1-434b-b31f-42b3721c90c0",
             "RingsDbCardId": "10143",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 738,
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 124044,
+            "Categories": null
+        },
+        {
+            "Title": "Hour of Wrath",
+            "Slug": "Hour-of-Wrath-TDR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Hour-of-Wrath.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a hero. Until the end of the phase, the chosen hero does not exhaust to attack or defend.",
+                    "Valour Action: Choose a player. Until the end of the phase, each of that player`s heroes do not exhaust to attack or defend."
+                ],
+                "Shadow": null,
+                "FlavorText": "These three were unscathed, for such was their fortune and the skill and might of their arms...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": null,
+            "Number": 144,
+            "Quantity": 3,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "f88c0606-5076-4df7-beed-a7182af0dece",
+            "RingsDbCardId": "10144",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 74027,
+            "Categories": null
+        },
+        {
+            "Title": "Elven-light",
+            "Slug": "Elven-light-TDR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Elven-light.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Elven-light can only be played from your discard pile.",
+                    "Action: Return Elven-light to your hand from your discard pile. Then, draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Then Aragorn was abashed, for he saw the elven-light in her eyes and the wisdom of many days...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": null,
+            "Number": 145,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "abebff49-8219-4ae0-bd26-266db57bdfc3",
+            "RingsDbCardId": "10145",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 761432,
             "Categories": null
         },
         {
@@ -195,8 +275,8 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "10146",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 714,
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 117468,
             "Categories": null
         },
         {
@@ -236,125 +316,8 @@
             "HasErrata": false,
             "OctgnGuid": "f9865446-f3a4-4a9f-bb1e-68565720511b",
             "RingsDbCardId": "10147",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 704,
-            "Categories": null
-        },
-        {
-            "Title": "Sword of Númenor",
-            "Slug": "Sword-of-Numenor-TDR",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Sword-of-Númenor.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Item.",
-                    "Weapon."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a Dúnedain or Gondor hero. Restricted.",
-                    "Attached hero gets +1 Attack.",
-                    "Response: After attached hero participates in an attack that destroys an enemy with 5 or more printed hit points, exhaust Sword of Númenor to add 1 resource to attached hero`s resource pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "...the flowing characters of Númenor glinted like fire upon the blade.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm",
-            "EncounterInfo": null,
-            "Number": 142,
-            "Quantity": 3,
-            "Artist": "Romana Kendelic",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "10142",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 562,
-            "Categories": null
-        },
-        {
-            "Title": "Hour of Wrath",
-            "Slug": "Hour-of-Wrath-TDR",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Hour-of-Wrath.jpg",
-                "Stats": {
-                    "ResourceCost": "4"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Choose a hero. Until the end of the phase, the chosen hero does not exhaust to attack or defend.",
-                    "Valour Action: Choose a player. Until the end of the phase, each of that player`s heroes do not exhaust to attack or defend."
-                ],
-                "Shadow": null,
-                "FlavorText": "These three were unscathed, for such was their fortune and the skill and might of their arms...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm",
-            "EncounterInfo": null,
-            "Number": 144,
-            "Quantity": 3,
-            "Artist": "Mark Behm",
-            "HasErrata": false,
-            "OctgnGuid": "f88c0606-5076-4df7-beed-a7182af0dece",
-            "RingsDbCardId": "10144",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 354,
-            "Categories": null
-        },
-        {
-            "Title": "Éothain",
-            "Slug": "Eothain-TDR",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Éothain.jpg",
-                "Stats": {
-                    "ResourceCost": "4",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After a Rohan ally is discarded from play by a card effect, ready Éothain."
-                ],
-                "Shadow": null,
-                "FlavorText": "`We must hasten south, lord. Let us leave these wild folk to their fancies. Or let us bind them and take them to our king.`\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm",
-            "EncounterInfo": null,
-            "Number": 141,
-            "Quantity": 3,
-            "Artist": "Glen Osterberger",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "10141",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 226,
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 126460,
             "Categories": null
         },
         {
@@ -391,7 +354,44 @@
             "OctgnGuid": "2e156c1b-5227-4dfd-a076-ee9b236c86da",
             "RingsDbCardId": "10148",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 100,
+            "RingsDbVotes": 21290,
+            "Categories": null
+        },
+        {
+            "Title": "Sword-thain",
+            "Slug": "Sword-thain-TDR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Sword-thain.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a unique ally belonging to any sphere of influence.",
+                    "Attached character loses the ally card type and gains the hero card type."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But why, lord, did you receive me as sword-thain, if not to stay by your side?`\r\n-Merry, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": null,
+            "Number": 149,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "59cd2c5f-1986-4065-ad2c-8423d6b200e2",
+            "RingsDbCardId": "10149",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 191167,
             "Categories": null
         },
         {

@@ -7,52 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Messenger of the King",
-            "Slug": "Messenger-of-the-King-TLoSo",
-            "IsUnique": false,
-            "CardType": "Contract",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Messenger-of-the-King-SideA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You cannot choose more than 2 heroes during setup.",
-                    "Setup: Choose a non-neutral unique ally from your deck and put it into play. Add the sum of that ally`s printed Willpower, Attack, Defense, and hit points to your starting threat. Then, flip this card over and attach it to that ally."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I am a messenger of the King,` he said. `You are speaking to the King`s friend, and one of the most renowned in all the lands of the West.`\r\n-Pippin, The Return of the King"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Attached ally loses the ally card type and gains the hero card type.",
-                    "Attached character cannot be readied more than once per phase.",
-                    "Messenger of the King is immune to card effects while attached character is in play. If attached character leaves play, remove Messenger of the King from the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Land of Sorrow",
-            "EncounterInfo": null,
-            "Number": 134,
-            "Quantity": 1,
-            "Artist": "Justin Gerard",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "22134",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 42,
-            "Categories": null
-        },
-        {
             "Title": "Gwaihir",
             "Slug": "Gwaihir-TLoSo",
             "IsUnique": true,
@@ -79,7 +33,7 @@
                 ],
                 "Text": [
                     "Ranged. Sentinel.",
-                    "Cannot have restrited attachements. Gwaihir does not ready during the refresh phase.",
+                    "Cannot have restricted attachments. Gwaihir does not ready during the refresh phase.",
                     "Response: After an Eagle ally enters or leaves play, ready Gwaihir. (Limit once per phase.)"
                 ],
                 "Shadow": null,
@@ -94,8 +48,93 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22108",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 963,
+            "Categories": null
+        },
+        {
+            "Title": "Hobbit Archer",
+            "Slug": "Hobbit-Archer-TLoSo",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Hobbit-Archer.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Archer."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "Hobbit Archer gets +1 Attack while attacking an enemy with a higher engagement cost thatn your threat."
+                ],
+                "Shadow": null,
+                "FlavorText": "`If you lay a finger on this farmer, or on anyone else, you will be shot at once.`\r\n-Merry, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": null,
+            "Number": 109,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22109",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 12340,
+            "Categories": null
+        },
+        {
+            "Title": "Red Book of Westmarch",
+            "Slug": "Red-Book-of-Westmarch-TLoSo",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Red-Book-of-Westmarch.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Hobbit hero. Restricted.",
+                    "While attached hero is committed to the quest, each Hobbit character gets +1 Willpower.",
+                    "Response: After you quest successfully, exhaust Red Book of Westmarch to add 1 resource to attached hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": null,
+            "Number": 110,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22110",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 20936,
             "Categories": null
         },
         {
@@ -134,8 +173,8 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22111",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 7382,
             "Categories": null
         },
         {
@@ -160,7 +199,7 @@
                     "Action: Discard 1 card from your hand to heal 1 damage from attached hero. Any player may trigger this effect."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "...behind him stood Galadriel, tall and white: a circlet of golden flowers was in her hair, and in her hand she held a hard, and she sang.\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Land of Sorrow",
@@ -171,8 +210,8 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22112",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 12316,
             "Categories": null
         },
         {
@@ -213,8 +252,42 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22113",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 15045,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo's Plan",
+            "Slug": "Bilbo's-Plan-TLoSo",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Bilbo's-Plan.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you attack and destroy an enemy, shuffle the encounter discard pile into the encounter deck and discard cards from the top until an enemy is discarded. Add that enemy to the staging area to discard a non-unique location with Threat equal to or less that that enemy`s Threat."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": null,
+            "Number": 114,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22114",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 2058,
             "Categories": null
         },
         {
@@ -252,8 +325,42 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22115",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 31734,
+            "Categories": null
+        },
+        {
+            "Title": "Smoke and Think",
+            "Slug": "Smoke-and-Think-TLoSo",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Smoke-and-Think.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Reduce the cost of the next card you play by 1 for each Pipe you control."
+                ],
+                "Shadow": null,
+                "FlavorText": "Merry smiled. `Well then,` he said, `if Strider will provide what is needed, I will smoke and think.`\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": null,
+            "Number": 116,
+            "Quantity": 3,
+            "Artist": "David Keen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22116",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 16758,
             "Categories": null
         },
         {
@@ -298,6 +405,909 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "22117",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 35538,
+            "Categories": null
+        },
+        {
+            "Title": "Ulwarth",
+            "Slug": "Ulwarth-TLoSo",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Ulwarth.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "3",
+                    "Attack": "4",
+                    "Defense": "1",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Easterling.",
+                    "Warden."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Only the engaged player can declare attackers or defenders against Ulwarth.",
+                    "Allies cannot be declared as attackers or defenders against Ulwarth."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 118,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22118",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lorgan",
+            "Slug": "Lorgan-TLoSo",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Lorgan.jpg",
+                "Stats": {
+                    "EngagementCost": "29",
+                    "Threat": "1",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Easterling.",
+                    "Warden."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Only the engaged player can declare attackers or defenders against Lorgan.",
+                    "Forced: After Lorgan attacks, raise each player`s threat by 1 (2 instead if this attack destroys a character."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 119,
+            "Quantity": 1,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22119",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Borlach",
+            "Slug": "Borlach-TLoSo",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Borlach.jpg",
+                "Stats": {
+                    "EngagementCost": "33",
+                    "Threat": "2",
+                    "Attack": "6",
+                    "Defense": "2",
+                    "HitPoints": "9"
+                },
+                "Traits": [
+                    "Easterling.",
+                    "Warden."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Only the engaged player can declare attackers or defenders against Borlach.",
+                    "Forced: After Borlach attacks and destroys a character, any excess damage must be assigned among characters you control."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 120,
+            "Quantity": 1,
+            "Artist": "Borja Pindado",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22120",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Barracks",
+            "Slug": "The-Barracks-TLoSo",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/The-Barracks.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Camp."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Forced: After The Barracks becomes the active location, add the enemy under it to the staging area. That enemy cannot take damage this round.",
+                    "Forced: When The Baracks is explored, the first player gains control of the objective ally it was guarding."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 121,
+            "Quantity": 1,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22121",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Slave Quarters",
+            "Slug": "Slave-Quarters-TLoSo",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Slave-Quarters.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Camp."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Forced: After Slave Quarters becomes the active location, the enemy under it engages the first player and makes an immediate attack.",
+                    "Forced: When Slave Quarters is explored, the first player gains control of the objective ally it was guarding."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 122,
+            "Quantity": 1,
+            "Artist": "Michael Edward Smith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22122",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Storehouse",
+            "Slug": "The-Storehouse-TLoSo",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/The-Storehouse.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Camp."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Forced: After The Storehouse becomes the active location, add the enemy under it to the staging area. That enemy gets +3 Attack and -30 engagement cost until the end of the round.",
+                    "Forced: When The Storehouse is explored, the first player gains control of the objective ally it was guarding."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 123,
+            "Quantity": 1,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22123",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Edrahil",
+            "Slug": "Edrahil-TLoSo",
+            "IsUnique": true,
+            "CardType": "Objective_Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Edrahil.jpg",
+                "Stats": {
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Captive.",
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Response: After Edrahil quests successfully, choose a player to draw 1 card.",
+                    "If Edrahil leaves play, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 124,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22124",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Arador",
+            "Slug": "Arador-TLoSo",
+            "IsUnique": true,
+            "CardType": "Objective_Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Arador.jpg",
+                "Stats": {
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Captive.",
+                    "Gondor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Response: After Arador is declared as a defender, ready him. (Limit once per round.)",
+                    "If Arador leaves play, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 125,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22125",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Farin",
+            "Slug": "Farin-TLoSo",
+            "IsUnique": true,
+            "CardType": "Objective_Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Farin.jpg",
+                "Stats": {
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Captive.",
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Response: After Farin is declared as an attacker against an enemy, deal 1 damage to an enemy engaged with a player.",
+                    "If Farin leaves play, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 126,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22126",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Easterling Guard",
+            "Slug": "Easterling-Guard-TLoSo",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Easterling-Guard.jpg",
+                "Stats": {
+                    "EngagementCost": "32",
+                    "Threat": "3",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [
+                    "Archery 2."
+                ],
+                "Text": [
+                    "Archery 2.",
+                    "When Revealed: Assign X damage among characters in play. X is the current archery total."
+                ],
+                "Shadow": "Shadow: Defending character cannot ready this round.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 127,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22127",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Nurn Slaver",
+            "Slug": "Nurn-Slaver-TLoSo",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Nurn-Slaver.jpg",
+                "Stats": {
+                    "EngagementCost": "23",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the number of Camp locations in the staging area is less than the number of players, Nurn Slavers gains surge."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each Camp location in the victory display.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 3,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 128,
+            "Quantity": 4,
+            "Artist": "Michael Edward Smith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22128",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Working Fields",
+            "Slug": "Working-Fields-TLoSo",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Working-Fields.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Plains."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Working Fields is in the staging area, characters cannot be healed.",
+                    "Travel: Each player deals 1 damage to a character he controls."
+                ],
+                "Shadow": null,
+                "FlavorText": "Neither he nor Frodo knew anything of the great slave-worked fields away south in this wide realm...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 129,
+            "Quantity": 3,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22129",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Watch Tower",
+            "Slug": "Watch-Tower-TLoSo",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Watch-Tower.jpg",
+                "Stats": {
+                    "Threat": "X",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Plains."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Watch Tower is in the staging area, it gains archery X.",
+                    "X is 1 more than the number of Captive objective allies the players control.",
+                    "Travel: Reveal the top card of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 130,
+            "Quantity": 3,
+            "Artist": "Sarah Lindstrom",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22130",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Overseer's Whip",
+            "Slug": "Overseer's-Whip-TLoSo",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Overseer's-Whip.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Easterling."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.",
+                    "While attached to an enemy, counts as a Weapon attachment with the text: `Forced: When attached enemy attacks, deal 1 damage to an exhausted character you control.",
+                    "When Revealed: Attach to the Easterling enemy with the lowest engagement cost."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 131,
+            "Quantity": 2,
+            "Artist": "Matt Hansen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22131",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Cruelty of Mordor",
+            "Slug": "Cruelty-of-Mordor-TLoSo",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Cruelty-of-Mordor.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player deals 1 damage to a character he controls. Then, each player must choose: either deal 1 damage to each damaged character you control, or raise your threat by 1 for each damaged character you control."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Defense until the end of the phase.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 132,
+            "Quantity": 3,
+            "Artist": "Michael Edward Smith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22132",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Broken Captives",
+            "Slug": "Broken-Captives-TLoSo",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Broken-Captives.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Exhaust each damaged character. If no characters are exhausted by this effect, Broken Captives gains surge and Doomed 1."
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Warden, it makes an additional attack against you after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 133,
+            "Quantity": 2,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22133",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Messenger of the King",
+            "Slug": "Messenger-of-the-King-TLoSo",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Messenger-of-the-King-SideA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You cannot choose more than 2 heroes during setup.",
+                    "Setup: Choose a non-neutral unique ally from your deck and put it into play. Add the sum of that ally`s printed Willpower, Attack, Defense, and hit points to your starting threat. Then, flip this card over and attach it to that ally."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am a messenger of the King,` he said. `You are speaking to the King`s friend, and one of the most renowned in all the lands of the West.`\r\n-Pippin, The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Attached ally loses the ally card type and gains the hero card type.",
+                    "Attached character cannot be readied more than once per phase.",
+                    "Messenger of the King is immune to card effects while attached character is in play. If attached character leaves play, remove Messenger of the King from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": null,
+            "Number": 134,
+            "Quantity": 1,
+            "Artist": "Justin Gerard",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22134",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 4241,
+            "Categories": null
+        },
+        {
+            "Title": "Slaves of the Dark Lord",
+            "Slug": "Slaves-of-the-Dark-Lord-TLoSo",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Slaves-of-the-Dark-Lord-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add each Camp location to the staging area. Attach a random Captive objective-ally to each Camp location as a guarded objective. Place 1 random Warden enemy faceup (but not in play) under each Camp location. Shuffle the encounter deck and discard cards from the top until X locations are discarded, where X is 1 less than the number of players. Add each location discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve decided to risk everything to rescue Ulchor`s captives from slavery."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Slaves-of-the-Dark-Lord-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Camp location is immune to player card effects, and player cannot travel there while a Warden enemy is in play.",
+                    "Forced: At the end of the round, raise each player`s threat by 1 for each Camp location in the staging area.",
+                    "This stage cannot be defeated unless players control all 3 Captive objective-allies."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 135,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22135",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lead the Revolt",
+            "Slug": "Lead-the-Revolt-TLoSo",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Lead-the-Revolt-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player returns each Warden enemy in the victory display to the staging area. Each other player discards cards from the top of the encounter deck until he discards an enemy and adds that enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve freed Ulchor`s slaves, but his lieutenants are advancing with a garrison to recapture them. You must lead the prisoners in a desperate fight to win their freedom."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Lead-the-Revolt-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets +10 quest points per player.",
+                    "Forced: After a player commits characters to the quest, if he is not engaged with a Warden enemy he must reveal an encounter card.",
+                    "This stage cannot be defeated while a Warden enemy is in play. When this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 136,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22136",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

@@ -7,77 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Drinking Song",
-            "Slug": "Drinking-Song-MG",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Drinking-Song.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Count the number of cards in your hand and shuffle your hand into your deck. Then, draw an equal number of cards. Draw 1 additional card if you control a unique Hobbit character."
-                ],
-                "Shadow": null,
-                "FlavorText": "Ho! Ho! Ho! to the bottle I go\r\nTo heal my heart and drown my woe.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 116,
-            "Quantity": 3,
-            "Artist": "Romana Kendelic",
-            "HasErrata": false,
-            "OctgnGuid": "3502e51b-bc7a-4e8c-81c7-dfc7b3c09cbc",
-            "RingsDbCardId": "19116",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 722,
-            "Categories": null
-        },
-        {
-            "Title": "The Shirefolk",
-            "Slug": "The-Shirefolk-MG",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Shirefolk.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Play only if each of your heroes is a Hobbit.",
-                    "Action: Reduce your threat by 4."
-                ],
-                "Shadow": null,
-                "FlavorText": "`If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.`\r\n-Thorin Oakenshield, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 121,
-            "Quantity": 3,
-            "Artist": "Carmen Cianelti",
-            "HasErrata": false,
-            "OctgnGuid": "35acc13d-fc10-458f-bacb-99f4979956ce",
-            "RingsDbCardId": "19121",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 454,
-            "Categories": null
-        },
-        {
             "Title": "Bilbo Baggins",
             "Slug": "Bilbo-Baggins-MG",
             "IsUnique": true,
@@ -115,7 +44,82 @@
             "OctgnGuid": "3844dc9e-8235-4eda-8799-e18fe2af44d4",
             "RingsDbCardId": "19112",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 54,
+            "RingsDbVotes": 1876,
+            "Categories": null
+        },
+        {
+            "Title": "Greenwood Defender",
+            "Slug": "Greenwood-Defender-MG",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Greenwood-Defender.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Greenwood Defender enters play, it does not exhaust to defend until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "...after the coming of Men they took ever more and more to the gloaming and the dusk.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 113,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "be817106-0e2f-4fa2-a3ca-35c0dc21671f",
+            "RingsDbCardId": "19113",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 33233,
+            "Categories": null
+        },
+        {
+            "Title": "Elf Guide",
+            "Slug": "Elf-Guide-MG",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Elf-Guide.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Return a Silvan ally you control to your hand to choose a hero. Add 1 resource to that hero`s pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 114,
+            "Quantity": 3,
+            "Artist": "John Howe",
+            "HasErrata": false,
+            "OctgnGuid": "f1c81942-39e6-4107-ba02-e6d0b68e15be",
+            "RingsDbCardId": "19114",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 22794,
             "Categories": null
         },
         {
@@ -154,89 +158,44 @@
             "HasErrata": false,
             "OctgnGuid": "3ea6d276-cdff-4520-a590-9c79f57e5791",
             "RingsDbCardId": "19115",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 291,
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 89563,
             "Categories": null
         },
         {
-            "Title": "Round Shield",
-            "Slug": "Round-Shield-MG",
+            "Title": "Drinking Song",
+            "Slug": "Drinking-Song-MG",
             "IsUnique": false,
-            "CardType": "Attachment",
+            "CardType": "Event",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Round-Shield.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Drinking-Song.jpg",
                 "Stats": {
                     "ResourceCost": "0"
                 },
                 "Traits": [
-                    "Item.",
-                    "Armor."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a character. Restricted.",
-                    "Response: After a shadow effect is triggered during combat, exhaust Round Shield to give attached character +2 Defense for this attack."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 118,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
-            "HasErrata": false,
-            "OctgnGuid": "7ebbd831-3bd6-4d40-9d86-4b0a4e85ed57",
-            "RingsDbCardId": "19118",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 244,
-            "Categories": null
-        },
-        {
-            "Title": "Erebor Toymaker",
-            "Slug": "Erebor-Toymaker-MG",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Erebor-Toymaker.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "0",
-                    "Defense": "0",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Craftsman."
+                    "Song."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After you play Erebor Toymaker from your hand, reduce the cost of the next attachment played this phase by 2."
+                    "Action: Count the number of cards in your hand and shuffle your hand into your deck. Then, draw an equal number of cards. Draw 1 additional card if you control a unique Hobbit character."
                 ],
                 "Shadow": null,
-                "FlavorText": "There were toys the like of which they had never seen before, all beautiful and some obviously magical.\r\n-The Fellowship of the Ring"
+                "FlavorText": "Ho! Ho! Ho! to the bottle I go\r\nTo heal my heart and drown my woe.\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Mount Gundabad",
             "EncounterInfo": null,
-            "Number": 119,
+            "Number": 116,
             "Quantity": 3,
-            "Artist": "Ryan Valle",
+            "Artist": "Romana Kendelic",
             "HasErrata": false,
-            "OctgnGuid": "8b68c5b5-1e86-487f-9fca-3b47ce6c6a9d",
-            "RingsDbCardId": "19119",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 191,
+            "OctgnGuid": "3502e51b-bc7a-4e8c-81c7-dfc7b3c09cbc",
+            "RingsDbCardId": "19116",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 188765,
             "Categories": null
         },
         {
@@ -279,8 +238,89 @@
             "HasErrata": false,
             "OctgnGuid": "4c23f4d0-fbf4-4c07-bb1d-0f5507647e0f",
             "RingsDbCardId": "19117",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 177,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 50018,
+            "Categories": null
+        },
+        {
+            "Title": "Round Shield",
+            "Slug": "Round-Shield-MG",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Round-Shield.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a character. Restricted.",
+                    "Response: After a shadow effect is triggered during combat, exhaust Round Shield to give attached character +2 Defense for this attack."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 118,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "7ebbd831-3bd6-4d40-9d86-4b0a4e85ed57",
+            "RingsDbCardId": "19118",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 82666,
+            "Categories": null
+        },
+        {
+            "Title": "Erebor Toymaker",
+            "Slug": "Erebor-Toymaker-MG",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Erebor-Toymaker.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Craftsman."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Erebor Toymaker from your hand, reduce the cost of the next attachment played this phase by 2."
+                ],
+                "Shadow": null,
+                "FlavorText": "There were toys the like of which they had never seen before, all beautiful and some obviously magical.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Mount Gundabad",
+            "EncounterInfo": null,
+            "Number": 119,
+            "Quantity": 3,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": "8b68c5b5-1e86-487f-9fca-3b47ce6c6a9d",
+            "RingsDbCardId": "19119",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 47597,
             "Categories": null
         },
         {
@@ -319,83 +359,43 @@
             "HasErrata": false,
             "OctgnGuid": "4c77565a-475e-4f57-9360-8f0a2916607f",
             "RingsDbCardId": "19120",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 172,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 46883,
             "Categories": null
         },
         {
-            "Title": "Greenwood Defender",
-            "Slug": "Greenwood-Defender-MG",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Greenwood-Defender.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "0",
-                    "Attack": "0",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Silvan.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Greenwood Defender enters play, it does not exhaust to defend until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": "...after the coming of Men they took ever more and more to the gloaming and the dusk.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Mount Gundabad",
-            "EncounterInfo": null,
-            "Number": 113,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "be817106-0e2f-4fa2-a3ca-35c0dc21671f",
-            "RingsDbCardId": "19113",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 123,
-            "Categories": null
-        },
-        {
-            "Title": "Elf Guide",
-            "Slug": "Elf-Guide-MG",
+            "Title": "The Shirefolk",
+            "Slug": "The-Shirefolk-MG",
             "IsUnique": false,
             "CardType": "Event",
             "CardSubType": "None",
-            "Sphere": "Leadership",
+            "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/Elf-Guide.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Mount-Gundabad/The-Shirefolk.jpg",
                 "Stats": {
                     "ResourceCost": "0"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Action: Return a Silvan ally you control to your hand to choose a hero. Add 1 resource to that hero`s pool."
+                    "Play only if each of your heroes is a Hobbit.",
+                    "Action: Reduce your threat by 4."
                 ],
                 "Shadow": null,
-                "FlavorText": "...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows.\r\n-The Fellowship of the Ring"
+                "FlavorText": "`If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.`\r\n-Thorin Oakenshield, The Hobbit"
             },
             "Back": null,
             "CardSet": "Mount Gundabad",
             "EncounterInfo": null,
-            "Number": 114,
+            "Number": 121,
             "Quantity": 3,
-            "Artist": "John Howe",
+            "Artist": "Carmen Cianelti",
             "HasErrata": false,
-            "OctgnGuid": "f1c81942-39e6-4107-ba02-e6d0b68e15be",
-            "RingsDbCardId": "19114",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 83,
+            "OctgnGuid": "35acc13d-fc10-458f-bacb-99f4979956ce",
+            "RingsDbCardId": "19121",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 120540,
             "Categories": null
         },
         {

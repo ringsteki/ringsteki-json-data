@@ -7,42 +7,43 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "A Burning Brand",
-            "Slug": "A-Burning-Brand-CatC",
-            "IsUnique": false,
-            "CardType": "Attachment",
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-CatC",
+            "IsUnique": true,
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/A-Burning-Brand.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Frodo-Baggins.jpg",
                 "Stats": {
-                    "ResourceCost": "2"
+                    "ThreatCost": "7",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
                 },
                 "Traits": [
-                    "Item."
+                    "Hobbit."
                 ],
-                "Keywords": [
-                    "Restricted."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Attach to a Lore character. Restricted.",
-                    "Response: Exhaust A Burning Brand to cancel a shadow effect just triggered during an attack that attached character is defending."
+                    "Response: After Frodo Baggins is damaged, cancel the damage and instead raise your threat by the amount of damage he would have been dealt. (Limit once per phase.)"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Keep close to the fire, with your faces outward!` cried Strider. `Keep some of the longer sticks ready in your hands.` -The Fellowship of the Ring"
+                "FlavorText": "Frodo began to feel restless, and the old paths seemed too well-trodden. he looked at maps and wondered what lay beyond their edges...\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Conflict at the Carrock",
             "EncounterInfo": null,
-            "Number": 33,
-            "Quantity": 3,
-            "Artist": "Toni Justamante Jacobs",
-            "HasErrata": true,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9010",
-            "RingsDbCardId": "02033",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 4456,
+            "Number": 25,
+            "Quantity": 1,
+            "Artist": "John Stanko",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9001",
+            "RingsDbCardId": "02025",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 12127,
             "Categories": null
         },
         {
@@ -79,202 +80,8 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "02026",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 4248,
-            "Categories": null
-        },
-        {
-            "Title": "Song of Wisdom",
-            "Slug": "Song-of-Wisdom-CatC",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Song-of-Wisdom.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Song."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains a Lore resource icon."
-                ],
-                "Shadow": null,
-                "FlavorText": "It sit beside the fire and think\r\nof all that I have seen,\r\nof meadow-flowers and butterflies\r\nin summers that have been\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 34,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9025",
-            "RingsDbCardId": "02034",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 2245,
-            "Categories": null
-        },
-        {
-            "Title": "Éomund",
-            "Slug": "Eomund-CatC",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Éomund.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Rohan."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Éomund leaves play, ready all Rohan characters in play."
-                ],
-                "Shadow": null,
-                "FlavorText": "`You I have not seen before, for you are young, but I have spoken with Éomund your father...` -Aragorn, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 30,
-            "Quantity": 3,
-            "Artist": "Katherine Dinger",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "02030",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1341,
-            "Categories": null
-        },
-        {
-            "Title": "Frodo Baggins",
-            "Slug": "Frodo-Baggins-CatC",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Frodo-Baggins.jpg",
-                "Stats": {
-                    "ThreatCost": "7",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Hobbit."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Frodo Baggins is damaged, cancel the damage and instead raise your threat by the amount of damage he would have been dealt. (Limit once per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "Frodo began to feel restless, and the old paths seemed too well-trodden. he looked at maps and wondered what lay beyond their edges... -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 25,
-            "Quantity": 1,
-            "Artist": "John Stanko",
-            "HasErrata": false,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9001",
-            "RingsDbCardId": "02025",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 615,
-            "Categories": null
-        },
-        {
-            "Title": "Longbeard Map-Maker",
-            "Slug": "Longbeard-Map-Maker-CatC",
-            "IsUnique": false,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Longbeard-Map-Maker.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Spend 1 Lore resource to give Longbeard Map-Maker +1 Willpower until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "On the table in the light of a big lamp with a red shade he spread a piece of parchment rather like a map. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 32,
-            "Quantity": 3,
-            "Artist": "Andrew Silver",
-            "HasErrata": false,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9014",
-            "RingsDbCardId": "02032",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 791,
-            "Categories": null
-        },
-        {
-            "Title": "Born Aloft",
-            "Slug": "Born-Aloft-CatC",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Born-Aloft.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Condition."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to an ally.",
-                    "Action: Discard Born Aloft from play to return attached ally to its owner`s hand."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Very well,` said Gandalf. `Take us where and as far as you will!` -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 29,
-            "Quantity": 3,
-            "Artist": "Salvador Trakal",
-            "HasErrata": false,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9007",
-            "RingsDbCardId": "02029",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 655,
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 626180,
             "Categories": null
         },
         {
@@ -307,45 +114,8 @@
             "HasErrata": false,
             "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9024",
             "RingsDbCardId": "02027",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 380,
-            "Categories": null
-        },
-        {
-            "Title": "Nor am I a Stranger",
-            "Slug": "Nor-am-I-a-Stranger-CatC",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Nor-am-I-a-Stranger.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a character.",
-                    "Attached character gains the Rohan trait."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Nor indeed am I a stranger: for I have been in this land before, more than once, and ridden with the host of the Rohirrim, though under other name and in other guise.` -Aragorn, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock",
-            "EncounterInfo": null,
-            "Number": 31,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9018",
-            "RingsDbCardId": "02031",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 270,
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 62266,
             "Categories": null
         },
         {
@@ -384,8 +154,238 @@
             "HasErrata": false,
             "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9006",
             "RingsDbCardId": "02028",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 202,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 27682,
+            "Categories": null
+        },
+        {
+            "Title": "Born Aloft",
+            "Slug": "Born-Aloft-CatC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Born-Aloft.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to an ally.",
+                    "Action: Discard Born Aloft from play to return attached ally to its owner`s hand."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Very well,` said Gandalf. `Take us where and as far as you will!` -The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Salvador Trakal",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9007",
+            "RingsDbCardId": "02029",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 70443,
+            "Categories": null
+        },
+        {
+            "Title": "Éomund",
+            "Slug": "Eomund-CatC",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Éomund.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Éomund leaves play, ready all Rohan characters in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "`You I have not seen before, for you are young, but I have spoken with Éomund your father...` -Aragorn, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 3,
+            "Artist": "Katherine Dinger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02030",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 210688,
+            "Categories": null
+        },
+        {
+            "Title": "Nor am I a Stranger",
+            "Slug": "Nor-am-I-a-Stranger-CatC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Nor-am-I-a-Stranger.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.",
+                    "Attached character gains the Rohan trait."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Nor indeed am I a stranger: for I have been in this land before, more than once, and ridden with the host of the Rohirrim, though under other name and in other guise.` -Aragorn, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 31,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9018",
+            "RingsDbCardId": "02031",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 40557,
+            "Categories": null
+        },
+        {
+            "Title": "Longbeard Map-Maker",
+            "Slug": "Longbeard-Map-Maker-CatC",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Longbeard-Map-Maker.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Lore resource to give Longbeard Map-Maker +1 Willpower until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "On the table in the light of a big lamp with a red shade he spread a piece of parchment rather like a map. -The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Andrew Silver",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9014",
+            "RingsDbCardId": "02032",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 89924,
+            "Categories": null
+        },
+        {
+            "Title": "A Burning Brand",
+            "Slug": "A-Burning-Brand-CatC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/A-Burning-Brand.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Lore character. Restricted.",
+                    "Response: Exhaust A Burning Brand to cancel a shadow effect just triggered during an attack that attached character is defending."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Keep close to the fire, with your faces outward!` cried Strider. `Keep some of the longer sticks ready in your hands.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 33,
+            "Quantity": 3,
+            "Artist": "Toni Justamante Jacobs",
+            "HasErrata": true,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9010",
+            "RingsDbCardId": "02033",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 693296,
+            "Categories": null
+        },
+        {
+            "Title": "Song of Wisdom",
+            "Slug": "Song-of-Wisdom-CatC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock/Song-of-Wisdom.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Attached hero gains a Lore resource icon."
+                ],
+                "Shadow": null,
+                "FlavorText": "It sit beside the fire and think\r\nof all that I have seen,\r\nof meadow-flowers and butterflies\r\nin summers that have been\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "51223bd0-ffd1-11df-a976-0801202c9025",
+            "RingsDbCardId": "02034",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 333945,
             "Categories": null
         },
         {
@@ -474,6 +474,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
+                    "When Revealed: Place the unique Troll cards previously set aside into the staging area.",
                     "Players cannot defeat this stage if there are any Troll enemies in play."
                 ],
                 "Shadow": null,

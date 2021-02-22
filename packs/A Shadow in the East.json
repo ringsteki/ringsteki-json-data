@@ -7,49 +7,45 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Fellowship",
-            "Slug": "Fellowship-ASitE",
-            "IsUnique": false,
-            "CardType": "Contract",
+            "Title": "The One Ring",
+            "Slug": "The-One-Ring-ASitE",
+            "IsUnique": true,
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Fellowship-SideA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-One-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Ring.",
+                    "Master."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
                 "Text": [
-                    "You cannot play non-unique allies or put non-unique allies into play.",
-                    "Forced: When you control exactly 9 unique characters, flip this card over."
+                    "Restricted. Immune to non-Master card effects.",
+                    "Setup: Attach to a hero you control and search your deck for a Master card. Add it to your hand and shuffle your deck. Your threat elimination level is reduced by 5.",
+                    "If The One Ring leaves play, the players lose the game."
                 ],
                 "Shadow": null,
                 "FlavorText": null
             },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You cannot play allies or put allies into play.",
-                    "Each character you control gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Forced: After a character you control leaves play, flip this card over."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
+            "Back": null,
             "CardSet": "A Shadow in the East",
             "EncounterInfo": null,
-            "Number": 74,
+            "Number": 1,
             "Quantity": 1,
-            "Artist": "Leanna Crossan",
+            "Artist": "Torbjörn Källström",
             "HasErrata": false,
-            "OctgnGuid": "cf207eaa-2897-430e-9988-c557173055b5",
-            "RingsDbCardId": "21074",
+            "OctgnGuid": "423e9efe-7908-4c04-97bd-f4a826081c9f",
+            "RingsDbCardId": "21001",
             "RingsDbPopularity": 5,
-            "RingsDbVotes": 141,
+            "RingsDbVotes": 85090,
             "Categories": null
         },
         {
@@ -88,128 +84,8 @@
             "HasErrata": false,
             "OctgnGuid": "f733522a-bcdd-466c-9565-0b4cba58701b",
             "RingsDbCardId": "21002",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 90,
-            "Categories": null
-        },
-        {
-            "Title": "Sméagol",
-            "Slug": "Smeagol-ASitE",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Sméagol.jpg",
-                "Stats": {
-                    "ThreatCost": "3",
-                    "Willpower": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gollum."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot have attachments.",
-                    "Setup: Shuffle 2 copies of Stinker into the encounter deck.",
-                    "Response: After you travel to a location, raise your threat by 1 to draw 1 card."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 72,
-            "Quantity": 1,
-            "Artist": "Martin de Diego Sádaba",
-            "HasErrata": false,
-            "OctgnGuid": "aed43197-5067-4bfe-9a52-95ada03f3b2c",
-            "RingsDbCardId": "21072",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 36,
-            "Categories": null
-        },
-        {
-            "Title": "The Master Ring",
-            "Slug": "The-Master-Ring-ASitE",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Master-Ring.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: Exhaust The One Ring and raise your threat by 1 to cancel the effects of an encounter card just revealed from the encounter deck and discard that card. Then, reveal an encounter card."
-                ],
-                "Shadow": null,
-                "FlavorText": "`If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire.`\r\n-Frodo, The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Marius Bota",
-            "HasErrata": false,
-            "OctgnGuid": "d56de2f3-06cc-488e-aeea-e68f1cedf0c0",
-            "RingsDbCardId": "21009",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 188,
-            "Categories": null
-        },
-        {
-            "Title": "The One Ring",
-            "Slug": "The-One-Ring-ASitE",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-One-Ring.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Ring.",
-                    "Master."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Restricted. Immune to non-Master card effects.",
-                    "Setup: Attach to a hero you control and search your deck for a Master card. Add it to your hand and shuffle your deck. Your threat elimination level is reduced by 5.",
-                    "If The One Ring leaves play, the players lose the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Torbjörn Källström",
-            "HasErrata": false,
-            "OctgnGuid": "423e9efe-7908-4c04-97bd-f4a826081c9f",
-            "RingsDbCardId": "21001",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 164,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 4295,
             "Categories": null
         },
         {
@@ -248,8 +124,8 @@
             "HasErrata": false,
             "OctgnGuid": "e730d8cc-b97c-40b3-b16b-2efcba1f2e07",
             "RingsDbCardId": "21003",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 155,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 52803,
             "Categories": null
         },
         {
@@ -289,80 +165,8 @@
             "HasErrata": false,
             "OctgnGuid": "835ad72c-6da5-4ddf-9447-1d0fa3746096",
             "RingsDbCardId": "21004",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 139,
-            "Categories": null
-        },
-        {
-            "Title": "The Ruling Ring",
-            "Slug": "The-Ruling-Ring-ASitE",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ruling-Ring.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Combat Action: Exhaust The One Ring and raise your threat by 1 to choose a non-Nazgul enemy engaged with you. Until the end of the phase, that enemy cannot attack you."
-                ],
-                "Shadow": null,
-                "FlavorText": "`He vanished. I have never seen such a thing happen before...`\r\n-Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Lukasz Jaskolski",
-            "HasErrata": false,
-            "OctgnGuid": "1bcd39f5-8b3a-4cfb-8cf4-f651a87f2c6f",
-            "RingsDbCardId": "21010",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 126,
-            "Categories": null
-        },
-        {
-            "Title": "The Ring of Power",
-            "Slug": "The-Ring-of-Power-ASitE",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ring-of-Power.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Master."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust The One Ring and raise your threat by 1 to ready the hero with The One Ring Attached. That hero gets +1 Willpower, +1 Attack, and +1 Defense until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "`And behold! in our need chance brings to light the Ring of Power.`\r\n-Boromir, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "A Shadow in the East",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Echo Chernik",
-            "HasErrata": false,
-            "OctgnGuid": "db733a56-9d85-4a9b-bdbf-e1aa5770a125",
-            "RingsDbCardId": "21011",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 109,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 54551,
             "Categories": null
         },
         {
@@ -403,8 +207,8 @@
             "HasErrata": false,
             "OctgnGuid": "f43d5b83-4136-4be8-af89-71f883f32563",
             "RingsDbCardId": "21005",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 72,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 22819,
             "Categories": null
         },
         {
@@ -433,7 +237,7 @@
                 ],
                 "Text": [
                     "Ranged.",
-                    "Response: After Derufin participates in an attack which destroys an enemy engaged with a player, discard Derufin to reduce the engaged player`s threat by X, where X is the destroyed enemy`s printed Threat."
+                    "Response: After Derufin participates in an attack that destroys an enemy engaged with a player, discard Derufin to reduce the engaged player`s threat by X, where X is the destroyed enemy`s printed Threat."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -447,8 +251,8 @@
             "HasErrata": false,
             "OctgnGuid": "dcdbd457-86bb-4481-8ce0-e30f04aa35f5",
             "RingsDbCardId": "21006",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 49,
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 23407,
             "Categories": null
         },
         {
@@ -482,7 +286,7 @@
             "OctgnGuid": "91f9cf7d-d590-4812-af95-33d520757a1b",
             "RingsDbCardId": "21007",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 41,
+            "RingsDbVotes": 7884,
             "Categories": null
         },
         {
@@ -520,7 +324,115 @@
             "OctgnGuid": "639a4814-6a8e-4d7d-b589-fbbf22c78df2",
             "RingsDbCardId": "21008",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 40,
+            "RingsDbVotes": 8926,
+            "Categories": null
+        },
+        {
+            "Title": "The Master Ring",
+            "Slug": "The-Master-Ring-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Master-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust The One Ring and raise your threat by 1 to cancel the effects of an encounter card just revealed from the encounter deck and discard that card. Then, reveal an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire.`\r\n-Frodo, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "d56de2f3-06cc-488e-aeea-e68f1cedf0c0",
+            "RingsDbCardId": "21009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 46888,
+            "Categories": null
+        },
+        {
+            "Title": "The Ruling Ring",
+            "Slug": "The-Ruling-Ring-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ruling-Ring.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Exhaust The One Ring and raise your threat by 1 to choose a non-Nazgul enemy engaged with you. Until the end of the phase, that enemy cannot attack you."
+                ],
+                "Shadow": null,
+                "FlavorText": "`He vanished. I have never seen such a thing happen before...`\r\n-Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "1bcd39f5-8b3a-4cfb-8cf4-f651a87f2c6f",
+            "RingsDbCardId": "21010",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 33084,
+            "Categories": null
+        },
+        {
+            "Title": "The Ring of Power",
+            "Slug": "The-Ring-of-Power-ASitE",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Ring-of-Power.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Master."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust The One Ring and raise your threat by 1 to ready the hero with The One Ring Attached. That hero gets +1 Willpower, +1 Attack, and +1 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`And behold! in our need chance brings to light the Ring of Power.`\r\n-Boromir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Echo Chernik",
+            "HasErrata": false,
+            "OctgnGuid": "db733a56-9d85-4a9b-bdbf-e1aa5770a125",
+            "RingsDbCardId": "21011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 29885,
             "Categories": null
         },
         {
@@ -3100,6 +3012,48 @@
             "Categories": null
         },
         {
+            "Title": "Sméagol",
+            "Slug": "Smeagol-ASitE",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Sméagol.jpg",
+                "Stats": {
+                    "ThreatCost": "3",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gollum."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.",
+                    "Setup: Shuffle 2 copies of Stinker into the encounter deck.",
+                    "Response: After you travel to a location, raise your threat by 1 to draw 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Martin de Diego Sádaba",
+            "HasErrata": false,
+            "OctgnGuid": "aed43197-5067-4bfe-9a52-95ada03f3b2c",
+            "RingsDbCardId": "21072",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1603,
+            "Categories": null
+        },
+        {
             "Title": "Gollum",
             "Slug": "Gollum-ASitE",
             "IsUnique": true,
@@ -3145,6 +3099,52 @@
             "RingsDbCardId": "21073",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fellowship",
+            "Slug": "Fellowship-ASitE",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Fellowship-SideA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You cannot play non-unique allies or put non-unique allies into play.",
+                    "Forced: When you control exactly 9 unique characters, flip this card over."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You cannot play allies or put allies into play.",
+                    "Each character you control gets +1 Willpower, +1 Attack, and +1 Defense.",
+                    "Forced: After a character you control leaves play, flip this card over."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": null,
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "cf207eaa-2897-430e-9988-c557173055b5",
+            "RingsDbCardId": "21074",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 4792,
             "Categories": null
         },
         {

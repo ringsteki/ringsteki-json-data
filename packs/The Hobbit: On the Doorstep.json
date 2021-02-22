@@ -7,477 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "King Under the Mountain",
-            "Slug": "King-Under-the-Mountain-THOtD",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/King-Under-the-Mountain.jpg",
-                "Stats": {
-                    "ResourceCost": "2"
-                },
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a Dwarf hero.",
-                    "Action: Exhaust King Under the Mountain to look at the top 2 cards of your deck. Add 1 to your hand and discard the other."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Long ago in my grandfather Thror`s time our family was driven out of the far North, and came back with all their wealth and tools to this Mountain on the map.` -Thorin, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 18,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "9152834a-5355-42ba-9592-1a3c1940d1a8",
-            "RingsDbCardId": "132018",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1540,
-            "Categories": null
-        },
-        {
-            "Title": "Expert Treasure-hunter",
-            "Slug": "Expert-Treasure-hunter-THOtD",
-            "IsUnique": false,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Expert-Treasure-hunter.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Skill."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero. Limit 1 per hero.",
-                    "Response: After attached hero quests successfully, name a card type and discard the top card of your deck. If the discarded card is the named type, take it into your hand."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 17,
-            "Quantity": 3,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": true,
-            "OctgnGuid": "2d550e71-f2a6-41f2-8aac-4533a965eb71",
-            "RingsDbCardId": "132017",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1127,
-            "Categories": null
-        },
-        {
-            "Title": "Glóin",
-            "Slug": "Gloin-THOtD",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Glóin.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While you control at least 5 Dwarf characters, Glóin gains: `Response: After you play Glóin from your hand, choose a hero. Add 2 resources to that hero`s resource pool.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "Glóin lit several more torches, and then they all crept out, one by one... - The Hobbit "
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Jeff Lee Johnson",
-            "HasErrata": false,
-            "OctgnGuid": "6778eb01-6b07-4dbe-87f1-e854ab548813",
-            "RingsDbCardId": "132006",
-            "RingsDbPopularity": 4,
-            "RingsDbVotes": 904,
-            "Categories": null
-        },
-        {
-            "Title": "Thrór's Key",
-            "Slug": "Thror's-Key-THOtD",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Key.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Response: After a location is added to the staging area, attach Thror`s Key to that location. While attached to a location, Thror`s Key gains: `Treat attached location`s printed text box as blank, except for traits.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "`The key that went with the map! Try it now while there is still time!` -Bilbo, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 16,
-            "Quantity": 3,
-            "Artist": "Eric Braddock",
-            "HasErrata": false,
-            "OctgnGuid": "f4490261-317e-4e9e-9440-a5c58dcddcbf",
-            "RingsDbCardId": "132016",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 783,
-            "Categories": null
-        },
-        {
-            "Title": "Dwalin",
-            "Slug": "Dwalin-THOtD",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Dwalin.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "While you control at least 5 Dwarf characters, lower the cost to play Dwalin by 2."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Melanie Maier",
-            "HasErrata": false,
-            "OctgnGuid": "c66638a7-95ae-4913-bf11-2e8dcf8d6104",
-            "RingsDbCardId": "132008",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 705,
-            "Categories": null
-        },
-        {
-            "Title": "Black Arrow",
-            "Slug": "Black-Arrow-THOtD",
-            "IsUnique": true,
-            "CardType": "Attachment",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Black-Arrow.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Item."
-                ],
-                "Keywords": [
-                    "Victory 1."
-                ],
-                "Text": [
-                    "Limit 1 per deck. Attach to a hero with Ranged.",
-                    "Response: After attached hero declares an attack, add Black Arrow to the victory display to give attached hero +5 Attack for this attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I have saved you to the last...` -Bard, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 15,
-            "Quantity": 3,
-            "Artist": "Melissa Findley",
-            "HasErrata": false,
-            "OctgnGuid": "ae16236d-886e-4f65-9129-5ead1d373bfe",
-            "RingsDbCardId": "132015",
-            "RingsDbPopularity": 3,
-            "RingsDbVotes": 664,
-            "Categories": null
-        },
-        {
-            "Title": "Balin",
-            "Slug": "Balin-THOtD",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Balin.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: Pay 1 resource from Balin`s resource pool to cancel a shadow effect just triggered during an attack. Then, deal the attacking enemy another shadow card. (Limit once per attack.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted.` -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Winona Nelson",
-            "HasErrata": false,
-            "OctgnGuid": "bf2cb5a8-2ec6-4366-89f6-7e3010686a85",
-            "RingsDbCardId": "132002",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 256,
-            "Categories": null
-        },
-        {
-            "Title": "Bifur",
-            "Slug": "Bifur-THOtD",
-            "IsUnique": true,
-            "CardType": "Ally",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bifur.jpg",
-                "Stats": {
-                    "ResourceCost": "3",
-                    "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While you control at least 5 Dwarf characters, Bifur gains: `Response: After you play Bifur from your hand, draw 2 cards.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "`My cousins! Bombur and Bofur - we have forgotten them, they are down in the valley!` -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Taylor Ingvarsson",
-            "HasErrata": false,
-            "OctgnGuid": "c4b959f5-92a9-4f46-8656-f9da08a5cb86",
-            "RingsDbCardId": "132007",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 506,
-            "Categories": null
-        },
-        {
-            "Title": "To me! O my kinsfolk!",
-            "Slug": "To-me-O-my-kinsfolk-THOtD",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/To-me-O-my-kinsfolk.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: If you control at least 1 Dwarf hero, put a Dwarf ally from your discard pile into play under your control. Put that ally on the bottom of your deck at the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "Out leapt the King under the Mountain, and his companions followed him. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 12,
-            "Quantity": 3,
-            "Artist": "Tiziano Baracchi",
-            "HasErrata": false,
-            "OctgnGuid": "16ae4f56-d8bb-41b8-a992-1da3b6ec1fdb",
-            "RingsDbCardId": "132012",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 453,
-            "Categories": null
-        },
-        {
-            "Title": "Óin",
-            "Slug": "Oin-THOtD",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Óin.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While you control at least 5 Dwarf characters, Oin gets +1 Attack and gains the Tactics resource icon."
-                ],
-                "Shadow": null,
-                "FlavorText": "Dwarves can make fire almost anywhere out of almost anything, wind or no wind... -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 1,
-            "Artist": "Jeff Lee Johnson",
-            "HasErrata": false,
-            "OctgnGuid": "b21a2af5-7443-4630-9503-1b334ae51c6e",
-            "RingsDbCardId": "132004",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 195,
-            "Categories": null
-        },
-        {
-            "Title": "Bard the Bowman",
-            "Slug": "Bard-the-Bowman-THOtD",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bard-the-Bowman.jpg",
-                "Stats": {
-                    "ThreatCost": "11",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Esgaroth.",
-                    "Warrior."
-                ],
-                "Keywords": [
-                    "Ranged."
-                ],
-                "Text": [
-                    "When Bard the Bowman makes a ranged attack, the enemy he attacks gets -2 Defense until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": "Now he shot with a great yew bow, till all his arrows but one were spent. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "e2cf87be-ccdc-48e9-8127-57bee67d4a0c",
-            "RingsDbCardId": "132003",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 165,
-            "Categories": null
-        },
-        {
-            "Title": "Bombur",
-            "Slug": "Bombur-THOtD",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bombur.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "0",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When counting the number of Dwarf characters you control, Bombur counts as two."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Bombur is fattest and will do for two, he had better come alone and last.` -Gandalf, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 5,
-            "Quantity": 1,
-            "Artist": "Ilich Henriquez",
-            "HasErrata": false,
-            "OctgnGuid": "66f66c2e-36e7-4d97-aebb-1ca413f9edeb",
-            "RingsDbCardId": "132005",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 131,
-            "Categories": null
-        },
-        {
             "Title": "Bilbo Baggins",
             "Slug": "Bilbo-Baggins-THOtD",
             "IsUnique": true,
@@ -518,7 +47,464 @@
             "OctgnGuid": "4e61b160-2104-497f-9977-4b353e54fbb7",
             "RingsDbCardId": "132001",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 1,
+            "RingsDbVotes": 25,
+            "Categories": null
+        },
+        {
+            "Title": "Balin",
+            "Slug": "Balin-THOtD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Balin.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Pay 1 resource from Balin`s resource pool to cancel a shadow effect just triggered during an attack. Then, deal the attacking enemy another shadow card. (Limit once per attack.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Well, it is the first time that even a mouse has crept along carefully and quietly under my very nose and not been spotted.`\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Winona Nelson",
+            "HasErrata": false,
+            "OctgnGuid": "bf2cb5a8-2ec6-4366-89f6-7e3010686a85",
+            "RingsDbCardId": "132002",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 7276,
+            "Categories": null
+        },
+        {
+            "Title": "Bard the Bowman",
+            "Slug": "Bard-the-Bowman-THOtD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bard-the-Bowman.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Esgaroth.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.",
+                    "When Bard the Bowman makes a ranged attack, the enemy he attacks gets -2 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Now he shot with a great yew bow, till all his arrows but one were spent.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "e2cf87be-ccdc-48e9-8127-57bee67d4a0c",
+            "RingsDbCardId": "132003",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 4909,
+            "Categories": null
+        },
+        {
+            "Title": "Óin",
+            "Slug": "Oin-THOtD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Óin.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While you control at least 5 Dwarf characters, Óin gets +1 Attack and gains the Tactics resource icon."
+                ],
+                "Shadow": null,
+                "FlavorText": "Dwarves can make fire almost anywhere out of almost anything, wind or no wind...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Jeff Lee Johnson",
+            "HasErrata": false,
+            "OctgnGuid": "b21a2af5-7443-4630-9503-1b334ae51c6e",
+            "RingsDbCardId": "132004",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 5754,
+            "Categories": null
+        },
+        {
+            "Title": "Bombur",
+            "Slug": "Bombur-THOtD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bombur.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When counting the number of Dwarf characters you control, Bombur counts as two."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Bombur is fattest and will do for two, he had better come alone and last.`\r\n-Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "66f66c2e-36e7-4d97-aebb-1ca413f9edeb",
+            "RingsDbCardId": "132005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 3910,
+            "Categories": null
+        },
+        {
+            "Title": "Glóin",
+            "Slug": "Gloin-THOtD",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Glóin.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While you control at least 5 Dwarf characters, Glóin gains: `Response: After you play Glóin from your hand, choose a hero. Add 2 resources to that hero`s resource pool.`"
+                ],
+                "Shadow": null,
+                "FlavorText": "Glóin lit several more torches, and then they all crept out, one by one...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Jeff Lee Johnson",
+            "HasErrata": false,
+            "OctgnGuid": "6778eb01-6b07-4dbe-87f1-e854ab548813",
+            "RingsDbCardId": "132006",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 206549,
+            "Categories": null
+        },
+        {
+            "Title": "Bifur",
+            "Slug": "Bifur-THOtD",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Bifur.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While you control at least 5 Dwarf characters, Bifur gains: `Response: After you play Bifur from your hand, draw 2 cards.`"
+                ],
+                "Shadow": null,
+                "FlavorText": "`My cousins! Bombur and Bofur - we have forgotten them, they are down in the valley!`\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Taylor Ingvarsson",
+            "HasErrata": false,
+            "OctgnGuid": "c4b959f5-92a9-4f46-8656-f9da08a5cb86",
+            "RingsDbCardId": "132007",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 119299,
+            "Categories": null
+        },
+        {
+            "Title": "Dwalin",
+            "Slug": "Dwalin-THOtD",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Dwalin.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.",
+                    "While you control at least 5 Dwarf characters, lower the cost to play Dwalin by 2."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Melanie Maier",
+            "HasErrata": false,
+            "OctgnGuid": "c66638a7-95ae-4913-bf11-2e8dcf8d6104",
+            "RingsDbCardId": "132008",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 170390,
+            "Categories": null
+        },
+        {
+            "Title": "Straight Shot",
+            "Slug": "Straight-Shot-THOtD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Straight-Shot.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust a Weapon attachment to choose a non-unique enemy with 0 Defense. Discard the chosen enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "In it smote and vanished, barb, shaft and feather, so fierce was its flight.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "c2a79823-e4f9-4449-b467-5916d7e58979",
+            "RingsDbCardId": "132009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 58115,
+            "Categories": null
+        },
+        {
+            "Title": "Desperate Alliance",
+            "Slug": "Desperate-Alliance-THOtD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Desperate-Alliance.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a hero you control. Until the end of the phase, give control of that hero and all resources in that hero`s resource pool to another player. (Limit 1 per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Come!` called Gandalf. `There is yet time for council.`\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "7465c18b-440e-4a90-8ac0-c50c0de03b5d",
+            "RingsDbCardId": "132010",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 56116,
+            "Categories": null
+        },
+        {
+            "Title": "Ravens of the Mountain",
+            "Slug": "Ravens-of-the-Mountain-THOtD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Ravens-of-the-Mountain.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust a hero you control to shuffle the encounter deck and look at its top card. Place progress tokens on the current quest equal to the revealed card`s Threat. Then, put that card back on top of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "As they worked the ravens brought them constant tidings.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": true,
+            "OctgnGuid": "6d442a61-e9e9-4729-bac1-da3d76af6afa",
+            "RingsDbCardId": "132011",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 32102,
+            "Categories": null
+        },
+        {
+            "Title": "To me! O my kinsfolk!",
+            "Slug": "To-me-O-my-kinsfolk-THOtD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/To-me-O-my-kinsfolk.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: If you control at least 1 Dwarf hero, put a Dwarf ally from your discard pile into play under your control. Put that ally on the bottom of your deck at the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Out leapt the King under the Mountain, and his companions followed him.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "16ae4f56-d8bb-41b8-a992-1da3b6ec1fdb",
+            "RingsDbCardId": "132012",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 89944,
+            "Categories": null
+        },
+        {
+            "Title": "The Lucky Number",
+            "Slug": "The-Lucky-Number-THOtD",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Baggins",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a character in play (other than Bilbo Baggins). Add Bilbo Baggins` total Willpower, Attack, and Defense to that character`s Willpower, Attack, and Defense respectively until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "65407141-e013-4d1c-8f70-4328e707d0cc",
+            "RingsDbCardId": "132013",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 10441,
             "Categories": null
         },
         {
@@ -557,129 +543,108 @@
             "HasErrata": false,
             "OctgnGuid": "833664a0-6bab-4e93-b5f1-88e7b6456569",
             "RingsDbCardId": "132014",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 376,
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 73051,
             "Categories": null
         },
         {
-            "Title": "Straight Shot",
-            "Slug": "Straight-Shot-THOtD",
-            "IsUnique": false,
-            "CardType": "Event",
+            "Title": "Black Arrow",
+            "Slug": "Black-Arrow-THOtD",
+            "IsUnique": true,
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Straight-Shot.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Black-Arrow.jpg",
                 "Stats": {
                     "ResourceCost": "0"
                 },
-                "Traits": [],
-                "Keywords": [],
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
                 "Text": [
-                    "Action: Exhaust a Weapon attachment to choose a non-unique enemy with 0 Defense. Discard the chosen enemy."
+                    "Limit 1 per deck. Attach to a hero with Ranged.",
+                    "Response: After attached hero declares an attack, add Black Arrow to the victory display to give attached hero +5 Attack for this attack."
                 ],
                 "Shadow": null,
-                "FlavorText": "In it smote and vanished, barb, shaft and feather, so fierce was its flight. -The Hobbit"
+                "FlavorText": "`I have saved you to the last...` -Bard, The Hobbit"
             },
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
             "EncounterInfo": null,
-            "Number": 9,
+            "Number": 15,
             "Quantity": 3,
-            "Artist": "Ilich Henriquez",
+            "Artist": "Melissa Findley",
             "HasErrata": false,
-            "OctgnGuid": "c2a79823-e4f9-4449-b467-5916d7e58979",
-            "RingsDbCardId": "132009",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 327,
+            "OctgnGuid": "ae16236d-886e-4f65-9129-5ead1d373bfe",
+            "RingsDbCardId": "132015",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 190732,
             "Categories": null
         },
         {
-            "Title": "Desperate Alliance",
-            "Slug": "Desperate-Alliance-THOtD",
-            "IsUnique": false,
-            "CardType": "Event",
+            "Title": "Thrór's Key",
+            "Slug": "Thror's-Key-THOtD",
+            "IsUnique": true,
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Desperate-Alliance.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Key.jpg",
                 "Stats": {
-                    "ResourceCost": "0"
+                    "ResourceCost": "1"
                 },
-                "Traits": [],
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Choose a hero you control. Until the end of the phase, give control of that hero and all resources in that hero`s resource pool to another player. (Limit 1 per phase.)"
+                    "Attach to a hero.",
+                    "Response: After a location is added to the staging area, attach Thror`s Key to that location. While attached to a location, Thror`s Key gains: `Treat attached location`s printed text box as blank, except for traits.`"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Come!` called Gandalf. `There is yet time for council.` -The Hobbit"
+                "FlavorText": "`The key that went with the map! Try it now while there is still time!`\r\n-Bilbo, The Hobbit"
             },
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
             "EncounterInfo": null,
-            "Number": 10,
+            "Number": 16,
             "Quantity": 3,
-            "Artist": "Magali Villeneuve",
+            "Artist": "Eric Braddock",
             "HasErrata": false,
-            "OctgnGuid": "7465c18b-440e-4a90-8ac0-c50c0de03b5d",
-            "RingsDbCardId": "132010",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 322,
+            "OctgnGuid": "f4490261-317e-4e9e-9440-a5c58dcddcbf",
+            "RingsDbCardId": "132016",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 171876,
             "Categories": null
         },
         {
-            "Title": "Ravens of the Mountain",
-            "Slug": "Ravens-of-the-Mountain-THOtD",
+            "Title": "Expert Treasure-hunter",
+            "Slug": "Expert-Treasure-hunter-THOtD",
             "IsUnique": false,
-            "CardType": "Event",
+            "CardType": "Attachment",
             "CardSubType": "None",
             "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Ravens-of-the-Mountain.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Expert-Treasure-hunter.jpg",
                 "Stats": {
-                    "ResourceCost": "1"
+                    "ResourceCost": "0"
                 },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Action: Exhaust a hero you control to shuffle the encounter deck and look at its top card. Place progress tokens on the current quest equal to the revealed card`s Threat. Then, put that card back on top of the encounter deck."
+                "Traits": [
+                    "Skill."
                 ],
-                "Shadow": null,
-                "FlavorText": "As they worked the ravens brought them constant tidings. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 11,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": true,
-            "OctgnGuid": "6d442a61-e9e9-4729-bac1-da3d76af6afa",
-            "RingsDbCardId": "132011",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 153,
-            "Categories": null
-        },
-        {
-            "Title": "The Lucky Number",
-            "Slug": "The-Lucky-Number-THOtD",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Baggins",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Lucky-Number.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Action: Choose a character in play (other than Bilbo Baggins). Add Bilbo Baggins` total Willpower, Attack, and Defense to that character`s Willpower, Attack, and Defense respectively until the end of the phase."
+                    "Attach to a hero. Limit 1 per hero.",
+                    "Response: After attached hero quests successfully, name a card type and discard the top card of your deck. If the discarded card is the named type, take it into your hand."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -687,14 +652,51 @@
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
             "EncounterInfo": null,
-            "Number": 13,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": true,
+            "OctgnGuid": "2d550e71-f2a6-41f2-8aac-4533a965eb71",
+            "RingsDbCardId": "132017",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 220464,
+            "Categories": null
+        },
+        {
+            "Title": "King Under the Mountain",
+            "Slug": "King-Under-the-Mountain-THOtD",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/King-Under-the-Mountain.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dwarf hero.",
+                    "Action: Exhaust King Under the Mountain to look at the top 2 cards of your deck. Add 1 to your hand and discard the other."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Long ago in my grandfather Thror`s time our family was driven out of the far North, and came back with all their wealth and tools to this Mountain on the map.`\r\n-Thorin, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 18,
             "Quantity": 3,
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
-            "OctgnGuid": "65407141-e013-4d1c-8f70-4328e707d0cc",
-            "RingsDbCardId": "132013",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 47,
+            "OctgnGuid": "9152834a-5355-42ba-9592-1a3c1940d1a8",
+            "RingsDbCardId": "132018",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 301612,
             "Categories": null
         },
         {
@@ -734,7 +736,46 @@
             "OctgnGuid": "9dd6bf3e-e090-4ebf-a056-765c94e8a199",
             "RingsDbCardId": "132019",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 30,
+            "RingsDbVotes": 7270,
+            "Categories": null
+        },
+        {
+            "Title": "The Arkenstone",
+            "Slug": "The-Arkenstone-THOtD",
+            "IsUnique": true,
+            "CardType": "Treasure",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Arkenstone.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Erebor.",
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.",
+                    "Action: Exhaust The Arkenstone and raise your threat by X to lower by X the cost of the next ally you play this phase that matches the attached hero`s sphere."
+                ],
+                "Shadow": null,
+                "FlavorText": "`...the Heart of the Mountain; and it is also the heart of Thorin. He values it above a rive of gold.`\r\n-Bilbo, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 1,
+            "Artist": "Mike Nash",
+            "HasErrata": false,
+            "OctgnGuid": "ae774680-c6e9-49eb-96b8-fcdebe90b49d",
+            "RingsDbCardId": "132020",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 2160,
             "Categories": null
         },
         {
@@ -761,7 +802,7 @@
                     "Attached hero gets +1 Defense and +1 hit point."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Mr. Baggins!` he cried. `Here is the first payment of your reward! Cast off your old coat and put on this!` - Thorin, The Hobbit"
+                "FlavorText": "`Mr. Baggins!` he cried. `Here is the first payment of your reward! Cast off your old coat and put on this!`\r\n-Thorin, The Hobbit"
             },
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
@@ -773,7 +814,91 @@
             "OctgnGuid": "12d51424-0edd-4977-9df1-5f6a7a5a96e1",
             "RingsDbCardId": "132021",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 17,
+            "RingsDbVotes": 4370,
+            "Categories": null
+        },
+        {
+            "Title": "Thrór's Battle Axe",
+            "Slug": "Thror's-Battle-Axe-THOtD",
+            "IsUnique": true,
+            "CardType": "Treasure",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Battle-Axe.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Erebor.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.",
+                    "Attached hero gets +2 Attack.",
+                    "Response: After attached hero attacks and destroys an enemy, deal 1 damage to another enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "Royal indeed did Thorin look, clad in a coat of gold-plated rings, with a silver hafted axe...\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "857d6dc8-ba1e-4839-8e96-a8a0136a2302",
+            "RingsDbCardId": "132022",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1900,
+            "Categories": null
+        },
+        {
+            "Title": "Thrór's Hunting Bow",
+            "Slug": "Thror's-Hunting-Bow-THOtD",
+            "IsUnique": true,
+            "CardType": "Treasure",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Hunting-Bow.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Erebor.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.",
+                    "Attached hero gains Ranged.",
+                    "When making a ranged attack, attached hero gets +2 Attack."
+                ],
+                "Shadow": null,
+                "FlavorText": "Thorin seized a bow of horn and shot an arrow at the speaker.\r\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 1,
+            "Artist": "David Horne",
+            "HasErrata": false,
+            "OctgnGuid": "7adc49c0-640d-4934-89c5-312ab584b77c",
+            "RingsDbCardId": "132023",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1890,
             "Categories": null
         },
         {
@@ -802,7 +927,7 @@
                     "Action: Add Thror`s Golden Cup to the victory display to draw 3 cards."
                 ],
                 "Shadow": null,
-                "FlavorText": "...the great golden cup of Thror, two-handed, hammered and carven with birds and flowers whose eyes and petals were of jewels... -The Hobbit"
+                "FlavorText": "...the great golden cup of Thror, two-handed, hammered and carven with birds and flowers whose eyes and petals were of jewels...\r\n-The Hobbit"
             },
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
@@ -814,129 +939,7 @@
             "OctgnGuid": "ff7b0b9d-f8ae-4464-9db3-7205c5ae4db7",
             "RingsDbCardId": "132024",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 11,
-            "Categories": null
-        },
-        {
-            "Title": "The Arkenstone",
-            "Slug": "The-Arkenstone-THOtD",
-            "IsUnique": true,
-            "CardType": "Treasure",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Arkenstone.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Erebor.",
-                    "Item."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Attach to a hero.",
-                    "Action: Exhaust The Arkenstone and raise your threat by X to lower by X the cost of the next ally you play this phase that matches the attached hero`s sphere."
-                ],
-                "Shadow": null,
-                "FlavorText": "`...the Heart of the Mountain; and it is also the heart of Thorin. He values it above a rive of gold.` -Bilbo, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 20,
-            "Quantity": 1,
-            "Artist": "Mike Nash",
-            "HasErrata": false,
-            "OctgnGuid": "ae774680-c6e9-49eb-96b8-fcdebe90b49d",
-            "RingsDbCardId": "132020",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 8,
-            "Categories": null
-        },
-        {
-            "Title": "Thrór's Hunting Bow",
-            "Slug": "Thror's-Hunting-Bow-THOtD",
-            "IsUnique": true,
-            "CardType": "Treasure",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Hunting-Bow.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Erebor.",
-                    "Item."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero. Attached hero gains Ranged.",
-                    "When making a ranged attack, attached hero gets +2 Attack."
-                ],
-                "Shadow": null,
-                "FlavorText": "Thorin seized a bow of horn and shot an arrow at the speaker. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 23,
-            "Quantity": 1,
-            "Artist": "David Horne",
-            "HasErrata": false,
-            "OctgnGuid": "7adc49c0-640d-4934-89c5-312ab584b77c",
-            "RingsDbCardId": "132023",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 8,
-            "Categories": null
-        },
-        {
-            "Title": "Thrór's Battle Axe",
-            "Slug": "Thror's-Battle-Axe-THOtD",
-            "IsUnique": true,
-            "CardType": "Treasure",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Thrór's-Battle-Axe.jpg",
-                "Stats": {
-                    "ResourceCost": "0"
-                },
-                "Traits": [
-                    "Artifact.",
-                    "Erebor.",
-                    "Item."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +2 Attack.",
-                    "Response: After attached hero attacks and destroys an enemy, deal 1 damage to another enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "Royal indeed did Thorin look, clad in a coat of gold-plated rings, with a silver hafted axe... -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": null,
-            "Number": 22,
-            "Quantity": 1,
-            "Artist": "Tiziano Baracchi",
-            "HasErrata": false,
-            "OctgnGuid": "857d6dc8-ba1e-4839-8e96-a8a0136a2302",
-            "RingsDbCardId": "132022",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 7,
+            "RingsDbVotes": 2810,
             "Categories": null
         },
         {
@@ -958,7 +961,7 @@
                     "Setup: Each player may shuffle 1 copy Bilbo`s Magic Ring into his deck. Search the encounter deck for The Spider`s Glade and set it aside, out of play. Then, shuffle the encounter deck and reveal 1 encounter card per player."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Stick to the forest-track, keep your spirits up, hope for the best, and with a tremendous slice of luck you may come out one day and see the Long Marshes lying below you, and beyond them, high in the East, the Lonely Mountain where dear old Smaug lives.` -Gandalf, The Hobbit"
+                "FlavorText": "`Stick to the forest-track, keep your spirits up, hope for the best, and with a tremendous slice of luck you may come out one day and see the Long Marshes lying below you, and beyond them, high in the East, the Lonely Mountain where dear old Smaug lives.`\r\n-Gandalf, The Hobbit"
             },
             "Back": {
                 "Subtitle": null,
@@ -3057,6 +3060,138 @@
             "Categories": null
         },
         {
+            "Title": "The Spider's Glade",
+            "Slug": "The-Spider's-Glade-THOtD",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Spider's-Glade.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "9"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Travel: Exhaust Bilbo Baggins to travel here.Forced: At the start of each quest phase, search the encounter deck for 1 Spider enemy and add it to the staging area. (2 Spider enemies instead if 3 or more players are at this stage.) Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": {
+                "EncounterSet": "Flies and Spiders",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 25,
+            "Quantity": 1,
+            "Artist": "Joel Hustak",
+            "HasErrata": false,
+            "OctgnGuid": "4d423c39-09c1-4c0b-b46f-6983fae4c07b",
+            "RingsDbCardId": "132025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wicked Spider",
+            "Slug": "Wicked-Spider-THOtD",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Wicked-Spider.jpg",
+                "Stats": {
+                    "EngagementCost": "25",
+                    "Threat": "1",
+                    "Attack": "4",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Spider."
+                ],
+                "Keywords": [
+                    "Venom."
+                ],
+                "Text": [
+                    "Venom.",
+                    "Forced: When this enemy attacks, defending player must attach 1 poison to a character he controls."
+                ],
+                "Shadow": "Shadow: Defending character gets 2 poison.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": {
+                "EncounterSet": "Flies and Spiders",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 32,
+            "Quantity": 5,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "2c20ea14-e7bc-4a38-a809-8834d659adf5",
+            "RingsDbCardId": "132032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Weighed Down",
+            "Slug": "Weighed-Down-THOtD",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Weighed-Down.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Until the end of the round, exhausted characters get -1 Willpower, -1 Attack, and -1 Defense."
+                ],
+                "Shadow": "Shadow: If the defending character is destroyed by this attack, its controller must raise his threat by 5.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": {
+                "EncounterSet": "Wilderland",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 38,
+            "Quantity": 2,
+            "Artist": "Anna Steinbauer",
+            "HasErrata": false,
+            "OctgnGuid": "10c41b09-adf9-4a78-a67a-a9a1e04d7e8d",
+            "RingsDbCardId": "132038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
             "Title": "Smaug the Golden",
             "Slug": "Smaug-the-Golden-THOtD",
             "IsUnique": true,
@@ -3077,10 +3212,10 @@
                     "Dragon."
                 ],
                 "Keywords": [
-                    "Indestructible."
+                    "Indestrutible."
                 ],
                 "Text": [
-                    "Immune to player card effects. Cannot be engaged.",
+                    "Indestrutible. Immune to player card effects",
                     "X is the number of non-Burglar characters committed to the quest.",
                     "Forced: After the 6th progress token is placed here, the players advance to stage 4A."
                 ],
@@ -3127,10 +3262,11 @@
                     "Dragon."
                 ],
                 "Keywords": [
-                    "Indestructible."
+                    "Indestrutible."
                 ],
                 "Text": [
-                    "Immune to player card effects. Cannot leave the staging area (except by quest effect) but is considered to be engaged with the first player.",
+                    "Indestrutible. Immune to player card effects.",
+                    "Cannot leave the staging area (except by quest effect) but is considered to be engaged with the first player.",
                     "Forced: If Smaug the Magnificent is dealt a shadow card with a burgle effect, he makes an additional attack immediately after this one."
                 ],
                 "Shadow": null,
@@ -3151,53 +3287,6 @@
             "HasErrata": false,
             "OctgnGuid": "65ad784f-d82e-4659-8d1c-53d2e4d19336",
             "RingsDbCardId": "132041",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Front Gate",
-            "Slug": "The-Front-Gate-THOtD",
-            "IsUnique": true,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Front-Gate.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "2"
-                },
-                "Traits": [
-                    "Ruins.",
-                    "Mountain."
-                ],
-                "Keywords": [
-                    "Victory 3."
-                ],
-                "Text": [
-                    "Immune to player card effects.",
-                    "Forced: Remove 2 progress from stage 2B at the end of each round, if able.Travel: Spend 3 Baggins resources to travel here. (1 Baggins resource instead if stage 2B is the current quest.)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle of Five Armies",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 63,
-            "Quantity": 1,
-            "Artist": "Emilio Rodriguez",
-            "HasErrata": false,
-            "OctgnGuid": "19f36ec5-7ad4-4dab-80a7-4a7a6c716941",
-            "RingsDbCardId": "132063",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -3248,26 +3337,26 @@
             "Categories": null
         },
         {
-            "Title": "The Spider's Glade",
-            "Slug": "The-Spider's-Glade-THOtD",
-            "IsUnique": true,
+            "Title": "Western Slopes",
+            "Slug": "Western-Slopes-THOtD",
+            "IsUnique": false,
             "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Spider's-Glade.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Western-Slopes.jpg",
                 "Stats": {
-                    "Threat": "1",
-                    "QuestPoints": "9"
+                    "Threat": "2",
+                    "QuestPoints": "5"
                 },
                 "Traits": [
-                    "Forest."
+                    "Mountain."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Travel: Exhaust Bilbo Baggins to travel here.Forced: At the start of each quest phase, search the encounter deck for 1 Spider enemy and add it to the staging area. (2 Spider enemies instead if 3 or more players are at this stage.) Shuffle the encounter deck."
+                    "Response: When Western Slopes leaves play as an explored location (choose one): the first player draws 2 cards, or remove 1 progress token from Smaug the Golden.",
+                    "Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card`s sphere."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -3275,18 +3364,18 @@
             "Back": null,
             "CardSet": "The Hobbit: On the Doorstep",
             "EncounterInfo": {
-                "EncounterSet": "Flies and Spiders",
+                "EncounterSet": "The Lonely Mountain",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 25,
-            "Quantity": 1,
-            "Artist": "Joel Hustak",
+            "Number": 47,
+            "Quantity": 3,
+            "Artist": "Sara K. Diesel",
             "HasErrata": false,
-            "OctgnGuid": "4d423c39-09c1-4c0b-b46f-6983fae4c07b",
-            "RingsDbCardId": "132025",
+            "OctgnGuid": "1e54fa6e-c2a1-4456-ac48-8912ecc4722a",
+            "RingsDbCardId": "132047",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -3339,137 +3428,6 @@
             "Categories": null
         },
         {
-            "Title": "Weighed Down",
-            "Slug": "Weighed-Down-THOtD",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Weighed-Down.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Until the end of the round, exhausted characters get -1 Willpower, -1 Attack, and -1 Defense."
-                ],
-                "Shadow": "Shadow: If the defending character is destroyed by this attack, its controller must raise his threat by 5.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": {
-                "EncounterSet": "Wilderland",
-                "EasyModeQuantity": 1,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 38,
-            "Quantity": 2,
-            "Artist": "Anna Steinbauer",
-            "HasErrata": false,
-            "OctgnGuid": "10c41b09-adf9-4a78-a67a-a9a1e04d7e8d",
-            "RingsDbCardId": "132038",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Western Slopes",
-            "Slug": "Western-Slopes-THOtD",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Western-Slopes.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Mountain."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: When Western Slopes leaves play as an explored location (choose one): the first player draws 2 cards, or remove 1 progress token from Smaug the Golden.",
-                    "Burgle: The first player shuffles his deck and reveals the top card. He may discard 2 cards from his hand that match the revealed card`s sphere."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": {
-                "EncounterSet": "The Lonely Mountain",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 47,
-            "Quantity": 3,
-            "Artist": "Sara K. Diesel",
-            "HasErrata": false,
-            "OctgnGuid": "1e54fa6e-c2a1-4456-ac48-8912ecc4722a",
-            "RingsDbCardId": "132047",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Wicked Spider",
-            "Slug": "Wicked-Spider-THOtD",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/Wicked-Spider.jpg",
-                "Stats": {
-                    "EngagementCost": "25",
-                    "Threat": "1",
-                    "Attack": "4",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Spider."
-                ],
-                "Keywords": [
-                    "Venom."
-                ],
-                "Text": [
-                    "Forced: When this enemy attacks, defending player must attach 1 poison to a character he controls."
-                ],
-                "Shadow": "Shadow: Defending character gets 2 poison.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hobbit: On the Doorstep",
-            "EncounterInfo": {
-                "EncounterSet": "Flies and Spiders",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 32,
-            "Quantity": 5,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
-            "OctgnGuid": "2c20ea14-e7bc-4a38-a809-8834d659adf5",
-            "RingsDbCardId": "132032",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
             "Title": "Gundabad Archer",
             "Slug": "Gundabad-Archer-THOtD",
             "IsUnique": false,
@@ -3512,6 +3470,53 @@
             "HasErrata": false,
             "OctgnGuid": "fca6840a-ae90-42c7-b0cb-79ef8c7de099",
             "RingsDbCardId": "132058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Front Gate",
+            "Slug": "The-Front-Gate-THOtD",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit-On-the-Doorstep/The-Front-Gate.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Ruins.",
+                    "Mountain."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Forced: Remove 2 progress from stage 2B at the end of each round, if able.Travel: Spend 3 Baggins resources to travel here. (1 Baggins resource instead if stage 2B is the current quest.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit: On the Doorstep",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of Five Armies",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 63,
+            "Quantity": 1,
+            "Artist": "Emilio Rodriguez",
+            "HasErrata": false,
+            "OctgnGuid": "19f36ec5-7ad4-4dab-80a7-4a7a6c716941",
+            "RingsDbCardId": "132063",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

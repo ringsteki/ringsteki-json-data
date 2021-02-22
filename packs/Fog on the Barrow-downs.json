@@ -2,55 +2,10 @@
     "Name": "Fog on the Barrow-downs",
     "Slug": "Fog-on-the-Barrow-downs",
     "Abbreviation": "FotBD",
-    "Cycle": "GenCon",
-    "SetType": "Fellowship_Deck",
+    "Cycle": "Fellowship",
+    "SetType": "FellowshipSaga_Deck",
     "Cards": null,
     "cards": [
-        {
-            "Title": "Aragorn",
-            "Slug": "Aragorn-FotBD",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Aragorn.jpg",
-                "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Noble.",
-                    "Ranger."
-                ],
-                "Keywords": [
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Sentinel.",
-                    "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Fog on the Barrow-downs",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Sebastian Giacobino",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
         {
             "Title": "Fog on the Barrow-downs Scenario Rules",
             "Slug": "Fog-on-the-Barrow-downs-Scenario-Rules-FotBD",
@@ -133,6 +88,51 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "00000",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-FotBD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fog-on-the-Barrow-downs/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Noble.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.",
+                    "Response: After Aragorn commits to a quest, spend 1 resource from his resource pool to ready him."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Fog on the Barrow-downs",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

@@ -1,0 +1,135 @@
+{
+    "Name": "The Land of Sorrow Preorder Promotion",
+    "Slug": "The-Land-of-Sorrow-Preorder-Promotion",
+    "Abbreviation": "TLoSo-PRM",
+    "Cycle": "Vengeance of Mordor",
+    "SetType": "Preorder_Promotion",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "Gwaihir",
+            "Slug": "Gwaihir-TLoSo-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow-Preorder-Promotion/Gwaihir.jpg",
+                "Stats": {
+                    "ThreatCost": "13",
+                    "Willpower": "2",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Eagle."
+                ],
+                "Keywords": [
+                    "Ranged.",
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Ranged. Sentinel.",
+                    "Cannot have restricted attachments. Gwaihir does not ready during the refresh phase.",
+                    "Response: After an Eagle ally enters or leaves play, ready Gwaihir. (Limit once per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 108,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22108",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 963,
+            "Categories": null
+        },
+        {
+            "Title": "Song of Healing",
+            "Slug": "Song-of-Healing-TLoSo-PRM",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow-Preorder-Promotion/Song-of-Healing.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero. Limit 1 per hero.",
+                    "Action: Discard 1 card from your hand to heal 1 damage from attached hero. Any player may trigger this effect."
+                ],
+                "Shadow": null,
+                "FlavorText": "...behind him stood Galadriel, tall and white: a circlet of golden flowers was in her hair, and in her hand she held a hard, and she sang.\r\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 112,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22112",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 12316,
+            "Categories": null
+        },
+        {
+            "Title": "Eagle Emissary",
+            "Slug": "Eagle-Emissary-TLoSo-PRM",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow-Preorder-Promotion/Eagle-Emissary.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Eagle."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have restricted attachments.",
+                    "Forced: After Eagle Emissary quests successfully, pay 1 Tactics resource or discard it from play."
+                ],
+                "Shadow": null,
+                "FlavorText": "...and out of the East there came a great Eagle flying, and he bore tidings beyond hope from The Lords of the West...\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 113,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22113",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 15045,
+            "Categories": null
+        }
+    ]
+}

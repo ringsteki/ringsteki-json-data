@@ -133,130 +133,6 @@
             "Categories": null
         },
         {
-            "Title": "Glorfindel",
-            "Slug": "Glorfindel-TPLES",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Glorfindel.jpg",
-                "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "3",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Noble.",
-                    "Noldor.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Pay 1 resource from Glorfindel`s pool to heal 1 damage on any character. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`You saw him for a moment as he is upon the other side: one of the mighty of the firstborn.`\r\n-Gandalf, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Two-Player Limited Edition Starter",
-            "EncounterInfo": null,
-            "Number": 34,
-            "Quantity": 1,
-            "Artist": "Katherine Dinger",
-            "HasErrata": false,
-            "OctgnGuid": "c3bda1bf-3f2e-4fb4-a36b-3e982123c9f9",
-            "RingsDbCardId": "00034",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Bifur",
-            "Slug": "Bifur-TPLES",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Bifur.jpg",
-                "Stats": {
-                    "ThreatCost": "7",
-                    "Willpower": "2",
-                    "Attack": "1",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dwarf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Action: Pay 1 resource from a hero`s resource pool to add 1 resource to Bifur`s resource pool. Any player may trigger this ability. (Limit once per round.)"
-                ],
-                "Shadow": null,
-                "FlavorText": "`And winter comes after autumn.` - Bifur, The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Two-Player Limited Edition Starter",
-            "EncounterInfo": null,
-            "Number": 35,
-            "Quantity": 1,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "a511ccaf-b2c6-4e25-86ba-accd5d67b51b",
-            "RingsDbCardId": "00035",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Thorin Stonehelm",
-            "Slug": "Thorin-Stonehelm-TPLES",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Thorin-Stonehelm.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "1",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Noble.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Thorin Stonehelm is declared as an attacker, discard the top card of your deck to deal 1 damage to an enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "Thorin III Stonehelm, Dain`s son, became King under the mountain.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Two-Player Limited Edition Starter",
-            "EncounterInfo": null,
-            "Number": 36,
-            "Quantity": 1,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "82a938fd-4975-4c18-ba65-7d9bea277e89",
-            "RingsDbCardId": "00036",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
             "Title": "Gandalf",
             "Slug": "Gandalf-1-TPLES",
             "IsUnique": true,
@@ -1416,6 +1292,130 @@
             "HasErrata": false,
             "OctgnGuid": "6b5ebd2c-715c-4a9e-942f-746b712401df",
             "RingsDbCardId": "00033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Glorfindel",
+            "Slug": "Glorfindel-TPLES",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Glorfindel.jpg",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "3",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Noble.",
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Pay 1 resource from Glorfindel`s pool to heal 1 damage on any character. (Limit once per round.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You saw him for a moment as he is upon the other side: one of the mighty of the firstborn.`\r\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Two-Player Limited Edition Starter",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 1,
+            "Artist": "Katherine Dinger",
+            "HasErrata": false,
+            "OctgnGuid": "c3bda1bf-3f2e-4fb4-a36b-3e982123c9f9",
+            "RingsDbCardId": "00034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bifur",
+            "Slug": "Bifur-TPLES",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Bifur.jpg",
+                "Stats": {
+                    "ThreatCost": "7",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Pay 1 resource from a hero`s resource pool to add 1 resource to Bifur`s resource pool. Any player may trigger this ability. (Limit once per round.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "`And winter comes after autumn.` - Bifur, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Two-Player Limited Edition Starter",
+            "EncounterInfo": null,
+            "Number": 35,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "a511ccaf-b2c6-4e25-86ba-accd5d67b51b",
+            "RingsDbCardId": "00035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Thorin Stonehelm",
+            "Slug": "Thorin-Stonehelm-TPLES",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Two-Player-Limited-Edition-Starter/Thorin-Stonehelm.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Thorin Stonehelm is declared as an attacker, discard the top card of your deck to deal 1 damage to an enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "Thorin III Stonehelm, Dain`s son, became King under the mountain.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Two-Player Limited Edition Starter",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 1,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "82a938fd-4975-4c18-ba65-7d9bea277e89",
+            "RingsDbCardId": "00036",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

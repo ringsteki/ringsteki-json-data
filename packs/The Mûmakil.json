@@ -7,88 +7,123 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Firyal",
-            "Slug": "Firyal-TMk",
+            "Title": "Kahliel",
+            "Slug": "Kahliel-TMk",
             "IsUnique": true,
-            "CardType": "Ally",
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Firyal.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel.jpg",
                 "Stats": {
-                    "ResourceCost": "5",
-                    "Willpower": "3",
-                    "Attack": "1",
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "2",
                     "Defense": "2",
-                    "HitPoints": "3"
+                    "HitPoints": "4"
                 },
                 "Traits": [
                     "Harad.",
-                    "Scout."
+                    "Noble."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Firyal commits to the quest, look at the top card of the encounter deck. Then, you may discard the looked at card."
+                    "You may use resources from Kahliel`s resource pool to pay for Harad ally cards of any sphere.",
+                    "Action: Discard a Harad ally from your hand to ready a Harad character in play. (Limit once per phase.)"
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "...the Southrons were bold men and grim...\r\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Mûmakil",
             "EncounterInfo": null,
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Tawny Fritzinger",
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Ryan Valle",
             "HasErrata": false,
-            "OctgnGuid": "43622914-dd7f-4990-89d3-7f1ce7a6525f",
-            "RingsDbCardId": "17008",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 1089,
+            "OctgnGuid": "ae49dd35-f2c7-4ab5-b34d-0cc8e5fb1f6e",
+            "RingsDbCardId": "17001",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 2920,
             "Categories": null
         },
         {
-            "Title": "Jubayr",
-            "Slug": "Jubayr-TMk",
-            "IsUnique": true,
+            "Title": "Andrath Guardsman",
+            "Slug": "Andrath-Guardsman-TMk",
+            "IsUnique": false,
             "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Jubayr.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Andrath-Guardsman.jpg",
                 "Stats": {
-                    "ResourceCost": "5",
+                    "ResourceCost": "2",
                     "Willpower": "1",
-                    "Attack": "2",
-                    "Defense": "3",
-                    "HitPoints": "3"
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
                 },
                 "Traits": [
-                    "Harad.",
-                    "Warrior."
+                    "Dúnedain.",
+                    "Ranger."
                 ],
-                "Keywords": [
-                    "Sentinel."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Sentinel.",
-                    "Response: After Jubayr exhausts to defend an attack, discard 1 facedown shadow card from a non-unique enemy. (Limit once per phase.)"
+                    "Response: After you play Andrath Guardsman from your hand, choose a non-unique enemy engaged with you. That enemy cannot attack you this round."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "They forgot or ignored what little they had known of the Guardians, and of the labours of those that made possible the long peace of the Shire.\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Mûmakil",
             "EncounterInfo": null,
-            "Number": 6,
+            "Number": 2,
             "Quantity": 3,
-            "Artist": "Colin Boyer",
+            "Artist": "Adam Lane",
             "HasErrata": false,
-            "OctgnGuid": "ba6d53fd-277c-4796-814b-ada9ff23cafd",
-            "RingsDbCardId": "17006",
+            "OctgnGuid": "f5bf16fb-3244-40a4-8800-3e38c979c18c",
+            "RingsDbCardId": "17002",
             "RingsDbPopularity": 4,
-            "RingsDbVotes": 940,
+            "RingsDbVotes": 80841,
+            "Categories": null
+        },
+        {
+            "Title": "Prepare for Battle",
+            "Slug": "Prepare-for-Battle-TMk",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Prepare-for-Battle.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 copy of Prepare for Battle in the victory display.",
+                    "While this quest is in the victory display, the first player draws an additional card during the resource phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Soon there will be battle on the fields. A sortie must be made ready.`\r\n-Gandalf, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": "8ad1cefa-21c5-435c-8865-6417de0e5ba6",
+            "RingsDbCardId": "17003",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 77819,
             "Categories": null
         },
         {
@@ -131,8 +166,8 @@
             "HasErrata": false,
             "OctgnGuid": "1a71163f-eeb4-4992-bd9c-83349d93cd58",
             "RingsDbCardId": "17004",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 568,
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 119715,
             "Categories": null
         },
         {
@@ -165,111 +200,37 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "17005",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 520,
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 94620,
             "Categories": null
         },
         {
-            "Title": "Andrath Guardsman",
-            "Slug": "Andrath-Guardsman-TMk",
-            "IsUnique": false,
+            "Title": "Jubayr",
+            "Slug": "Jubayr-TMk",
+            "IsUnique": true,
             "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Leadership",
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Andrath-Guardsman.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Jubayr.jpg",
                 "Stats": {
-                    "ResourceCost": "2",
+                    "ResourceCost": "5",
                     "Willpower": "1",
-                    "Attack": "0",
-                    "Defense": "1",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Dúnedain.",
-                    "Ranger."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After you play Andrath Guardsman from your hand, choose a non-unique enemy engaged with you. That enemy cannot attack you this round."
-                ],
-                "Shadow": null,
-                "FlavorText": "They forgot or ignored what little they had known of the Guardians, and of the labours of those that made possible the long peace of the Shire.\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Mûmakil",
-            "EncounterInfo": null,
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "OctgnGuid": "f5bf16fb-3244-40a4-8800-3e38c979c18c",
-            "RingsDbCardId": "17002",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 448,
-            "Categories": null
-        },
-        {
-            "Title": "Kahliel",
-            "Slug": "Kahliel-TMk",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Leadership",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Kahliel.jpg",
-                "Stats": {
-                    "ThreatCost": "10",
-                    "Willpower": "2",
                     "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
+                    "Defense": "3",
+                    "HitPoints": "3"
                 },
                 "Traits": [
                     "Harad.",
-                    "Noble."
+                    "Warrior."
                 ],
-                "Keywords": [],
-                "Text": [
-                    "You may use resources from Kahliel`s resource pool to pay for Harad ally cards of any sphere.",
-                    "Action: Discard a Harad ally from your hand to ready a Harad character in play. (Limit once per phase.)"
+                "Keywords": [
+                    "Sentinel."
                 ],
-                "Shadow": null,
-                "FlavorText": "...the Southrons were bold men and grim...\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Mûmakil",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Ryan Valle",
-            "HasErrata": false,
-            "OctgnGuid": "ae49dd35-f2c7-4ab5-b34d-0cc8e5fb1f6e",
-            "RingsDbCardId": "17001",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 112,
-            "Categories": null
-        },
-        {
-            "Title": "Coney in a Trap",
-            "Slug": "Coney-in-a-Trap-TMk",
-            "IsUnique": false,
-            "CardType": "Event",
-            "CardSubType": "None",
-            "Sphere": "Lore",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Coney-in-a-Trap.jpg",
-                "Stats": {
-                    "ResourceCost": "1"
-                },
-                "Traits": [],
-                "Keywords": [],
                 "Text": [
-                    "Play only if you control a unique character with the Ranger trait and another unique character with the Warrior trait.",
-                    "Response: After you engage an enemy, that enemy cannot attack you until the end of the round."
+                    "Sentinel.",
+                    "Response: After Jubayr exhausts to defend an attack, discard 1 facedown shadow card from a non-unique enemy. (Limit once per phase.)"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -277,14 +238,14 @@
             "Back": null,
             "CardSet": "The Mûmakil",
             "EncounterInfo": null,
-            "Number": 9,
+            "Number": 6,
             "Quantity": 3,
-            "Artist": "Jon Bosco",
+            "Artist": "Colin Boyer",
             "HasErrata": false,
-            "OctgnGuid": "2002b5d3-57b1-429a-a19a-2d10a564bc31",
-            "RingsDbCardId": "17009",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 310,
+            "OctgnGuid": "ba6d53fd-277c-4796-814b-ada9ff23cafd",
+            "RingsDbCardId": "17006",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 207667,
             "Categories": null
         },
         {
@@ -321,45 +282,84 @@
             "HasErrata": false,
             "OctgnGuid": "86e1977f-0a24-46c8-a7ee-d5d78410f1a3",
             "RingsDbCardId": "17007",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 289,
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 67829,
             "Categories": null
         },
         {
-            "Title": "Prepare for Battle",
-            "Slug": "Prepare-for-Battle-TMk",
-            "IsUnique": false,
-            "CardType": "Player_Side_Quest",
+            "Title": "Firyal",
+            "Slug": "Firyal-TMk",
+            "IsUnique": true,
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Leadership",
+            "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Prepare-for-Battle.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Firyal.jpg",
                 "Stats": {
-                    "ResourceCost": "1"
+                    "ResourceCost": "5",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
                 },
-                "Traits": [],
-                "Keywords": [
-                    "Victory 1."
+                "Traits": [
+                    "Harad.",
+                    "Scout."
                 ],
+                "Keywords": [],
                 "Text": [
-                    "Limit 1 copy of Prepare for Battle in the victory display.",
-                    "While this quest is in the victory display, the first player draws an additional card during the resource phase."
+                    "Response: After Firyal commits to the quest, look at the top card of the encounter deck. Then, you may discard the looked at card."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Soon there will be battle on the fields. A sortie must be made ready.`\r\n-Gandalf, The Return of the King"
+                "FlavorText": null
             },
             "Back": null,
             "CardSet": "The Mûmakil",
             "EncounterInfo": null,
-            "Number": 3,
+            "Number": 8,
             "Quantity": 3,
-            "Artist": "Sebastian Zakrzewski",
+            "Artist": "Tawny Fritzinger",
             "HasErrata": false,
-            "OctgnGuid": "8ad1cefa-21c5-435c-8865-6417de0e5ba6",
-            "RingsDbCardId": "17003",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 261,
+            "OctgnGuid": "43622914-dd7f-4990-89d3-7f1ce7a6525f",
+            "RingsDbCardId": "17008",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 253928,
+            "Categories": null
+        },
+        {
+            "Title": "Coney in a Trap",
+            "Slug": "Coney-in-a-Trap-TMk",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Coney-in-a-Trap.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique character with the Ranger trait and another unique character with the Warrior trait.",
+                    "Response: After you engage an enemy, that enemy cannot attack you until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Jon Bosco",
+            "HasErrata": false,
+            "OctgnGuid": "2002b5d3-57b1-429a-a19a-2d10a564bc31",
+            "RingsDbCardId": "17009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 54851,
             "Categories": null
         },
         {
@@ -399,8 +399,8 @@
             "HasErrata": false,
             "OctgnGuid": "f49d9b7f-bdb6-4f2c-8b25-42b07c60a2f3",
             "RingsDbCardId": "17010",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 254,
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 44937,
             "Categories": null
         },
         {

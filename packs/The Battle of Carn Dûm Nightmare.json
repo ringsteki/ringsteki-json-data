@@ -187,22 +187,27 @@
             "Categories": null
         },
         {
-            "Title": "Black Mare",
-            "Slug": "Black-Mare-TBoCDN",
-            "IsUnique": true,
-            "CardType": "Treachery",
+            "Title": "Gates of Carn Dûm",
+            "Slug": "Gates-of-Carn-Dum-TBoCDN",
+            "IsUnique": false,
+            "CardType": "Location",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum-Nightmare/Black-Mare.jpg",
-                "Stats": {},
-                "Traits": [],
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum-Nightmare/Gates-of-Carn-Dûm.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Carn Dûm."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach to Thaurdir. (Counts as a Mount attachment with the text: `Black Mare remains attached even if Thaurdir flips. Thaurdir gets +3 hit points. Forced: After Thaurdir is flipped, raise each player`s threat by 1.`)"
+                    "Forced: After Gates of Carn Dûm is explored, deal it as a shadow card to the enemy in the staging area with the lowest engagement cost."
                 ],
-                "Shadow": "Shadow: Attach Black Mare to Thaurdir.",
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack and cannot take damage this round.",
                 "FlavorText": null
             },
             "Back": null,
@@ -215,8 +220,8 @@
                 "StageLetter": null
             },
             "Number": 5,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
+            "Quantity": 2,
+            "Artist": "Lucas Staniec",
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "00005",
@@ -303,6 +308,44 @@
             "Categories": null
         },
         {
+            "Title": "Black Mare",
+            "Slug": "Black-Mare-TBoCDN",
+            "IsUnique": true,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum-Nightmare/Black-Mare.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Attach to Thaurdir. (Counts as a Mount attachment with the text: `Black Mare remains attached even if Thaurdir flips. Thaurdir gets +3 hit points. Forced: After Thaurdir is flipped, raise each player`s threat by 1.`)"
+                ],
+                "Shadow": "Shadow: Attach Black Mare to Thaurdir.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Battle of Carn Dûm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of Carn Dûm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
             "Title": "Protect the Flanks",
             "Slug": "Protect-the-Flanks-TBoCDN",
             "IsUnique": false,
@@ -328,12 +371,12 @@
             "Back": null,
             "CardSet": "The Battle of Carn Dûm Nightmare",
             "EncounterInfo": null,
-            "Number": 8,
+            "Number": 9,
             "Quantity": 1,
             "Artist": "Rafał Hrynkiewicz",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00008",
+            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -365,12 +408,12 @@
             "Back": null,
             "CardSet": "The Battle of Carn Dûm Nightmare",
             "EncounterInfo": null,
-            "Number": 9,
+            "Number": 10,
             "Quantity": 1,
             "Artist": "Arden Beckwith",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00009",
+            "RingsDbCardId": "00010",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -401,12 +444,12 @@
             "Back": null,
             "CardSet": "The Battle of Carn Dûm Nightmare",
             "EncounterInfo": null,
-            "Number": 10,
+            "Number": 11,
             "Quantity": 1,
             "Artist": "Unknown",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00010",
+            "RingsDbCardId": "00011",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
