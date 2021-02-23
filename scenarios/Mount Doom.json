@@ -1,0 +1,439 @@
+{
+    "Title": "Mount Doom",
+    "Slug": "Mount-Doom",
+    "Product": "The Mountain of Fire",
+    "Number": 18,
+    "QuestCards": [
+        {
+            "Title": "The Land of Mordor",
+            "Slug": "The-Land-of-Mordor-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Land-of-Mordor-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "Setup: Add Mount Doom and The Tower of Barad-dûr to the staging area. Make Brake of Thorns the active location. Each player searches the encounter deck for a different location and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Against all odds, the Ring-bearer has found his way into The Black Land of Modor, but a dangerous journey still lies before him and The Eye of Sauron yet searches for the spies who escaped from Cirith Ungol."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Land-of-Mordor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "4"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Dire. This stage gets +4 quest points for each player.",
+                    "The first treachery revealed each quest phase is immune to player card effects and gains surge."
+                ],
+                "Shadow": null,
+                "FlavorText": "Fordo and Sam gazed out in mingled loathing and wonder on this hateful land. Between them and the smoking mountain, and about it north and south, all seemed ruinous and dead, a desert burned and choked.\r\n-The Return of the King"
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "Mount Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 75,
+            "Quantity": 1,
+            "Artist": "Chris Rahn",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Road to Isenmouthe",
+            "Slug": "The-Road-to-Isenmouthe-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Road-to-Isenmouthe-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "When Revealed: Search the encounter deck and discard pile and victory display for Mordor Road and add it to the staging area. Shuffle the encounter discard pile into the encounter deck and travel to Mordor Road."
+                ],
+                "Shadow": null,
+                "FlavorText": "They had gone some miles, and the road was at last running down a long slope into a plain, when Frodo`s strength began to give out and his will wavered. He lurched and stumbled. Desperately Sam tried to help him and hold him up...\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Road-to-Isenmouthe-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Dire. Forced: After placing progress here from questing successfully, each player makes a Fortitude test. If a player passes this test, he places a resource here. If a player fails this test, he discards cards from the top of the encounter deck until an enemy is discarded and puts that enemy into play engaged with him.",
+                    "At the end of the quest phase, if the number of resources here is equal to or greater than the number of players, advance to stage 3A."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "Mount Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Last Gasp",
+            "Slug": "The-Last-Gasp-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Last-Gasp-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X locations are discarded, where X is the number of players in the game. Add each location discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The last stage of their journey to Orodruin came, and it was a torment greater than Sam had ever thought he could bear. He was in pain, and so parched that he could no longer swallow even a mouthful of food.\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Last-Gasp-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Dire. The first treachery revealed each quest phase is immune to player card effects and gains surge.",
+                    "Forced: At the beginning of the quest phase, the first player makes a Fortitude test. If the first player fails this test, no more than 5 progress can be placed here this round.",
+                    "This stage cannot be defeated unless Mount Doom is the active location."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "Mount Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 77,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Crack of Doom",
+            "Slug": "The-Crack-of-Doom-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Crack-of-Doom-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded, where X is the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "He was come to the heart of the realm of Sauron and the forges of his ancient might, greatest in Middle-earth; all other powers were here subdued.\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Crack-of-Doom-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Dire. Allies cannot enter play and `when revealed` effects cannot be canceled.",
+                    "Forced: When Mount Doom is explored, the first player makes a Fortitude test. Discard 1 extra encounter card for each player. If the first player fails this test, the Ring-bearer claims The One Ring and the players lose the game. If the test is successful, the Ring-bearer completes the quest and the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "Mount Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deep Shadows"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 78,
+            "Quantity": 1,
+            "Artist": "Dmitry Prosvirnin",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Deep Shadows",
+            "Slug": "Deep-Shadows-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Drawn to the Ring",
+            "Slug": "Drawn-to-the-Ring-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Evil Vigilance",
+            "Slug": "Evil-Vigilance-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Big Uruk",
+            "Slug": "Big-Uruk-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Brake of Thorns",
+            "Slug": "Brake-of-Thorns-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Foul Fumes",
+            "Slug": "Foul-Fumes-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Gollum",
+            "Slug": "Gollum-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Heavy and Tired",
+            "Slug": "Heavy-and-Tired-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Little Snuffler",
+            "Slug": "Little-Snuffler-TMoF",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Mordor Road",
+            "Slug": "Mordor-Road-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Mount Doom",
+            "Slug": "Mount-Doom-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Mount Doom (Campaign)",
+            "Slug": "Mount-Doom-Campaign-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Old Water-course",
+            "Slug": "Old-Water-course-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Orc Captain",
+            "Slug": "Orc-Captain-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Orc-hold",
+            "Slug": "Orc-hold-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Plain of Gorgoroth",
+            "Slug": "Plain-of-Gorgoroth-TMoF",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "Ringwraith of Sauron",
+            "Slug": "Ringwraith-of-Sauron-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "The Lidless Eye",
+            "Slug": "The-Lidless-Eye-TMoF",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "The Tower of Barad-dûr",
+            "Slug": "The-Tower-of-Barad-dur-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mount Doom",
+            "Title": "'Wicked Master!'",
+            "Slug": "'Wicked-Master'-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "Epic Multiplayer Mode (Campaign)",
+            "Slug": "Epic-Multiplayer-Mode-Campaign-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "In Darkness Bind Them",
+            "Slug": "In-Darkness-Bind-Them-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "The Eye of Sauron (Mount-Doom)",
+            "Slug": "The-Eye-of-Sauron-Mount-Doom-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "The Eye of Sauron (The-Black-Gate-Opens)",
+            "Slug": "The-Eye-of-Sauron-The-Black-Gate-Opens-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

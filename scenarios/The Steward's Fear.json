@@ -1,0 +1,482 @@
+{
+    "Title": "The Steward's Fear",
+    "Slug": "The-Steward's-Fear",
+    "Product": "The Steward's Fear",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Conspiracy",
+            "Slug": "Conspiracy-TSF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/Conspiracy-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Create the underworld deck. Remove Roots of Mindolluin from the encounter deck and set it aside, out of play. Shuffle all Villain cards and randomly set one aside, out of play, without looking at it. Remove the others from the game. Repeat this with all Plot cards."
+                ],
+                "Shadow": null,
+                "FlavorText": "Even as foes mass from without, the Steward of Minas Tirith fears there are enemies within. You have been asked to investigate the possibility of a conspiracy within the White City..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/Conspiracy-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck for The Fourth Star and make it the active location. Shuffle the encounter deck.",
+                    "Forced: After the active location leaves play as an explored location, place 1 resource token on this quest.",
+                    "If there are 4 or more resource tokens on Conspiracy, advance to the next stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "You begin your investigation at The Fourth Star, a popular tavern..."
+            },
+            "CardSet": "The Steward's Fear",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brigands",
+                    "Streets of Gondor"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 11,
+            "Quantity": 1,
+            "Artist": "Milek Jakubiec",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Grand Design",
+            "Slug": "The-Grand-Design-TSF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/The-Grand-Design-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal the set aside Plot card and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have uncovered crucial information about the dissident plot, and even gleaned hints of teh conspirator`s secretive leader. Clues have led you to a cavern deep in the heart of Mount Mindolluin. As you descend into the ancient rock, you begin to suspect the clues that led you here may have been misleading... that you may have been lured away from the city streets for a purpose."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/The-Grand-Design-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Make Roots of Mindolluin the active location, returning any other active location to the staging area.",
+                    "Forced: After the active location leaves play as an explored location place 1 resource token on this quest.",
+                    "If there are 4 or more resource tokens on The Grand Design, advance to the next stage."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Steward's Fear",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brigands",
+                    "Streets of Gondor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 12,
+            "Quantity": 1,
+            "Artist": "Grzegorz Pedrycz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Confrontation",
+            "Slug": "The-Confrontation-TSF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/The-Confrontation-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal the set aside Villain card and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have unmasked the conspiracy and its champion is upon you. The wheels of treachery are in motion, and only a heroic effort can stop the cabal`s plan in time..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear/The-Confrontation-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the underworld deck into the encounter deck.",
+                    "The players cannot defeat this stage while a Villain is in play. If this stage is defeated, the players have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Steward's Fear",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brigands",
+                    "Streets of Gondor"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 13,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Lossarnach Bandit",
+            "Slug": "Lossarnach-Bandit-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Lurking in Shadows",
+            "Slug": "Lurking-in-Shadows-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Umbar Assassin",
+            "Slug": "Umbar-Assassin-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Zealous Traitor",
+            "Slug": "Zealous-Traitor-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Brigands Nightmare",
+            "Title": "Murderous Turncoat",
+            "Slug": "Murderous-Turncoat-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "City Street",
+            "Slug": "City-Street-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Local Trouble",
+            "Slug": "Local-Trouble-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Lost in the City",
+            "Slug": "Lost-in-the-City-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Market Square",
+            "Slug": "Market-Square-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Pickpocket",
+            "Slug": "Pickpocket-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "A Knife in the Back",
+            "Slug": "A-Knife-in-the-Back-TSF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "A Prisoner",
+            "Slug": "A-Prisoner-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "A Scrap of History",
+            "Slug": "A-Scrap-of-History-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Daughter of Berúthiel",
+            "Slug": "Daughter-of-Beruthiel-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "False Lead",
+            "Slug": "False-Lead-TSF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Houses of the Dead",
+            "Slug": "Houses-of-the-Dead-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Poisoned Counsels",
+            "Slug": "Poisoned-Counsels-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Roots of Mindolluin",
+            "Slug": "Roots-of-Mindolluin-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Secret Map",
+            "Slug": "Secret-Map-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Sewers",
+            "Slug": "Sewers-TSF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Storehouse",
+            "Slug": "Storehouse-TSF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Telemnar's Bane",
+            "Slug": "Telemnar's-Bane-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "The Fourth Star",
+            "Slug": "The-Fourth-Star-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "The Hand of Castamir",
+            "Slug": "The-Hand-of-Castamir-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Underworld Dissident",
+            "Slug": "Underworld-Dissident-TSF",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Unholy Alliance",
+            "Slug": "Unholy-Alliance-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Unwelcome Discovery",
+            "Slug": "Unwelcome-Discovery-TSF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear",
+            "Title": "Up in Flames",
+            "Slug": "Up-in-Flames-TSF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Arched Tunnel",
+            "Slug": "Arched-Tunnel-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Assassination",
+            "Slug": "Assassination-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Faithless Conspirator",
+            "Slug": "Faithless-Conspirator-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "False Accusations",
+            "Slug": "False-Accusations-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Rath Celerdain",
+            "Slug": "Rath-Celerdain-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Rise to Power",
+            "Slug": "Rise-to-Power-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "The Cabal's Champion",
+            "Slug": "The-Cabal's-Champion-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "The Steward's Fear Nightmare",
+            "Slug": "The-Steward's-Fear-Nightmare-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Steward's Fear Nightmare",
+            "Title": "Traitors' Den",
+            "Slug": "Traitors'-Den-TSFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

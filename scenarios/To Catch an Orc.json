@@ -1,0 +1,370 @@
+{
+    "Title": "To Catch an Orc",
+    "Slug": "To-Catch-an-Orc",
+    "Product": "The Voice of Isengard",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Orders from Orthanc",
+            "Slug": "Orders-from-Orthanc-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Orders-from-Orthanc-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Each player removes the top 20 cards of his deck and places them aside, as an out-of-play deck. The first player takes Mugash plus 1 Mugash`s Guard for each other player in the game and randomly shuffles one facedown into each player`s out-of-play deck. Place any remaining copies of Mugash`s Guard aside, out of play."
+                ],
+                "Shadow": null,
+                "FlavorText": "Saruman has tasked you with a dangerous mission: journey up the Misty Mountains` southern peack in search of the Orc, Mugash, and capture him alive."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Orders-from-Orthanc-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck for a Mountain location and adds it to the staging area. Shuffle the encounter deck. Then, advance to stage 2."
+                ],
+                "Shadow": null,
+                "FlavorText": "Mugash and his Orcs have been raiding the surrounding coutryside from their hidden lair in Methedras, and carrying loot and captives back into the mountains. It`s time to put an end to this menace..."
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "To Catch an Orc",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 62,
+            "Quantity": 1,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Searching for Mugash",
+            "Slug": "Searching-for-Mugash-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Searching-for-Mugash-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 2."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Orcs prowl the mountainside on the lookout for intruders. A single horn-call from one of the sentries would have every Orc in Methedras scurrying out of their holes to fight. You must move carefully to avoid detection while you search for their captain..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Searching-for-Mugash-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 2.",
+                    "Forced: After the last time counter is removed for this stage, shuffle the discard pile into the encounter deck and reveal 2 encounter cards per player. Place 2 time counters on this stage.",
+                    "Response: After questing successfully, cancel all progress that would be placed on this stage. Then, place 1 time counter on this stage. Or, if Mugash is in play, advance to stage 3."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "To Catch an Orc",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 63,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Wizard's Prize",
+            "Slug": "The-Wizard's-Prize-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Wizard's-Prize-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "You`ve found Mugash, but the Orc captain won`t be taken without a fight! He howls and rages against you with the ferocity of a cornered animal. All the commotion is sure to draw more Orcs to the fray, yet you must subdue the huge Uruk before you can retreat down the mountain..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Wizard's-Prize-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3.",
+                    "Forced: After the last time counter is removed from this stage, return Mugash to the staging area and reveal X encounter cards. X is the number of players in the game minus 1. Place 3 time counters on this stage.",
+                    "Progress cannot be placed on this stage unless Mugash is attached to a hero.",
+                    "If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "To Catch an Orc",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountain Orcs",
+                    "Broken Lands"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 64,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Broken Lands",
+            "Title": "Broken Lands (Location)",
+            "Slug": "Broken-Lands-Location-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Broken Lands",
+            "Title": "Prowling Wolf",
+            "Slug": "Prowling-Wolf-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Broken Lands",
+            "Title": "Take Cover!",
+            "Slug": "Take-Cover-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountain Orcs",
+            "Title": "Orc Hound",
+            "Slug": "Orc-Hound-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Misty Mountain Orcs",
+            "Title": "Orc Hunter",
+            "Slug": "Orc-Hunter-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountain Orcs",
+            "Title": "Orc Hunting Party",
+            "Slug": "Orc-Hunting-Party-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Misty Mountain Orcs",
+            "Title": "Orc Skirmisher",
+            "Slug": "Orc-Skirmisher-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Methedras",
+            "Slug": "Methedras-VoI",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Methedras Orc",
+            "Slug": "Methedras-Orc-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Mugash (Enemy)",
+            "Slug": "Mugash-Enemy-VoI",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Mugash's Guard",
+            "Slug": "Mugash's-Guard-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Mugash's Lair",
+            "Slug": "Mugash's-Lair-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Orc Cave",
+            "Slug": "Orc-Cave-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "To Catch an Orc",
+            "Title": "Orc Territory",
+            "Slug": "Orc-Territory-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Guard Wolf",
+            "Slug": "Guard-Wolf-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Methedras Lookout",
+            "Slug": "Methedras-Lookout-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Methedras Peak",
+            "Slug": "Methedras-Peak-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Mugash's Cunning",
+            "Slug": "Mugash's-Cunning-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Mugash's Rage",
+            "Slug": "Mugash's-Rage-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Orc Trail",
+            "Slug": "Orc-Trail-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Patrolling Orcs",
+            "Slug": "Patrolling-Orcs-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "To Catch an Orc Nightmare",
+            "Slug": "To-Catch-an-Orc-Nightmare-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "To Catch an Orc Nightmare",
+            "Title": "Vigilant Orc",
+            "Slug": "Vigilant-Orc-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        }
+    ]
+}

@@ -1,0 +1,397 @@
+{
+    "Title": "The Long Dark",
+    "Slug": "The-Long-Dark",
+    "Product": "The Long Dark",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "Journey in the Black Pit",
+            "Slug": "Journey-in-the-Black-Pit-TLD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Long-Dark/Journey-in-the-Black-Pit-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: The first player attaches Cave Torch to a hero of his choice."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your party is scouting the Mines of Moria, searching for signs of Orcs. Dark tunnels and twisting passages spread out in all directions, a labyrinthine maze that you could wander in forever if you take the wrong path."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Long-Dark/Journey-in-the-Black-Pit-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Discard cards from the top of the encounter deck until you discard X locations, where X is one less than the number of players in the game (minimum 1). Add those locations to the staging area, and shuffle the other discarded cards back into the encounter deck.",
+                    "Each location gets +1 threat. If the players quest unsuccessfully, trigger all `Lost:` effects in play."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Long Dark",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Dark",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deeps of Moria",
+                    "Twists and Turns"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 86,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Continuing Eastward",
+            "Slug": "Continuing-Eastward-TLD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Long-Dark/Continuing-Eastward-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Time carries no weight in the darkness, and the hours creep by with no end in sight. The number of Orcs in the mines increase as you head toward the East-gate, but there appears to be little real organization within their ranks. You press onward!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Long-Dark/Continuing-Eastward-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "17"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player makes a locate test. If this test is failed, reveal cards from the encounter deck equal to the number of players in the game and add them to the staging area. Then, trigger all `Lost:` effects in play.",
+                    "If the players quest unsuccessfully, trigger all `Lost:` effects in play.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Long Dark",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Dark",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Deeps of Moria",
+                    "Twists and Turns"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 87,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "Chance Encounter",
+            "Slug": "Chance-Encounter-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "Great Cave-troll",
+            "Slug": "Great-Cave-troll-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "Massing in the Deep",
+            "Slug": "Massing-in-the-Deep-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "Orc Drummer",
+            "Slug": "Orc-Drummer-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "Stray Goblin",
+            "Slug": "Stray-Goblin-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deeps of Moria",
+            "Title": "The Mountains' Roots",
+            "Slug": "The-Mountains'-Roots-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Abandoned Mine",
+            "Slug": "Abandoned-Mine-TLD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Cave Spider",
+            "Slug": "Cave-Spider-TLD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Durin's Greaves",
+            "Slug": "Durin's-Greaves-TLD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Dwarven Forge",
+            "Slug": "Dwarven-Forge-TLD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Fatigue",
+            "Slug": "Fatigue-TLD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Foul Air",
+            "Slug": "Foul-Air-TLD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Gathering Ground",
+            "Slug": "Gathering-Ground-TLD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Goblin Sneak",
+            "Slug": "Goblin-Sneak-TLD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Goblin Warlord",
+            "Slug": "Goblin-Warlord-TLD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Rock Adder",
+            "Slug": "Rock-Adder-TLD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Silent Caverns",
+            "Slug": "Silent-Caverns-TLD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Twisting Passage",
+            "Slug": "Twisting-Passage-TLD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark",
+            "Title": "Vast and Intricate",
+            "Slug": "Vast-and-Intricate-TLD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Bottomless Chasm",
+            "Slug": "Bottomless-Chasm-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Dreadful Deep",
+            "Slug": "Dreadful-Deep-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Eastern Mines",
+            "Slug": "Eastern-Mines-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Goblin Stalker",
+            "Slug": "Goblin-Stalker-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Lost and Helpless",
+            "Slug": "Lost-and-Helpless-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Sentinel of the Deep",
+            "Slug": "Sentinel-of-the-Deep-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "The Long Dark Nightmare",
+            "Slug": "The-Long-Dark-Nightmare-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Dark Nightmare",
+            "Title": "Trapdoor Spider",
+            "Slug": "Trapdoor-Spider-TLDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Branching Paths",
+            "Slug": "Branching-Paths-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Burning Low",
+            "Slug": "Burning-Low-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Cave Torch",
+            "Slug": "Cave-Torch-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Goblin Follower",
+            "Slug": "Goblin-Follower-KD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Lightless Passage",
+            "Slug": "Lightless-Passage-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Many Roads",
+            "Slug": "Many-Roads-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Zigil Mineshaft",
+            "Slug": "Zigil-Mineshaft-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        }
+    ]
+}

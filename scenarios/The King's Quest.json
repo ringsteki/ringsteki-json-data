@@ -1,0 +1,390 @@
+{
+    "Title": "The King's Quest",
+    "Slug": "The-King's-Quest",
+    "Product": "The Wilds of Rhovanion",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Iron Hills",
+            "Slug": "The-Iron-Hills-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Iron-Hills-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Build the Caves deck (see insert) and set it next to the quest deck. Set Fire-drake, Dragon Hoard, and the Dragon Might encounter sets aside, out of play. Shuffle the encounter deck. Each player discards cards from the top of the encounter deck until he discards an enemy or location and adds that card to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have tracked the beast that attacked the village on the border of Brand’s realm to the mines beneath the Iron Hills. The Dwarves there have been driven from the lower depths by a new terror, and the mines have become a haunt for evil creatures."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Iron-Hills-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, discard cards from the top of the encounter deck until a location is discarded. Either add that location to the staging area, or raise each player`s threat by X, where X is that location`s printed Threat.",
+                    "This stage cannot be defeated unless there are 3 locations with victory points in the victory display."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "The King's Quest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 78,
+            "Quantity": 1,
+            "Artist": "Davis Engel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Lower Depths",
+            "Slug": "The-Lower-Depths-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Lower-Depths-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Place Dragon Hoard on the bottom of the Caves deck. Add Fire-drake to the staging area and shuffle the Dragon Might encounter set into the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "A bright flame splits the darkness, and your fears are confirmed: it was a dragon you tracked from the village. The fire-drake chased the Dwarves from their mines, and you must search out its lair somewhere in the lower depths."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Lower-Depths-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Fire-drake cannot leave the staging area or take damage.",
+                    "Response: After placing progress here from questing successfully, remove 5 progress from this stage to look at the top 2 cards of the Caves deck. Put one on top of the Caves deck and put the other on the bottom.",
+                    "After The Dragon Hoard becomes the active location, advance to stage 3A."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "The King's Quest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 79,
+            "Quantity": 1,
+            "Artist": "Davis Engel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Fire Worm",
+            "Slug": "The-Fire-Worm-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Fire-Worm-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck and discard pile for a Dragon treachery and attach it to Fire-drake, if able. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The cavern around you trembles as the dragon roars and spews fire from its mouth. For a moment, the terrifying form of the beast is lit by red-orange flame and it all becomes clear to you: the huge fire-drake must be responsible for the upheaval you’ve encountered in Wilderland. The Iron Hills and the realm of Dale will not be safe until the dragon is dead."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Fire-Worm-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Ignore the Deep keyword.",
+                    "Forced: After a player declares X attackers against Fire-drake, he must remove X progress tokens from the main quest or cancel the attack.",
+                    "This stage cannot be defeated while Fire-drake is in play. If Fire-drake is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "The King's Quest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Fell Beasts",
+                    "Wild Creatures",
+                    "Deep Underground",
+                    "Afraid of the Dark",
+                    "Dragon Might",
+                    "Lost Caves"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 80,
+            "Quantity": 1,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Afraid of the Dark",
+            "Title": "Afraid of the Dark",
+            "Slug": "Afraid-of-the-Dark-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Afraid of the Dark",
+            "Title": "Eyes in the Dark",
+            "Slug": "Eyes-in-the-Dark-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deep Underground",
+            "Title": "Dark Places",
+            "Slug": "Dark-Places-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deep Underground",
+            "Title": "Dark Tunnel",
+            "Slug": "Dark-Tunnel-TWoR",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Deep Underground",
+            "Title": "Forked Passage",
+            "Slug": "Forked-Passage-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dragon Might",
+            "Title": "Dragon Breath",
+            "Slug": "Dragon-Breath-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dragon Might",
+            "Title": "Dragon Scales",
+            "Slug": "Dragon-Scales-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Fell Beasts",
+            "Title": "Hobgoblin",
+            "Slug": "Hobgoblin-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Fell Beasts",
+            "Title": "Stone-troll",
+            "Slug": "Stone-troll-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Ancient Treasury",
+            "Slug": "Ancient-Treasury-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Crumbling Cavern",
+            "Slug": "Crumbling-Cavern-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Frightful Den",
+            "Slug": "Frightful-Den-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Lightless Grotto",
+            "Slug": "Lightless-Grotto-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Lost Armory",
+            "Slug": "Lost-Armory-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Underground Lake",
+            "Slug": "Underground-Lake-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Contested Depths",
+            "Slug": "Contested-Depths-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Deep Chasm",
+            "Slug": "Deep-Chasm-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Denizen of the Deep",
+            "Slug": "Denizen-of-the-Deep-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Dragon Hoard",
+            "Slug": "Dragon-Hoard-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Fire-drake",
+            "Slug": "Fire-drake-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The King's Quest",
+            "Title": "Iron Hills Mine",
+            "Slug": "Iron-Hills-Mine-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Black Bats",
+            "Slug": "Black-Bats-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Giant Spider",
+            "Slug": "Giant-Spider-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Werewolf",
+            "Slug": "Werewolf-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "Title": "Deadmen's Dike",
+    "Slug": "Deadmen's-Dike",
+    "Product": "The Lost Realm",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Shades of Angmar",
+            "Slug": "The-Shades-of-Angmar-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/The-Shades-of-Angmar-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Put Iârion into play. Set Thaurdir aside, out of play. Add 1 copy of Fornost square to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve brought the prisoners you rescued from the Weather Hills to Fornost. The Rangers gathered there are shocked to hear what you discovered at Amon Forn. Before their Chieftain can decide what to do, an unnatural fog covers the ruins in darkness, and the spectres of dead warriors emerge from the mists to attack you!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/The-Shades-of-Angmar-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must search the encounter deck for a Baleful Shade and put it into play engaged with him. Shuffle the encounter deck and reveal 1 encounter card per player.",
+                    "Forced: At the end of the refresh phase, each player discards the top card of his deck.",
+                    "If a player has no cards in his deck, he is eliminated from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "Deadmen's Dike",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Dark Sorcery",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Joel Hustak",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Fell Wraith",
+            "Slug": "A-Fell-Wraith-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/A-Fell-Wraith-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Thaurdir to the staging area. Then, reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "The foul sorcery that drives the ghouls against you attacks your mind as well, and you fight to master your fear in the face of an unrelenting enemy. The question of who works the evil spell is answered by the appearance of a dark figure. The old man you had thought to be the Orcs` prisoner has revealed himself to be a powerful wraith. He must be stopped!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/A-Fell-Wraith-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Thaurdir attacks and destroys a character, that character`s controller must either discard the top 3 cards of his deck, or return Thaurdir to the staging area.",
+                    "If a player has no cards in his deck, he is eliminated from the game. The players cannot defeat this stage while Thaurdir has any hit points remaining. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "Deadmen's Dike",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Dark Sorcery",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Cursed Dead",
+            "Slug": "Cursed-Dead-TLR",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Dead Lord",
+            "Slug": "Dead-Lord-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Restless Evil",
+            "Slug": "Restless-Evil-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Seal the Tomb",
+            "Slug": "Seal-the-Tomb-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Dark Sorcery",
+            "Slug": "Dark-Sorcery-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Heavy Curse",
+            "Slug": "Heavy-Curse-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Terror of the North",
+            "Slug": "Terror-of-the-North-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "The Power of Angmar",
+            "Slug": "The-Power-of-Angmar-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Baleful Shade",
+            "Slug": "Baleful-Shade-TLR",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Broken Battlements",
+            "Slug": "Broken-Battlements-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Deadmen's Gate",
+            "Slug": "Deadmen's-Gate-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Fornost Square",
+            "Slug": "Fornost-Square-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Haunted Keep",
+            "Slug": "Haunted-Keep-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Norbury Tombs",
+            "Slug": "Norbury-Tombs-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Thaurdir",
+            "Slug": "Thaurdir-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Thaurdir's Damned",
+            "Slug": "Thaurdir's-Damned-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "The Shadow World",
+            "Slug": "The-Shadow-World-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deadmen's Dike",
+            "Title": "Unnatural Fog",
+            "Slug": "Unnatural-Fog-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Curse of Angmar",
+            "Slug": "Curse-of-Angmar-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Cursed Dead",
+            "Slug": "Cursed-Dead-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Deadmen's Dike Nightmare",
+            "Slug": "Deadmen's-Dike-Nightmare-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Decrepit City",
+            "Slug": "Decrepit-City-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Fornost Street",
+            "Slug": "Fornost-Street-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Gather Your Courage",
+            "Slug": "Gather-Your-Courage-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Palace Ruins",
+            "Slug": "Palace-Ruins-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Paralyzing Fear",
+            "Slug": "Paralyzing-Fear-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deadmen's Dike Nightmare",
+            "Title": "Undead Horde",
+            "Slug": "Undead-Horde-DDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Iârion",
+            "Title": "Iârion",
+            "Slug": "Iarion-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

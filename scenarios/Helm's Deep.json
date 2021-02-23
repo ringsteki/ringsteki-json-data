@@ -1,0 +1,445 @@
+{
+    "Title": "Helm's Deep",
+    "Slug": "Helm's-Deep",
+    "Product": "The Treason of Saruman",
+    "Number": 8,
+    "QuestCards": [
+        {
+            "Title": "The King of the Golden Hall",
+            "Slug": "The-King-of-the-Golden-Hall-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-of-the-Golden-Hall-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set The Defense of Helm`s Deep and 1 copy of Deeping Wall aside, out of play. Each player sets 1 copy of Soldier of Isengard aside, out of play. Then, the players must choose: either each player shuffles 1 copy of Poisoned Counsels into his deck, or advance to stage 2A (bypassing stage 1B)."
+                ],
+                "Shadow": null,
+                "FlavorText": "The pursuit of the Uruk-hai has brought the Heir of Elendil to Rohan just as Saruman declares war on that land. Aragorn and his companions travel to Edoras to aid King Théoden, but their arrival is met with suspicion..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-of-the-Golden-Hall-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player chooses 1 ally in his hand that matches the sphere of a hero he controls and puts it into play under his control.",
+                    "Skip the quest phase and combat phase.",
+                    "Forced: At the end of the round, advance to stage 2A."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Hail, Théoden son of Thengel! I have returned. For behold! the storm comes, and now all friends should gather together...` -Gandalf, The Two Towers"
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "Helm's Deep",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Katy Grierson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Assault on Helm's Deep",
+            "Slug": "Assault-on-Helm's-Deep-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Assault-on-Helm's-Deep-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Defense."
+                ],
+                "Text": [
+                    "When Revealed: Add the Defense of Helm`s Deep and each set aside copy of Soldier of Isengard to the staging area. Make Deeping Wall the active location. Shuffle the encounter deck. Then, each player reveals 1 encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "At the behest of Gandalf, Aragorn and his companions ride to Helm`s Deep with the men of Rohan and their King. As the sun goes down, the valley below the Deeping Wall fills with the approaching army of Isengard..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Assault-on-Helm's-Deep-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the combat phase, if the number of enemies in the staging area is less than the number of players in the game, the first player reveals an encounter card.",
+                    "Forced: At the end of the round place 1 progress here for each enemy in the staging area (bypassing the active location)."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "Helm's Deep",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Hosts of Isengard",
+            "Slug": "The-Hosts-of-Isengard-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Hosts-of-Isengard-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Defense."
+                ],
+                "Text": [
+                    "When Revealed: Search the encounter deck, discard pile, and victory display for Helm`s Gate and add it to the staging area. Shuffle the encounter deck. Make Helm`s Gate the active location, returning any previous active location to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Against the Deeping Wall the hosts of Isengard roared like a sea. Orcs and hillmen swarmed about its feet from end to end. -The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Hosts-of-Isengard-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After resolving the quest, if the encounter deck did not place at least 1 progress on this stage as the result of questing, the first player reveals 1 encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Hundreds of long ladders were lifted up. Many were cast down in ruin, but many more replaced them... -The Two Towers"
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "Helm's Deep",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Wall is Breached!",
+            "Slug": "The-Wall-is-Breached-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Wall-is-Breached-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Defense."
+                ],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the encounter deck until X enemies are discarded. X is the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Then there was a crash and a flash of flame and smoke. The waters of the Deeping-stream poured out hissing and foaming: they were choked no longer, a gaping hole was blasted in the wall. A host of dark shapes poured in. -The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Wall-is-Breached-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After a character is destroyed, place 1 progress on this stage (bypassing any active location).",
+                    "If this stage is defeated, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Over the wall and under the wall the last assault came sweeping like a dark wave upon a hill of sand. -The Two Towers"
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "Helm's Deep",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 75,
+            "Quantity": 1,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The King Rides Out",
+            "Slug": "The-King-Rides-Out-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-Rides-Out-5A.jpg",
+                "Stats": {
+                    "StageNumber": "5A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the encounter deck until X enemies are discarded. X is the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "As dawn breaks in the East, a blast from Helm`s Horn echoes in the valley and the Riders of Rohan charge out from Helm`s Gate with King Théoden and Aragorn at their head."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-King-Rides-Out-5B.jpg",
+                "Stats": {
+                    "StageNumber": "5B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Skip the quest phase. Players cannot reduce their threat.",
+                    "If there are no enemies in play, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "With a cry and a great noise they charged. Down from the gates they roared, over the causeway they swept, and they drove through the hosts of Isengard as a wind among grass. -The Two Towers"
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "Helm's Deep",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of the White Hand"
+                ],
+                "StageNumber": 5,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Deeping Culvert",
+            "Slug": "Deeping-Culvert-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Deeping Wall",
+            "Slug": "Deeping-Wall-ToS",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Devilry of Saruman",
+            "Slug": "Devilry-of-Saruman-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Helm's Deep (Campaign)",
+            "Slug": "Helm's-Deep-Campaign-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Helm's Gate",
+            "Slug": "Helm's-Gate-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Night Without End",
+            "Slug": "Night-Without-End-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Poisoned Counsels",
+            "Slug": "Poisoned-Counsels-ToS",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Postern Door",
+            "Slug": "Postern-Door-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Reckless Hate",
+            "Slug": "Reckless-Hate-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Scaling Ladders",
+            "Slug": "Scaling-Ladders-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Soldier of Isengard",
+            "Slug": "Soldier-of-Isengard-ToS",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "The Defense of Helm's Deep",
+            "Slug": "The-Defense-of-Helm's-Deep-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "The Hornburg",
+            "Slug": "The-Hornburg-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Warrior of Dunland",
+            "Slug": "Warrior-of-Dunland-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Helm's Deep",
+            "Title": "Wild Hillman",
+            "Slug": "Wild-Hillman-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of the White Hand",
+            "Title": "Fighting Uruk-hai",
+            "Slug": "Fighting-Uruk-hai-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Orcs of the White Hand",
+            "Title": "Isengard Uruk",
+            "Slug": "Isengard-Uruk-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of the White Hand",
+            "Title": "Uruk-hai Fighter",
+            "Slug": "Uruk-hai-Fighter-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "Title": "The Siege of Gondor",
+    "Slug": "The-Siege-of-Gondor",
+    "Product": "The Flame of the West",
+    "Number": 14,
+    "QuestCards": [
+        {
+            "Title": "Attack on Pelargir",
+            "Slug": "Attack-on-Pelargir-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Attack-on-Pelargir-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add The Corsair Fleet (Corsair side faceup) and Great Corsair Ship to the staging area. Each player searches the encounter deck for a Ship location and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "`There at Pelargir lay the main fleet of Umbar, fifty great ships and smaller vessels beyond count. Many of those that we pursued had reached the havens before us...`\r\n-Gimli, The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Attack-on-Pelargir-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Ship location in the staging area is immune to player card effects.",
+                    "The players cannot defeat this stage while Great Corsair Ship is in play. When this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But the Haradrim, being now driven to the brink, turned at bay, and they were fierce in despair; and they laughed when the looked on us, for they were a great army still.` -Gimli, The Return of the King"
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Gondor",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 69,
+            "Quantity": 1,
+            "Artist": "Javier Charro Martinez",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Black Sails",
+            "Slug": "Black-Sails-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Corsair Captain",
+            "Slug": "Corsair-Captain-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Corsair Dromon",
+            "Slug": "Corsair-Dromon-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Corsair of Umbar",
+            "Slug": "Corsair-of-Umbar-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Driven to the Brink",
+            "Slug": "Driven-to-the-Brink-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Fell Folk of Umbar",
+            "Slug": "Fell-Folk-of-Umbar-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Great Corsair Ship",
+            "Slug": "Great-Corsair-Ship-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Haradrim Pirate",
+            "Slug": "Haradrim-Pirate-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Pelargir Quays",
+            "Slug": "Pelargir-Quays-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Port of Pelargir",
+            "Slug": "Port-of-Pelargir-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Raiding the Coasts",
+            "Slug": "Raiding-the-Coasts-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "The Corsair Fleet (Corsair)",
+            "Slug": "The-Corsair-Fleet-Corsair-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "The Corsair Fleet (Gondor)",
+            "Slug": "The-Corsair-Fleet-Gondor-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "The Siege of Gondor (Campaign)",
+            "Slug": "The-Siege-of-Gondor-Campaign-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Umbar Pirate Crew",
+            "Slug": "Umbar-Pirate-Crew-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Gondor",
+            "Title": "Umbar War Galley",
+            "Slug": "Umbar-War-Galley-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

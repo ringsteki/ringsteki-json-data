@@ -1,0 +1,439 @@
+{
+    "Title": "Into Ithilien",
+    "Slug": "Into-Ithilien",
+    "Product": "Heirs of Númenor",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Ambush in Ithilien",
+            "Slug": "Ambush-in-Ithilien-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ambush-in-Ithilien-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Battle."
+                ],
+                "Text": [
+                    "Setup: Add Celador to the staging area. Search the encounter deck for a copy of Ithilien Road and make it the active location. Each player must search the encounter deck for a copy of Southron Company and add it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve arrived in Ithilien with a sealed message for Faramir, only to learn that he has gone north to defend Cair Andros from massing enemy forces."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Ambush-in-Ithilien-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Battle.",
+                    "If the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2)."
+                ],
+                "Shadow": null,
+                "FlavorText": "Faramir has left a company of rangers in Ithilien, tasked on ambushing Southrons as the march toward Cair Andros. Their captain, Celador, offers to lead you to Cair Andros after the approaching enemy is destroyed..."
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest",
+                    "Creatures of the Forest",
+                    "Southrons"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 68,
+            "Quantity": 1,
+            "Artist": "Jeff Lee Johnson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Southron Counter-attack",
+            "Slug": "Southron-Counter-attack-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Southron-Counter-attack-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege.",
+                    "Archery X."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "The Southron army was larger and better prepared than the rangers anticipated, and now your dwindling company is painfully overmatched. Your only option is a disciplined withdrawl to Cair Andros, before being overwhelmed by the enemy reinforcements hurrying up the road to join the fight."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Southron-Counter-attack-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege. Archery X.",
+                    "X is the number of players in the game.",
+                    "After this stage is completed advance to stage 4A (bypassing stage 3)."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest",
+                    "Creatures of the Forest",
+                    "Southrons"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 69,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Hidden Way",
+            "Slug": "The-Hidden-Way-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Hidden-Way-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Hidden-Way-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player takes contorl of all Ranger objectives in the staging area.",
+                    "Enemies do not make engagement checks and cannot be optionally engaged."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest",
+                    "Creatures of the Forest",
+                    "Southrons"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 70,
+            "Quantity": 1,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Approaching Cair Andros",
+            "Slug": "Approaching-Cair-Andros-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Approaching-Cair-Andros-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "The island fortress of Cair Andros rises from the middle of the Anduin. From a distance all is quiet, but as you near the island and night approaches a raucous cry is heard on the wind. The horns of Mordor sound in response. The enemy is moving on Cair Andros, and the assault will soon begin. You must reach it before all hope is lost."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Approaching-Cair-Andros-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If any players threat is 37 or higher, Approaching Cair Andros gains Siege.",
+                    "Forced: At the end of each round, raise each player`s threat by 2.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest",
+                    "Creatures of the Forest",
+                    "Southrons"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 71,
+            "Quantity": 1,
+            "Artist": "Emrah Elmasli",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Lost Companion",
+            "Slug": "Lost-Companion-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Overgrown Trail",
+            "Slug": "Overgrown-Trail-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Secluded Glade",
+            "Slug": "Secluded-Glade-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Creatures of the Forest",
+            "Title": "Forest Bat",
+            "Slug": "Forest-Bat-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Creatures of the Forest",
+            "Title": "Morgul Spider",
+            "Slug": "Morgul-Spider-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Creatures of the Forest",
+            "Title": "Watcher in the Wood",
+            "Slug": "Watcher-in-the-Wood-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien",
+            "Title": "Blocking Wargs",
+            "Slug": "Blocking-Wargs-HoN",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Into Ithilien",
+            "Title": "Celador",
+            "Slug": "Celador-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into Ithilien",
+            "Title": "Ithilien Guardian",
+            "Slug": "Ithilien-Guardian-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien",
+            "Title": "Ithilien Road",
+            "Slug": "Ithilien-Road-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien",
+            "Title": "Southron Company",
+            "Slug": "Southron-Company-HoN",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Cormallen Fields",
+            "Slug": "Cormallen-Fields-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Dense Thickets",
+            "Slug": "Dense-Thickets-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Haradrim Captain",
+            "Slug": "Haradrim-Captain-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Haradrim Marksman",
+            "Slug": "Haradrim-Marksman-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Into Ithilien Nightmare",
+            "Slug": "Into-Ithilien-Nightmare-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Ithilien Overlook",
+            "Slug": "Ithilien-Overlook-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Mûmak Elite",
+            "Slug": "Mumak-Elite-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Obsidian Arrows",
+            "Slug": "Obsidian-Arrows-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Ithilien Nightmare",
+            "Title": "Savage Fray",
+            "Slug": "Savage-Fray-IIN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Haradrim Elite",
+            "Slug": "Haradrim-Elite-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Mûmak",
+            "Slug": "Mumak-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Mercenaries",
+            "Slug": "Southron-Mercenaries-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Support",
+            "Slug": "Southron-Support-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

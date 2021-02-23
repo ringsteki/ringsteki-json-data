@@ -1,0 +1,510 @@
+{
+    "Title": "The Three Trials",
+    "Slug": "The-Three-Trials",
+    "Product": "The Three Trials",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "The Trials Begin",
+            "Slug": "The-Trials-Begin-TTT",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trials-Begin-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set aside all 3 Guardian enemies, all 3 Key objectives, all 3 Barrow locations, and Hallowed Circle."
+                ],
+                "Shadow": null,
+                "FlavorText": "At the edge of a cursed forest, the Boar Shaman explains that you must undertake three trials in order to recover the Antlered Crown, or face death. Each trial will test your worthiness. Guardian spirits watch over three sacred swords, protecting them from the undeserving."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trials-Begin-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The players advance to a stage 2A quest of their choice."
+                ],
+                "Shadow": null,
+                "FlavorText": "Three ancient barrows mark the locations for the trials, each the resting place of a different guardian spirit. The Boar Clan waits at the forest`s edge for any sign of your victory... or your death. Your only option is to press onward, heading towards the site of one of the three trials..."
+            },
+            "CardSet": "The Three Trials",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 35,
+            "Quantity": 1,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Trial of Strength",
+            "Slug": "The-Trial-of-Strength-TTT",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Strength-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and attach it to that enemy."
+                ],
+                "Shadow": null,
+                "FlavorText": "A rotting corpse guards the inner chamber of this barrow, holding in its grasp a worn sword that looks like one of the keys the Boar Shaman described to you. When you reach for the key, the guardian springs to life and attacks you!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Strength-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.",
+                    "When the players control the current trial`s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Three Trials",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 36,
+            "Quantity": 1,
+            "Artist": "Matt Bradbury",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Trial of Perseverance",
+            "Slug": "The-Trial-of-Perseverance-TTT",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Perseverance-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Randomly choose 1 of the remaining set aside Barrow locations and add it to the staging area. Then, randomly choose 1 of the remaining set aside Key objectives and attach it to that Barrow location. Find the set aside Guardian enemy that shares a Trait with the Key objective in play and reveal it, adding it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "A huge barrow towers before you, cold mist enveloping the entrance. The key is somewhere inside, but a heavy chill fills you with dread and unease..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Perseverance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.",
+                    "When the players control the current trial`s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Three Trials",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 37,
+            "Quantity": 1,
+            "Artist": "Silver Saaremäel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Trial of Intuition",
+            "Slug": "The-Trial-of-Intuition-TTT",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Intuition-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Shuffle the encounter discard pile into the encounter deck. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and suffle it into the bottom 10 cards of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have found the barrow where the trial should take place, but the key cannot be found. You are sure the key`s guardian is watching you... Where is the key?"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Trial-of-Intuition-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)",
+                    "When the players control the current trial`s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Three Trials",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 38,
+            "Quantity": 1,
+            "Artist": "Matt Bradbury",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Antlered Crown",
+            "Slug": "The-Antlered-Crown-TTT",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Antlered-Crown-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Hallowed Circle to the staging area. Reveal each Guardian enemy in the victory display, adding them to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have finally completed the trials and recovered each key. None have made it this far before. You hasten to the hallowed circle in the center of the forest. All that`s left is to insert the hilts of these swords into the marked stone the shaman described, and the Antlered Crown will be yours. As you advance, a thick fog gathers around you and growing dread tugs at your mind."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials/The-Antlered-Crown-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.",
+                    "Players cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Out of the fog, the angry guardian spirits emerge once more, determined to stop you from retrieving the crown. You desperately rush to the circle while fending them off."
+            },
+            "CardSet": "The Three Trials",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 39,
+            "Quantity": 1,
+            "Artist": "Claudio Pozas",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Ancient Forest (Location)",
+            "Slug": "Ancient-Forest-Location-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Tangled Woods",
+            "Slug": "Tangled-Woods-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Turned Around",
+            "Slug": "Turned-Around-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Boar's Guardian",
+            "Slug": "Boar's-Guardian-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Cave Barrow",
+            "Slug": "Cave-Barrow-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Curse of the Wild Men",
+            "Slug": "Curse-of-the-Wild-Men-TTT",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Cursed Forest",
+            "Slug": "Cursed-Forest-TTT",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Grim Foothills",
+            "Slug": "Grim-Foothills-TTT",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Hallowed Circle",
+            "Slug": "Hallowed-Circle-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Hill Barrow",
+            "Slug": "Hill-Barrow-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Key of the Boar",
+            "Slug": "Key-of-the-Boar-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Key of the Raven",
+            "Slug": "Key-of-the-Raven-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Key of the Wolf",
+            "Slug": "Key-of-the-Wolf-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Raven's Guardian",
+            "Slug": "Raven's-Guardian-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Spirit of the Wild",
+            "Slug": "Spirit-of-the-Wild-TTT",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Stone Barrow",
+            "Slug": "Stone-Barrow-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "The Guardian's Fury",
+            "Slug": "The-Guardian's-Fury-TTT",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Wild Tenacity",
+            "Slug": "Wild-Tenacity-TTT",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials",
+            "Title": "Wolf's Guardian",
+            "Slug": "Wolf's-Guardian-TTT",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Boar Spirit",
+            "Slug": "Boar-Spirit-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Cursed Burden",
+            "Slug": "Cursed-Burden-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Haunted Pillars",
+            "Slug": "Haunted-Pillars-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Raven Spirit",
+            "Slug": "Raven-Spirit-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Sacred Forest",
+            "Slug": "Sacred-Forest-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "The Three Trials Nightmare",
+            "Slug": "The-Three-Trials-Nightmare-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Trial of Ancestors",
+            "Slug": "Trial-of-Ancestors-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Three Trials Nightmare",
+            "Title": "Wolf Spirit",
+            "Slug": "Wolf-Spirit-TTTN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        }
+    ]
+}

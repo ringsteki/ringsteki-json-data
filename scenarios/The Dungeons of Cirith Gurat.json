@@ -1,0 +1,362 @@
+{
+    "Title": "The Dungeons of Cirith Gurat",
+    "Slug": "The-Dungeons-of-Cirith-Gurat",
+    "Product": "The Dungeons of Cirith Gurat",
+    "Number": 5,
+    "QuestCards": [
+        {
+            "Title": "Rescue the Prisoners",
+            "Slug": "Rescue-the-Prisoners-DoCG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Rescue-the-Prisoners-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Uruk Chieftain aside, out of play. Add The Captives of Cirith Gurat and 1 copy of Dungeon Cell to the staging area. Attach Abaan to Dungeon Cell. Each player searches the encounter deck for a different Orc enemy and adds it to the staging area. Shuffle the encounter deck. Starting with the first player, each player discards cards from the top of his deck until an ally that is not in play is discarded and attaches that ally to an unattached enemy in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Rescue-the-Prisoners-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy and location in the staging area that is guarding an objective is immune to player card effects.",
+                    "Forced: After any number of characters are rescued, reveal an encounter card.",
+                    "This stage cannot be defeated while a guarded objective is in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "Posing as The Black Serpent’s men, you have infiltrated the Orc stronghold of Cirith Gurat in order to rescue the prisoners there."
+            },
+            "CardSet": "The Dungeons of Cirith Gurat",
+            "EncounterInfo": {
+                "EncounterSet": "The Dungeons of Cirith Gurat",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Harad Territory"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 132,
+            "Quantity": 1,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sneak Past the Guards",
+            "Slug": "Sneak-Past-the-Guards-DoCG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Sneak-Past-the-Guards-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Each player discards cards from the encounter deck until an enemy is discarded and adds that enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve rescued Kahliel`s son and several others from their dungeon cells, but you’re not free yet: an entire garrison of Orcs occupies the fortress above you. One false move could bring them all down on top of you, so you quietly make your way towards the secret exit, hoping to avoid a fight."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Sneak-Past-the-Guards-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy in the staging area cannot take damage and gets +X engagement cost, where X is the number of progress tokens here.",
+                    "Forced: At the end of the round, reveal an encounter card. Then, place 1 resource here if no enemies were engaged this round.",
+                    "The players cannot defeat this stage unless there are at least 2 resources here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Dungeons of Cirith Gurat",
+            "EncounterInfo": {
+                "EncounterSet": "The Dungeons of Cirith Gurat",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Harad Territory"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 133,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fight Your Way Out",
+            "Slug": "Fight-Your-Way-Out-DoCG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Fight-Your-Way-Out-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player adds Uruk Chieftain to the staging area. Each player chooses a hero he controls, discards all tokens and attachments from it, and attaches it to an unattached enemy in the staging area as a captive. Then, the players make a standard series of engagement checks against each enemy in the staging area. Reduce the engagement cost of each enemy not guarding an objective to 0 during these engagement checks."
+                ],
+                "Shadow": null,
+                "FlavorText": "One of the captives stumbles for exhaustion, and the noise alerts the guards."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dungeons-of-Cirith-Gurat/Fight-Your-Way-Out-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, discard cards from the encounter deck until an enemy is discarded and add that enemy to the staging area.",
+                    "The players cannot defeat this stage while a guarded objective is in play. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Horns echo through the dungeon, and the Orcs come running with weapons drawn. You will have to fight past them to escape."
+            },
+            "CardSet": "The Dungeons of Cirith Gurat",
+            "EncounterInfo": {
+                "EncounterSet": "The Dungeons of Cirith Gurat",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Harad Territory"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 134,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Enfeebled",
+            "Slug": "Enfeebled-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "In Enemy Territory",
+            "Slug": "In-Enemy-Territory-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Injured Companion",
+            "Slug": "Injured-Companion-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Fear of Mordor",
+            "Slug": "Fear-of-Mordor-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Mordor Warg",
+            "Slug": "Mordor-Warg-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Chieftain",
+            "Slug": "Uruk-Chieftain-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk of Mordor",
+            "Slug": "Uruk-of-Mordor-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Warg-rider",
+            "Slug": "Uruk-Warg-rider-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruks of the Eye",
+            "Slug": "Uruks-of-the-Eye-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Abaan",
+            "Slug": "Abaan-DoCG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Captured!",
+            "Slug": "Captured-DoCG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Dungeon Cell",
+            "Slug": "Dungeon-Cell-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Dungeon Warg",
+            "Slug": "Dungeon-Warg-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Gate of Iron",
+            "Slug": "Gate-of-Iron-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Jailer of Cirith Gurat",
+            "Slug": "Jailer-of-Cirith-Gurat-DoCG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Mines of Cirith Gurat",
+            "Slug": "Mines-of-Cirith-Gurat-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Prison Guard",
+            "Slug": "Prison-Guard-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Taken Prisoner",
+            "Slug": "Taken-Prisoner-DoCG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "The Captives of Cirith Gurat",
+            "Slug": "The-Captives-of-Cirith-Gurat-DoCG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Tormented by Orcs",
+            "Slug": "Tormented-by-Orcs-DoCG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Torture Room",
+            "Slug": "Torture-Room-DoCG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dungeons of Cirith Gurat",
+            "Title": "Uruk Guardroom",
+            "Slug": "Uruk-Guardroom-DoCG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        }
+    ]
+}

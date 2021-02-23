@@ -1,0 +1,406 @@
+{
+    "Title": "Murder at the Prancing Pony",
+    "Slug": "Murder-at-the-Prancing-Pony",
+    "Product": "2015",
+    "Number": 6,
+    "QuestCards": [
+        {
+            "Title": "Investigating the Crime",
+            "Slug": "Investigating-the-Crime-MatPP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Investigating-the-Crime-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for the 5 Suspect enemies and 5 Hideout locations. Randomly select 1 Suspect and 1 Hideout and set them aside out of play, facedown (without looking at them). Build the Investigation deck (see rules) and place it next to the quest deck. Make The Prancing Pony the active location and add 1 Ramshackle Manor to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have arrived in Bree to find the village abuzz over a recent crime."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Investigating-the-Crime-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "No more than 4 progress can be placed on this stage each round.",
+                    "Forced: At the beginning of the quest phase, each player must choose: either raise his threat by 2, or reveal an additional encounter card this phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "Someone has broken into The Prancing Pony, murdered a guest and made off with the victim`s belongings. Barliman Butterbur begs you to find the killer before the trail grows cold."
+            },
+            "CardSet": "Murder at the Prancing Pony",
+            "EncounterInfo": {
+                "EncounterSet": "Murder at the Prancing Pony",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Running out of Time",
+            "Slug": "Running-out-of-Time-MatPP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Running-out-of-Time-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top of the encounter deck until X locations are discarded. X is the number of players in the game. Add each discarded location to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your investigation has uncovered a small but dangerous web of criminals lurking in the shadows of Bree-land. You suspect the killer you seek is the leader of this outlaw gang. It is imperative that you find the rogue and bring him to justice."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Running-out-of-Time-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the players quest unsuccessfully, choose 1 random card from the investigation deck and remove it from the game (without looking at it).",
+                    "Forced: After the players place progress on this stage from questing successfully, the first player must choose: either reveal an encounter card and remain at this stage, or make the accusation (see rules) and advance to stage 3A."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Murder at the Prancing Pony",
+            "EncounterInfo": {
+                "EncounterSet": "Murder at the Prancing Pony",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Apprehending the Killer",
+            "Slug": "Apprehending-the-Killer-MatPP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Apprehending-the-Killer-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player besides the first player searches the encounter deck and discard pile for a Brigand enemy and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve discovered the identity of the killer and the location of the rogue`s secret hideout, but the villain is aware of your pursuit. You must move swiftly to apprehend the brigand!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Murder-at-the-Prancing-Pony/Apprehending-the-Killer-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Ignore the Investigate keyword when the active location is explored.",
+                    "Forced: At the beginning of the encounter phase, each suspect enemy in play engages the first player.",
+                    "While at least 1 Hideout location is in play, Suspect enemies cannot take damage. If there are no Suspect enemies in play, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Murder at the Prancing Pony",
+            "EncounterInfo": {
+                "EncounterSet": "Murder at the Prancing Pony",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Investigation"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Archet Trading Post",
+            "Slug": "Archet-Trading-Post-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Bill Ferny's House",
+            "Slug": "Bill-Ferny's-House-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Chetwood Campsite",
+            "Slug": "Chetwood-Campsite-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Combe Storehouse",
+            "Slug": "Combe-Storehouse-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Johnny Goblin-fingers",
+            "Slug": "Johnny-Goblin-fingers-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Old Orc-eyes",
+            "Slug": "Old-Orc-eyes-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Staddle Hiding Hole",
+            "Slug": "Staddle-Hiding-Hole-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Susie the Spider",
+            "Slug": "Susie-the-Spider-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Taken by Surprise",
+            "Slug": "Taken-by-Surprise-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Todd the Troll",
+            "Slug": "Todd-the-Troll-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Investigation",
+            "Title": "Wolf-pelt Jake",
+            "Slug": "Wolf-pelt-Jake-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Bill Ferny",
+            "Slug": "Bill-Ferny-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Bree-land Informant",
+            "Slug": "Bree-land-Informant-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Chetwood Outlaw",
+            "Slug": "Chetwood-Outlaw-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Dark Alley",
+            "Slug": "Dark-Alley-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Deadly Accusations",
+            "Slug": "Deadly-Accusations-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Greenway Footpad",
+            "Slug": "Greenway-Footpad-MatPP",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Hired Muscle",
+            "Slug": "Hired-Muscle-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Lawless Ruffian",
+            "Slug": "Lawless-Ruffian-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Market Square",
+            "Slug": "Market-Square-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Murder at the Prancing Pony Scenario Rules 2-3",
+            "Slug": "Murder-at-the-Prancing-Pony-Scenario-Rules-2-3-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Murder at the Prancing Pony Scenario Rules 4-5",
+            "Slug": "Murder-at-the-Prancing-Pony-Scenario-Rules-4-5-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Old Warehouse",
+            "Slug": "Old-Warehouse-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Ramshackle Manor",
+            "Slug": "Ramshackle-Manor-MatPP",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Rising Body Count",
+            "Slug": "Rising-Body-Count-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Smoke and Mirrors",
+            "Slug": "Smoke-and-Mirrors-MatPP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "The Prancing Pony",
+            "Slug": "The-Prancing-Pony-MatPP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Murder at the Prancing Pony",
+            "Title": "Village Stable",
+            "Slug": "Village-Stable-MatPP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

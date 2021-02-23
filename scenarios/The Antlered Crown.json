@@ -1,0 +1,416 @@
+{
+    "Title": "The Antlered Crown",
+    "Slug": "The-Antlered-Crown",
+    "Product": "The Antlered Crown",
+    "Number": 6,
+    "QuestCards": [
+        {
+            "Title": "Battle for Dunland",
+            "Slug": "Battle-for-Dunland-TAC",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/Battle-for-Dunland-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [
+                    "Setup: The first player takes control of Chief Turch. Set Raven Chief and Raven Chief`s Camp aside, out of play. Reveal 1 copy of Dunland Battlefield and make it the active location. Reveal 1 copy of Raven War-camp and add it to the staging area. Create the Raven deck (see insert) and set it next to the quest deck. Each player chooses 1 different enemy from the Raven deck and adds it to the staging area. Shuffle the encounter deck and Raven deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/Battle-for-Dunland-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3.",
+                    "Forced: After the last time counter is removed from this stage, remove 1 time counter from each location in play. Place 3 time counters on this stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "On your return journey to Isengard, you find war in Dunland. The Raven Clan has refused the Boar`s claim to The Antlered Crown, and chief Turch asks you to join his Clan as they march to battle. Seeing an opportunity to earn Saruman the friendship of a unified Dunland, you agree to join forces and fight..."
+            },
+            "CardSet": "The Antlered Crown",
+            "EncounterInfo": {
+                "EncounterSet": "The Antlered Crown",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dunland Raiders",
+                    "Dunland Warriors"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 147,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Raven Clan",
+            "Slug": "The-Raven-Clan-TAC",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/The-Raven-Clan-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [
+                    "When Revealed: Shuffle the Raven deck discard pile into the Raven deck. Then, starting with the first player, each player takes the top card of the Raven deck and adds it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Chief Turch`s goal is to defeat the Raven Clan before they can marshal their full strength, but Dunland is a vast country and there is much ground to cover. The longer it takes to subdue the enemy, the more time they have to gather..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/The-Raven-Clan-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3.",
+                    "Forced: After the last time counter is removed from this stage, reveal the top card of the Raven deck and add it to the staging area. Place 3 time counters on this stage.",
+                    "Each location in the staging area gets +2 quest points."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Antlered Crown",
+            "EncounterInfo": {
+                "EncounterSet": "The Antlered Crown",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dunland Raiders",
+                    "Dunland Warriors"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 148,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Last Stage",
+            "Slug": "The-Last-Stage-TAC",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/The-Last-Stage-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 2."
+                ],
+                "Text": [
+                    "When Revealed: Add Raven Chief and Raven Chief`s Camp to the staging area. Take the top X cards from the Raven deck and add them to the staging area. X is the number of players minus 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "The warriors of the Raven Clan won`t stop figting as long as their leader spurs them on. You must find the Raven Chief and defeat him in order to break the spirit of his men and bring and end to this conflict..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Antlered-Crown/The-Last-Stage-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 2.",
+                    "Forced: After the last time counter is removed from this stage, each engaged enemy makes an attack. Place 2 time counter on this stage.",
+                    "At the end of the round, if Raven Chief is in the victory display, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Antlered Crown",
+            "EncounterInfo": {
+                "EncounterSet": "The Antlered Crown",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dunland Raiders",
+                    "Dunland Warriors"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 149,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Dunland Raiders",
+            "Title": "Dunland Prowler",
+            "Slug": "Dunland-Prowler-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dunland Raiders",
+            "Title": "Dunland Raider",
+            "Slug": "Dunland-Raider-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dunland Raiders",
+            "Title": "Dunlending Bandit",
+            "Slug": "Dunlending-Bandit-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dunland Raiders",
+            "Title": "Old Hatreds",
+            "Slug": "Old-Hatreds-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dunland Warriors",
+            "Title": "Dunland Berserker",
+            "Slug": "Dunland-Berserker-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dunland Warriors",
+            "Title": "Dunland Chieftain",
+            "Slug": "Dunland-Chieftain-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dunland Warriors",
+            "Title": "Dunland Tribesman",
+            "Slug": "Dunland-Tribesman-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dunland Warriors",
+            "Title": "Wild Men of Dunland",
+            "Slug": "Wild-Men-of-Dunland-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Chief Turch",
+            "Slug": "Chief-Turch-TAC",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Driven Back",
+            "Slug": "Driven-Back-TAC",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Dunland Battlefield",
+            "Slug": "Dunland-Battlefield-TAC",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Fierce Folk",
+            "Slug": "Fierce-Folk-TAC",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raising the Cry",
+            "Slug": "Raising-the-Cry-TAC",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Chief",
+            "Slug": "Raven-Chief-TAC",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Chief's Camp",
+            "Slug": "Raven-Chief's-Camp-TAC",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Country",
+            "Slug": "Raven-Country-TAC",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Skirmisher",
+            "Slug": "Raven-Skirmisher-TAC",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Village",
+            "Slug": "Raven-Village-TAC",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven War-camp",
+            "Slug": "Raven-War-camp-TAC",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Antlered Crown",
+            "Title": "Raven Warrior",
+            "Slug": "Raven-Warrior-TAC",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Dunlending Horde",
+            "Slug": "Dunlending-Horde-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Gathering Forces",
+            "Slug": "Gathering-Forces-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Highlands of Dunland",
+            "Slug": "Highlands-of-Dunland-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Raven Clan Druid",
+            "Slug": "Raven-Clan-Druid-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Raven Clan Elite",
+            "Slug": "Raven-Clan-Elite-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Raven Stronghold",
+            "Slug": "Raven-Stronghold-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "Raven Talisman",
+            "Slug": "Raven-Talisman-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Antlered Crown Nightmare",
+            "Title": "The Antlered Crown Nightmare",
+            "Slug": "The-Antlered-Crown-Nightmare-TACN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        }
+    ]
+}

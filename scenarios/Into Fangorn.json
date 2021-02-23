@@ -1,0 +1,368 @@
+{
+    "Title": "Into Fangorn",
+    "Slug": "Into-Fangorn",
+    "Product": "The Voice of Isengard",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Into the Woods",
+            "Slug": "Into-the-Woods-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Into-the-Woods-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 4."
+                ],
+                "Text": [
+                    "Setup: Add Edge of Fangorn to the staging area and attach Mugash to that location. Shuffle the encounter deck. Reveal X additional encounter cards where X equals the number of players in the game minus 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve captured the Orc captain, Mugash, in the mountains above Isengard. But as you make your way down Methedras, your captive escaped and flees east into Fangorn."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Into-the-Woods-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 4.",
+                    "Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3.",
+                    "The players cannot advance to stage 2 unless Mugash is attached to a hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "You pursue Mugash into the ancient forest to find that the trees themselves seems to be attacking him. Without thinking, your at the tree branches to rescue your captive. That is when you first sense your own peril..."
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "Into Fangorn",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 65,
+            "Quantity": 1,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Escape from Fangorn",
+            "Slug": "Escape-from-Fangorn-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Escape-from-Fangorn-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 4."
+                ],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck and discard pile for a Huorn enemy and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve rescued Mugash from the trees, but your sense the forest itself seethes with anger toward you. The thankless Orc struggles against you and the tree branches grasp at you. It`s going to be a hard fight to get out of Fangorn with your captive..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/Escape-from-Fangorn-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 4.",
+                    "Forced: After the last time counter is removed from this stage, shuffle Mugash into the encounter deck and advance to stage 3A.",
+                    "The players cannot defeat this stage unless Mugash is attached to a hero.",
+                    "If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "Into Fangorn",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Angry Forest",
+            "Slug": "The-Angry-Forest-VoI",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Angry-Forest-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Mugash has disappeared deeper into the woods. As you continue to search for him, the trees close in around you and you can feel their roots and limbs shaking with anger. Their branches rattle like a raging temptest, but without any wind. You`re beginning to regret the decision to enter Fangorn. You need to find Mugash and get out..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Voice-of-Isengard/The-Angry-Forest-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3.",
+                    "Forced: After the last time counter is removed from this stage, discard the top 5 cards of the encounter deck. Each player must choose an enemy or objective in the discard pile, reveal it and add it to the staging area. Place 3 time counters on this stage.",
+                    "Forced: After placing progress here, if there is at least 6 progress on this stage and Mugash is attached to a hero, advance to stage 2A."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Voice of Isengard",
+            "EncounterInfo": {
+                "EncounterSet": "Into Fangorn",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ancient Forest",
+                    "Weary Travelers"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Alyn Spiller",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Ancient Forest (Location)",
+            "Slug": "Ancient-Forest-Location-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Tangled Woods",
+            "Slug": "Tangled-Woods-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ancient Forest",
+            "Title": "Turned Around",
+            "Slug": "Turned-Around-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Angry Huorn",
+            "Slug": "Angry-Huorn-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Dark-Hearted Huorn",
+            "Slug": "Dark-Hearted-Huorn-VoI",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Deadly Huorn",
+            "Slug": "Deadly-Huorn-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Edge of Fangorn",
+            "Slug": "Edge-of-Fangorn-VoI",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Heart of Fangorn",
+            "Slug": "Heart-of-Fangorn-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "Mugash (Objective)",
+            "Slug": "Mugash-Objective-VoI",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into Fangorn",
+            "Title": "The Forest's Malice",
+            "Slug": "The-Forest's-Malice-VoI",
+            "NormalQuantity": 4,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Blocking Huorn",
+            "Slug": "Blocking-Huorn-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Dark Corner of Fangorn",
+            "Slug": "Dark-Corner-of-Fangorn-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Entwood",
+            "Slug": "Entwood-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Fangorn's Anger",
+            "Slug": "Fangorn's-Anger-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Huorn of Fangorn",
+            "Slug": "Huorn-of-Fangorn-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Into Fangorn Nightmare",
+            "Slug": "Into-Fangorn-Nightmare-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Stifling Woods",
+            "Slug": "Stifling-Woods-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Tangled Forest",
+            "Slug": "Tangled-Forest-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into Fangorn Nightmare",
+            "Title": "Wicked Huorn",
+            "Slug": "Wicked-Huorn-TCaON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Weary Travelers",
+            "Title": "In Need of Rest",
+            "Slug": "In-Need-of-Rest-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Weary Travelers",
+            "Title": "Low on Provisions",
+            "Slug": "Low-on-Provisions-VoI",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Weary Travelers",
+            "Title": "Off Track",
+            "Slug": "Off-Track-VoI",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

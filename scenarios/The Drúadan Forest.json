@@ -1,0 +1,364 @@
+{
+    "Title": "The Drúadan Forest",
+    "Slug": "The-Drúadan-Forest",
+    "Product": "The Drúadan Forest",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "The Pursuit",
+            "Slug": "The-Pursuit-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Pursuit-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Drû-buri-Drû and set him aside, out of play. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The leader of the underworld cabal from Minas Tirith has fled with his remaining henchmen. You have followed his trail to The Drúadan Forest, hoping to bring the nameless villain to justice."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Pursuit-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 card from the encounter deck per player and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Drúadan Forest is a wild and dangerous place. It is said that Woses, reclusive forest dwellers, still reside among the trees. You wonder if your quarry has considered the dangers of this course."
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 42,
+            "Quantity": 1,
+            "Artist": "Emile Denis",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "An Untimely End",
+            "Slug": "An-Untimely-End-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/An-Untimely-End-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "As you move deeper into the forest, the wilderness quickly swallows all trace of civilization. Pushing through a dense patch of undergrowth, you came upon a dark and tangled grove. The scent of death strikes you."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/An-Untimely-End-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "17"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Archery damage must be assigned to allies, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the grove, the fleeing traitors lie slain, pierced by poisoned arrows. As you search the pain-wracked corpses for the body of their leader, the ominous echo of drums begins to sound among the trees. You desperately begin to retrace your steps from the woods, lest the fate of the traitors becomes your own."
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 43,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Passage Out",
+            "Slug": "The-Passage-Out-TDF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Passage-Out-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege."
+                ],
+                "Text": [
+                    "When Revealed: Add Drû-buri-Drû to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You sense that the edge of the forest must be near at hand, but Woses are master huntsmen and a band of them block your path. your situation seems hopeless: there are simply too many of them. As they begin their attack, you realize your only hope of survival is to convince the Pukel-men that you are not their enemy."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Druadan-Forest/The-Passage-Out-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "14"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege.",
+                    "Characters use their Willpower instead of Attack when attacking enemies. If an enemy would be damaged this way, place progress tokens on it instead of damage tokens. When an enemy has progress equal to its hit points, add it to the victory display and place those progress tokens on the quest.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Drúadan Forest",
+            "EncounterInfo": {
+                "EncounterSet": "The Drúadan Forest",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Brooding Forest"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 44,
+            "Quantity": 1,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Lost Companion",
+            "Slug": "Lost-Companion-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Overgrown Trail",
+            "Slug": "Overgrown-Trail-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Brooding Forest",
+            "Title": "Secluded Glade",
+            "Slug": "Secluded-Glade-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Ancestral Clearing",
+            "Slug": "Ancestral-Clearing-TDF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Drúadan Drummer",
+            "Slug": "Druadan-Drummer-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Drúadan Elite",
+            "Slug": "Druadan-Elite-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Drúadan Hunter",
+            "Slug": "Druadan-Hunter-TDF",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Drúadan Thief",
+            "Slug": "Druadan-Thief-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Drû-buri-Drû",
+            "Slug": "Dru-buri-Dru-TDF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Garden of Poisons",
+            "Slug": "Garden-of-Poisons-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Glade of Cleansing",
+            "Slug": "Glade-of-Cleansing-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Leaves on Tree",
+            "Slug": "Leaves-on-Tree-TDF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Men in the Dark",
+            "Slug": "Men-in-the-Dark-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest",
+            "Title": "Stars in Sky",
+            "Slug": "Stars-in-Sky-TDF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Devil's Mirk",
+            "Slug": "Devil's-Mirk-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Drúadan Stalker",
+            "Slug": "Druadan-Stalker-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Drúadan Warrior",
+            "Slug": "Druadan-Warrior-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Drû-buri-Drû",
+            "Slug": "Dru-buri-Dru-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Drums of the Wild Men",
+            "Slug": "Drums-of-the-Wild-Men-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Eilenach",
+            "Slug": "Eilenach-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Poison-darts",
+            "Slug": "Poison-darts-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "Stonewain Valley",
+            "Slug": "Stonewain-Valley-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drúadan Forest Nightmare",
+            "Title": "The Drúadan Forest Nightmare",
+            "Slug": "The-Druadan-Forest-Nightmare-TDFN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        }
+    ]
+}

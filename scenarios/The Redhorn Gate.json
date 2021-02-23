@@ -1,0 +1,401 @@
+{
+    "Title": "The Redhorn Gate",
+    "Slug": "The-Redhorn-Gate",
+    "Product": "The Redhorn Gate",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Up the Pass",
+            "Slug": "Up-the-Pass-TRG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/Up-the-Pass-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add Caradhras to the staging area. Remove all copies of Snowstorm from the encounter deck and set them aside, out of play. Put Arwen Undomiel into play under the control of the first player."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/Up-the-Pass-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Redhorn Gate",
+            "EncounterInfo": {
+                "EncounterSet": "The Redhorn Gate",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 11,
+            "Quantity": 1,
+            "Artist": "Jason Juta",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Snowdrifts",
+            "Slug": "Snowdrifts-TRG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/Snowdrifts-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/Snowdrifts-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle 1 more copy of Snowstorm into the encounter deck than the number of players.",
+                    "Forced: After playing the 11th progress token on Snowdrifts, discard any active location. Caradhras becomes the active location."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Redhorn Gate",
+            "EncounterInfo": {
+                "EncounterSet": "The Redhorn Gate",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 12,
+            "Quantity": 1,
+            "Artist": "Stu Barnes",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Mountains' Peaks",
+            "Slug": "The-Mountains'-Peaks-TRG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/The-Mountains'-Peaks-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Redhorn-Gate/The-Mountains'-Peaks-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle all copies of Snowstorm in the encounter discard pile back into the encounter deck.",
+                    "Characters are discarded from play if their Willpower is ever 0.",
+                    "Players cannot defeat this stage unless they have 5 victory points. If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Redhorn Gate",
+            "EncounterInfo": {
+                "EncounterSet": "The Redhorn Gate",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 13,
+            "Quantity": 1,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Bitter Wind",
+            "Slug": "Bitter-Wind-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Black Uruks",
+            "Slug": "Black-Uruks-KD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Knees of the Mountain",
+            "Slug": "Knees-of-the-Mountain-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Mountain Warg",
+            "Slug": "Mountain-Warg-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Turbulent Waters",
+            "Slug": "Turbulent-Waters-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Warg Lair",
+            "Slug": "Warg-Lair-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Arwen Undómiel",
+            "Slug": "Arwen-Undomiel-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Avalanche!",
+            "Slug": "Avalanche-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Caradhras",
+            "Slug": "Caradhras-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Celebdil",
+            "Slug": "Celebdil-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Fallen Stones",
+            "Slug": "Fallen-Stones-TRG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Fanuidhol",
+            "Slug": "Fanuidhol-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Fell Voices",
+            "Slug": "Fell-Voices-TRG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Freezing Cold",
+            "Slug": "Freezing-Cold-TRG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Mountain Goblin",
+            "Slug": "Mountain-Goblin-TRG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Mountain Troll",
+            "Slug": "Mountain-Troll-TRG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Rocky Crags",
+            "Slug": "Rocky-Crags-TRG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Snow Warg",
+            "Slug": "Snow-Warg-TRG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "Snowstorm",
+            "Slug": "Snowstorm-TRG",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Redhorn Gate",
+            "Title": "The Dimrill Stair",
+            "Slug": "The-Dimrill-Stair-TRG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Blinding Blizzard",
+            "Slug": "Blinding-Blizzard-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Caradhras the Cruel",
+            "Slug": "Caradhras-the-Cruel-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Frozen Silverlode",
+            "Slug": "Frozen-Silverlode-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Icy Cavern",
+            "Slug": "Icy-Cavern-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Silvertine Marauder",
+            "Slug": "Silvertine-Marauder-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Snow-Giant",
+            "Slug": "Snow-Giant-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "The Redhorn Gate Nightmare",
+            "Slug": "The-Redhorn-Gate-Nightmare-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Redhorn Gate Nightmare",
+            "Title": "Wolfpelt Goblin",
+            "Slug": "Wolfpelt-Goblin-TRGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        }
+    ]
+}

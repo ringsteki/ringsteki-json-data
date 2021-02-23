@@ -1,0 +1,351 @@
+{
+    "Title": "Temple of the Deceived",
+    "Slug": "Temple-of-the-Deceived",
+    "Product": "Temple of the Deceived",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Searching the Island",
+            "Slug": "Searching-the-Island-TotD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Searching-the-Island-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Exploration."
+                ],
+                "Text": [
+                    "Setup: Prepare the Island Map (see insert). Flip over the top-left and bottom-left locations of the Island Map (without resolving their Forced effects, if any), and choose one as the player`s starting active location, using a resource token to represent which location is active. The first player takes control of Captain Sahír, and the last player takes control of Na`asiyah (objective-ally side faceup). Add Temple Guardian to the staging area and attach Gate Key to it, guarded. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Temple-of-the-Deceived/Searching-the-Island-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Exploration.",
+                    "For each progress that would be placed on Searching the Island, you may place it on a location in the staging area, instead."
+                ],
+                "Shadow": null,
+                "FlavorText": "Sahír has led you to an uncharted isle, and has agreed to help you find a chest he claims the black key will open. First, you must find the Gate Key that opens the way to the grand temple on the eastern side of the island."
+            },
+            "CardSet": "Temple of the Deceived",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of the Deceived",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ruins of Númenor",
+                    "Drowned Dead",
+                    "The Stormcaller Elite"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Sara Winters",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Curse of the Downfallen",
+            "Slug": "Curse-of-the-Downfallen-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Drowned Dead",
+            "Slug": "Drowned-Dead-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Soulless Cadaver",
+            "Slug": "Soulless-Cadaver-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Throngs of Unfaithful",
+            "Slug": "Throngs-of-Unfaithful-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ruins of Númenor",
+            "Title": "Aimless Wandering",
+            "Slug": "Aimless-Wandering-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ruins of Númenor",
+            "Title": "Cursed Temple (Lost Island)",
+            "Slug": "Cursed-Temple-Lost-Island-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ruins of Númenor",
+            "Title": "Drowned Graves (Lost Island)",
+            "Slug": "Drowned-Graves-Lost-Island-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ruins of Númenor",
+            "Title": "Flooded Ruins (Lost Island)",
+            "Slug": "Flooded-Ruins-Lost-Island-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Deeper into the Ruins",
+            "Slug": "Deeper-into-the-Ruins-TotD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Dwindling Supplies",
+            "Slug": "Dwindling-Supplies-TotD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Faithless Desecrator",
+            "Slug": "Faithless-Desecrator-TotD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Furious Rainstorm",
+            "Slug": "Furious-Rainstorm-TotD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Gate Key",
+            "Slug": "Gate-Key-TotD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Island Watcher",
+            "Slug": "Island-Watcher-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Jagged Cliffs (Lost Island)",
+            "Slug": "Jagged-Cliffs-Lost-Island-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Jungle Path (Lost Island)",
+            "Slug": "Jungle-Path-Lost-Island-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Profane Dead",
+            "Slug": "Profane-Dead-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Sunken Ruins",
+            "Slug": "Sunken-Ruins-TotD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Temple Guardian",
+            "Slug": "Temple-Guardian-TotD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Temple Halls (Temple of the Deceived)",
+            "Slug": "Temple-Halls-Temple-of-the-Deceived-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "The Grotto's Entrance (Temple of the Deceived)",
+            "Slug": "The-Grotto's-Entrance-Temple-of-the-Deceived-TotD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Temple of the Deceived",
+            "Title": "Winding Caverns (Lost Island)",
+            "Slug": "Winding-Caverns-Lost-Island-TotD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Call of the Curse",
+            "Slug": "Call-of-the-Curse-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Cursed Soldier",
+            "Slug": "Cursed-Soldier-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Cursed Temple (Edge of the Temple)",
+            "Slug": "Cursed-Temple-Edge-of-the-Temple-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Deceitful Island",
+            "Slug": "Deceitful-Island-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Desecrated Ruins (Edge of the Temple)",
+            "Slug": "Desecrated-Ruins-Edge-of-the-Temple-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "King's Knight",
+            "Slug": "King's-Knight-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Sudden Precipice",
+            "Slug": "Sudden-Precipice-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Temple Foothills (Edge of the Temple)",
+            "Slug": "Temple-Foothills-Edge-of-the-Temple-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of the Deceived Nightmare",
+            "Title": "Temple of the Deceived Nightmare",
+            "Slug": "Temple-of-the-Deceived-Nightmare-TotDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Enemy)",
+            "Slug": "Captain-Sahir-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Objective-Ally)",
+            "Slug": "Captain-Sahir-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Enemy)",
+            "Slug": "Na'asiyah-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Objective-Ally)",
+            "Slug": "Na'asiyah-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

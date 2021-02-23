@@ -1,0 +1,329 @@
+{
+    "Title": "The Watcher in the Water",
+    "Slug": "The-Watcher-in-the-Water",
+    "Product": "The Watcher in the Water",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "To the West-door",
+            "Slug": "To-the-West-door-TWitW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Watcher-in-the-Water/To-the-West-door-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Remove The Watcher and Doors of Durin from the encounter deck and set them aside, out of play."
+                ],
+                "Shadow": null,
+                "FlavorText": "Elrond has asked you to scout the Mines of Moria on your return to Lorien, hoping to discover if it is the source of increased Orc activity along the Misty Mountains."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Watcher-in-the-Water/To-the-West-door-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal cards from the encounter deck and add them to the staging area until there is at least X threat in the staging area. X is twice the number of players in the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your approach is blocked by a dark lake that slumbers beneath the face of the cliff. You must search for a way around the water."
+            },
+            "CardSet": "The Watcher in the Water",
+            "EncounterInfo": {
+                "EncounterSet": "The Watcher in the Water",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 63,
+            "Quantity": 1,
+            "Artist": "Jason Juta",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Seething Lake",
+            "Slug": "The-Seething-Lake-TWitW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Watcher-in-the-Water/The-Seething-Lake-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "The others swung round and saw the waters of the lake seething, as if a host of snakes were swimming up from the southern end. - The Fellowship of the Ring\r\nThe Doors of Durin are blocked by an ancient spell. You must figure out a way into the mines before the Seething bog and its Watcher consumes you all."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Watcher-in-the-Water/The-Seething-Lake-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add The Watcher to the staging area. Doors of Durin becomes the active location, moving any previous active location to the staging area. Shuffle all Tentacle cards in the encounter discard pile back into the encounter deck.",
+                    "If the players have at least 3 victory points and defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Watcher in the Water",
+            "EncounterInfo": {
+                "EncounterSet": "The Watcher in the Water",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 64,
+            "Quantity": 1,
+            "Artist": "Adam Schumpert",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Bitter Wind",
+            "Slug": "Bitter-Wind-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Black Uruks",
+            "Slug": "Black-Uruks-KD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Knees of the Mountain",
+            "Slug": "Knees-of-the-Mountain-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Mountain Warg",
+            "Slug": "Mountain-Warg-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Turbulent Waters",
+            "Slug": "Turbulent-Waters-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Warg Lair",
+            "Slug": "Warg-Lair-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Disturbed Waters",
+            "Slug": "Disturbed-Waters-TWitW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Doors of Durin",
+            "Slug": "Doors-of-Durin-TWitW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Grasping Tentacle",
+            "Slug": "Grasping-Tentacle-TWitW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Ill Purpose",
+            "Slug": "Ill-Purpose-TWitW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Makeshift Passage",
+            "Slug": "Makeshift-Passage-TWitW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Perilous Swamp",
+            "Slug": "Perilous-Swamp-TWitW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Stagnant Creek",
+            "Slug": "Stagnant-Creek-TWitW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Stair Falls",
+            "Slug": "Stair-Falls-TWitW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Striking Tentacle",
+            "Slug": "Striking-Tentacle-TWitW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "The Watcher",
+            "Slug": "The-Watcher-TWitW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Thrashing Tentacle",
+            "Slug": "Thrashing-Tentacle-TWitW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Watcher in the Water",
+            "Title": "Wrapped!",
+            "Slug": "Wrapped-TWitW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Banks of Sirannon",
+            "Slug": "Banks-of-Sirannon-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Choking Tentacle",
+            "Slug": "Choking-Tentacle-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Hideous Depths",
+            "Slug": "Hideous-Depths-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Pulled Under",
+            "Slug": "Pulled-Under-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Rippling From Beneath",
+            "Slug": "Rippling-From-Beneath-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "The Watcher",
+            "Slug": "The-Watcher-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "The Watcher in the Water Nightmare",
+            "Slug": "The-Watcher-in-the-Water-Nightmare-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Watcher in the Water Nightmare",
+            "Title": "Writhing Tentacle",
+            "Slug": "Writhing-Tentacle-TWitWN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        }
+    ]
+}

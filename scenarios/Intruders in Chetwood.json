@@ -1,0 +1,294 @@
+{
+    "Title": "Intruders in Chetwood",
+    "Slug": "Intruders-in-Chetwood",
+    "Product": "The Lost Realm",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Stop the War Party",
+            "Slug": "Stop-the-War-Party-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Stop-the-War-Party-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Put Iârion into play. Add 1 Orc War Party to the staging area. Each players adds 1 different location to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Rangers have sighted a large group of Orcs making its way towards Bree-land. The Dúnedain, Iârion, has asked you to help him intercept the war party before it can reach the quiet village. The Orcs are a day ahead of you and moving fast, but there is hope you can catch them with the Ranger`s tracking skill..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Stop-the-War-Party-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "30"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Enemies do not make engagement checks.",
+                    "Forced: At the end of the refresh phase, raise each player`s threat by 1 for each enemy in the staging area.",
+                    "The players cannot defeat this stage unless the first player controls Iârion. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "You must move swiftly to prevent the Orcs from reaching Bree-land!"
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Iârion",
+                    "Eriador Wilds",
+                    "Angmar Orcs"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 68,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Captain",
+            "Slug": "Angmar-Captain-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Marauder",
+            "Slug": "Angmar-Marauder-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Orc",
+            "Slug": "Angmar-Orc-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Lost in the Wilderness",
+            "Slug": "Lost-in-the-Wilderness-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Pressing Needs",
+            "Slug": "Pressing-Needs-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Rugged Country",
+            "Slug": "Rugged-Country-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Shrouded Hills",
+            "Slug": "Shrouded-Hills-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Weight of Responsibility",
+            "Slug": "Weight-of-Responsibility-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Iârion",
+            "Title": "Iârion",
+            "Slug": "Iarion-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Borders of Bree-land",
+            "Slug": "Borders-of-Bree-land-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Chetwood Forest",
+            "Slug": "Chetwood-Forest-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Orc Rearguard",
+            "Slug": "Orc-Rearguard-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Orc War Party",
+            "Slug": "Orc-War-Party-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Outlying Homestead",
+            "Slug": "Outlying-Homestead-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Rescue Iârion",
+            "Slug": "Rescue-Iarion-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Sudden Assault",
+            "Slug": "Sudden-Assault-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood",
+            "Title": "Surprising Speed",
+            "Slug": "Surprising-Speed-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "A Great Host",
+            "Slug": "A-Great-Host-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Greenway Path",
+            "Slug": "Greenway-Path-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Intruders in Chetwood Nightmare",
+            "Slug": "Intruders-in-Chetwood-Nightmare-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Kill Them!",
+            "Slug": "Kill-Them-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Northern Chetwood",
+            "Slug": "Northern-Chetwood-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Orc Abductor",
+            "Slug": "Orc-Abductor-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Outskirts of Archet",
+            "Slug": "Outskirts-of-Archet-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Protect the Bree-landers",
+            "Slug": "Protect-the-Bree-landers-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Shadow the War Party",
+            "Slug": "Shadow-the-War-Party-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Intruders in Chetwood Nightmare",
+            "Title": "Soldier of Angmar",
+            "Slug": "Soldier-of-Angmar-IiCN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

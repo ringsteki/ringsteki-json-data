@@ -1,0 +1,446 @@
+{
+    "Title": "Escape from Dol Guldur",
+    "Slug": "Escape-from-Dol-Guldur",
+    "Product": "Core Set",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Necromancer's Tower",
+            "Slug": "The-Necromancer's-Tower-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Necromancer's-Tower-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for the 3 objective cards, reveal and place them in the staging area. Also, place the Nazgul of Dol Guldur face up but out of play, alongside the quest deck. Then, shuffle the encounter deck, and attach 1 encounter to each objective card."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Lady Galadriel of Lorien has asked you to investigate the area in the vicinity of Dol Guldar. While doing so, one of your allies was ambushed by Orcs, captured, and is now held in a dungeon cell..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/The-Necromancer's-Tower-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Randomly select 1 hero card (among all the heroes controlled by the players) and turn it facedown. The hero is now considered a `prisoner`, cannot be used, cannot be damaged, and does not collect resources, until it is `rescued` (as instructed by card effects) later in this quest.",
+                    "The players, as a group, cannot play more than 1 ally card each round.",
+                    "Players cannot advance to the next stage of this quest unless they have at least 1 objective card."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Dol Guldur",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 123,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": true,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Through the Caverns",
+            "Slug": "Through-the-Caverns-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Through-the-Caverns-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Finding a hidden entrance to the dungeons of Dol Guldur at last, you attempt to make your way through the caverns beneath the hill, searching for your imprisoned friend. The denizens of this labyrinth stand in your way, while the jailors protect the prisoner."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Through-the-Caverns-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After placing any number of progress tokens on this card, flip the `prisoner` hero card face-up, and place 1 damage toke on it. The hero has been `rescued` and may now be used by its controller.",
+                    "The players, as a group, cannot play more than 1 ally card each round.",
+                    "Players cannot advance to the next stage of the quest unless they have rescued the prisoner and have all 3 `Escape from Dol Guldur` objective cards."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Dol Guldur",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 124,
+            "Quantity": 1,
+            "Artist": "Kaya",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Out of the Dungeons",
+            "Slug": "Out-of-the-Dungeons-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Out-of-the-Dungeons-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Following a thread of sunlight, you discover a cavern opening leading out through the side of the hill. Stationed outside the cave-mouth, however, is a large group of Orcs."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Out-of-the-Dungeons-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "7"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of each quest phase, each player places the top card of his deck, face down in front of him as if it just engaged him from the staging area. These cards are called `Orc Guard` and act as enemies with: 1 hit point, 1 Attack, and 1 Defense.",
+                    "Players cannot defeat this stage while Nazgul of Dol Guldur is in play. If this stage is defeated and Nazgul of Dol Guldur is not in play, the players have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Dol Guldur",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Spiders of Mirkwood"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 125,
+            "Quantity": 1,
+            "Artist": "Kaya",
+            "HasErrata": true,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Chieftan Ufthak",
+            "Slug": "Chieftan-Ufthak-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Beastmaster",
+            "Slug": "Dol-Guldur-Beastmaster-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Orcs (Enemy)",
+            "Slug": "Dol-Guldur-Orcs-Enemy-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Driven by Shadow",
+            "Slug": "Driven-by-Shadow-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Enchanted Stream",
+            "Slug": "Enchanted-Stream-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Necromancer's Pass",
+            "Slug": "Necromancer's-Pass-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "The Necromancer's Reach",
+            "Slug": "The-Necromancer's-Reach-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Cavern Guardian",
+            "Slug": "Cavern-Guardian-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Dungeon Jailor",
+            "Slug": "Dungeon-Jailor-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Dungeon Torch",
+            "Slug": "Dungeon-Torch-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Endless Caverns",
+            "Slug": "Endless-Caverns-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Gandalf's Map",
+            "Slug": "Gandalf's-Map-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Iron Shackles",
+            "Slug": "Iron-Shackles-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Nazgûl of Dol Guldur",
+            "Slug": "Nazgul-of-Dol-Guldur-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Shadow Key",
+            "Slug": "Shadow-Key-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Tower Gate",
+            "Slug": "Tower-Gate-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur",
+            "Title": "Under the Shadow",
+            "Slug": "Under-the-Shadow-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Catacomb Inspection",
+            "Slug": "Catacomb-Inspection-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Crazed Captive",
+            "Slug": "Crazed-Captive-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Dark Interrogation",
+            "Slug": "Dark-Interrogation-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Dungeon Labyrinth",
+            "Slug": "Dungeon-Labyrinth-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Escape from Dol Guldur Nightmare",
+            "Slug": "Escape-from-Dol-Guldur-Nightmare-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Sentinel of Shadow",
+            "Slug": "Sentinel-of-Shadow-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Spider of Dol Guldur",
+            "Slug": "Spider-of-Dol-Guldur-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Torture Chamber",
+            "Slug": "Torture-Chamber-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Dol Guldur Nightmare",
+            "Title": "Torture Master",
+            "Slug": "Torture-Master-EFDGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Caught in a Web",
+            "Slug": "Caught-in-a-Web-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Eyes of the Forest",
+            "Slug": "Eyes-of-the-Forest-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Great Forest Web",
+            "Slug": "Great-Forest-Web-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Hummerhorns",
+            "Slug": "Hummerhorns-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "King Spider",
+            "Slug": "King-Spider-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Mountains of Mirkwood",
+            "Slug": "Mountains-of-Mirkwood-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Spiders of Mirkwood",
+            "Title": "Ungoliant's Spawn",
+            "Slug": "Ungoliant's-Spawn-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

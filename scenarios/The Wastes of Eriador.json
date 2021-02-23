@@ -1,0 +1,433 @@
+{
+    "Title": "The Wastes of Eriador",
+    "Slug": "The-Wastes-of-Eriador",
+    "Product": "The Wastes of Eriador",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Across the Wastes",
+            "Slug": "Across-the-Wastes-TWoE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Across-the-Wastes-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Pack Leader aside, out of play. Make Shrouded Hills the active location. Add the Time objective to the staging area with Daybreak faceup. The first player takes control of Amarthiúl. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "Following the surprise attack on Fornost, you have agreed to help the Ranger, Amarthiúl, track the villains who captured his friend, Iârion."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Across-the-Wastes-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While it is Day, each hero gets +1 Willpower.",
+                    "Forced: When it becomes Night, raise each player`s threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your enemies` tracks lead you across the North Downs towards Angmar. In the barren lands between you and that dread realm, the nights are black and bitter cold, but it is the howling of Wargs that gives you chills."
+            },
+            "CardSet": "The Wastes of Eriador",
+            "EncounterInfo": {
+                "EncounterSet": "The Wastes of Eriador",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 13,
+            "Quantity": 1,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Howling at Night",
+            "Slug": "Howling-at-Night-TWoE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Howling-at-Night-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until X Warg enemies are discarded. X is the number of players in the game. Add each discarded enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Wargs have pursued you into the wastelands! They hound your every step, slowing your progress by day and attacking you when the sun has set."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Howling-at-Night-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When it becomes Day, each player draws 1 card.",
+                    "Forced: When it becomes Night, discard 1 non-objective ally from play (discard 2 non-objective allies instead if there are 3 or more players in the game)."
+                ],
+                "Shadow": null,
+                "FlavorText": "Each night, another member of your company is caught at the edge of the firelight and dragged away. The sounds of snarling and screaming echo into the darkness."
+            },
+            "CardSet": "The Wastes of Eriador",
+            "EncounterInfo": {
+                "EncounterSet": "The Wastes of Eriador",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 14,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Battle with the Pack",
+            "Slug": "Battle-with-the-Pack-TWoE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Battle-with-the-Pack-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Flip the Time objective to Nightfall. Add Pack Leader to the staging area. Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until X Warg enemies are discarded. X is 1 less than the number of players in the game. Add each discarded enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You cannot go on like this. You must do something to discourage the Wargs from pursuing you further."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wastes-of-Eriador/Battle-with-the-Pack-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Pack Leader cannot take damage unless there are at least 5 progress tokens on this stage.",
+                    "Forced: When it becomes Day, discard all progress from this stage.",
+                    "The players cannot defeat this stage while Pack Leader is in play. If Pack Leader is destroyed, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "If you can defeat the alpha mail, that will scatter the pack..."
+            },
+            "CardSet": "The Wastes of Eriador",
+            "EncounterInfo": {
+                "EncounterSet": "The Wastes of Eriador",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 15,
+            "Quantity": 1,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Lost in the Wilderness",
+            "Slug": "Lost-in-the-Wilderness-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Pressing Needs",
+            "Slug": "Pressing-Needs-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Rugged Country",
+            "Slug": "Rugged-Country-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Shrouded Hills",
+            "Slug": "Shrouded-Hills-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Weight of Responsibility",
+            "Slug": "Weight-of-Responsibility-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Biting Wind",
+            "Slug": "Biting-Wind-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Cold from Angmar",
+            "Slug": "Cold-from-Angmar-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Freezing Blast",
+            "Slug": "Freezing-Blast-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Make Camp",
+            "Slug": "Make-Camp-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Amarthiúl",
+            "Slug": "Amarthiul-TWoE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Blood-thirsty Warg",
+            "Slug": "Blood-thirsty-Warg-TWoE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Daybreak",
+            "Slug": "Daybreak-TWoE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Eriador Wastes",
+            "Slug": "Eriador-Wastes-TWoE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Hunting Pack",
+            "Slug": "Hunting-Pack-TWoE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Nightfall",
+            "Slug": "Nightfall-TWoE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "North Downs",
+            "Slug": "North-Downs-TWoE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Northern Warg",
+            "Slug": "Northern-Warg-TWoE",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Pack Leader",
+            "Slug": "Pack-Leader-TWoE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Predatory Wolves",
+            "Slug": "Predatory-Wolves-TWoE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Sudden Darkness",
+            "Slug": "Sudden-Darkness-TWoE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Warg's Den",
+            "Slug": "Warg's-Den-TWoE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "White Warg",
+            "Slug": "White-Warg-TWoE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador",
+            "Title": "Wolf of Angmar",
+            "Slug": "Wolf-of-Angmar-TWoE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Cunning Wolves",
+            "Slug": "Cunning-Wolves-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Forced Off Track",
+            "Slug": "Forced-Off-Track-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Make a Stand",
+            "Slug": "Make-a-Stand-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Pack Hunters",
+            "Slug": "Pack-Hunters-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Shrouded Wilderness",
+            "Slug": "Shrouded-Wilderness-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Snowy Badlands",
+            "Slug": "Snowy-Badlands-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "The Wastes of Eriador Nightmare",
+            "Slug": "The-Wastes-of-Eriador-Nightmare-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Wastes of Eriador Nightmare",
+            "Title": "Torrent of Hail",
+            "Slug": "Torrent-of-Hail-TWoEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "Title": "Danger in Dorwinion",
+    "Slug": "Danger-in-Dorwinion",
+    "Product": "A Shadow in the East",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "A City in Turmoil",
+            "Slug": "A-City-in-Turmoil-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/A-City-in-Turmoil-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set each plot objective and each Cultist enemy aside, out of play. Each player searches the encounter deck for a different location and adds it to the staging area. One of those locations must be Side Street. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "A shadow hangs over the capital of Dorwinion. Fear grips the heart of the city on the Sea of Rhûn. People have been disappearing, and it is rumored that a cult of Sauron worshippers are responsible."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/A-City-in-Turmoil-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location leaves play as an explored location, place 1 resource here.",
+                    "This stage cannot be defeated unless there are at least 2 resources here."
+                ],
+                "Shadow": null,
+                "FlavorText": "The people you came to help beg you to uncover the truth of these rumors and rescue their lost loved ones if you can."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Danger in Dorwinion",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 77,
+            "Quantity": 1,
+            "Artist": "Lucas Staniec",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Shadow of Mordor",
+            "Slug": "The-Shadow-of-Mordor-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Shadow-of-Mordor-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add 1 random set aside Plot objective to the staging area. Reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your investigation has found that the rumors are true: a cult of Sauron worshippers has taken root in Dorwinion, and they are plotting to overthrow the peaceful country."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Shadow-of-Mordor-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location leaves play as an explored location, reveal the top card of the encounter deck. Then, place 1 resource here.",
+                    "This stage cannot be defeated unless there are at least X resources here, where X is 3 more than the number of players."
+                ],
+                "Shadow": null,
+                "FlavorText": "You must find the leader of the cult in order to put an end to this evil plot."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Danger in Dorwinion",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 78,
+            "Quantity": 1,
+            "Artist": "Matthew Cowdery",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Leader of the Cult",
+            "Slug": "Leader-of-the-Cult-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Leader-of-the-Cult-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add 1 random set-aside Cultist enemy to the staging area. Shuffle the encounter discard pile into the encounter deck and discard cards until X enemies are discarded, where X is one less than the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have discovered the cult`s secret meeting place in the catacombs below the city."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Leader-of-the-Cult-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The Cultist cannot take more than X damage each round, where X is the printed quest points of the active location.",
+                    "When the Cultist enemy is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Inside the catacombs you see evidence of evil deeds done in Sauron`s name, and the leader of the cult at the center of it. You must defeat this agent of Mordor in order order to put an end to these atrocities."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Danger in Dorwinion",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Servants of Sauron",
+                    "City of Rhûn",
+                    "Under Guard"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 79,
+            "Quantity": 1,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "City Forum",
+            "Slug": "City-Forum-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Darkness in the East",
+            "Slug": "Darkness-in-the-East-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Rhûn Backstabber",
+            "Slug": "Rhun-Backstabber-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Seedy Tavern",
+            "Slug": "Seedy-Tavern-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Treacherous Easterling",
+            "Slug": "Treacherous-Easterling-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Black Númenórean",
+            "Slug": "Black-Numenorean-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Bribes",
+            "Slug": "Bribes-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Disappearances",
+            "Slug": "Disappearances-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Evidence of the Cult",
+            "Slug": "Evidence-of-the-Cult-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Hillside Manor",
+            "Slug": "Hillside-Manor-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Priest of Sauron",
+            "Slug": "Priest-of-Sauron-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Sauron Worship",
+            "Slug": "Sauron-Worship-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Secret Cultist",
+            "Slug": "Secret-Cultist-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "Submit or Die",
+            "Slug": "Submit-or-Die-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Danger in Dorwinion",
+            "Title": "The Governor",
+            "Slug": "The-Governor-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Servants of Sauron",
+            "Title": "Messenger from Mordor",
+            "Slug": "Messenger-from-Mordor-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Servants of Sauron",
+            "Title": "Overwhelmed",
+            "Slug": "Overwhelmed-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Servants of Sauron",
+            "Title": "Servant of Sauron",
+            "Slug": "Servant-of-Sauron-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Servants of Sauron",
+            "Title": "Shadow of Fear",
+            "Slug": "Shadow-of-Fear-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Under Guard",
+            "Title": "Catacombs",
+            "Slug": "Catacombs-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Under Guard",
+            "Title": "Side Street",
+            "Slug": "Side-Street-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Under Guard",
+            "Title": "Under Guard",
+            "Slug": "Under-Guard-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Under Guard",
+            "Title": "Unwelcome Travelers",
+            "Slug": "Unwelcome-Travelers-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

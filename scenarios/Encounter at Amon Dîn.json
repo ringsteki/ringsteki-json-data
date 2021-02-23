@@ -1,0 +1,327 @@
+{
+    "Title": "Encounter at Amon Dîn",
+    "Slug": "Encounter-at-Amon-Dîn",
+    "Product": "Encounter at Amon Dîn",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Savagery of the Orcs",
+            "Slug": "Savagery-of-the-Orcs-EaAD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Encounter-at-Amon-Din/Savagery-of-the-Orcs-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Villagers 5."
+                ],
+                "Text": [
+                    "Villagers 5.",
+                    "Setup: Set Ghulat aside, out of play. Put Lord Alcaron into play. Make Burning Farmhouse the active location. Add the Rescued Villagers and Dead Villagers objectives to the staging area. Then, shuffle the encounter deck and reveal 1 encounter card per player and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Emerging from the Druadan Forest with news of the conspirators` demise, you begin your journey to Minas Tirith. As you wake the following day, you see dark plumes of smoke rising across the lands of Anórien."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Encounter-at-Amon-Din/Savagery-of-the-Orcs-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When progress would be placed on Savagery of the Orcs, move an equal number of villager tokens from this quest onto Rescued Villagers instead.",
+                    "If there are no villager tokens on Savagery of the Orcs, advance to the next stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "In a smoldering village near Amon Dîn, you find none other than a tired Lord Alcaron. Pleased to see you, he requests your assistance in protecting the village."
+            },
+            "CardSet": "Encounter at Amon Dîn",
+            "EncounterInfo": {
+                "EncounterSet": "Encounter at Amon Dîn",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ravaging Orcs"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Protect the Villagers",
+            "Slug": "Protect-the-Villagers-EaAD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Encounter-at-Amon-Din/Protect-the-Villagers-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Ghulat to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The orcs pillaging Anórien are remnants of the army defeated at Cair Andros. Stranded on the western bank of the Anduin, They are now punishing the local population. One of the roving bands is led by a cunning orc captain by the name of Ghulat. You must stop Ghulat and his orcs, or many innocents will die..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Encounter-at-Amon-Din/Protect-the-Villagers-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If an attack goes undefended, discard X villager tokens from Rescued Villagers instead of damaging a hero. X is the amount of damage that would have been dealt.",
+                    "When the players defeat this stage, end the game. Compare the number of tokens on Rescued Villagers to the number of tokens on Dead Villagers."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Encounter at Amon Dîn",
+            "EncounterInfo": {
+                "EncounterSet": "Encounter at Amon Dîn",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ravaging Orcs"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Burning Farmhouse",
+            "Slug": "Burning-Farmhouse-EaAD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Burnt Homestead",
+            "Slug": "Burnt-Homestead-EaAD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Craven Eagle",
+            "Slug": "Craven-Eagle-EaAD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Dead Villagers",
+            "Slug": "Dead-Villagers-EaAD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Ghulat",
+            "Slug": "Ghulat-EaAD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Gondorian Hamlet",
+            "Slug": "Gondorian-Hamlet-EaAD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Lord Alcaron",
+            "Slug": "Lord-Alcaron-EaAD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Marauding Orc",
+            "Slug": "Marauding-Orc-EaAD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Orc Ravager",
+            "Slug": "Orc-Ravager-EaAD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Panicked!",
+            "Slug": "Panicked-EaAD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Rescued Villagers",
+            "Slug": "Rescued-Villagers-EaAD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Secluded Farmhouse",
+            "Slug": "Secluded-Farmhouse-EaAD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn",
+            "Title": "Trapped Inside",
+            "Slug": "Trapped-Inside-EaAD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Besieged Homestead",
+            "Slug": "Besieged-Homestead-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Encounter at Amon Dîn Nightmare",
+            "Slug": "Encounter-at-Amon-Din-Nightmare-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Orc Raiders",
+            "Slug": "Orc-Raiders-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Overrun Village",
+            "Slug": "Overrun-Village-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Pillaging Orc",
+            "Slug": "Pillaging-Orc-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Run for your Lives!",
+            "Slug": "Run-for-your-Lives-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Save Us!",
+            "Slug": "Save-Us-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Those Now Sundered",
+            "Slug": "Those-Now-Sundered-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Encounter at Amon Dîn Nightmare",
+            "Title": "Trapped Villagers",
+            "Slug": "Trapped-Villagers-EaADN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Orc Arsonist",
+            "Slug": "Orc-Arsonist-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Orc Rabble",
+            "Slug": "Orc-Rabble-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Scourge of Mordor",
+            "Slug": "Scourge-of-Mordor-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

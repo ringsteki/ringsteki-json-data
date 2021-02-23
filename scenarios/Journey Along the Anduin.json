@@ -1,0 +1,439 @@
+{
+    "Title": "Journey Along the Anduin",
+    "Slug": "Journey-Along-the-Anduin",
+    "Product": "Core Set",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "To the River...",
+            "Slug": "To-the-River-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/To-the-River-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Each player reveals 1 card from the top of the encounter deck, and adds it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Emerging from Mirkwood Forest with an urgent message from Lady Galadriel, you must make your way south along the Anduin River in order to reach the forst of Lórien. As you leave the forest behind, you notice that you are being pursued, and thus quicken your pace..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/To-the-River-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck for 1 Hill Troll is one is not already in play, and place it in the staging area. Shuffle the encounter deck.",
+                    "Players cannot defeat this stage while any Hill Troll cards are in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "As you approach the location of a small raft stashed on the riverbank, a fearsome Hill Troll emerges from behind a grouping of rocks, and attacks!"
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Journey Along the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 126,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Anduin Passage",
+            "Slug": "Anduin-Passage-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Anduin-Passage-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reveal 1 additional card from the encounter deck each quest phase. Do not make engagement checks during the encounter phase. (Each player may still optionally engage 1 enemy each encounter phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "After defeating the Troll, you are able to board the raft and embark upon a river voyage. As you depart, your enemies pursue, harassing the small vessel as you attempt to navigate the river..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Anduin-Passage-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "As your enemies harass the raft, it is difficult to maintain balance and effectively fight them off."
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Journey Along the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 127,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ambush on the Shore",
+            "Slug": "Ambush-on-the-Shore-Core",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Ambush-on-the-Shore-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 2 encounter cards per player, and add them to the staging area.",
+                    "Skip the staging step of the quest phase for the remainder of the game.",
+                    "Once there are no enemies in play, the players have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The ongoing harassment from your enemies has forced your raft to the shore, and you must now confront their ambush head on. If you survive this attack, your path to the Golden Wood should be open before you..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Core-Set/Ambush-on-the-Shore-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Core Set",
+            "EncounterInfo": {
+                "EncounterSet": "Journey Along the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 128,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Chieftan Ufthak",
+            "Slug": "Chieftan-Ufthak-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Beastmaster",
+            "Slug": "Dol-Guldur-Beastmaster-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Orcs (Enemy)",
+            "Slug": "Dol-Guldur-Orcs-Enemy-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Driven by Shadow",
+            "Slug": "Driven-by-Shadow-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Enchanted Stream",
+            "Slug": "Enchanted-Stream-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Necromancer's Pass",
+            "Slug": "Necromancer's-Pass-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "The Necromancer's Reach",
+            "Slug": "The-Necromancer's-Reach-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Banks of the Anduin",
+            "Slug": "Banks-of-the-Anduin-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Gladden Fields",
+            "Slug": "Gladden-Fields-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Massing at Night",
+            "Slug": "Massing-at-Night-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Misty Mountain Goblins",
+            "Slug": "Misty-Mountain-Goblins-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "A Flooded Ford",
+            "Slug": "A-Flooded-Ford-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Anduin Troll Spawn",
+            "Slug": "Anduin-Troll-Spawn-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Brown Water Rats",
+            "Slug": "Brown-Water-Rats-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Gladden Marshlands",
+            "Slug": "Gladden-Marshlands-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Journey Along the Anduin Nightmare",
+            "Slug": "Journey-Along-the-Anduin-Nightmare-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Marshland Outlaws",
+            "Slug": "Marshland-Outlaws-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Pursuit on the Shore",
+            "Slug": "Pursuit-on-the-Shore-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Smoking Blood",
+            "Slug": "Smoking-Blood-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin Nightmare",
+            "Title": "Troll Attack",
+            "Slug": "Troll-Attack-JAtAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Eastern Crows",
+            "Slug": "Eastern-Crows-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Evil Storm",
+            "Slug": "Evil-Storm-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Pursued by Shadow",
+            "Slug": "Pursued-by-Shadow-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Treacherous Fog",
+            "Slug": "Treacherous-Fog-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Despair",
+            "Slug": "Despair-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Goblin Sniper",
+            "Slug": "Goblin-Sniper-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Hill Troll",
+            "Slug": "Hill-Troll-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Marsh Adder",
+            "Slug": "Marsh-Adder-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The Brown Lands",
+            "Slug": "The-Brown-Lands-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The East Bight",
+            "Slug": "The-East-Bight-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wargs",
+            "Slug": "Wargs-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wolf Rider",
+            "Slug": "Wolf-Rider-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "Title": "The Treachery of Rhudaur",
+    "Slug": "The-Treachery-of-Rhudaur",
+    "Product": "Treachery of Rhudaur",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "Secrets of Rhudaur",
+            "Slug": "Secrets-of-Rhudaur-TToR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Secrets-of-Rhudaur-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 5."
+                ],
+                "Text": [
+                    "Setup: Make The Great Hall the active location. Set Thaurdir aside, out of play. Add the 3 Treachery of Rhudaur side quests to the staging area, quest side faceup. Search the encounter deck for 1 copy of Ancient Causeway, and add it to the staging area (2 copies instead if there are 3 or 4 players in the game). The first player gains control of Amarthiúl."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have decided to explore the ruins of this ancient keep, but Thaurdir pursues you, and time is of the essence."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Secrets-of-Rhudaur-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 5.",
+                    "Forced: After the last time counter is removed from Secrets of Rhudaur, remove each Treachery of Rhudaur side quest from the game and immediately advance to stage 2.",
+                    "During the quest phase, Secrets of Rhudaur cannot be chosen as the current quest.",
+                    "If there are no Treachery of Rhudaur side quests in play, immediately advance to stage 2."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Treachery of Rhudaur",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ruins of Arnor",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 94,
+            "Quantity": 1,
+            "Artist": "Eva Maria Toker",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Thaurdir's Pursuit",
+            "Slug": "Thaurdir's-Pursuit-TToR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Thaurdir's-Pursuit-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Thaurdir to the staging area. Each player searches the encounter deck and discard pile for an Undead enemy and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "As you study the clues that you`ve found, you feel a chill wind flow through the keep. `You will not leave this place alive,` a sinister voice echoes throughout the halls. `My master Daechanar will it so.`\r\n`Thaurdir!` Amarthiúl exclaims, unsheathing his blades."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur/Thaurdir's-Pursuit-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "30"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Thaurdir`s Pursuit has -5 quest points for each Clue objective attached to a character.",
+                    "This stage cannot be defeated while Thaurdir has any hit point remaining. If this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The wraith you fought in Fornost has followed you since your flight from Mount Gram. Your only hope is to escape with the clues you`ve found."
+            },
+            "CardSet": "The Treachery of Rhudaur",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ruins of Arnor",
+                    "Cursed Dead"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 95,
+            "Quantity": 1,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Cursed Dead",
+            "Slug": "Cursed-Dead-TLR",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Dead Lord",
+            "Slug": "Dead-Lord-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Restless Evil",
+            "Slug": "Restless-Evil-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Seal the Tomb",
+            "Slug": "Seal-the-Tomb-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Decipher Ancient Texts",
+            "Title": "Life Drain",
+            "Slug": "Life-Drain-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Quiet the Spirits",
+            "Title": "Apostate of Angmar",
+            "Slug": "Apostate-of-Angmar-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Ancient Causeway",
+            "Slug": "Ancient-Causeway-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Ruins of Arnor",
+            "Slug": "Ruins-of-Arnor-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Search the Ruins",
+            "Slug": "Search-the-Ruins-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Tragic Discovery",
+            "Slug": "Tragic-Discovery-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Sift through the Debris",
+            "Title": "Secret Antechamber",
+            "Slug": "Secret-Antechamber-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Amarthiúl",
+            "Slug": "Amarthiul-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Centuries of Sorrow",
+            "Slug": "Centuries-of-Sorrow-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Curse of the Years",
+            "Slug": "Curse-of-the-Years-TToR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Daechanar's Brand",
+            "Slug": "Daechanar's-Brand-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Dark Covenant",
+            "Slug": "Dark-Covenant-TToR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Decipher Ancient Texts",
+            "Slug": "Decipher-Ancient-Texts-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Decrepit Remains",
+            "Slug": "Decrepit-Remains-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Eerie Halls",
+            "Slug": "Eerie-Halls-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Forbidden Descent",
+            "Slug": "Forbidden-Descent-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Ghostly Ruins",
+            "Slug": "Ghostly-Ruins-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Haunting Fog",
+            "Slug": "Haunting-Fog-TToR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Heirloom of Iârchon",
+            "Slug": "Heirloom-of-Iarchon-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Orders from Angmar",
+            "Slug": "Orders-from-Angmar-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Quiet the Spirits",
+            "Slug": "Quiet-the-Spirits-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Sift through the Debris",
+            "Slug": "Sift-through-the-Debris-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Thaurdir",
+            "Slug": "Thaurdir-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "The Great Hall",
+            "Slug": "The-Great-Hall-TToR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Traitorous Wight",
+            "Slug": "Traitorous-Wight-TToR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur",
+            "Title": "Wight of Rhudaur",
+            "Slug": "Wight-of-Rhudaur-TToR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "Charred Cellar",
+            "Slug": "Charred-Cellar-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "Forgotten Courtyard",
+            "Slug": "Forgotten-Courtyard-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "Malevolent Forces",
+            "Slug": "Malevolent-Forces-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "Thaurdir's Hunter",
+            "Slug": "Thaurdir's-Hunter-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "The Treachery of Rhudaur Nightmare",
+            "Slug": "The-Treachery-of-Rhudaur-Nightmare-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Treachery of Rhudaur Nightmare",
+            "Title": "Undead Thrall",
+            "Slug": "Undead-Thrall-TToRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

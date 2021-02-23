@@ -1,0 +1,477 @@
+{
+    "Title": "Into the Pit",
+    "Slug": "Into-the-Pit",
+    "Product": "Khazad-dûm",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Entering the Mines",
+            "Slug": "Entering-the-Mines-KD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Entering-the-Mines-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for East-gate and Cave Torch. Put East-gate into play as the active location, and have the first player attach Cave Torch to a hero of his choice. Set First Hall and Bridge of Khazad-dum aside, out of play. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have been sent by the White Council to Moria, to deliver a message to Balin and his Dwarven colony. No one has heard from him in a while."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Entering-the-Mines-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "7"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player, and add it to the staging area.",
+                    "Player cannot advance to the next stage of the scenario unless Bridge of Khazad-dum is in their victory display."
+                ],
+                "Shadow": null,
+                "FlavorText": "The doors of the East-gate hang crooked on their henges. The darkness inside the doorway is still and impenetrable, shutting out the last beams of a sinking sun."
+            },
+            "CardSet": "Khazad-dûm",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Twists and Turns",
+                    "Hazards of the Pit",
+                    "Goblins of the Deep"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 64,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Patrol",
+            "Slug": "Goblin-Patrol-KD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Goblin-Patrol-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "The skeletons of Dwarves and Orcs lie undisturbed, but you have discovered no recent sign of the Dwarven colony. The sound of scampering feet travels to your ears, and you move in that direction to investigate. There is a patrol of Goblins, marching in a loose formation through the shadows."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Goblin-Patrol-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "11"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If there are no enemies in play, immediately advance to the next stage of the scenario. (Players can also advance by placing 11 progress tokens on Goblin Patrol.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Khazad-dûm",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Twists and Turns",
+                    "Hazards of the Pit",
+                    "Goblins of the Deep"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 65,
+            "Quantity": 1,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Ambush",
+            "Slug": "Goblin-Ambush-ItPN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player must search the encounter deck and discard pile for X Orc enemies and add them to the staging area, where X is 1 plus the number of players in the game. One of these choices must be Patrol Sentry and one must be Patrol Leader, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "You hear the sounds of many scampering feet. As you move closer to investiage, you find your party set upon on all sides by a patrol of Orcs!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "X is 1 plus the number of players in the game.",
+                    "Forced: After an enemy is defeated, place 1 progress on this stage.",
+                    "Progress cannot be placed on Goblin Ambush expect by the above effect."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Way Up",
+            "Slug": "A-Way-Up-KD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/A-Way-Up-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/A-Way-Up-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Khazad-dûm",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Twists and Turns",
+                    "Hazards of the Pit",
+                    "Goblins of the Deep"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Scout",
+            "Slug": "Goblin-Scout-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Swordsman",
+            "Slug": "Goblin-Swordsman-KD",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Tunnels",
+            "Slug": "Goblin-Tunnels-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Watchful Eyes",
+            "Slug": "Watchful-Eyes-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Cave In",
+            "Slug": "Cave-In-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Crumbling Ruin",
+            "Slug": "Crumbling-Ruin-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Dark and Dreadful",
+            "Slug": "Dark-and-Dreadful-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Dreadful Gap",
+            "Slug": "Dreadful-Gap-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Fouled Well",
+            "Slug": "Fouled-Well-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Hazards of the Pit",
+            "Title": "Sudden Pitfall",
+            "Slug": "Sudden-Pitfall-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "Bridge of Khazad-dûm",
+            "Slug": "Bridge-of-Khazad-dum-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "East-gate",
+            "Slug": "East-gate-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "First Hall",
+            "Slug": "First-Hall-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "Patrol Leader",
+            "Slug": "Patrol-Leader-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "Signs of Conflict",
+            "Slug": "Signs-of-Conflict-KD",
+            "NormalQuantity": 5,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Into the Pit",
+            "Title": "Stairs of Náin",
+            "Slug": "Stairs-of-Nain-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Goblin Lurker",
+            "Slug": "Goblin-Lurker-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Into the Pit Nightmare",
+            "Slug": "Into-the-Pit-Nightmare-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Narrow Fissure",
+            "Slug": "Narrow-Fissure-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Patrol Sentry",
+            "Slug": "Patrol-Sentry-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Shadow Dweller",
+            "Slug": "Shadow-Dweller-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Shadow-fall",
+            "Slug": "Shadow-fall-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Into the Pit Nightmare",
+            "Title": "Twisting Shadows",
+            "Slug": "Twisting-Shadows-ItPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Branching Paths",
+            "Slug": "Branching-Paths-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Burning Low",
+            "Slug": "Burning-Low-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Cave Torch",
+            "Slug": "Cave-Torch-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Goblin Follower",
+            "Slug": "Goblin-Follower-KD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Lightless Passage",
+            "Slug": "Lightless-Passage-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Many Roads",
+            "Slug": "Many-Roads-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twists and Turns",
+            "Title": "Zigil Mineshaft",
+            "Slug": "Zigil-Mineshaft-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        }
+    ]
+}

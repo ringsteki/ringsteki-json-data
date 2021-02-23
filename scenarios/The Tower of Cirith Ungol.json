@@ -1,0 +1,338 @@
+{
+    "Title": "The Tower of Cirith Ungol",
+    "Slug": "The-Tower-of-Cirith-Ungol",
+    "Product": "The Mountain of Fire",
+    "Number": 16,
+    "QuestCards": [
+        {
+            "Title": "Pass the Two Watchers",
+            "Slug": "Pass-the-Two-Watchers-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Pass-the-Two-Watchers-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Shagrat aside, out of play. Add The Two Wachers (location side faceup) and Topmost Chamber to the staging area. The first player loses control of the Ring-bearer and place it faceup under Topmost Chamber as a guarded objective. Then, the first player attaches Last of the Company to a hero he controls and attaches The One Ring to that hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "Frodo has been captured by the Orcs of Cirith Ungol and imprisoned at the top of their tower, but Sam is determined to rescue his master."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Pass-the-Two-Watchers-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each non-unique location gets -1 Threat and cannot leave the staging area.",
+                    "While The Two Watchers is in the staging area (enemy side faceup), it is considered to be engaged with each player.",
+                    "The stage cannot be defeated while The Two Watchers is in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "He could see no obstacle, but something too strong for his will to overcome barred the way. -The Return of the King"
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "The Tower of Cirith Ungol",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fighting in the Tower",
+            "Slug": "Fighting-in-the-Tower-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Fighting-in-the-Tower-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded, where X is the number of players in the game. Add each enemy discarded by this effect to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "There could not be much doubt: there was fighting in the tower, the orcs must be at war among themselves, Shagrat and Gorbag had come to blows.\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Fighting-in-the-Tower-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "18"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, discard cards from the top of the encounter deck until an enemy is discarded. If there is a copy of that enemy in the staging area, discard that copy as well. If there is not, add the discarded enemy to the staging area.",
+                    "This stage cannot be defeated unless Topmost Chamber is in the victory display. When the Ring-bearer is free of encounters, this first player gains control of it."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "The Tower of Cirith Ungol",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Escape from Cirith Ungol",
+            "Slug": "Escape-from-Cirith-Ungol-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Escape-from-Cirith-Ungol-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Last of the Company to the victory display. Attach The One Ring to the Ring-bearer and exhaust the Ring-bearer. The first player moves The Two Watchers from the victory display to the staging area (location side faceup). Each other player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`It`s the gate. There`s some devilry there. But I got through, and I`m going to get out. It can`t be more dangerous than before. Now for it!`\r\n-Sam Gamgee, The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Escape-from-Cirith-Ungol-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The players cannot travel to The Two Watchers unless there is at least 12 progress on this stage.",
+                    "While The Two Watchers is in the staging area (enenmy side faceup), it gets +3 Threat and +3 Defense and is considered to be engaged with each player.",
+                    "The stage cannot be defeated while The Two Watchers is in play. If this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "The Tower of Cirith Ungol",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor",
+                    "Deep Shadows"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 68,
+            "Quantity": 1,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Deep Shadows",
+            "Slug": "Deep-Shadows-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Drawn to the Ring",
+            "Slug": "Drawn-to-the-Ring-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Deep Shadows",
+            "Title": "Evil Vigilance",
+            "Slug": "Evil-Vigilance-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Orc of Mordor",
+            "Slug": "Orc-of-Mordor-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Snaga Archer",
+            "Slug": "Snaga-Archer-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Uruk Soldier",
+            "Slug": "Uruk-Soldier-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Bloodied Courtyard",
+            "Slug": "Bloodied-Courtyard-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Echoing Passage",
+            "Slug": "Echoing-Passage-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Gorbag",
+            "Slug": "Gorbag-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Last of the Company",
+            "Slug": "Last-of-the-Company-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Orcish Howls",
+            "Slug": "Orcish-Howls-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Shagrat",
+            "Slug": "Shagrat-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "The Tower of Cirith Ungol (Campaign)",
+            "Slug": "The-Tower-of-Cirith-Ungol-Campaign-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "The Two Watchers (Enemy)",
+            "Slug": "The-Two-Watchers-Enemy-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "The Two Watchers (Location)",
+            "Slug": "The-Two-Watchers-Location-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Topmost Chamber",
+            "Slug": "Topmost-Chamber-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Torch-lit Hall",
+            "Slug": "Torch-lit-Hall-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Winding Stairs",
+            "Slug": "Winding-Stairs-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Tower of Cirith Ungol",
+            "Title": "Wounded Uruk",
+            "Slug": "Wounded-Uruk-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

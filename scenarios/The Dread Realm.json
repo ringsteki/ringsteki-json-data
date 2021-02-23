@@ -1,0 +1,408 @@
+{
+    "Title": "The Dread Realm",
+    "Slug": "The-Dread-Realm",
+    "Product": "The Dread Realm",
+    "Number": 6,
+    "QuestCards": [
+        {
+            "Title": "The Catacombs of Carn Dûm",
+            "Slug": "The-Catacombs-of-Carn-Dum-TDR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/The-Catacombs-of-Carn-Dûm-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Daechanar and Altar of Midwinter aside, out of play. Each player reveals an encounter card from the top of the encounter deck. Each player reanimates the top card of his deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "As you descend into the catacombs beneath Carn Dûm, you find yourself overcome with terror. Still, you press onward, knowing that Iârion`s fate-and perhaps the fate of the north-lies in your hand."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/The-Catacombs-of-Carn-Dûm-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "18"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
+                    "When the players advance to stage 2, all Sorcery cards attached to this stage are attached to stage 2B."
+                ],
+                "Shadow": null,
+                "FlavorText": "Daechanar`s powers of sorcery and necromancy are strongest here, in the capital of the Witch-realm where the lord of the Nazgûl once resided."
+            },
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 150,
+            "Quantity": 1,
+            "Artist": "Logan Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Angmar Awakened",
+            "Slug": "Angmar-Awakened-TDR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Angmar-Awakened-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Daechanar to the staging area. Make Altar of Midwinter the active location, returning any previously active location to the staging area. Each player reanimates the top card of his deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "A final scream fills the dreadful halls of Carn Dûm, and you suspect the worst. As you enter the site of Daechanar`s dark ritual, your fears come to life. Iârion stands before you, cracking his neck and gripping the blade at his side tightly, as though testing his muscles. Only it isn`t him."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Angmar-Awakened-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
+                    "When Daechanar is defeated, advance to the next stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "Daechanar, in the body of your ally Iârion, laughs wickedly. Despair and frustration are the only thoughts that enter your mind. In the end, you were too late to stop this cruel fate. `Finally! Yes, this body will do nicely.` the wraith wearing the guise of your friend muses. He draws his blade."
+            },
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 151,
+            "Quantity": 1,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Daechanar's Fall",
+            "Slug": "Daechanar's-Fall-TDR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Daechanar's-Fall-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If there are less than X locations in the staging area, search the encounter deck and discard pile and add locations to the staging area until there are X locations in staging area. X is the number of players in the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The imposter in Iârion`s body collapses in agony, and a piercing shriek echoes the halls as the sorcerer exits Iârion. `Thank you,` Iârion says with a pained smile before his eyes close for the last time. Before you can mourn your loss, the walls begin to shake and crack. The catacombs are collapsing!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm/Daechanar's-Fall-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
+                    "Progress that would be placed on this quest is instead placed on locations in the staging area, divided as you choose.",
+                    "Forced: At the end of the phase, if there are any locations in play, deal 1 damage to all characters in play. If there are no locations in play, the players have escaped Carn Dûm, and win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Dread Realm",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 152,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Cursed Dead",
+            "Slug": "Cursed-Dead-TLR",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Dead Lord",
+            "Slug": "Dead-Lord-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Restless Evil",
+            "Slug": "Restless-Evil-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Cursed Dead",
+            "Title": "Seal the Tomb",
+            "Slug": "Seal-the-Tomb-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Dark Sorcery",
+            "Slug": "Dark-Sorcery-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Heavy Curse",
+            "Slug": "Heavy-Curse-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Terror of the North",
+            "Slug": "Terror-of-the-North-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "The Power of Angmar",
+            "Slug": "The-Power-of-Angmar-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "A Fell Dread",
+            "Slug": "A-Fell-Dread-TDR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Altar of Midwinter",
+            "Slug": "Altar-of-Midwinter-TDR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Daechanar",
+            "Slug": "Daechanar-TDR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Dark Halls",
+            "Slug": "Dark-Halls-TDR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Death and Calamity",
+            "Slug": "Death-and-Calamity-TDR",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Dwimmerlaik",
+            "Slug": "Dwimmerlaik-TDR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Possession",
+            "Slug": "Possession-TDR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Sinister Dungeon",
+            "Slug": "Sinister-Dungeon-TDR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Tombs of Carn Dûm",
+            "Slug": "Tombs-of-Carn-Dum-TDR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Unholy Crypt",
+            "Slug": "Unholy-Crypt-TDR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Witch of Angmar",
+            "Slug": "Witch-of-Angmar-TDR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm",
+            "Title": "Wraith of Carn Dûm",
+            "Slug": "Wraith-of-Carn-Dum-TDR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "All is Lost",
+            "Slug": "All-is-Lost-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Cursed Halls",
+            "Slug": "Cursed-Halls-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Daechanar's Curse",
+            "Slug": "Daechanar's-Curse-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Inner Sanctum",
+            "Slug": "Inner-Sanctum-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Necromancer of Carn Dûm",
+            "Slug": "Necromancer-of-Carn-Dum-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Power Beyond Death",
+            "Slug": "Power-Beyond-Death-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "Silent Guardian",
+            "Slug": "Silent-Guardian-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "The Dread Realm Nightmare",
+            "Slug": "The-Dread-Realm-Nightmare-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dread Realm Nightmare",
+            "Title": "The Witch-king's Gift",
+            "Slug": "The-Witch-king's-Gift-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        }
+    ]
+}

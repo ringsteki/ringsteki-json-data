@@ -1,0 +1,404 @@
+{
+    "Title": "Journey Up the Anduin",
+    "Slug": "Journey-Up-the-Anduin",
+    "Product": "The Wilds of Rhovanion",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Traveling North",
+            "Slug": "Traveling-North-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traveling-North-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After placing progress here from questing successfully, place 1 resource here.",
+                    "Forced: At the beginning of the encounter phase, remove 1 resource from this stage. Then, add the top card of the Evil Creatures deck to the staging area.",
+                    "This stage cannot be defeated while an enemy from the Evil Creatures deck in play."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Traveling-North-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Woodmen Village and The Old Ford aside, out of play. Create the Evil Creatures deck (see insert) and place it next to the quest deck. Shuffle the encounter deck and discard cards from the top until X locations are discarded, where X is the number of players. Add each discarded location to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "While traveling north through the Vales of Anduin on your way to Dale, you are alarmed by the number of dangerous creatures that you encounter."
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "Journey up the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Woodmen Under Attack",
+            "Slug": "Woodmen-Under-Attack-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Woodmen-Under-Attack-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player adds Woodman Village to the staging area. Each other player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Dark, black smoke rises above the trees in the distance. As you draw nearer to the rising cloud, you hear the cry of Orc voices, the howling of Wargs, and the ring of steel. A small group of Woodmen fight desperately to defend their village from a vicious attack. You rush to their aid."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/Woodmen-Under-Attack-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "No more than 1 progress can be placed on each location in the staging area each round.",
+                    "Forced: After the players travel to a location, add the top card of the Evil Creatures deck to the staging area.",
+                    "The players cannot defeat this stage unless the first player controls Haldan."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "Journey up the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Passage of the Ford",
+            "Slug": "The-Passage-of-the-Ford-TWoR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Passage-of-the-Ford-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player adds The Old Ford to the staging area. Each other player adds the top card of the Evil Creatures deck to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Grateful for your help, one of the Woodmen offers to journey with you to The Old Ford. He wants to warn Grimbeorn of the growing danger, but when you reach the forst you find the Beornings already fighting to defend the passage of the river from dangerous creatures."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Wilds-of-Rhovanion/The-Passage-of-the-Ford-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The players cannot travel toThe Old Ford unless there is at least 5 progress here.",
+                    "Forced: At the beginning of the quest phase, add the top card of the Evil Creatures deck to the staging area.",
+                    "This stage cannot be defeated while The Old Ford is in play. When The Old Ford is explored, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Wilds of Rhovanion",
+            "EncounterInfo": {
+                "EncounterSet": "Journey up the Anduin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Hills of Wilderland",
+                    "Lost in Wilderland",
+                    "Journey Along the Anduin",
+                    "Wilderlands"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 68,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Grey Mountain Goblins",
+            "Title": "Goblin Troop",
+            "Slug": "Goblin-Troop-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Grey Mountain Goblins",
+            "Title": "Stray Goblin",
+            "Slug": "Stray-Goblin-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Hills of Wilderland",
+            "Title": "Hills of Wilderland",
+            "Slug": "Hills-of-Wilderland-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Hills of Wilderland",
+            "Title": "Lonely Lands",
+            "Slug": "Lonely-Lands-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Hills of Wilderland",
+            "Title": "Pack of Wargs",
+            "Slug": "Pack-of-Wargs-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Banks of the Anduin",
+            "Slug": "Banks-of-the-Anduin-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Gladden Fields",
+            "Slug": "Gladden-Fields-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Massing at Night",
+            "Slug": "Massing-at-Night-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Journey Along the Anduin",
+            "Title": "Misty Mountain Goblins",
+            "Slug": "Misty-Mountain-Goblins-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "Dangerous Crossing",
+            "Slug": "Dangerous-Crossing-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "Frenzied Creature",
+            "Slug": "Frenzied-Creature-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "Haldan",
+            "Slug": "Haldan-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "The Old Ford",
+            "Slug": "The-Old-Ford-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "Wooded Riverbank",
+            "Slug": "Wooded-Riverbank-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Journey up the Anduin",
+            "Title": "Woodmen Village",
+            "Slug": "Woodmen-Village-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Lost in the Wild",
+            "Slug": "Lost-in-the-Wild-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Ruined Supplies",
+            "Slug": "Ruined-Supplies-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Weighed Down",
+            "Slug": "Weighed-Down-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Despair",
+            "Slug": "Despair-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Goblin Sniper",
+            "Slug": "Goblin-Sniper-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Hill Troll",
+            "Slug": "Hill-Troll-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Marsh Adder",
+            "Slug": "Marsh-Adder-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The Brown Lands",
+            "Slug": "The-Brown-Lands-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The East Bight",
+            "Slug": "The-East-Bight-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wargs",
+            "Slug": "Wargs-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wolf Rider",
+            "Slug": "Wolf-Rider-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

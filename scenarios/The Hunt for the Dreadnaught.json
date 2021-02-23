@@ -1,0 +1,529 @@
+{
+    "Title": "The Hunt for the Dreadnaught",
+    "Slug": "The-Hunt-for-the-Dreadnaught",
+    "Product": "The Hunt for the Dreadnaught",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Searching the High Seas",
+            "Slug": "Searching-the-High-Seas-THftD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hunt-for-the-Dreadnaught/Searching-the-High-Seas-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "The vicious Corsairs of Umbar have been pillaging the Gondorian coastline for months, and rumors are swirling that they`ve built the most devastating and gigantic ship ever known: The Dreadnaught. Many are suspicious of such extraordinary reports but, if true, the massive enemy is unlike any you`ve faced before. It will take an equally-colossal effort to take down such a potent foe. No others can bear such a difficult task, so it`s up to the heroes to assemble a formidable fleet, and then scour the seas for the mighty warship."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hunt-for-the-Dreadnaught/Searching-the-High-Seas-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "*"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "*This stage has a global quest point value of 8 per player among all groups.",
+                    "No more than 5 progress per player can be placed on this stage each round.",
+                    "The players can only advance at the end of the quest phase."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Hunt for the Dreadnaught",
+            "EncounterInfo": {
+                "EncounterSet": "The Hunt for the Dreadnaught",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "David Frasheski",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Destroy the Dreadnaught",
+            "Slug": "Destroy-the-Dreadnaught-THftD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hunt-for-the-Dreadnaught/Destroy-the-Dreadnaught-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add the set-aside Dreadnaught enemy to the staging area, Elite side faceup."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the distance, you see a ship like no other: dozens of ominous black sails tower above the churning sea and prow of a fearsome serpent`s head slices through the waves at an alarming speed. The rumors are true. You are awestruck at the extraordinary size and imtimidating presence of the Dreadnaught. You resolve to sink the menacing behemoth at all costs."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hunt-for-the-Dreadnaught/Destroy-the-Dreadnaught-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "No more than 5 progress per player can be placed on this stage each round.",
+                    "Action: Remove 5 progress per player from this stage to choose any group to shuffle 1 set aside Gondorian Warship card into their encounter deck.",
+                    "Response: When the Dreadnaught attacks you, raise your threat by 4 to cancel the attack.",
+                    "When the Dreadnaught is destroyed, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Hunt for the Dreadnaught",
+            "EncounterInfo": {
+                "EncounterSet": "The Hunt for the Dreadnaught",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Ballista Barrage",
+            "Slug": "Ballista-Barrage-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Belfalas Shipyard",
+            "Slug": "Belfalas-Shipyard-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Black Sails",
+            "Slug": "Black-Sails-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Boarding Party",
+            "Slug": "Boarding-Party-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Brash Corsair",
+            "Slug": "Brash-Corsair-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Captain of the Haven",
+            "Slug": "Captain-of-the-Haven-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Cobas Haven",
+            "Slug": "Cobas-Haven-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Commander of the Dreadnaught",
+            "Slug": "Commander-of-the-Dreadnaught-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Corsair Plunderer",
+            "Slug": "Corsair-Plunderer-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Corsair Skiff",
+            "Slug": "Corsair-Skiff-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Corsair Skirmisher",
+            "Slug": "Corsair-Skirmisher-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Corsair Warship",
+            "Slug": "Corsair-Warship-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Daring Buccaneer",
+            "Slug": "Daring-Buccaneer-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Descendant of Castamir",
+            "Slug": "Descendant-of-Castamir-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Dreadnaught",
+            "Slug": "Dreadnaught-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Dreadnaught (Damaged)",
+            "Slug": "Dreadnaught-Damaged-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Easy Mode",
+            "Slug": "Easy-Mode-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Eithiliant",
+            "Slug": "Eithiliant-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Eithiliant (Upgraded)",
+            "Slug": "Eithiliant-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Fierce Marauder",
+            "Slug": "Fierce-Marauder-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Golden Wing",
+            "Slug": "Golden-Wing-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Golden Wing (Upgraded)",
+            "Slug": "Golden-Wing-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Gondorian Warship",
+            "Slug": "Gondorian-Warship-THftD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Grappled!",
+            "Slug": "Grappled-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Hard Mode",
+            "Slug": "Hard-Mode-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Hydraken",
+            "Slug": "Hydraken-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Isle of Fortune",
+            "Slug": "Isle-of-Fortune-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Mouths of Anduin",
+            "Slug": "Mouths-of-Anduin-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Ophidian",
+            "Slug": "Ophidian-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Out of the Mist",
+            "Slug": "Out-of-the-Mist-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Overworked",
+            "Slug": "Overworked-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Pride of Lebennin",
+            "Slug": "Pride-of-Lebennin-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Pride of Lebennin (Upgraded)",
+            "Slug": "Pride-of-Lebennin-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Ramming Ship",
+            "Slug": "Ramming-Ship-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Sea Monster",
+            "Slug": "Sea-Monster-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Silent Mist",
+            "Slug": "Silent-Mist-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Silent Mist (Upgraded)",
+            "Slug": "Silent-Mist-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Slave Ship",
+            "Slug": "Slave-Ship-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Southron Sailor",
+            "Slug": "Southron-Sailor-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Standard Mode",
+            "Slug": "Standard-Mode-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Swan Ship of Dol Amroth",
+            "Slug": "Swan-Ship-of-Dol-Amroth-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Swan Ship of Dol Amroth (Upgraded)",
+            "Slug": "Swan-Ship-of-Dol-Amroth-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Taking on Water",
+            "Slug": "Taking-on-Water-THftD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Tolfalas Landing",
+            "Slug": "Tolfalas-Landing-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Twilight's Call",
+            "Slug": "Twilight's-Call-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Twilight's Call (Upgraded)",
+            "Slug": "Twilight's-Call-Upgraded-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Umbar Captain",
+            "Slug": "Umbar-Captain-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Varjax",
+            "Slug": "Varjax-THftD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Violent Tempest",
+            "Slug": "Violent-Tempest-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "War Galley",
+            "Slug": "War-Galley-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hunt for the Dreadnaught",
+            "Title": "Wicked Cove",
+            "Slug": "Wicked-Cove-THftD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

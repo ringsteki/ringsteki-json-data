@@ -1,0 +1,378 @@
+{
+    "Title": "The Battle of Carn Dûm",
+    "Slug": "The-Battle-of-Carn-Dûm",
+    "Product": "The Battle of Carn Dûm",
+    "Number": 5,
+    "QuestCards": [
+        {
+            "Title": "The Clutches of Carn Dûm",
+            "Slug": "The-Clutches-of-Carn-Dum-TBoCD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/The-Clutches-of-Carn-Dûm-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add Thaurdir to the staging area, Captain side faceup. Add 1 copy of Carn Dûm garrison per player to the staging area. Search the encounter deck for 1 copy of Accursed Battlefield and make it the active location. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your company has made its way swiftly north, and finally the fortress of Carn Dûm looms before you. Unsure if you have arrived in time, you can only hope beyond hope that Iârion is still alive."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/The-Clutches-of-Carn-Dûm-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Thaurdir cannot leave the staging area and cannot take damage. At the end of the round, if Thaurdir is Champion side faceup, flip him.",
+                    "Do not discard unresolved shadow cards at the end of the combat phase.",
+                    "Forced: If there are 3 shadow cards dealt to Thaurdir, flip him."
+                ],
+                "Shadow": null,
+                "FlavorText": "Thaurdir has mustered the defense of Carn Dûm. There is no turning back now. `For Iârion!` the Rangers begin to shout, unsheathing their swords."
+            },
+            "CardSet": "The Battle of Carn Dûm",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of Carn Dûm",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 125,
+            "Quantity": 1,
+            "Artist": "Wibben",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Midwinter's Crux",
+            "Slug": "Midwinter's-Crux-TBoCD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Midwinter's-Crux-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Raise each player`s threat by X, where X is the number of shadow cards in play. If Thaurdir is Captain side faceup, flip him."
+                ],
+                "Shadow": null,
+                "FlavorText": "A swirling dark cloud starts to gather above you, and a cold wind tenses your muscles. `I have a bad feeling about this...` you hear Amarthiúl mutter. It seems Daechanar`s ritual has begun. Sensing you have little time to spare, your company rushes to the gates of Carn Dûm"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Battle-of-Carn-Dum/Midwinter's-Crux-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Thaurdir cannot leave the staging area, is considered to be engaged with each player, and attacks each player in turn during the combat phase (deal and discard a new shadow card for each attack). At the end of the round, if Thaurdir is Captain side faceup, flip him.",
+                    "While Midwinter`s Crux has 15 or more progress on it, Thaurdir loses indestructible. You cannot defeat this stage while Thaurdir is in play.",
+                    "If Thaurdir is defeated, you win the game"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Battle of Carn Dûm",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of Carn Dûm",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 126,
+            "Quantity": 1,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Captain",
+            "Slug": "Angmar-Captain-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Marauder",
+            "Slug": "Angmar-Marauder-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Orc",
+            "Slug": "Angmar-Orc-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Dark Sorcery",
+            "Slug": "Dark-Sorcery-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Heavy Curse",
+            "Slug": "Heavy-Curse-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "Terror of the North",
+            "Slug": "Terror-of-the-North-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dark Sorcery",
+            "Title": "The Power of Angmar",
+            "Slug": "The-Power-of-Angmar-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Accursed Battlefield",
+            "Slug": "Accursed-Battlefield-TBoCD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Blight of Carn Dûm",
+            "Slug": "Blight-of-Carn-Dum-TBoCD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Carn Dûm Garrison",
+            "Slug": "Carn-Dum-Garrison-TBoCD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Daechanar's Will",
+            "Slug": "Daechanar's-Will-TBoCD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Fortress Walls",
+            "Slug": "Fortress-Walls-TBoCD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Furious Charge",
+            "Slug": "Furious-Charge-TBoCD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Mountains of Angmar",
+            "Slug": "Mountains-of-Angmar-TBoCD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Orc Grunts",
+            "Slug": "Orc-Grunts-TBoCD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Thaurdir (Captain)",
+            "Slug": "Thaurdir-Captain-TBoCD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Thaurdir (Champion)",
+            "Slug": "Thaurdir-Champion-TBoCD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "The Sky Darkens",
+            "Slug": "The-Sky-Darkens-TBoCD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Vile Afflication",
+            "Slug": "Vile-Afflication-TBoCD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm",
+            "Title": "Werewolf of Angmar",
+            "Slug": "Werewolf-of-Angmar-TBoCD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Black Mare",
+            "Slug": "Black-Mare-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Death and Decay",
+            "Slug": "Death-and-Decay-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Gates of Carn Dûm",
+            "Slug": "Gates-of-Carn-Dum-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Howling of Wargs",
+            "Slug": "Howling-of-Wargs-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Orc Wight",
+            "Slug": "Orc-Wight-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Protect the Flanks",
+            "Slug": "Protect-the-Flanks-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Rally the Fighters",
+            "Slug": "Rally-the-Fighters-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Sever the Head",
+            "Slug": "Sever-the-Head-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Stronghold Tower",
+            "Slug": "Stronghold-Tower-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "Thaurdir's Elite",
+            "Slug": "Thaurdir's-Elite-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of Carn Dûm Nightmare",
+            "Title": "The Battle of Carn Dûm Nightmare",
+            "Slug": "The-Battle-of-Carn-Dum-Nightmare-TBoCDN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "Title": "Fire in the Night",
+    "Slug": "Fire-in-the-Night",
+    "Product": "Fire in the Night",
+    "Number": 6,
+    "QuestCards": [
+        {
+            "Title": "Hrogar's Hill",
+            "Slug": "Hrogar's-Hill-FitN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Hrogar's-Hill-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for all 8 encounter side quests, shuffle them together, and place them facedown next to the quest deck. This is the side quest deck. The first player adds Dagnir to the staging area and shuffles the encounter deck. Each other player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Woodmen of Hrogar’s Hill have agreed to help you in your quest, but shortly after they welcome you to their town it is attacked by the very Dragon you seek: Dagnir has come to take vengeance on Wilderland!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Fire-in-the-Night/Hrogar's-Hill-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "50"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the planning phase, reveal the top card of the side quest deck and add it to the staging area. Dagnir makes an attack against Hrogar’s Hill. Do not deal a shadow card for this attack. The first player may declare a defender for this attack. Excess damage must be dealt to Hrogar`s Hill.",
+                    "This stage cannot be defeated while Dagnir has hit points remaining. If Dagnir has no hit points remaining, the players win the game. If this stage has damage equal to its quest points, the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Fire in the Night",
+            "EncounterInfo": {
+                "EncounterSet": "Fire in the Night",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Grey Mountain Goblins",
+                    "Dark Woods",
+                    "Gathering Gloom"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 83,
+            "Quantity": 1,
+            "Artist": "Andreas Adamek",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Dark Woods",
+            "Title": "Accursed Forest",
+            "Slug": "Accursed-Forest-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dark Woods",
+            "Title": "Dark Black Woods",
+            "Slug": "Dark-Black-Woods-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Bright Flames",
+            "Slug": "Bright-Flames-FitN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Burning Watchtower",
+            "Slug": "Burning-Watchtower-FitN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Dagnir",
+            "Slug": "Dagnir-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Defend the Town",
+            "Slug": "Defend-the-Town-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Douse the Flames",
+            "Slug": "Douse-the-Flames-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Draw Her Fire",
+            "Slug": "Draw-Her-Fire-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Face the Dragon",
+            "Slug": "Face-the-Dragon-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Fortify the Defense",
+            "Slug": "Fortify-the-Defense-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Hold the Door",
+            "Slug": "Hold-the-Door-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Orc of the Flame",
+            "Slug": "Orc-of-the-Flame-FitN",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Powerful in Wrath",
+            "Slug": "Powerful-in-Wrath-FitN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Rally the Woodmen",
+            "Slug": "Rally-the-Woodmen-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Rout the Goblins",
+            "Slug": "Rout-the-Goblins-FitN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "The Dragon's Fury",
+            "Slug": "The-Dragon's-Fury-FitN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "The Dragon's Thrall",
+            "Slug": "The-Dragon's-Thrall-FitN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Town Gate",
+            "Slug": "Town-Gate-FitN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Fire in the Night",
+            "Title": "Wooden Palisade",
+            "Slug": "Wooden-Palisade-FitN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Gathering Gloom",
+            "Title": "Gathering Gloom",
+            "Slug": "Gathering-Gloom-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Gathering Gloom",
+            "Title": "Swarm of Bats",
+            "Slug": "Swarm-of-Bats-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Grey Mountain Goblins",
+            "Title": "Goblin Troop",
+            "Slug": "Goblin-Troop-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Grey Mountain Goblins",
+            "Title": "Stray Goblin",
+            "Slug": "Stray-Goblin-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        }
+    ]
+}

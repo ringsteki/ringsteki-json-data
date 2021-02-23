@@ -1,0 +1,324 @@
+{
+    "Title": "The Hills of Emyn Muil",
+    "Slug": "The-Hills-of-Emyn-Muil",
+    "Product": "The Hills of Emyn Muil",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "The Hills of Emyn Muil",
+            "Slug": "The-Hills-of-Emyn-Muil-THoEM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Hills-of-Emyn-Muil-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The hunt for Gollum has led you to the south, and you are now approaching Rauros falls and the nearby hills of Emyn Muil..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil/The-Hills-of-Emyn-Muil-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.",
+                    "Players cannot defeat this stage until there are no Emyn Muil locations in play, and they have collected at least 20 victory points."
+                ],
+                "Shadow": null,
+                "FlavorText": "You are certain that Gollum has fled into the area, and you must explore until you find the fresh trail."
+            },
+            "CardSet": "The Hills of Emyn Muil",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Dol Guldur Orcs",
+                    "Sauron's Reach"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 82,
+            "Quantity": 1,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Chieftan Ufthak",
+            "Slug": "Chieftan-Ufthak-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Beastmaster",
+            "Slug": "Dol-Guldur-Beastmaster-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Dol Guldur Orcs (Enemy)",
+            "Slug": "Dol-Guldur-Orcs-Enemy-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Driven by Shadow",
+            "Slug": "Driven-by-Shadow-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Enchanted Stream",
+            "Slug": "Enchanted-Stream-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "Necromancer's Pass",
+            "Slug": "Necromancer's-Pass-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Dol Guldur Orcs",
+            "Title": "The Necromancer's Reach",
+            "Slug": "The-Necromancer's-Reach-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Eastern Crows",
+            "Slug": "Eastern-Crows-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Evil Storm",
+            "Slug": "Evil-Storm-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Pursued by Shadow",
+            "Slug": "Pursued-by-Shadow-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Treacherous Fog",
+            "Slug": "Treacherous-Fog-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Amon Hen",
+            "Slug": "Amon-Hen-THoEM",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Amon Lhaw",
+            "Slug": "Amon-Lhaw-THoEM",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Impassable Chasm",
+            "Slug": "Impassable-Chasm-THoEM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Orc Horse Thieves",
+            "Slug": "Orc-Horse-Thieves-THoEM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Rauros Falls",
+            "Slug": "Rauros-Falls-THoEM",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Rockslide",
+            "Slug": "Rockslide-THoEM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "Slick Footing",
+            "Slug": "Slick-Footing-THoEM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "The East Wall of Rohan",
+            "Slug": "The-East-Wall-of-Rohan-THoEM",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "The Highlands",
+            "Slug": "The-Highlands-THoEM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "The North Stair",
+            "Slug": "The-North-Stair-THoEM",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "The Outer Ridge",
+            "Slug": "The-Outer-Ridge-THoEM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil",
+            "Title": "The Shores of Nen Hithoel",
+            "Slug": "The-Shores-of-Nen-Hithoel-THoEM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "A Hurrying Darkness",
+            "Slug": "A-Hurrying-Darkness-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Blast of Savage Wind",
+            "Slug": "Blast-of-Savage-Wind-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Brambles and Thorns",
+            "Slug": "Brambles-and-Thorns-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Hazardous Terrain",
+            "Slug": "Hazardous-Terrain-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Orc Interceptor",
+            "Slug": "Orc-Interceptor-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Retraced Steps",
+            "Slug": "Retraced-Steps-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Sarn Gebir Rapids",
+            "Slug": "Sarn-Gebir-Rapids-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "The Hills of Emyn Muil Nightmare",
+            "Slug": "The-Hills-of-Emyn-Muil-Nightmare-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Hills of Emyn Muil Nightmare",
+            "Title": "Tunneling Nameless Thing",
+            "Slug": "Tunneling-Nameless-Thing-THoEMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        }
+    ]
+}

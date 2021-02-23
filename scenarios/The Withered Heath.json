@@ -1,0 +1,430 @@
+{
+    "Title": "The Withered Heath",
+    "Slug": "The-Withered-Heath",
+    "Product": "The Withered Heath",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "Searching for Dragon Sign",
+            "Slug": "Searching-for-Dragon-Sign-TWH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Searching-for-Dragon-Sign-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Cold-Drake and all four copies of Dragon Sign aside, out of play. Create the Caves deck (see insert) and set it next to the quest deck. Shuffle 2 set aside Dragon Sign objectives into the Caves deck. Shuffle the encounter deck and discard cards from the top until X locations are discarded, where X is the number of players. Add each discarded location to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have journeyed to the Withered Heath in search of a giant Dragon. There you discover tracks that lead you to the cold heights of the Grey Mountains."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Searching-for-Dragon-Sign-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location is explored, look at the top 3 cards of the encounter deck. Reveal 1 of those cards and discard the rest.",
+                    "The players cannot defeat this stage unless at least 1 Dragon Sign is in the victory display."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Grey Mountains are a cold and untamed wilderness where nothing friendly dwells, and the weather is as real a danger to you as Dragons."
+            },
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": {
+                "EncounterSet": "The Withered Heath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 22,
+            "Quantity": 1,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Cold-Drake Attacks!",
+            "Slug": "The-Cold-Drake-Attacks-TWH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Cold-Drake-Attacks-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add the set-aside Cold-Drake to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve followed the Dragon tracks high up the Ered Mithrin mountain range to a sheltered hollow where you find the beast waiting for you. It lets out a roar that shakes the mountain, and rocks tumble down as it charges toward you in a rage!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/The-Cold-Drake-Attacks-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Ignore the Deep keyword.",
+                    "Cold-Drake cannot leave the staging area (even if it has damage equal to its hit points), but it is considered to be engaged with each player.",
+                    "No more than 6 damage can be placed on Cold-Drake each round and it cannot have more than 18 damage.",
+                    "This stage cannot be defeated while Cold-Drake has any hit points remaining."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": {
+                "EncounterSet": "The Withered Heath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 23,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hunting the Beast",
+            "Slug": "Hunting-the-Beast-TWH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Hunting-the-Beast-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle 2 set-aside Dragon Sign objectives into the Caves deck. Set Cold-Drake aside, out of play. (Do not remove damage tokens from it.) Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X locations are discarded, where X is the number of players. Add each discarded location to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The injured drake retreats among the rising slopes of Ered Mithrin and you chase afterit, carefully searching each potential hiding place."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/Hunting-the-Beast-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location is explored, look at the top 3 cards of the encounter deck. Reveal 1 of those cards and discard the rest.",
+                    "Forced: At the end of the round, remove 3 damage tokens from the set-aside Cold-Drake.",
+                    "The players cannot defeat this stage unless at least 3 Dragon Signs are in the victory display."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": {
+                "EncounterSet": "The Withered Heath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 24,
+            "Quantity": 1,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Cornered Dragon",
+            "Slug": "A-Cornered-Dragon-TWH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/A-Cornered-Dragon-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Cold-Drake to the staging area. It makes an immediate attack against each player in turn order. (Deal and resolve a shadow card for each attack.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "At last you have cornered the injured Dragon. But with nowhere left to run, it attacks you with desperate fury. The men of Dale will make songs of this battle, if you survive to tell the story..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Withered-Heath/A-Cornered-Dragon-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Cold-Drake cannot take more than X damage each round, where X is the number of Dragon Signs in the victory display.",
+                    "Forced: At the beginning of the quest phase, return Cold-Drake to the staging area. It makes an immediate attack against each player in turn order.",
+                    "This stage cannot be defeated while Cold-Drake is in play. When Cold-Drake is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Withered Heath",
+            "EncounterInfo": {
+                "EncounterSet": "The Withered Heath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Lost Caves",
+                    "Wild Creatures",
+                    "Lost in Wilderland"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 25,
+            "Quantity": 1,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Ancient Treasury",
+            "Slug": "Ancient-Treasury-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Crumbling Cavern",
+            "Slug": "Crumbling-Cavern-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Frightful Den",
+            "Slug": "Frightful-Den-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Lightless Grotto",
+            "Slug": "Lightless-Grotto-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Lost Armory",
+            "Slug": "Lost-Armory-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost Caves",
+            "Title": "Underground Lake",
+            "Slug": "Underground-Lake-TWoR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Lost in the Wild",
+            "Slug": "Lost-in-the-Wild-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Ruined Supplies",
+            "Slug": "Ruined-Supplies-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Lost in Wilderland",
+            "Title": "Weighed Down",
+            "Slug": "Weighed-Down-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Cave Entrance",
+            "Slug": "Cave-Entrance-TWH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Cold-Drake",
+            "Slug": "Cold-Drake-TWH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Creature Den",
+            "Slug": "Creature-Den-TWH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Deadly Cold",
+            "Slug": "Deadly-Cold-TWH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Dragon Hatchling",
+            "Slug": "Dragon-Hatchling-TWH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Dragon Sign",
+            "Slug": "Dragon-Sign-TWH",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Dwarven Door",
+            "Slug": "Dwarven-Door-TWH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Heavy Snow",
+            "Slug": "Heavy-Snow-TWH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "High Falls",
+            "Slug": "High-Falls-TWH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Mountain Pass",
+            "Slug": "Mountain-Pass-TWH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Withered Heath",
+            "Title": "Snow-troll",
+            "Slug": "Snow-troll-TWH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Black Bats",
+            "Slug": "Black-Bats-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Giant Spider",
+            "Slug": "Giant-Spider-TWoR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wild Creatures",
+            "Title": "Werewolf",
+            "Slug": "Werewolf-TWoR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        }
+    ]
+}

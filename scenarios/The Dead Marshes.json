@@ -1,0 +1,369 @@
+{
+    "Title": "The Dead Marshes",
+    "Slug": "The-Dead-Marshes",
+    "Product": "The Dead Marshes",
+    "Number": 5,
+    "QuestCards": [
+        {
+            "Title": "Into the Marshes",
+            "Slug": "Into-the-Marshes-TDM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Into-the-Marshes-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Gollum, and add it to the staging area. Shuffle the encounter deck, then reveal 1 card per player from the encounter deck and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have followed Gollum`s trail for days, and are now closing in fast pursuit. In a last ditch effort to escape you, the creature has fled to The Dead Marshes."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/Into-the-Marshes-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "`Yes, yes,` said Gollum. `All dead, all rotten. Elves and Men and Orcs. The Dead Marshes. There was a great battle long ago, yes, so they told him when Smeagol was young, when I was young before teh Precious came. It was a great battle. Tall Men with long swords, and terrible Elves and Orcses shrieking. They fought on th eplain for days and months at the Black Gates. But the Marshes have grown since then, swallowed up the graves; always creeping, creeping.` -The Two Towers."
+            },
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 105,
+            "Quantity": 1,
+            "Artist": "Ignacio Bazan Lazcano",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Capture",
+            "Slug": "The-Capture-TDM",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Capture-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "After a tiring pursuit through the treacherous marshland, you have cornered Gollum, and move in for the capture."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dead-Marshes/The-Capture-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After this stage is defeated, the first player chooses a player. That player must pass an Escape test, dealing 1 card from the encounter deck for each resource token on Gollum, to capture him. If Gollum is not captured at this time, reset the quest deck to stage 1B.",
+                    "If this final Escape test is passed, the players have captured Gollum and won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Dead Marshes",
+            "EncounterInfo": {
+                "EncounterSet": "The Dead Marshes",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Sauron's Reach",
+                    "Wilderlands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 106,
+            "Quantity": 1,
+            "Artist": "Ignacio Bazan Lazcano",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Eastern Crows",
+            "Slug": "Eastern-Crows-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Evil Storm",
+            "Slug": "Evil-Storm-Core",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Pursued by Shadow",
+            "Slug": "Pursued-by-Shadow-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Sauron's Reach",
+            "Title": "Treacherous Fog",
+            "Slug": "Treacherous-Fog-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "A Wisp of Pale Sheen",
+            "Slug": "A-Wisp-of-Pale-Sheen-TDM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Fens and Mires",
+            "Slug": "Fens-and-Mires-TDM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Giant Marsh Worm",
+            "Slug": "Giant-Marsh-Worm-TDM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Gollum",
+            "Slug": "Gollum-TDM",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Impassable Bog",
+            "Slug": "Impassable-Bog-TDM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Nightfall",
+            "Slug": "Nightfall-TDM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "The Heart of the Marshes",
+            "Slug": "The-Heart-of-the-Marshes-TDM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "The Lights of the Dead",
+            "Slug": "The-Lights-of-the-Dead-TDM",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Dead Marshes",
+            "Title": "Through the Mist",
+            "Slug": "Through-the-Mist-TDM",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Candles of Corpses",
+            "Slug": "Candles-of-Corpses-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Devilry of the Dark Land",
+            "Slug": "Devilry-of-the-Dark-Land-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Ill-fated Guard",
+            "Slug": "Ill-fated-Guard-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Lost Soul of Lórien",
+            "Slug": "Lost-Soul-of-Lorien-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Marsh-wight",
+            "Slug": "Marsh-wight-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Stagnant Quagmire",
+            "Slug": "Stagnant-Quagmire-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Swarming Mosquitos",
+            "Slug": "Swarming-Mosquitos-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "The Dead Marshes Nightmare",
+            "Slug": "The-Dead-Marshes-Nightmare-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "The Mere of Dead Faces",
+            "Slug": "The-Mere-of-Dead-Faces-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dead Marshes Nightmare",
+            "Title": "Things in the Pools",
+            "Slug": "Things-in-the-Pools-TDMN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Despair",
+            "Slug": "Despair-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Goblin Sniper",
+            "Slug": "Goblin-Sniper-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Hill Troll",
+            "Slug": "Hill-Troll-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Marsh Adder",
+            "Slug": "Marsh-Adder-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The Brown Lands",
+            "Slug": "The-Brown-Lands-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "The East Bight",
+            "Slug": "The-East-Bight-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wargs",
+            "Slug": "Wargs-Core",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wilderlands",
+            "Title": "Wolf Rider",
+            "Slug": "Wolf-Rider-Core",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

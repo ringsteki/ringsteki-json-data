@@ -1,0 +1,555 @@
+{
+    "Title": "A Storm on Cobas Haven",
+    "Slug": "A-Storm-on-Cobas-Haven",
+    "Product": "A Storm on Cobas Haven",
+    "Number": 5,
+    "QuestCards": [
+        {
+            "Title": "Outmaneuver the Enemy",
+            "Slug": "Outmaneuver-the-Enemy-ASoCH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Outmaneuver-the-Enemy-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Sailing."
+                ],
+                "Text": [
+                    "Setup: Prepare the Corsair deck. Players prepare their fleet. Set each copy of Dol Amroth Warship aside, out of play. Search the encounter deck for Raider Flagship and 1 copy of Scouting Ship, and add them to the staging area. Search the encounter deck for a Dol Amroth objective of your choice and add it to the staging area. Then, shuffle the encounter deck and resolve the Guarded keyword on that objective."
+                ],
+                "Shadow": null,
+                "FlavorText": "Corsairs are attacking Dol Amroth to cover Sahír`s escape to Umbar!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Outmaneuver-the-Enemy-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Sailing.",
+                    "Forced: When a Ship enemy engages you, if you are off-course (Cloudy, Rainy or Stormy), deal 2 damage to a Ship objective you control. If you are on-course (Sunny), deal 2 damage to that Ship enemy instead.",
+                    "If your current heading is at the worst setting (Stormy), Raider Flagship gets -50 engagement cost."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Storm on Cobas Haven",
+            "EncounterInfo": {
+                "EncounterSet": "A Storm on Cobas Haven",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "Corsair Pirates",
+                    "Umbar Fleet",
+                    "Voyage Across Belegaer",
+                    "The Dream-chaser's Fleet"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 120,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Battle in the Bay",
+            "Slug": "Battle-in-the-Bay-ASoCH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Battle-in-the-Bay-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Sailing."
+                ],
+                "Text": [
+                    "When Revealed: Search the encounter deck and discard pile for a Ship enemy and add it to the staging area (2 Ship enemies instead if there are 3 or 4 players in the game). Shuffle the encounter deck. For each unguarded objective in the staging area, attach a non-unique Ship enemy in the staging area to that objective, guarding it."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Corsair fleet seems to be attacking multiple key locations simultaneously. To stop the attack, you must defend Dol Amroth from the Corsair ships."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Battle-in-the-Bay-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Sailing.",
+                    "If your current heading is at the worst setting (Stormy), Raider Flagship gets -50 engagement cost.",
+                    "You cannot advance while at least 1 objective is guarded by an encounter."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Storm on Cobas Haven",
+            "EncounterInfo": {
+                "EncounterSet": "A Storm on Cobas Haven",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "Corsair Pirates",
+                    "Umbar Fleet",
+                    "Voyage Across Belegaer",
+                    "The Dream-chaser's Fleet"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 121,
+            "Quantity": 1,
+            "Artist": "Sergey Glushakov",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Break Through the Fleet!",
+            "Slug": "Break-Through-the-Fleet-ASoCH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Break-Through-the-Fleet-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Sailing."
+                ],
+                "Text": [
+                    "When Revealed: The players make engagement checks against each enemy in the staging area. Raider Flagship gets -50 engagement cost during these engagement checks."
+                ],
+                "Shadow": null,
+                "FlavorText": "`You have to go after Sahír!` Imrahil yells as the battle rages on. `We will finish this fight!`"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Storm-on-Cobas-Haven/Break-Through-the-Fleet-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Sailing.",
+                    "Raider Flagship gets -50 engagement cost.",
+                    "Break Through the Fleet! has +5 quest points for each Ship enemy in play.",
+                    "If this stage is defeated, or if Raider Flagship is in the victory display, the players have broken through the Corsair fleet and win the game!"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Storm on Cobas Haven",
+            "EncounterInfo": {
+                "EncounterSet": "A Storm on Cobas Haven",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "Corsair Pirates",
+                    "Umbar Fleet",
+                    "Voyage Across Belegaer",
+                    "The Dream-chaser's Fleet"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 122,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Belfalas Islet",
+            "Slug": "Belfalas-Islet-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Coast of Anfalas",
+            "Slug": "Coast-of-Anfalas-ASoCH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Cobas Haven",
+            "Slug": "Cobas-Haven-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Corsair Skirmisher",
+            "Slug": "Corsair-Skirmisher-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Dol Amroth Warship",
+            "Slug": "Dol-Amroth-Warship-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Heavy Cruiser",
+            "Slug": "Heavy-Cruiser-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Raider Flagship",
+            "Slug": "Raider-Flagship-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Ramming Speed!",
+            "Slug": "Ramming-Speed-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Sea-ward Tower",
+            "Slug": "Sea-ward-Tower-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Siege Ship",
+            "Slug": "Siege-Ship-ASoCH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Taking on Water",
+            "Slug": "Taking-on-Water-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "The Beacon",
+            "Slug": "The-Beacon-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "The Raiders' Assault",
+            "Slug": "The-Raiders'-Assault-ASoCH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Tower of the Gull",
+            "Slug": "Tower-of-the-Gull-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven",
+            "Title": "Tower of the Heron",
+            "Slug": "Tower-of-the-Heron-ASoCH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "A Storm on Cobas Haven Nightmare",
+            "Slug": "A-Storm-on-Cobas-Haven-Nightmare-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Aearlang",
+            "Slug": "Aearlang-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Broken Rudder",
+            "Slug": "Broken-Rudder-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "City Under Siege",
+            "Slug": "City-Under-Siege-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Docks of Dol Amroth",
+            "Slug": "Docks-of-Dol-Amroth-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Fang of Sahír",
+            "Slug": "Fang-of-Sahir-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Grappled!",
+            "Slug": "Grappled-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Ramming Ship",
+            "Slug": "Ramming-Ship-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "Sea-wall",
+            "Slug": "Sea-wall-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "A Storm on Cobas Haven Nightmare",
+            "Title": "War-torn Waters",
+            "Slug": "War-torn-Waters-ASoCHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Pirates",
+            "Title": "Cunning Pirate",
+            "Slug": "Cunning-Pirate-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Corsair Pirates",
+            "Title": "Southron Sailor",
+            "Slug": "Southron-Sailor-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Pirates",
+            "Title": "Umbar Captain",
+            "Slug": "Umbar-Captain-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Pirates",
+            "Title": "Vicious Marauder",
+            "Slug": "Vicious-Marauder-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Battle-Hardened",
+            "Slug": "Battle-Hardened-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Corsair Infiltrator",
+            "Slug": "Corsair-Infiltrator-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Raid Leader",
+            "Slug": "Raid-Leader-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Umbar Raider",
+            "Slug": "Umbar-Raider-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Dream-chaser's Fleet",
+            "Title": "Dawn Star",
+            "Slug": "Dawn-Star-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dream-chaser's Fleet",
+            "Title": "Dream-chaser (Ship-Objective)",
+            "Slug": "Dream-chaser-Ship-Objective-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dream-chaser's Fleet",
+            "Title": "Nárelenya",
+            "Slug": "Narelenya-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dream-chaser's Fleet",
+            "Title": "Navigation",
+            "Slug": "Navigation-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Dream-chaser's Fleet",
+            "Title": "Silver Wing",
+            "Slug": "Silver-Wing-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Umbar Fleet",
+            "Title": "Boarding Party",
+            "Slug": "Boarding-Party-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Umbar Fleet",
+            "Title": "Corsair Warship",
+            "Slug": "Corsair-Warship-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Umbar Fleet",
+            "Title": "Light Cruiser",
+            "Slug": "Light-Cruiser-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Voyage Across Belegaer",
+            "Title": "Fog Bank",
+            "Slug": "Fog-Bank-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Voyage Across Belegaer",
+            "Title": "Scouting Ship",
+            "Slug": "Scouting-Ship-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Voyage Across Belegaer",
+            "Title": "Starlit Sea",
+            "Slug": "Starlit-Sea-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

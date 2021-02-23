@@ -1,0 +1,397 @@
+{
+    "Title": "The Long Arm of Mordor",
+    "Slug": "The-Long-Arm-of-Mordor",
+    "Product": "The Sands of Harad",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Surprise Attack",
+            "Slug": "Surprise-Attack-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Surprise-Attack-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Uruk Chieftain aside, out of play. Each player adds 1 copy of Sauron’s Enforcers to the staging area. Move each hero to the staging area. Each player takes control of an objective-hero and adds 2 resources to its resource pool. Remove each remaining objective-hero from the game. For the remainder of the game, heroes in the staging area are in play but under no player’s control, immune to player card effects, and their text boxes are considered to be blank."
+                ],
+                "Shadow": null,
+                "FlavorText": "A tribe of Haradrim has rescued you, but their village is attacked by Orcs!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Surprise-Attack-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Damage from undefended attacks must be dealt to a hero in the staging area, if able.",
+                    "The first card each player plays each phase does not require a resource match.",
+                    "Forced: After placing progress from questing successfully, each player chooses a hero he owns in the staging area and, takes control of that hero, and exhausts it. Advance to stage 2A."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Arm of Mordor",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Jungle Forest"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 71,
+            "Quantity": 1,
+            "Artist": "Alexandr Elichev",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Find the Others",
+            "Slug": "Find-the-Others-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Find-the-Others-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Still weary from the long journey across the desert, your companions are somewhere in the village. In your weakened state you are no match for the attacking Orcs. Your only chance to survive is to flee into the jungle, but you will not abandon your friends."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Find-the-Others-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Damage from undefended attacks must be dealt to a hero in the staging area, if able.",
+                    "The first card each player plays each phase does not require a resource match.",
+                    "Forced: When this stage is defeated, each player chooses a hero he owns in the staging area, takes control of that hero, and exhausts it."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Arm of Mordor",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Jungle Forest"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Free the Captives",
+            "Slug": "Free-the-Captives-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Free-the-Captives-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck and discard pile for an Orc enemy and adds it to the staging area. Shuffle the encounter deck. Attach each hero in the staging area to a different Orc enemy in the staging area. Each hero attached to an enemy is guarded by that enemy. Guarded heroes are under no player’s control, immune to player card effects, and their text boxes are considered to be blank."
+                ],
+                "Shadow": null,
+                "FlavorText": "Orcs have seized your friends and are now dragging them away as captives."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Free-the-Captives-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While an enemy is guarding a hero it gets +1 Threat, +1 Attack, +1 Defense and is immune to player card effects.",
+                    "Forced: When the enemy guarding a hero is defeated, that hero’s owner takes control of that hero and exhausts it.",
+                    "This stage cannot be defeated while an enemy is guarding a hero."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Arm of Mordor",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Jungle Forest"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Escape into the Jungle",
+            "Slug": "Escape-into-the-Jungle-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Escape-into-the-Jungle-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Uruk Chieftain to the staging area. Shuffle the encounter discard pile into the encounter deck and reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Orcs run rampant through the Haradrim boma. Amidst the chaos, you see an opportunity to escape but a large Uruk chieftain bars your way. You will have to defeat the chieftain in order to get past him."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Escape-into-the-Jungle-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Uruk Chieftain cannot take non-combat damage.",
+                    "Each non-unique Orc enemy gets -10 engagement cost.",
+                    "Forced: After Uruk Chieftain engages a player, it makes an immediate attack.",
+                    "The players cannot defeat this stage while Uruk Chieftain is in play. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "The Long Arm of Mordor",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Orcs",
+                    "Jungle Forest"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Dense Jungle",
+            "Slug": "Dense-Jungle-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Forest Clearing",
+            "Slug": "Forest-Clearing-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Jungle Trail",
+            "Slug": "Jungle-Trail-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Overgrown",
+            "Slug": "Overgrown-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Fear of Mordor",
+            "Slug": "Fear-of-Mordor-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Mordor Warg",
+            "Slug": "Mordor-Warg-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Chieftain",
+            "Slug": "Uruk-Chieftain-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk of Mordor",
+            "Slug": "Uruk-of-Mordor-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Warg-rider",
+            "Slug": "Uruk-Warg-rider-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruks of the Eye",
+            "Slug": "Uruks-of-the-Eye-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Firyal",
+            "Slug": "Firyal-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Jubayr",
+            "Slug": "Jubayr-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Kahliel",
+            "Slug": "Kahliel-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Overrun by Orcs",
+            "Slug": "Overrun-by-Orcs-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Sauron's Enforcers",
+            "Slug": "Sauron's-Enforcers-TSoH",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Savage Attack",
+            "Slug": "Savage-Attack-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Southron Boma",
+            "Slug": "Southron-Boma-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Village Hut",
+            "Slug": "Village-Hut-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Long Arm of Mordor",
+            "Title": "Yazan",
+            "Slug": "Yazan-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

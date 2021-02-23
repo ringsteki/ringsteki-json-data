@@ -1,0 +1,525 @@
+{
+    "Title": "Across the Ettenmoors",
+    "Slug": "Across-the-Ettenmoors",
+    "Product": "Across the Ettenmoors",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Into the Ettenmoors",
+            "Slug": "Into-the-Ettenmoors-AtE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/Into-the-Ettenmoors-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set aside each of the 3 Across the Enttenmoors side quests and each of the 4 locations with the safe keyword. Reveal 1 of those side quests at random and 1 of those safe locations at random, adding them to the staging area with the safe location guarded by the side quest. Search the encounter deck for 1 copy of Savage Trollspawn per player and add them to the staging area. Shuffle the remaining side quests and safe locations back into the encounter deck. The first player gains control of Amarthiúl."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/Into-the-Ettenmoors-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, if there are no encounter side quests in play, discard cards from the top of the encounter deck until a side quest is discarded, reveal it, and add it to the staging area.",
+                    "Forced: When a side quest is defeated, place progress tokens on Into the Etternmoors equal to that side quest`s quest points."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have escaped from the prisons of Mount Gram, but you are not safe yet."
+            },
+            "CardSet": "Across the Ettenmoors",
+            "EncounterInfo": {
+                "EncounterSet": "Across the Ettenmoors",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 64,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Into the Ettenmoors",
+            "Slug": "Into-the-Ettenmoors-AtEN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors-Nightmare/Into-the-Ettenmoors-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set aside each side quest and each location with the safe keyword. Reveal 1 of those side quests and 1 of those safe locations at random, adding them to the staging area with the safe location guarded by the side quest. Shuffle the remaining side quests and safe location into the encounter deck. Discard cards from the top of the encounter deck until X enemies are discarded, where X is the number of players in the game. Add the discarded enemies to the staging area. The first player gains control of Amarthiúl."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors-Nightmare/Into-the-Ettenmoors-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, if there are no encounter side quests in play, discard cards from the top of the encounter deck until a side quest is discarded, reveal it, and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have escaped from the prisons of Mount Gram, but you are not safe yet."
+            },
+            "CardSet": "Across the Ettenmoors Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Across the Ettenmoors Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Miserable Journey",
+            "Slug": "A-Miserable-Journey-AtE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/A-Miserable-Journey-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a side quest is discarded. Reveal that side quest and add it to the staging area, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your trek through the Ettenmoors only gets worse as your injured company is pursued by hungry trolls and bettered by cold and rain."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/A-Miserable-Journey-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reveal 1 additional encounter card during the quest phase unless there is an active location with the safe keyword."
+                ],
+                "Shadow": null,
+                "FlavorText": "This land is barren and untamed. Food is scarce, and you must take care to avoid the Trolls and other creatures that roam the moors. If you are lucky, you may find a safe place to hide and rest for a short time before your journey continues."
+            },
+            "CardSet": "Across the Ettenmoors",
+            "EncounterInfo": {
+                "EncounterSet": "Across the Ettenmoors",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 65,
+            "Quantity": 1,
+            "Artist": "Victor Garcia",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Journey's End",
+            "Slug": "Journey's-End-AtE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/Journey's-End-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a side quest is discarded. Reveal that side quest and add it to the staging area, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "You are getting closer to the edge of the Troll-fells, but exhaustion has taken its toll. One way or another, this journey is nearing its end..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Across-the-Ettenmoors/Journey's-End-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "17"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each damaged character gets -2 Willpower unless there is an active location with the safe keyword.",
+                    "If the players defeat this stage, they have escaped the Ettenmoors with their lives, and win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your wounded companions only slow your progress. With Trolls on your heels and foul weather overhead, you press onward."
+            },
+            "CardSet": "Across the Ettenmoors",
+            "EncounterInfo": {
+                "EncounterSet": "Across the Ettenmoors",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Eriador Wilds",
+                    "Foul Weather"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Victor Garcia",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Abandoned Camp",
+            "Slug": "Abandoned-Camp-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Amarthiúl",
+            "Slug": "Amarthiul-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Arador's Bane",
+            "Slug": "Arador's-Bane-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Barren Moorland",
+            "Slug": "Barren-Moorland-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Coldfell Giant",
+            "Slug": "Coldfell-Giant-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Cruel Mountain-troll",
+            "Slug": "Cruel-Mountain-troll-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Forage for Food",
+            "Slug": "Forage-for-Food-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Goblin Pursuer",
+            "Slug": "Goblin-Pursuer-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Lie Low",
+            "Slug": "Lie-Low-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "No Rest",
+            "Slug": "No-Rest-AtE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Patch of Woods",
+            "Slug": "Patch-of-Woods-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Ruthless Hill-troll",
+            "Slug": "Ruthless-Hill-troll-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Savage Trollspawn",
+            "Slug": "Savage-Trollspawn-AtE",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Scavenge for Supplies",
+            "Slug": "Scavenge-for-Supplies-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Secluded Cave",
+            "Slug": "Secluded-Cave-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "The Hoarwell",
+            "Slug": "The-Hoarwell-AtE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors",
+            "Title": "Troll-fells",
+            "Slug": "Troll-fells-AtE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Across the Ettenmoors Nightmare",
+            "Slug": "Across-the-Ettenmoors-Nightmare-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Barren and Desolate",
+            "Slug": "Barren-and-Desolate-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Crashing Thunder",
+            "Slug": "Crashing-Thunder-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Giant Beetle",
+            "Slug": "Giant-Beetle-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Hoarwell River Serpent",
+            "Slug": "Hoarwell-River-Serpent-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Isolated",
+            "Slug": "Isolated-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Rescue from the Trolls",
+            "Slug": "Rescue-from-the-Trolls-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Rocky Foothills",
+            "Slug": "Rocky-Foothills-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Scavenging Stone-troll",
+            "Slug": "Scavenging-Stone-troll-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Across the Ettenmoors Nightmare",
+            "Title": "Vast Troll-fells",
+            "Slug": "Vast-Troll-fells-AtEN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Lost in the Wilderness",
+            "Slug": "Lost-in-the-Wilderness-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Pressing Needs",
+            "Slug": "Pressing-Needs-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Rugged Country",
+            "Slug": "Rugged-Country-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Shrouded Hills",
+            "Slug": "Shrouded-Hills-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Eriador Wilds",
+            "Title": "Weight of Responsibility",
+            "Slug": "Weight-of-Responsibility-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Biting Wind",
+            "Slug": "Biting-Wind-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Cold from Angmar",
+            "Slug": "Cold-from-Angmar-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Freezing Blast",
+            "Slug": "Freezing-Blast-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Make Camp",
+            "Slug": "Make-Camp-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

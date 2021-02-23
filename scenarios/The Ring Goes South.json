@@ -1,0 +1,430 @@
+{
+    "Title": "The Ring Goes South",
+    "Slug": "The-Ring-Goes-South",
+    "Product": "The Road Darkens",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "The Council of Elrond",
+            "Slug": "The-Council-of-Elrond-RD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Council-of-Elrond-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Lust for the Ring, Redhorn Pass, Doors of Durin and Watcher in the Water aside, out of play. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the House of Elrond, the evil wound that Frodo received on Weathertop is healed and he is reunited with his uncle Bilbo. The One Ring cannot remain hidden in Rivendell for long, so Lord Elrond summons a council to decide what should be done to protect the Free Peoples of Middle-earth."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Council-of-Elrond-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the planning phase, each player places the top card of his deck faceup in front of him, in player order, until there are a total of 4 faceup cards between the players. The first player chooses 1 faceup card to be played for 0 cost, 1 to add to its owner`s hand, 1 to discard, and 1 to shuffle into its owner`s deck. Then, either shuffle Lust for the Ring into the encounter deck, or raise each player`s threat by 5. Advance to stage 2."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": {
+                "EncounterSet": "The Ring Goes South",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 20,
+            "Quantity": 1,
+            "Artist": "Ignacio Bazan Lazcano",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Nine Walkers",
+            "Slug": "The-Nine-Walkers-RD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Nine-Walkers-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Make Redhorn Pass the active location. The first player reveals cards from the encounter deck until there is at least X Threat in the staging area. X is twice the number of players in the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Council decides The One Ring must be cast into Mount Doom. Frodo is appointed eight companions to help him compete this quest and the Company of the Ring sets out from Rivendell into Hollin on their way to Mordor..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Nine-Walkers-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "During the travel phase, the players must travel to a location, if able.",
+                    "Forced: After an enemy engages a player, place 1 damage on the active location, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Hollin is no longer wholesome for us: it is being watched.` -Aragorn, The Fellowship of the Ring"
+            },
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": {
+                "EncounterSet": "The Ring Goes South",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 21,
+            "Quantity": 1,
+            "Artist": "Matt Bradbury",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Hunt is Up!",
+            "Slug": "The-Hunt-is-Up-RD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Hunt-is-Up-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck and discard pile for an enemy and adds it to the staging area. One of those enemies must be Great Warg Chief, if able. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Suddenly Aragorn leapt to his feet, `How the wind howls!` he cried. `It is howling with wolf-voices. The Wargs have come west of the Mountains!` -The Fellowship of the Ring"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Hunt-is-Up-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "During the travel phase, the players must travel to a location, if able.",
+                    "Forced: After an enemy engages a player, place 1 damage on the active location, if able."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Fellowship is being hunted by Wargs!"
+            },
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": {
+                "EncounterSet": "The Ring Goes South",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 22,
+            "Quantity": 1,
+            "Artist": "Mark Bulahao",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Gates of Moria",
+            "Slug": "The-Gates-of-Moria-RD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Gates-of-Moria-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Make Doors of Durin the active location. Add Watcher in the Water to the staging area. Discard all tokens from the Ring-bearer and place it (and each card attached to it) facedown under Watcher in the Water."
+                ],
+                "Shadow": null,
+                "FlavorText": "Pursued by evil Wargs and foul weather, the Company of the Ring decides to enter the Mines of Moria. But as they seek the hidden gate, a foul creature seizes the Ring-bearer with one of its many groping arms..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/The-Gates-of-Moria-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "There can be 2 active locations. During the travel phase, the players must travel to a location, if able.",
+                    "Forced: After an enemy engages a player, place 1 damage on each active location.",
+                    "If Doors of Durin is explored, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Fellowship is being hunted by Wargs!"
+            },
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": {
+                "EncounterSet": "The Ring Goes South",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 23,
+            "Quantity": 1,
+            "Artist": "Mark Bulahao",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Bitter Cold",
+            "Slug": "Bitter-Cold-RD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Crebain from Dunland",
+            "Slug": "Crebain-from-Dunland-RD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Doors of Durin",
+            "Slug": "Doors-of-Durin-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Eregion",
+            "Slug": "Eregion-RD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Great Warg Chief",
+            "Slug": "Great-Warg-Chief-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Hills of Hollin",
+            "Slug": "Hills-of-Hollin-RD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Hound of Sauron",
+            "Slug": "Hound-of-Sauron-RD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Howling Warg",
+            "Slug": "Howling-Warg-RD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Lust for the Ring",
+            "Slug": "Lust-for-the-Ring-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Redhorn Foothills",
+            "Slug": "Redhorn-Foothills-RD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Redhorn Pass",
+            "Slug": "Redhorn-Pass-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Regiments of Crows",
+            "Slug": "Regiments-of-Crows-RD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Snowdrifts",
+            "Slug": "Snowdrifts-RD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Storm of Howls",
+            "Slug": "Storm-of-Howls-RD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "The Ring Goes South (Campaign)",
+            "Slug": "The-Ring-Goes-South-Campaign-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Tree-crowned Hill",
+            "Slug": "Tree-crowned-Hill-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South",
+            "Title": "Watcher in the Water",
+            "Slug": "Watcher-in-the-Water-RD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Expanse of Hollin",
+            "Slug": "Expanse-of-Hollin-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Hunted in Hollin",
+            "Slug": "Hunted-in-Hollin-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Hunting Hawk",
+            "Slug": "Hunting-Hawk-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Misty Mountain Warg",
+            "Slug": "Misty-Mountain-Warg-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Pale-green Tentacle",
+            "Slug": "Pale-green-Tentacle-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Shelterless Land",
+            "Slug": "Shelterless-Land-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "Slopes of Hithaeglir",
+            "Slug": "Slopes-of-Hithaeglir-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Ring Goes South Nightmare",
+            "Title": "The Ring Goes South Nightmare",
+            "Slug": "The-Ring-Goes-South-Nightmare-TRGSN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        }
+    ]
+}

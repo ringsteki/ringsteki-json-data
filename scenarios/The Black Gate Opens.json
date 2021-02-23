@@ -1,0 +1,328 @@
+{
+    "Title": "The Black Gate Opens",
+    "Slug": "The-Black-Gate-Opens",
+    "Product": "The Mountain of Fire",
+    "Number": 17,
+    "QuestCards": [
+        {
+            "Title": "Embassy from the Dark Tower",
+            "Slug": "Embassy-from-the-Dark-Tower-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Embassy-from-the-Dark-Tower-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "Setup: Add The Black Gate and The Mouth of Sauron to the staging area. Set Gwaihir aside, out of play. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Aragorn has led the Men of the West to the very Gate of Mordor in a perilous gamble to keep the Eye of Sauron focused on him. After challenging the Dark Lord to come forth and face judgement, the Black Gate opens and an embassy from Barad-dûr rides out led by The Mouth of Sauron."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Embassy-from-the-Dark-Tower-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: In player order, each player places the top card of his deck faceup in front of him until their are a total of 4 faceup player cards between the players. Place the top 4 cards of the encounter deck faceup. Starting with the highest cost player card, pair each player card with the highest threat encounter card remaining until their are 4 pairs. For each pair, the first player must choose: either discard both cards in the pair, or reveal the encounter card to play the player card at no cost."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "The Black Gate Opens",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Battle of the Morannon",
+            "Slug": "The-Battle-of-the-Morannon-TMoF",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Battle-of-the-Morannon-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Dire."
+                ],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck and discard pile for a different Orc, Troll, or Nazgûl enemy and adds it to the staging area. Shuffle Gwaihir into the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "He gave a great cry, and turned, leaded upon his steed, and with his company galloped madly back to Cirith Gorgor. But as they went his soldiers blew their horns in signal long arranged: and even before they came to the gate Sauron sprang his trap. -The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/The-Battle-of-the-Morannon-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Dire. During the staging step, the first player does not reveal an encounter card as normal. Instead, he reveals 1 encounter card for each resource on The Black Gate.",
+                    "Forced: After the players quest unsuccessfully, discard the active location.",
+                    "This stage cannot be defeated. Each round the players survive gives the Ring-bearer more time to fulfill the quest to Mount Doom."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": {
+                "EncounterSet": "The Black Gate Opens",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Orcs of Mordor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "Epic Multiplayer Mode (Campaign)",
+            "Slug": "Epic-Multiplayer-Mode-Campaign-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "In Darkness Bind Them",
+            "Slug": "In-Darkness-Bind-Them-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "The Eye of Sauron (Mount-Doom)",
+            "Slug": "The-Eye-of-Sauron-Mount-Doom-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountain of Fire Epic Multiplayer",
+            "Title": "The Eye of Sauron (The-Black-Gate-Opens)",
+            "Slug": "The-Eye-of-Sauron-The-Black-Gate-Opens-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Orc of Mordor",
+            "Slug": "Orc-of-Mordor-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Snaga Archer",
+            "Slug": "Snaga-Archer-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Orcs of Mordor",
+            "Title": "Uruk Soldier",
+            "Slug": "Uruk-Soldier-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Beleaguered Hills",
+            "Slug": "Beleaguered-Hills-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Easterling Bowman",
+            "Slug": "Easterling-Bowman-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Gorgoroth Hill-troll",
+            "Slug": "Gorgoroth-Hill-troll-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Hell-hawk",
+            "Slug": "Hell-hawk-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Jaws of Steel",
+            "Slug": "Jaws-of-Steel-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Nazgûl of Mordor",
+            "Slug": "Nazgul-of-Mordor-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Onslaught of Mordor",
+            "Slug": "Onslaught-of-Mordor-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Rage Filled Him",
+            "Slug": "Rage-Filled-Him-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Reeking Moat",
+            "Slug": "Reeking-Moat-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Slopes of Cirith Gorgor",
+            "Slug": "Slopes-of-Cirith-Gorgor-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "The Black Gate",
+            "Slug": "The-Black-Gate-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "The Black Gate Opens (Campaign)",
+            "Slug": "The-Black-Gate-Opens-Campaign-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "The Hour of Doom",
+            "Slug": "The-Hour-of-Doom-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "The Mouth of Sauron",
+            "Slug": "The-Mouth-of-Sauron-TMoF",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Towers of the Teeth",
+            "Slug": "Towers-of-the-Teeth-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Wall of Morannon",
+            "Slug": "Wall-of-Morannon-TMoF",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Black Gate Opens",
+            "Title": "Waste of Dagorlad",
+            "Slug": "Waste-of-Dagorlad-TMoF",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

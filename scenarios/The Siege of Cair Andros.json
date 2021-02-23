@@ -1,0 +1,530 @@
+{
+    "Title": "The Siege of Cair Andros",
+    "Slug": "The-Siege-of-Cair-Andros",
+    "Product": "Heirs of Númenor",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Defense",
+            "Slug": "The-Defense-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Defense-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege."
+                ],
+                "Text": [
+                    "Setup: Add The Approach, The Citadel, and The Banks to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "The island fortress of Cair Andros, which guards Gondor`s northernmost causeways over the river Anduin, is under siege! Battering rams rumble up the eastern causeway and rafts filled with Orcs float across the river toward the lightly defended northern banks."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Defense-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege.",
+                    "Players must deal damage from undefended attacks to the lowest Threat Battleground location in play. If there are no Battleground locations in play, immediate advance to the next stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "The assault is relentless, and the defenders grow weary. The tide is slowly but surely turning against you..."
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Southrons",
+                    "Ravaging Orcs",
+                    "Mordor Elite"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 72,
+            "Quantity": 1,
+            "Artist": "Lin Bo",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Reinforcing the Banks",
+            "Slug": "Reinforcing-the-Banks-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Reinforcing-the-Banks-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "As smoke and rending cries fill the air, rafts of Orcs beach their crafts all along the northern banks. You must reach the shore and drive them back into the river before a solid foothold can be established."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Reinforcing-the-Banks-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Southrons",
+                    "Ravaging Orcs",
+                    "Mordor Elite"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Timo Karhula",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Breakthrough at the Approach",
+            "Slug": "Breakthrough-at-the-Approach-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Breakthrough-at-the-Approach-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Battle."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "With a crashing boom the eastern gate shatters. A ram has broken through, and the pressing host of Orcs pour into the courtyard beyond. Engage them in hand-to-hand combat and secure the gate!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Breakthrough-at-the-Approach-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "7"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Battle.",
+                    "Forced: After the players quest unsuccessfully, instead of raising threat each player must choose and discard 1 character he controls."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Southrons",
+                    "Ravaging Orcs",
+                    "Mordor Elite"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Lin Bo",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Breakthrough at the Citadel",
+            "Slug": "Breakthrough-at-the-Citadel-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Breakthrough-at-the-Citadel-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Orc scramblers have infiltrated the island and climbed over the walls. They fought to the western gate, and the gate fell. Now a new host of enemies that were lying in wait are breaching the Citadel itself!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Breakthrough-at-the-Citadel-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege.",
+                    "Breakthrough at the Citadel adds 5 Threat to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Southrons",
+                    "Ravaging Orcs",
+                    "Mordor Elite"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 75,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Last Battle",
+            "Slug": "The-Last-Battle-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Last-Battle-5A.jpg",
+                "Stats": {
+                    "StageNumber": "5A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Siege."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Last-Battle-5B.jpg",
+                "Stats": {
+                    "StageNumber": "5B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Siege.",
+                    "When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.",
+                    "If the players have collected 4 or more victory points, The Last Battle gains Battle and loses Siege.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Southrons",
+                    "Ravaging Orcs",
+                    "Mordor Elite"
+                ],
+                "StageNumber": 5,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Lieutenant of Mordor",
+            "Slug": "Lieutenant-of-Mordor-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc Arbalesters",
+            "Slug": "Orc-Arbalesters-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc Vanguard",
+            "Slug": "Orc-Vanguard-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc War Camp",
+            "Slug": "Orc-War-Camp-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "The Master's Malice",
+            "Slug": "The-Master's-Malice-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "The Power of Mordor",
+            "Slug": "The-Power-of-Mordor-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Orc Arsonist",
+            "Slug": "Orc-Arsonist-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Orc Rabble",
+            "Slug": "Orc-Rabble-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ravaging Orcs",
+            "Title": "Scourge of Mordor",
+            "Slug": "Scourge-of-Mordor-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Haradrim Elite",
+            "Slug": "Haradrim-Elite-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Mûmak",
+            "Slug": "Mumak-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Mercenaries",
+            "Slug": "Southron-Mercenaries-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Support",
+            "Slug": "Southron-Support-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "Battering Ram",
+            "Slug": "Battering-Ram-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "Orc Assault",
+            "Slug": "Orc-Assault-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "Orc Scramblers",
+            "Slug": "Orc-Scramblers-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "Siege Raft",
+            "Slug": "Siege-Raft-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "The Approach",
+            "Slug": "The-Approach-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "The Banks",
+            "Slug": "The-Banks-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros",
+            "Title": "The Citadel",
+            "Slug": "The-Citadel-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Anduin Wharf",
+            "Slug": "Anduin-Wharf-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Besieged Courtyard",
+            "Slug": "Besieged-Courtyard-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Orc Ravager",
+            "Slug": "Orc-Ravager-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Orc Saboteur",
+            "Slug": "Orc-Saboteur-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Ruin and Wroth",
+            "Slug": "Ruin-and-Wroth-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Southron Mounted Archer",
+            "Slug": "Southron-Mounted-Archer-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "The Siege of Cair Andros Nightmare",
+            "Slug": "The-Siege-of-Cair-Andros-Nightmare-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Siege of Cair Andros Nightmare",
+            "Title": "Walls of Cair Andros",
+            "Slug": "Walls-of-Cair-Andros-TSoCAN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

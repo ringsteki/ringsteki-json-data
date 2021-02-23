@@ -1,0 +1,313 @@
+{
+    "Title": "Wrath and Ruin",
+    "Slug": "Wrath-and-Ruin",
+    "Product": "Wrath and Ruin",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Inside the Walls",
+            "Slug": "Inside-the-Walls-WaR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin/Inside-the-Walls-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add Thane Ulchor and Gate of Dorwinion to the staging area. Each player adds a different location to the staging area. Make a copy of Makeshift Fortification the active location. Shuffle the enocounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Thane Ulchor has returned to Dorwinion at night with an army of Easterlings. His agents within the city slew the guards and opened the gate to let them in. You wake to find battle already raging in the streets."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin/Inside-the-Walls-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "4"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The stage gets +4 quest points per player. Progess cannot be placed on locations in the staging area by player card effects.",
+                    "Forced: When a location is explored, the first player takes control of it.",
+                    "The stage cannot be defeated unless there are more locations under the players` control than in the staging area at the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Wrath and Ruin",
+            "EncounterInfo": {
+                "EncounterSet": "Wrath and Ruin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "City of Rhûn"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 25,
+            "Quantity": 1,
+            "Artist": "Imad Awan",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Drive them Out",
+            "Slug": "Drive-them-Out-WaR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin/Drive-them-Out-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player returns the highest Threat location he controls to the staging area. Shuffle the encounter discard pile into the encounter deck. Starting with the first player, each player discards cards from the top of the encounter deck until he discards an enemy and puts that enemy into play engaged with him."
+                ],
+                "Shadow": null,
+                "FlavorText": "After hours of hard fighting, you have gained the upper hand, but the battle will not be won until Ulchor and his army are driven out of the city."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin/Drive-them-Out-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Progress cannot be placed on locations in the staging area by player card effects.",
+                    "The players cannot travel to Gate of Dorwinion unless there are more locations under the players control than in the staging area.",
+                    "Forced: When a location is explored, the first player takes control of it.",
+                    "At the end of the round, if the players control Gate of Dorwinion, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Wrath and Ruin",
+            "EncounterInfo": {
+                "EncounterSet": "Wrath and Ruin",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "City of Rhûn"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 26,
+            "Quantity": 1,
+            "Artist": "Martin de Diego Sádaba",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "City Forum",
+            "Slug": "City-Forum-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Darkness in the East",
+            "Slug": "Darkness-in-the-East-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Rhûn Backstabber",
+            "Slug": "Rhun-Backstabber-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Seedy Tavern",
+            "Slug": "Seedy-Tavern-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "City of Rhûn",
+            "Title": "Treacherous Easterling",
+            "Slug": "Treacherous-Easterling-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Easterling Raider",
+            "Slug": "Easterling-Raider-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Recurve Bow",
+            "Slug": "Recurve-Bow-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Sword of Rhûn",
+            "Slug": "Sword-of-Rhun-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warriors of the East",
+            "Slug": "Warriors-of-the-East-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Captured Tower",
+            "Slug": "Captured-Tower-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Caught Off Guard",
+            "Slug": "Caught-Off-Guard-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Champion of Rhûn",
+            "Slug": "Champion-of-Rhun-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Contested Square",
+            "Slug": "Contested-Square-WaR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Easterling Skirmisher",
+            "Slug": "Easterling-Skirmisher-WaR",
+            "NormalQuantity": 4,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Fury",
+            "Slug": "Fury-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Gate of Dorwinion",
+            "Slug": "Gate-of-Dorwinion-WaR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Makeshift Fortification",
+            "Slug": "Makeshift-Fortification-WaR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Ransacked House",
+            "Slug": "Ransacked-House-WaR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Street Fighting",
+            "Slug": "Street-Fighting-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Thane Ulchor",
+            "Slug": "Thane-Ulchor-WaR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Ulchor's Revenge",
+            "Slug": "Ulchor's-Revenge-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Wrath and Ruin",
+            "Title": "Under Siege",
+            "Slug": "Under-Siege-WaR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

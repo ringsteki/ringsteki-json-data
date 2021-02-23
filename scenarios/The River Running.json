@@ -1,0 +1,273 @@
+{
+    "Title": "The River Running",
+    "Slug": "The-River-Running",
+    "Product": "A Shadow in the East",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Chased by Easterlings",
+            "Slug": "Chased-by-Easterlings-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Chased-by-Easterlings-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Warriors of the East aside, out of play. Add Easterling Pursuit and 1 copy of River Running to the staging area. Each player adds 1 different Easterling enemy to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You are traveling south along the River Running on your way to Dorwinion when you are attacked by Easterling raiders in the night. The raiders set fire to your boat, trapping you on the east side of the river, and you are forced to flee south on foot."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Chased-by-Easterlings-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets +5 quest points per player.",
+                    "Add +1 Threat to the total threat in the staging area for each resource token on Easterling Pursuit."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your only hope is to reach the safety of Dorwinion by the Crossing of Araw before your Easterling pursuers overtake you."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "The River Running",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Riders of Rhûn",
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 75,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Crossing of Araw",
+            "Slug": "The-Crossing-of-Araw-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Crossing-of-Araw-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Warriors of the East to the staging area. Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded, where X is the number of players. Add each enemy discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have reached the crossing, but some of your enemies anticipated this course of action and raced here ahead of you. They fight to delay your escape while their comrades close in from behind."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Crossing-of-Araw-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy in the staging area gets -10 enagement cost.",
+                    "While at least one player is engaged with an enemy, no more than 5 progress can be placed here each round.",
+                    "When this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "You must fight your way past the Easterlings to cross into Dorwinion."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "The River Running",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Riders of Rhûn",
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Chris Grun",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Easterling Raider",
+            "Slug": "Easterling-Raider-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Recurve Bow",
+            "Slug": "Recurve-Bow-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Sword of Rhûn",
+            "Slug": "Sword-of-Rhun-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warriors of the East",
+            "Slug": "Warriors-of-the-East-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Riders of Rhûn",
+            "Title": "Easterling Captain",
+            "Slug": "Easterling-Captain-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Riders of Rhûn",
+            "Title": "Easterling Horse",
+            "Slug": "Easterling-Horse-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Riders of Rhûn",
+            "Title": "Rider of Rhûn",
+            "Slug": "Rider-of-Rhun-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "An Arduous Journey",
+            "Slug": "An-Arduous-Journey-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Painful Fatigue",
+            "Slug": "Painful-Fatigue-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Rocky Outcrop",
+            "Slug": "Rocky-Outcrop-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Rolling Plains",
+            "Slug": "Rolling-Plains-ASitE",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Weary Lands",
+            "Slug": "Weary-Lands-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The River Running",
+            "Title": "Easterling Outrider",
+            "Slug": "Easterling-Outrider-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The River Running",
+            "Title": "Easterling Pursuit",
+            "Slug": "Easterling-Pursuit-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The River Running",
+            "Title": "Enemies Close Behind",
+            "Slug": "Enemies-Close-Behind-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The River Running",
+            "Title": "Exposed Riverbank",
+            "Slug": "Exposed-Riverbank-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The River Running",
+            "Title": "River Running",
+            "Slug": "River-Running-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

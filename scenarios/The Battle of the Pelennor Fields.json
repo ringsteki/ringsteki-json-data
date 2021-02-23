@@ -1,0 +1,474 @@
+{
+    "Title": "The Battle of the Pelennor Fields",
+    "Slug": "The-Battle-of-the-Pelennor-Fields",
+    "Product": "The Flame of the West",
+    "Number": 15,
+    "QuestCards": [
+        {
+            "Title": "The Garrison of Gondor",
+            "Slug": "The-Garrison-of-Gondor-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Garrison-of-Gondor-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Minas Tirith, Grond, The Witch-king, and each copy of Wraith of Wings aside, out of play. Search the encounter deck for a copy of Pelennor Field and make it the active location. Shuffle the encounter deck. The players may attach Esquire of Rohan and Esquire of Gondor to different heroes."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Here will the hammer-stroke fall hardest. And for that reason Mithrandir came hither in such haste. For if we fall, who shall stand?\r\n-Beregond, The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-Garrison-of-Gondor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Skip the quest phase and combat phase.",
+                    "Forced: At the end of the planning phase, place 1 progress here."
+                ],
+                "Shadow": null,
+                "FlavorText": "...companies came and were hailed and cheered and passed through the Gate, men of the Outlands marching to defend the City of Gondor in a dark hour.\r\n-The Return of the King"
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of the Pelennor Fields",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 73,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Retreat from Osgiliath",
+            "Slug": "Retreat-from-Osgiliath-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Retreat-from-Osgiliath-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player adds 1 set aside Wraith on Wings to the staging area and reveals an encounter card. Starting with the first player, each player discards cards from the top of his deck until he discards an ally that is not in play. Put the discarded ally into play in the staging area and treat its text box as if it were blank until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": "`The enemy,` men murmured. `The dike is down. Here they come pouring through the breaches!` -The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Retreat-from-Osgiliath-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "X is the total cost of all allies in the staging area.",
+                    "Allies in the staging area are treated as if their text box is blank, are immune to player card effects, and are under no player`s control.",
+                    "Forced: At the end of the round, assign damage among the allies in the staging area equal to the number of enemies in the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "`Where are our own folk?` -Men of Gondor, The Return of the King"
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of the Pelennor Fields",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 74,
+            "Quantity": 1,
+            "Artist": "Kamila Szutenberg",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The White City Besieged",
+            "Slug": "The-White-City-Besieged-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-White-City-Besieged-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Assault."
+                ],
+                "Text": [
+                    "When Revealed: Each player takes control of each ally he owns in the staging area and exhausts it. The first player adds Minas Tirith, Grond, and The Witch-king (Captain side faceup) to the staging area. Each other player searches the encounter deck and discard pile for a different enemy and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "...at east the city was besieged, enclosed in a ring of foes. The Rammas was broken, and all the Pelennor was abandoned to the Enemy. -The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/The-White-City-Besieged-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "4"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The White City Besieged gets +4 quest points for each player in the game.",
+                    "The players cannot travel to Pelennor locations.",
+                    "Forced: When an enemy is destroyed, place progress on this stage equal to that enemy`s total Threat (progress must be placed on the active location first)."
+                ],
+                "Shadow": null,
+                "FlavorText": "...since the middle night the great assault had gone on. -The Return of the King"
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of the Pelennor Fields",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 75,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rohan has Come!",
+            "Slug": "Rohan-has-Come-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Rohan-has-Come-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Set the Witch-king aside, out of play. Each player searches the top 10 cards of his deck for an ally that matches the sphere of a hero he controls and put it into play under his control. Each player shuffles his deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Horns, horns, horns. In dark Mindolluin`s sides they dimly echoed. Great horns of the North wildly blowling. Rohan had come at last.\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Rohan-has-Come-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Progress cannot be placed on this stage by questing successfully is instead assigned as damage among enemies in play. (Progress must be placed on the active location first.)",
+                    "Forced: At the end of the quest phase, advance to stage 5A."
+                ],
+                "Shadow": null,
+                "FlavorText": "...the hosts of Mordor wailed, and terror took them, and they fled, and died, and the hoofs of wrath rode over them. -The Return of the King"
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of the Pelennor Fields",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fighting in the Fields",
+            "Slug": "Fighting-in-the-Fields-TFotW",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Fighting-in-the-Fields-5A.jpg",
+                "Stats": {
+                    "StageNumber": "5A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player adds The Witch-king to the staging area (Sorcerer side faceup). Then, he searches the encounter deck and discard pile for a Fell Beast and attaches it to The Witch-king, if able. Shuffle the encounter deck. Each other player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "And now the fighting waxed furious on the fields of the Pelennor; and the din of arms rose upon high, with the crying of men and the neighing of horses.\r\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Fighting-in-the-Fields-5B.jpg",
+                "Stats": {
+                    "StageNumber": "5B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The Witch-king and shadow cards deal to The Witch-king are immune to player card effects.",
+                    "Forced: When an enemy attacks and destroys a character, deal 1 damage to Minas Tirith.",
+                    "This stage cannot be defeated unless Aragorn is in play and The Witch-king is in the victory display. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": {
+                "EncounterSet": "The Battle of the Pelennor Fields",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 5,
+                "StageLetter": "A"
+            },
+            "Number": 77,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Black Dart",
+            "Slug": "Black-Dart-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "City Wall",
+            "Slug": "City-Wall-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Dread and Despair",
+            "Slug": "Dread-and-Despair-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Fell Beast",
+            "Slug": "Fell-Beast-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Fire-filled Trench",
+            "Slug": "Fire-filled-Trench-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Gate of Gondor",
+            "Slug": "Gate-of-Gondor-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Grond",
+            "Slug": "Grond-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Minas Tirith",
+            "Slug": "Minas-Tirith-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Mordor Orc",
+            "Slug": "Mordor-Orc-TFotW",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Morgul Captain",
+            "Slug": "Morgul-Captain-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Orc of the Eye",
+            "Slug": "Orc-of-the-Eye-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Pelennor Field",
+            "Slug": "Pelennor-Field-TFotW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Shadow of Mordor",
+            "Slug": "Shadow-of-Mordor-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Siege Tower",
+            "Slug": "Siege-Tower-TFotW",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Southron Champion",
+            "Slug": "Southron-Champion-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Spells of Ruin",
+            "Slug": "Spells-of-Ruin-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "The Battle of the Pelennor Fields (Campaign)",
+            "Slug": "The-Battle-of-the-Pelennor-Fields-Campaign-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "The Black Serpent",
+            "Slug": "The-Black-Serpent-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "The Rammas is Breached",
+            "Slug": "The-Rammas-is-Breached-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "The Witch-king (Captain)",
+            "Slug": "The-Witch-king-Captain-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "The Witch-king (Sorcerer)",
+            "Slug": "The-Witch-king-Sorcerer-TFotW",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "War Mûmak",
+            "Slug": "War-Mumak-TFotW",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Battle of the Pelennor Fields",
+            "Title": "Wraith on Wings",
+            "Slug": "Wraith-on-Wings-TFotW",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        }
+    ]
+}

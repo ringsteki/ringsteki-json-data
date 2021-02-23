@@ -1,0 +1,336 @@
+{
+    "Title": "The Land of Sorrow",
+    "Slug": "The-Land-of-Sorrow",
+    "Product": "The Land of Sorrow",
+    "Number": 5,
+    "QuestCards": [
+        {
+            "Title": "Slaves of the Dark Lord",
+            "Slug": "Slaves-of-the-Dark-Lord-TLoSo",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Slaves-of-the-Dark-Lord-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add each Camp location to the staging area. Attach a random Captive objective-ally to each Camp location as a guarded objective. Place 1 random Warden enemy faceup (but not in play) under each Camp location. Shuffle the encounter deck and discard cards from the top until X locations are discarded, where X is 1 less than the number of players. Add each location discarded this way to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve decided to risk everything to rescue Ulchor`s captives from slavery."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Slaves-of-the-Dark-Lord-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each Camp location is immune to player card effects, and player cannot travel there while a Warden enemy is in play.",
+                    "Forced: At the end of the round, raise each player`s threat by 1 for each Camp location in the staging area.",
+                    "This stage cannot be defeated unless players control all 3 Captive objective-allies."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 135,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lead the Revolt",
+            "Slug": "Lead-the-Revolt-TLoSo",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Lead-the-Revolt-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player returns each Warden enemy in the victory display to the staging area. Each other player discards cards from the top of the encounter deck until he discards an enemy and adds that enemy to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve freed Ulchor`s slaves, but his lieutenants are advancing with a garrison to recapture them. You must lead the prisoners in a desperate fight to win their freedom."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow/Lead-the-Revolt-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets +10 quest points per player.",
+                    "Forced: After a player commits characters to the quest, if he is not engaged with a Warden enemy he must reveal an encounter card.",
+                    "This stage cannot be defeated while a Warden enemy is in play. When this stage is defeated, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Land of Sorrow",
+            "EncounterInfo": {
+                "EncounterSet": "The Land of Sorrow",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Easterling Raiders",
+                    "Rolling Plains"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 136,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Easterling Raider",
+            "Slug": "Easterling-Raider-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Recurve Bow",
+            "Slug": "Recurve-Bow-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Sword of Rhûn",
+            "Slug": "Sword-of-Rhun-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warriors of the East",
+            "Slug": "Warriors-of-the-East-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "An Arduous Journey",
+            "Slug": "An-Arduous-Journey-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Painful Fatigue",
+            "Slug": "Painful-Fatigue-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Rocky Outcrop",
+            "Slug": "Rocky-Outcrop-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Rolling Plains",
+            "Slug": "Rolling-Plains-ASitE",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Rolling Plains",
+            "Title": "Weary Lands",
+            "Slug": "Weary-Lands-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Arador",
+            "Slug": "Arador-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Borlach",
+            "Slug": "Borlach-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Broken Captives",
+            "Slug": "Broken-Captives-TLoSo",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Cruelty of Mordor",
+            "Slug": "Cruelty-of-Mordor-TLoSo",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Easterling Guard",
+            "Slug": "Easterling-Guard-TLoSo",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Edrahil",
+            "Slug": "Edrahil-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Farin",
+            "Slug": "Farin-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Lorgan",
+            "Slug": "Lorgan-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Nurn Slaver",
+            "Slug": "Nurn-Slaver-TLoSo",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Overseer's Whip",
+            "Slug": "Overseer's-Whip-TLoSo",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Slave Quarters",
+            "Slug": "Slave-Quarters-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "The Barracks",
+            "Slug": "The-Barracks-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "The Storehouse",
+            "Slug": "The-Storehouse-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Ulwarth",
+            "Slug": "Ulwarth-TLoSo",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Watch Tower",
+            "Slug": "Watch-Tower-TLoSo",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Land of Sorrow",
+            "Title": "Working Fields",
+            "Slug": "Working-Fields-TLoSo",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

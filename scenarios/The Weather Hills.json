@@ -1,0 +1,369 @@
+{
+    "Title": "The Weather Hills",
+    "Slug": "The-Weather-Hills",
+    "Product": "The Lost Realm",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Scattered Among the Hills",
+            "Slug": "Scattered-Among-the-Hills-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Scattered-Among-the-Hills-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Orc Ambush and Amon Forn aside, out of play. Create the Orc deck (see insert) and set it next to the quest deck. Make Exposed Ridge the active location. Add Hunting the Orcs and 1 Weather Hilltop to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve pursued the remnants of an Orc war party east from the borders of Bree-land and into the wilderness beyond. Their trail climbs out of the lowlands and into the Weather Hills."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Scattered-Among-the-Hills-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The first Weather treachery card revealed each round gains surge.",
+                    "Forced: After the active location is explored, reveal the top card of the Orc deck and resolve it as if it was just revealed from the encounter deck (reveal the top 2 cards instead if there are 3 or more players in the game)."
+                ],
+                "Shadow": null,
+                "FlavorText": "As you pursue the Orcs, the weather itself turns against you. Now you must contend with the elements while you hunt the enemy."
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "The Weather Hills",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Angmar Orcs",
+                    "Foul Weather",
+                    "Ruins of Arnor"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 69,
+            "Quantity": 1,
+            "Artist": "Juan Carlos Barquet",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Cornered Animals",
+            "Slug": "Cornered-Animals-TLR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Cornered-Animals-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: End the current phase. Shuffle the encounter discard pile and the Orc deck into the encounter deck. Reveal Orc Ambush and Amon Forn and add them to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve hunted the Orcs to their secret gathering place on the northern edge of the Weather Hills: the old Dúnedain border fort of Amon Forn. With nowhere left to run, the Orcs turn and fight with desperate savagery."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Lost-Realm/Cornered-Animals-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each damaged character gets -1 Willpower.",
+                    "Forced: At the beginning of the quest phase, either discard 1 resource token from Savage Counter-attack, or reveal an additional encounter card this phase.",
+                    "If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Already weary from days of travel through harsh weather, you are hard pressed to match the Orcs` ferocity. You must rally your men or see them fall!"
+            },
+            "CardSet": "The Lost Realm",
+            "EncounterInfo": {
+                "EncounterSet": "The Weather Hills",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Angmar Orcs",
+                    "Foul Weather",
+                    "Ruins of Arnor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 70,
+            "Quantity": 1,
+            "Artist": "Anthony Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Captain",
+            "Slug": "Angmar-Captain-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Marauder",
+            "Slug": "Angmar-Marauder-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Orc",
+            "Slug": "Angmar-Orc-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Biting Wind",
+            "Slug": "Biting-Wind-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Cold from Angmar",
+            "Slug": "Cold-from-Angmar-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Freezing Blast",
+            "Slug": "Freezing-Blast-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Foul Weather",
+            "Title": "Make Camp",
+            "Slug": "Make-Camp-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Ancient Causeway",
+            "Slug": "Ancient-Causeway-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Ruins of Arnor",
+            "Slug": "Ruins-of-Arnor-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Search the Ruins",
+            "Slug": "Search-the-Ruins-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Ruins of Arnor",
+            "Title": "Tragic Discovery",
+            "Slug": "Tragic-Discovery-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Amon Forn",
+            "Slug": "Amon-Forn-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Concealed Orc-camp",
+            "Slug": "Concealed-Orc-camp-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Cornered Orc",
+            "Slug": "Cornered-Orc-TLR",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Exposed Ridge",
+            "Slug": "Exposed-Ridge-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Find Shelter",
+            "Slug": "Find-Shelter-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Hunting the Orcs",
+            "Slug": "Hunting-the-Orcs-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Ice Storm",
+            "Slug": "Ice-Storm-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Savage Counter-attack",
+            "Slug": "Savage-Counter-attack-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Sheltered Valley",
+            "Slug": "Sheltered-Valley-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Weather Hills",
+            "Title": "Weathered Hilltop",
+            "Slug": "Weathered-Hilltop-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Angmar Raider",
+            "Slug": "Angmar-Raider-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Captive Villager",
+            "Slug": "Captive-Villager-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Rain-washed Tracks",
+            "Slug": "Rain-washed-Tracks-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Rearguard Ambusher",
+            "Slug": "Rearguard-Ambusher-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Ruined Watch-tower",
+            "Slug": "Ruined-Watch-tower-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "The Weather Hills Nightmare",
+            "Slug": "The-Weather-Hills-Nightmare-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Track the Orcs",
+            "Slug": "Track-the-Orcs-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Weather Hills Nightmare",
+            "Title": "Weather-torn Valley",
+            "Slug": "Weather-torn-Valley-TWHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

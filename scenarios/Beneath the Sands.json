@@ -1,0 +1,335 @@
+{
+    "Title": "Beneath the Sands",
+    "Slug": "Beneath-the-Sands",
+    "Product": "Beneath the Sands",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "Searching the Caves",
+            "Slug": "Searching-the-Caves-BtS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/Searching-the-Caves-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Brood Mother aside, out of play. Add the Search objective to the staging area (Off Track face up)."
+                ],
+                "Shadow": null,
+                "FlavorText": "Several members of your group were seized by spiders in the night and dragged away from camp. When the sun came up, you followed their trail to a large cavern entrance and entered in."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/Searching-the-Caves-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Discard cards from the encounter deck until X locations are discarded, where X is the number of players. Add each location discarded by this effect to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "Inside the cavern entrance you find a large maze of tunnels criss-crossed with all manner of prints. It is impossible to discern which are the tracks you seek, so you begin to search all around."
+            },
+            "CardSet": "Beneath the Sands",
+            "EncounterInfo": {
+                "EncounterSet": "Beneath the Sands",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Desert Creatures",
+                    "Harad Territory"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 76,
+            "Quantity": 1,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Getting Closer",
+            "Slug": "Getting-Closer-BtS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/Getting-Closer-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Flip the Search objective to Off Track. Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded, where X is the number of players. Add each enemy discarded by this effect to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "It is hard to keep your way in the dark labyrinth, but you are certain that you are headed in the right direction."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/Getting-Closer-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While On Track is in play, encounter card effects cannot be canceled."
+                ],
+                "Shadow": null,
+                "FlavorText": "Cobwebs line the cavern walls and the spiders are growing more aggressive. You must be getting closer to their colony."
+            },
+            "CardSet": "Beneath the Sands",
+            "EncounterInfo": {
+                "EncounterSet": "Beneath the Sands",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Desert Creatures",
+                    "Harad Territory"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 77,
+            "Quantity": 1,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Spiders' Hive",
+            "Slug": "The-Spiders'-Hive-BtS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/The-Spiders'-Hive-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player adds Brood Mother to the staging area. Each other player reveals an encounter card. Flip the Search objective to Off Track."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your search has led you far underground, to a large cavern full of giant spider eggs. Along the walls, you see the cocooned bodies of your friends bound with many strands. At the center of the chamber is the enormous brood mother. She glares at you through many bulbous eyes and a poisonous froth bubbles from her fangs. You must find a way to defeat her in order to rescue your friends."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Beneath-the-Sands/The-Spiders'-Hive-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While there are at least 5 progress tokens on this stage, Brood Mother loses the text: `Cannot take damage.`",
+                    "Forced: After the Search objective is flipped to Off Track, remove all progress tokens from this stage.",
+                    "This stage cannot be defeated while Brood Mother is in play. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Beneath the Sands",
+            "EncounterInfo": {
+                "EncounterSet": "Beneath the Sands",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Desert Creatures",
+                    "Harad Territory"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 78,
+            "Quantity": 1,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Blocked Passage",
+            "Slug": "Blocked-Passage-BtS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Brood Mother",
+            "Slug": "Brood-Mother-BtS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Cobwebbed Cavern",
+            "Slug": "Cobwebbed-Cavern-BtS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Forced Off Track",
+            "Slug": "Forced-Off-Track-BtS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Grabbed by Spiders",
+            "Slug": "Grabbed-by-Spiders-BtS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Hive Guardian",
+            "Slug": "Hive-Guardian-BtS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Lost Underground",
+            "Slug": "Lost-Underground-BtS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Nest of Vermin",
+            "Slug": "Nest-of-Vermin-BtS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Off Track",
+            "Slug": "Off-Track-BtS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "On Track",
+            "Slug": "On-Track-BtS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Pitch Black Tunnel",
+            "Slug": "Pitch-Black-Tunnel-BtS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Spider Broodling",
+            "Slug": "Spider-Broodling-BtS",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Beneath the Sands",
+            "Title": "Spider Burrow",
+            "Slug": "Spider-Burrow-BtS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Craft Remedy",
+            "Slug": "Craft-Remedy-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Giant Scorpion",
+            "Slug": "Giant-Scorpion-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Sand Viper",
+            "Slug": "Sand-Viper-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Enfeebled",
+            "Slug": "Enfeebled-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "In Enemy Territory",
+            "Slug": "In-Enemy-Territory-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Injured Companion",
+            "Slug": "Injured-Companion-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        }
+    ]
+}

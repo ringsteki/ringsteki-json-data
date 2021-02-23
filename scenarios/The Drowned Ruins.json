@@ -1,0 +1,398 @@
+{
+    "Title": "The Drowned Ruins",
+    "Slug": "The-Drowned-Ruins",
+    "Product": "The Drowned Ruins",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "The Grotto",
+            "Slug": "The-Grotto-TDRu",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/The-Grotto-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Shrine to Morgoth aside, out of play. Prepare the Grotto deck. Add the top 2 locations from the Grotto deck to the staging area, Grotto side faceup (the top 3 instead if there are 3 or more players in the game). The first player takes control of Captain Sahír, and the last player takes control of Na`asiyah (objective-ally sides faceup)."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the sunken ruins of the temple, you find a grotto leading deep below the sea level. Much of the grotto is submerged underwater."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/The-Grotto-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While an underwater location is the active location, players cannot play attachments or allies.",
+                    "Forced: After a double-sided location is explored, add the top location from the Grotto deck to the staging area, Grotto side faceup.",
+                    "You cannot advance unless there are at least 3 Underwater locations in the victory display."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Drowned Ruins",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "The Stormcaller Elite",
+                    "Drowned Dead"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 92,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sahír's Betrayal",
+            "Slug": "Sahir's-Betrayal-TDRu",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Sahír's-Betrayal-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Make the set aside Shrine to Morgoth the active location, Grotto side faceup. Captain Sahír flips to his enemy side (removing all tokens) and makes an immediate attack against the first player. Remove Captain Sahír from the game. Each player searches the encounter deck and discard pile for an Undead enemy and adds it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "In the center of the shrine, reverently placed on a large altar, lies a long black chest. As soon as you get close, Sahír knocks one of the heroes over and grabs it!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Sahír's-Betrayal-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While an Underwater location is the active location, players cannot play attachments or allies."
+                ],
+                "Shadow": null,
+                "FlavorText": "You dive at Sahír, but he swiftly runs to the entrance, laughing as he seals you in. `Captain?! What about me?` Na`asiyah scream angrily. As soon as the entrace is sealed shut, the walls shudder, and water begins to leak rapidly from the ceiling and walls. `We have to get out of here!` the heroes shout, as the water level starts to rise."
+            },
+            "CardSet": "The Drowned Ruins",
+            "EncounterInfo": {
+                "EncounterSet": "The Drowned Ruins",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "The Stormcaller Elite",
+                    "Drowned Dead"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 93,
+            "Quantity": 1,
+            "Artist": "Sara Winters",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Curse of the Downfallen",
+            "Slug": "Curse-of-the-Downfallen-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Drowned Dead",
+            "Slug": "Drowned-Dead-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Soulless Cadaver",
+            "Slug": "Soulless-Cadaver-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Drowned Dead",
+            "Title": "Throngs of Unfaithful",
+            "Slug": "Throngs-of-Unfaithful-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Ancient Depths",
+            "Slug": "Ancient-Depths-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Cave Eel",
+            "Slug": "Cave-Eel-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Cursed Caverns",
+            "Slug": "Cursed-Caverns-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Dark Abyss",
+            "Slug": "Dark-Abyss-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Drowned Cave",
+            "Slug": "Drowned-Cave-TDRu",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Into the Abyss",
+            "Slug": "Into-the-Abyss-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Powerful Undertow",
+            "Slug": "Powerful-Undertow-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Sea-scorpion",
+            "Slug": "Sea-scorpion-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Shrine to Morgoth (Grotto)",
+            "Slug": "Shrine-to-Morgoth-Grotto-TDRu",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Shrine to Morgoth (Underwater)",
+            "Slug": "Shrine-to-Morgoth-Underwater-TDRu",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Sunken Temple",
+            "Slug": "Sunken-Temple-TDRu",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Tangling and Grasping",
+            "Slug": "Tangling-and-Grasping-TDRu",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Twisting Hollow",
+            "Slug": "Twisting-Hollow-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Undersea Grotto",
+            "Slug": "Undersea-Grotto-TDRu",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins",
+            "Title": "Watter-logged Halls",
+            "Slug": "Watter-logged-Halls-TDRu",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Flooded Caverns",
+            "Slug": "Flooded-Caverns-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Great Shark",
+            "Slug": "Great-Shark-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Jagged Cavern",
+            "Slug": "Jagged-Cavern-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Overgrown Passage",
+            "Slug": "Overgrown-Passage-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Pit Into the Depths",
+            "Slug": "Pit-Into-the-Depths-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Sharp Precipice",
+            "Slug": "Sharp-Precipice-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Submerged Crawlway",
+            "Slug": "Submerged-Crawlway-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Submerged Dead",
+            "Slug": "Submerged-Dead-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Sulfur Cloud",
+            "Slug": "Sulfur-Cloud-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "The Drowned Ruins Nightmare",
+            "Slug": "The-Drowned-Ruins-Nightmare-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Drowned Ruins Nightmare",
+            "Title": "Undersea Cave Troll",
+            "Slug": "Undersea-Cave-Troll-TDRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Enemy)",
+            "Slug": "Captain-Sahir-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Objective-Ally)",
+            "Slug": "Captain-Sahir-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Enemy)",
+            "Slug": "Na'asiyah-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Objective-Ally)",
+            "Slug": "Na'asiyah-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

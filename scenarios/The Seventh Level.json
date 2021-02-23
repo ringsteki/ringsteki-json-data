@@ -1,0 +1,314 @@
+{
+    "Title": "The Seventh Level",
+    "Slug": "The-Seventh-Level",
+    "Product": "Khazad-dûm",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Search for the Chamber",
+            "Slug": "Search-for-the-Chamber-KD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Search-for-the-Chamber-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Search the encounter deck for Book of Mazarbul, and have the first player attach it to a hero of his choice. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You are investigating the Seventh Level of Moria, searching for the Chamber of Records and any signs of Balin`s Colony. In the heavy twilight of a hall, a bulky tome is discovered in the grip of a Dwarf skeleton. You carefully take possession of the book. Perhaps it will give you some answers..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/Search-for-the-Chamber-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player, and add it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Dwarven runes of the book appear to hold a detailed record of the fledgling colony. But there is some Elvish script at the end which seems out of place..."
+            },
+            "CardSet": "Khazad-dûm",
+            "EncounterInfo": {
+                "EncounterSet": "The Seventh Level",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Goblins of the Deep",
+                    "Plundering Goblins"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Fate of Balin",
+            "Slug": "The-Fate-of-Balin-KD",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/The-Fate-of-Balin-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Khazad-dum/The-Fate-of-Balin-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "17"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Khazad-dûm",
+            "EncounterInfo": {
+                "EncounterSet": "The Seventh Level",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Goblins of the Deep",
+                    "Plundering Goblins"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 68,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Scout",
+            "Slug": "Goblin-Scout-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Swordsman",
+            "Slug": "Goblin-Swordsman-KD",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Goblin Tunnels",
+            "Slug": "Goblin-Tunnels-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Goblins of the Deep",
+            "Title": "Watchful Eyes",
+            "Slug": "Watchful-Eyes-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Chieftain of the Pit",
+            "Slug": "Chieftain-of-the-Pit-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Goblin Archer",
+            "Slug": "Goblin-Archer-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Goblin Spearman",
+            "Slug": "Goblin-Spearman-KD",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Plundered Armoury",
+            "Slug": "Plundered-Armoury-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Undisturbed Bones",
+            "Slug": "Undisturbed-Bones-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Seventh Level",
+            "Title": "Book of Mazarbul",
+            "Slug": "Book-of-Mazarbul-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Seventh Level",
+            "Title": "Cave-troll",
+            "Slug": "Cave-troll-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Seventh Level",
+            "Title": "Hidden Threat",
+            "Slug": "Hidden-Threat-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Seventh Level",
+            "Title": "Orc Horn Blower",
+            "Slug": "Orc-Horn-Blower-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Seventh Level",
+            "Title": "Upper Hall",
+            "Slug": "Upper-Hall-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Balin's Doom",
+            "Slug": "Balin's-Doom-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Beats and Echoes",
+            "Slug": "Beats-and-Echoes-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Chamber of Records",
+            "Slug": "Chamber-of-Records-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Deep-Mines",
+            "Slug": "Deep-Mines-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Goblin Skirmisher",
+            "Slug": "Goblin-Skirmisher-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Orc Taskmaster",
+            "Slug": "Orc-Taskmaster-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Overseer Maurûl",
+            "Slug": "Overseer-Maurul-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Pit Goblin",
+            "Slug": "Pit-Goblin-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "The Seventh Level Nightmare",
+            "Slug": "The-Seventh-Level-Nightmare-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Seventh Level Nightmare",
+            "Title": "Western Hall",
+            "Slug": "Western-Hall-TSLN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

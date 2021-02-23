@@ -1,0 +1,351 @@
+{
+    "Title": "The Road to Isengard",
+    "Slug": "The-Road-to-Isengard",
+    "Product": "The Treason of Saruman",
+    "Number": 9,
+    "QuestCards": [
+        {
+            "Title": "Rouse the Ents",
+            "Slug": "Rouse-the-Ents-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rouse-the-Ents-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Gates of Isengard, Orthanc, Saruman, and Saruman`s Staff aside, out of play. Add each copy of Ent of Fangorn to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Saruman`s army has been defeated at Helm`s Deep, but the Wizard`s fortress is beyond Rohan`s power to capture. However, the Ents of Fangorn have also suffered great injury because of Saruman and his Orcs. They have the strength to break Isengard, but only if they can be roused to attack."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Rouse-the-Ents-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Players cannot draw cards or gain resources. Do not commit to the quest or reveal encounter cards during the quest phase.",
+                    "Forced: At the end of the round, place 1 resource here. Then, the players may advance to stage 2. If the players advance, the first player shuffle the encounter discard pile into the encounter deck and reveals 1 encounter card for each resource here. Then, remove each Ent objective in the staging area from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "The Road to Isengard",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 78,
+            "Quantity": 1,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Breaking Isengard",
+            "Slug": "Breaking-Isengard-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Breaking-Isengard-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Make Gates of Isengard the active location. Add Saruman and Orthanc to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "`To Isengard! Though Isengard be ringed and barred with doors of stone;\r\nThough Isengard be strong and hard, as cold as stone and bare as bone,\r\nWe go, we go, we go to war, to hew the stone and break the door;\r\nFor bole and bough are burning now, the furnace roars - we go to war!`\r\n-The Ents, The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Breaking-Isengard-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The players cannot travel to Orthanc.",
+                    "Forced: After a non-unique location is explored, place 1 damage here. Then, if there are 5 damage tokens here, advance to stage 3A.",
+                    "Quest Action: Exhaust Ent of Fangorn to place 2 progress on a non-unique location."
+                ],
+                "Shadow": null,
+                "FlavorText": "The power of Saruman must be broken and the fortress of Isengard destroyed!"
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "The Road to Isengard",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 79,
+            "Quantity": 1,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Voice of Saruman",
+            "Slug": "The-Voice-of-Saruman-ToS",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Voice-of-Saruman-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player draws 6 cards. Each player with more than 6 cards in his hand discards cards from his hand until he has only 6. Attach Saruman`s Staff to Saruman."
+                ],
+                "Shadow": null,
+                "FlavorText": "Suddenly another voice spoke, low and melodious, its very sound an enchantment. Those who listened unwarily to that voice could seldom report the words that they heard... -The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/The-Voice-of-Saruman-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "While Orthanc is the active location, Saruman is considered to be engaged with the first player.",
+                    "Forced: When Orthanc is explored, cancel any progress placed on the quest this phase and return Orthanc to the staging area.",
+                    "If a player has 0 cards in his hand, he is eliminated from the game. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": {
+                "EncounterSet": "The Road to Isengard",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Snaga Orcs"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 80,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Snaga Orcs",
+            "Title": "Saruman's Orders",
+            "Slug": "Saruman's-Orders-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Snaga Orcs",
+            "Title": "Snaga",
+            "Slug": "Snaga-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Blast of Sorcery",
+            "Slug": "Blast-of-Sorcery-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Ent of Fangorn",
+            "Slug": "Ent-of-Fangorn-ToS",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Gates of Isengard",
+            "Slug": "Gates-of-Isengard-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Gríma",
+            "Slug": "Grima-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Isengard Orc",
+            "Slug": "Isengard-Orc-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Lieutenant of Orthanc",
+            "Slug": "Lieutenant-of-Orthanc-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Machines of Isengard",
+            "Slug": "Machines-of-Isengard-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Open Pit",
+            "Slug": "Open-Pit-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Orthanc",
+            "Slug": "Orthanc-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Plain of Isengard",
+            "Slug": "Plain-of-Isengard-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Poisoned Vapour",
+            "Slug": "Poisoned-Vapour-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Ring-wall of Isengard",
+            "Slug": "Ring-wall-of-Isengard-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Saruman",
+            "Slug": "Saruman-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Saruman's Staff",
+            "Slug": "Saruman's-Staff-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Saruman's Voice",
+            "Slug": "Saruman's-Voice-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Steaming Vent",
+            "Slug": "Steaming-Vent-ToS",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "The Road to Isengard (Campaign)",
+            "Slug": "The-Road-to-Isengard-Campaign-ToS",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Underground Armoury",
+            "Slug": "Underground-Armoury-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Road to Isengard",
+            "Title": "Wolf of Isengard",
+            "Slug": "Wolf-of-Isengard-ToS",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        }
+    ]
+}

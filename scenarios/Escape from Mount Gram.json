@@ -1,0 +1,383 @@
+{
+    "Title": "Escape from Mount Gram",
+    "Slug": "Escape-from-Mount-Gram",
+    "Product": "Escape from Mount Gram",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Unexpected Rescue",
+            "Slug": "Unexpected-Rescue-EfMG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Unexpected-Rescue-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Each player shuffles his starting hand into his deck. Each player prepares a separate captured deck (see insert). Each player adds 2 resources to his starting hero and sets his threat to that hero`s threat cost. Set Southern Gate, Jailor Gornákh and the Angmar Orcs encounter set aside, out of play. Shuffle the encounter deck. Each player draws a new starting hand of 3 cards."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have been captured and imprisoned by the goblins of Mount Gram."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Unexpected-Rescue-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player creates his own staging area and advances to a different stage 2A."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have endured much during your imprisonment in Mount Gram at the hands of a cruel goblin known as Gornákh. But before you are taken north as prizes for `Lord Daechanar,` Amarthiúl comes to your rescue. After he frees you, he slips off to find Iârion, whom you suspect is imprisoned nearby. Armed with only your wits and resolve, you must find the rest of your company."
+            },
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Mount Gram",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 38,
+            "Quantity": 1,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gornákh's Dungeons",
+            "Slug": "Gornakh's-Dungeons-EfMG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Gornákh's-Dungeons-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Capture 7."
+                ],
+                "Text": [
+                    "Capture 7.",
+                    "When Revealed: Search the encounter deck for 1 copy of Prison Cell, reveal it, and add it to your staging area. Then capture an additional 2 cards from the top of your captured deck underneath that copy of Prison Cell."
+                ],
+                "Shadow": null,
+                "FlavorText": "Alone and without your equipment, you steel yourself and being to search for your companions and belongings."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Gornákh's-Dungeons-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Any time players would place progress on this quest, resuce an equal number of captured cards at random from underneath it instead. (Progress is placed on the active location before triggering this effect.)",
+                    "Forced: If there are no captured cards underneath Gornákh`s Dungeons, join another player at the beginning of the travel phase. If you cannot join another player, all players advance to stage 3A together."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Mount Gram",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 39,
+            "Quantity": 4,
+            "Artist": "Katayanagi",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Flight from Mount Gram",
+            "Slug": "Flight-from-Mount-Gram-EfMG",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Flight-from-Mount-Gram-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Southern Gate and Jailor Gornakh to the staging area. Shuffle the Angmar Orcs encounter set into the encounter deck. Then, reveal 1 encounter card per player from the top of the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Having rescued as many of your companions as you can find, you begin to make your way towards the dungeon`s hidden exit. By now Gornákh is surely aware of your escape, and the orcs that were with Thaurdir are now searching for you, as well."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Escape-from-Mount-Gram/Flight-from-Mount-Gram-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The player cannot travel to Southern Gate unless there is at least 16 progress on this stage.",
+                    "The players cannot defeat this stage while Souther Gate is in play. If the players defeat this stage, they have escaped Mount Gram and win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "Orcs and Goblins rush to find you before you can make your escape. You must make haste if you wish to make it out of Mount Gram alive!"
+            },
+            "CardSet": "Escape from Mount Gram",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Mount Gram",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Angmar Orcs"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 40,
+            "Quantity": 1,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Captain",
+            "Slug": "Angmar-Captain-TLR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Marauder",
+            "Slug": "Angmar-Marauder-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Angmar Orc",
+            "Slug": "Angmar-Orc-TLR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Angmar Orcs",
+            "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-TLR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Captives of Gornákh",
+            "Slug": "Captives-of-Gornakh-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Cruel Torturer",
+            "Slug": "Cruel-Torturer-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Dungeon Guard",
+            "Slug": "Dungeon-Guard-EfMG",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Feeble and Weary",
+            "Slug": "Feeble-and-Weary-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Goblin Tormentor",
+            "Slug": "Goblin-Tormentor-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Interrogation",
+            "Slug": "Interrogation-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Jailor Gornákh",
+            "Slug": "Jailor-Gornakh-EfMG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Patrol Room",
+            "Slug": "Patrol-Room-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Prison Cell",
+            "Slug": "Prison-Cell-EfMG",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Sound the Alarm!",
+            "Slug": "Sound-the-Alarm-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Southern Gate",
+            "Slug": "Southern-Gate-EfMG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Stop the Executioners!",
+            "Slug": "Stop-the-Executioners-EfMG",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram",
+            "Title": "Tunnels of Mount Gram",
+            "Slug": "Tunnels-of-Mount-Gram-EfMG",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Cruel Torment",
+            "Slug": "Cruel-Torment-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Escape from Mount Gram Nightmare",
+            "Slug": "Escape-from-Mount-Gram-Nightmare-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Goblin Patrol",
+            "Slug": "Goblin-Patrol-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Jailor Gornákh",
+            "Slug": "Jailor-Gornakh-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Prison Cell",
+            "Slug": "Prison-Cell-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Prison Guard",
+            "Slug": "Prison-Guard-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Raid Golfimbul's Vault",
+            "Slug": "Raid-Golfimbul's-Vault-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Mount Gram Nightmare",
+            "Title": "Torture Chamber",
+            "Slug": "Torture-Chamber-EfMGN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

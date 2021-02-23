@@ -1,0 +1,479 @@
+{
+    "Title": "Road to Rivendell",
+    "Slug": "Road-to-Rivendell",
+    "Product": "Road to Rivendell",
+    "Number": 2,
+    "QuestCards": [
+        {
+            "Title": "Along the Misty Mountains",
+            "Slug": "Along-the-Misty-Mountains-RtR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Along-the-Misty-Mountains-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Put Arwen Undómiel into play under the control of the first player. Shuffle the encounter deck. Reveal 1 card from the encounter deck per player, and add them to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Along-the-Misty-Mountains-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Road to Rivendell",
+            "EncounterInfo": {
+                "EncounterSet": "Road to Rivendell",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains",
+                    "Plundering Goblins"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 38,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Outpost",
+            "Slug": "Orc-Outpost-RtR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Orc-Outpost-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Heavy rain drives you to seek shelter among the caves of the mountains. They are dry, and the fire you start seeps into your bones and restores your spirit. Your eyes are heavy when teh soft clatter of falling pebbles reaches your ears. Perhaps you are not alone."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Orc-Outpost-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "7"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck and discard pile for Goblin Gate and add it to the staging area, if able. Then, if there is no active location, Goblin Gate becomes the active location."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Road to Rivendell",
+            "EncounterInfo": {
+                "EncounterSet": "Road to Rivendell",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains",
+                    "Plundering Goblins"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 39,
+            "Quantity": 1,
+            "Artist": "Nick Deligaris",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ambush in the Night",
+            "Slug": "Ambush-in-the-Night-RtRN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell-Nightmare/Ambush-in-the-Night-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck, discard pile and victory display for Goblin Gate and add it to the staging area, if able. Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until X enemies have been discarded, where X is the number of players in the game. Reveal all enemies discarded by this effect."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell-Nightmare/Ambush-in-the-Night-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player loses control of Arwen Undómiel and attaches her to Goblin Gate (she is now guarded by Goblin Gate). While she is guarded, the first player cannot gain control of Arwen Undómiel.\n\nGoblin Gate gets +1 quest point for each enemy engaged with a player.\n\nProgress cannot be placed on this stage unless the players control Arwen Undómiel."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Road to Rivendell Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Road to Rivendell Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Oleg Saakyan",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Approaching Rivendell",
+            "Slug": "Approaching-Rivendell-RtR",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Approaching-Rivendell-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "Orcs and other creatures have hounded you since fighting your way free of the orc outpost. Soon you will reach the safety of Rivendell`s borders, but supplies have dwindled and you are dead weary from sleepless nights of keeping watch, as dark forms shadow your camp."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Road-to-Rivendell/Approaching-Rivendell-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Reveal 1 card from the encounter deck per player, and add it to the staging area.",
+                    "Characters cannot be healed.",
+                    "If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Road to Rivendell",
+            "EncounterInfo": {
+                "EncounterSet": "Road to Rivendell",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Misty Mountains",
+                    "Plundering Goblins"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 40,
+            "Quantity": 1,
+            "Artist": "Noah Bradley",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Bitter Wind",
+            "Slug": "Bitter-Wind-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Black Uruks",
+            "Slug": "Black-Uruks-KD",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Knees of the Mountain",
+            "Slug": "Knees-of-the-Mountain-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Mountain Warg",
+            "Slug": "Mountain-Warg-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Turbulent Waters",
+            "Slug": "Turbulent-Waters-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Misty Mountains",
+            "Title": "Warg Lair",
+            "Slug": "Warg-Lair-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Chieftain of the Pit",
+            "Slug": "Chieftain-of-the-Pit-KD",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Goblin Archer",
+            "Slug": "Goblin-Archer-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Goblin Spearman",
+            "Slug": "Goblin-Spearman-KD",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Plundered Armoury",
+            "Slug": "Plundered-Armoury-KD",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Plundering Goblins",
+            "Title": "Undisturbed Bones",
+            "Slug": "Undisturbed-Bones-KD",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Arwen Undómiel",
+            "Slug": "Arwen-Undomiel-RtR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Barren Hills",
+            "Slug": "Barren-Hills-RtR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Crebain",
+            "Slug": "Crebain-RtR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Followed by Night",
+            "Slug": "Followed-by-Night-RtR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Goblin Gate",
+            "Slug": "Goblin-Gate-RtR",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Goblin Taskmaster",
+            "Slug": "Goblin-Taskmaster-RtR",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Orc Ambush",
+            "Slug": "Orc-Ambush-RtR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Orc Raiders",
+            "Slug": "Orc-Raiders-RtR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Pathless Country",
+            "Slug": "Pathless-Country-RtR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Ruined Road",
+            "Slug": "Ruined-Road-RtR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Sleeping Sentry",
+            "Slug": "Sleeping-Sentry-RtR",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell",
+            "Title": "Wild Bear",
+            "Slug": "Wild-Bear-RtR",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Concealed Woods",
+            "Slug": "Concealed-Woods-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Goblin Trapper",
+            "Slug": "Goblin-Trapper-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Raiding Party",
+            "Slug": "Raiding-Party-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Road to Rivendell Nightmare",
+            "Slug": "Road-to-Rivendell-Nightmare-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Treacherous Bluffs",
+            "Slug": "Treacherous-Bluffs-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Tumultuous Assault",
+            "Slug": "Tumultuous-Assault-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Uruk Elf-stalker",
+            "Slug": "Uruk-Elf-stalker-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Road to Rivendell Nightmare",
+            "Title": "Vicious Trackers",
+            "Slug": "Vicious-Trackers-RtRN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}

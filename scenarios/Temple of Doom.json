@@ -1,0 +1,505 @@
+{
+    "Title": "Temple of Doom",
+    "Slug": "Temple-of-Doom",
+    "Product": "A Shadow in the East",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Forgotten Temple",
+            "Slug": "The-Forgotten-Temple-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Forgotten-Temple-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 10."
+                ],
+                "Text": [
+                    "Setup: Shuffle each of the stage 2 quest cards together and place them facedown under this stage. Create The Power of Mordor deck (see insert) and set it next to the quest deck. Add Thane Ulchor and Tribute to Mordor to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Your search for the missing Dorwinions has led you up the mountains of Rhûn. There you discover the remains of an ancient temple built to honor Sauron during the dark years of Middle-earth."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Forgotten-Temple-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Skip the quest phase.",
+                    "Forced: At the end of the planning phase, place 1 resource token here. Then, if there are 2 resource tokens here, add this stage to the victory display and advance to the topmost stage 2A."
+                ],
+                "Shadow": null,
+                "FlavorText": "The journey to reach this place has been difficult and you take a moment to prepare yourself before entering the dark temple."
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 80,
+            "Quantity": 1,
+            "Artist": "Kevin Zamir Goeke",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Legacy of Mordor",
+            "Slug": "The-Legacy-of-Mordor-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Legacy-of-Mordor-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "Rows of iron-barred cells line both sides of a dark dungeon built beneath the old temple. You shudder to think what horrible fate befell the captives that were held here in years past as you continue to search for the missing Dorwinions."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Legacy-of-Mordor-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, each player deals 1 damage to a hero he controls and exhausts that hero. That hero cannot ready or be healed until the refresh phase.",
+                    "While there are 4 quest stages in the victory display, progress cannot be placed here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 81,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Memory of the Dark Years",
+            "Slug": "Memory-of-the-Dark-Years-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Memory-of-the-Dark-Years-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "All about you are the cruel trappings of Mordor: evidence of torture and death callously strewn about the cavern floor. You search among the bones and debris for fresh signs of those you seek."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Memory-of-the-Dark-Years-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, discard X cards from the top of the encounter deck, where X is 1 more than the number of quest stages in the victory display. Add 2 to the total Threat in the staging area for each different card type discarded this way.",
+                    "While there are 4 quest stages in the victory display, progress cannot be place here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 83,
+            "Quantity": 1,
+            "Artist": "Dual Brush Studios",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Shrine to Sauron",
+            "Slug": "Shrine-to-Sauron-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Shrine-to-Sauron-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "A blood-stained altar to the Dark Lord of Mordor looks to have been used recently. Though the carved stone is ancient, the blood and cloth you find on it are fresh. You search about frantically to find the captive Dorwinions before more are slaughtered."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/Shrine-to-Sauron-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "16"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, each player discards the top X cards of his deck, where X is 1 more than the number of quest stages in the victory display. Each player examines the cards he controls and the cards in his hand. If any of these cards are copies of the cards he just discarded from the top of his deck, he must discard those copies as well.",
+                    "While there are 4 quest stages in the victory display, progress cannot be placed here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 84,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Lord of Middle-earth",
+            "Slug": "The-Lord-of-Middle-earth-ASitE",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Lord-of-Middle-earth-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "When Revealed: Reveal 1 encounter card per player."
+                ],
+                "Shadow": null,
+                "FlavorText": "At the center of a large temple room is a hideous state of Sauron seated upon an iron throne. It is a terrible reminder of the darkness that awaits Middle-earth should you fail in your vigilance."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/A-Shadow-in-the-East/The-Lord-of-Middle-earth-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets +4 quest points per player.",
+                    "Forced: At the beginning of the quest phase, each player discards 1 card from his hand. Until the end of the round, no more than X progress can be placed on this stage. X is the total cost of each card discarded by this effect.",
+                    "While there are 4 quest stages in the victory display, progress cannot be placed here."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "A Shadow in the East",
+            "EncounterInfo": {
+                "EncounterSet": "Temple of Doom",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Ulchor's Guard",
+                    "Twisted Tunnels",
+                    "Easterling Raiders",
+                    "The Power of Mordor"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 85,
+            "Quantity": 1,
+            "Artist": "Alexander Chelyshev",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Easterling Raider",
+            "Slug": "Easterling-Raider-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Recurve Bow",
+            "Slug": "Recurve-Bow-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Sword of Rhûn",
+            "Slug": "Sword-of-Rhun-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warrior of Rhûn",
+            "Slug": "Warrior-of-Rhun-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Easterling Raiders",
+            "Title": "Warriors of the East",
+            "Slug": "Warriors-of-the-East-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Temple of Doom",
+            "Title": "Hall of Horrors",
+            "Slug": "Hall-of-Horrors-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of Doom",
+            "Title": "Place of Evil",
+            "Slug": "Place-of-Evil-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Temple of Doom",
+            "Title": "Temple of Sauron",
+            "Slug": "Temple-of-Sauron-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Temple of Doom",
+            "Title": "Thane Ulchor",
+            "Slug": "Thane-Ulchor-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Temple of Doom",
+            "Title": "Tribute to Mordor",
+            "Slug": "Tribute-to-Mordor-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Power of Mordor",
+            "Title": "Covered in Darkness",
+            "Slug": "Covered-in-Darkness-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Power of Mordor",
+            "Title": "Khamûl the Easterling",
+            "Slug": "Khamul-the-Easterling-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Power of Mordor",
+            "Title": "The Armies of Mordor",
+            "Slug": "The-Armies-of-Mordor-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Power of Mordor",
+            "Title": "The Tower of Barad-dûr",
+            "Slug": "The-Tower-of-Barad-dur-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Power of Mordor",
+            "Title": "Under the Watchful Eye",
+            "Slug": "Under-the-Watchful-Eye-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twisted Tunnels",
+            "Title": "Crumbling Passage",
+            "Slug": "Crumbling-Passage-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Twisted Tunnels",
+            "Title": "Fearful Shadows",
+            "Slug": "Fearful-Shadows-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Twisted Tunnels",
+            "Title": "Lost in the Dark",
+            "Slug": "Lost-in-the-Dark-ASitE",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Twisted Tunnels",
+            "Title": "Narrow Opening",
+            "Slug": "Narrow-Opening-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Twisted Tunnels",
+            "Title": "Twisted Tunnel",
+            "Slug": "Twisted-Tunnel-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ulchor's Guard",
+            "Title": "Fanaticism",
+            "Slug": "Fanaticism-ASitE",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Ulchor's Guard",
+            "Title": "Ulchor's Guard",
+            "Slug": "Ulchor's-Guard-ASitE",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Ulchor's Guard",
+            "Title": "Ulchor's Rage",
+            "Slug": "Ulchor's-Rage-ASitE",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        }
+    ]
+}

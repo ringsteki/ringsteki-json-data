@@ -1,0 +1,379 @@
+{
+    "Title": "Peril in Pelargir",
+    "Slug": "Peril-in-Pelargir",
+    "Product": "Heirs of Númenor",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "The Leaping Fish",
+            "Slug": "The-Leaping-Fish-Quest-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Leaping-Fish-Quest-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Battle."
+                ],
+                "Text": [
+                    "Setup: Search the encounter deck for The Leaping Fish and Alcaron`s Scroll. Make The Leaping Fish the active location and attach Alcaron`s Scroll to a hero."
+                ],
+                "Shadow": null,
+                "FlavorText": "The White Council has sent you by ship to Gondor to help fight the threat of Mordor. Upon arrival in the port city of Pelargir, you are greeted by Lord Alcaron who takes you to The Leaping Fish where you can speak privately."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/The-Leaping-Fish-Quest-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "6"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Battle.",
+                    "When Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "Inside the tavern, Lord Alcaron looks nervously toward the door as he hands you a scroll bearing the seal of Gondor. He asks that you deliver it to Faramir in Ithilen, but the brigands who just entered look intent on taking it from you"
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Streets of Gondor",
+                    "Brigands"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 65,
+            "Quantity": 1,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fighting in the Streets",
+            "Slug": "Fighting-in-the-Streets-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Fighting-in-the-Streets-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Battle."
+                ],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "During the fight in the tavern, one of your adversaries managed to grab Alcaron`s Scroll and flee outside. You chase the thief into the street where you are surrounded by a gang of his fellow brigands. You must fight your way through the mob and recover the scroll!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Fighting-in-the-Streets-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Battle.",
+                    "When Revealed: Attach Alcaron`s Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron`s Scroll to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Streets of Gondor",
+                    "Brigands"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Escape to the Quays",
+            "Slug": "Escape-to-the-Quays-HoN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Escape-to-the-Quays-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player searches the encounter deck and discard pile for 1 enemy and adds it to the staging area."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve recovered the scroll but are still outnumbered by your determined foes. Lord Alcaron shouts for you to escape and deliver the scroll before he flees to summon the city guard. If you can get to your ship, you can escape the clutches of these desperate thugs..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Heirs-of-Numenor/Escape-to-the-Quays-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Enemies cannot be optionally engaged.",
+                    "Forced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron`s Scroll from the staging area.",
+                    "The players cannot defeat this stage unless Alcaron`s Scroll is attached to a hero. If the players defeat this stage, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Heirs of Númenor",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Streets of Gondor",
+                    "Brigands"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Jeff Lee Johnson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Lossarnach Bandit",
+            "Slug": "Lossarnach-Bandit-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Lurking in Shadows",
+            "Slug": "Lurking-in-Shadows-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Umbar Assassin",
+            "Slug": "Umbar-Assassin-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Brigands",
+            "Title": "Zealous Traitor",
+            "Slug": "Zealous-Traitor-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "Alcaron's Scroll",
+            "Slug": "Alcaron's-Scroll-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "Collateral Damage",
+            "Slug": "Collateral-Damage-HoN",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "Harbor Storehouse",
+            "Slug": "Harbor-Storehouse-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "Harbor Thug",
+            "Slug": "Harbor-Thug-HoN",
+            "NormalQuantity": 5,
+            "EasyQuantity": 5,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "Pelargir Docks",
+            "Slug": "Pelargir-Docks-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir",
+            "Title": "The Leaping Fish (Location)",
+            "Slug": "The-Leaping-Fish-Location-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Bedlam in the Streets",
+            "Slug": "Bedlam-in-the-Streets-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Cunning Informant",
+            "Slug": "Cunning-Informant-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Dockside Street",
+            "Slug": "Dockside-Street-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Harbor Brute",
+            "Slug": "Harbor-Brute-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Pelargir Alley",
+            "Slug": "Pelargir-Alley-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Pelargir Ringleader",
+            "Slug": "Pelargir-Ringleader-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "Peril in Pelargir Nightmare",
+            "Slug": "Peril-in-Pelargir-Nightmare-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "The Thieves' Ploy",
+            "Slug": "The-Thieves'-Ploy-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Peril in Pelargir Nightmare",
+            "Title": "They're Getting Away!",
+            "Slug": "They're-Getting-Away-PiPN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "City Street",
+            "Slug": "City-Street-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Local Trouble",
+            "Slug": "Local-Trouble-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Lost in the City",
+            "Slug": "Lost-in-the-City-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Market Square",
+            "Slug": "Market-Square-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Streets of Gondor",
+            "Title": "Pickpocket",
+            "Slug": "Pickpocket-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        }
+    ]
+}

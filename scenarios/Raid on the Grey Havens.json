@@ -1,0 +1,366 @@
+{
+    "Title": "Raid on the Grey Havens",
+    "Slug": "Raid-on-the-Grey-Havens",
+    "Product": "The Grey Havens",
+    "Number": 3,
+    "QuestCards": [
+        {
+            "Title": "The Corsairs' Assault",
+            "Slug": "The-Corsairs'-Assault-TGH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Corsairs'-Assault-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Captain Sahír and Na`asiyah aside, out of play. Add The Havens Burn, The Dream-chaser, and 1 copy of Sahír’s Ravager to the staging area. Shuffle the encounter deck and discard cards from the top of the encounter deck until X locations with the Aflame keyword are discarded, where X is the number of players in the game. Add each discarded Aflame location to the staging area. Then, shuffle the encounter discard pile back into the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/The-Corsairs'-Assault-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "18"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the combat phase, deal X damage to the Aflame location in play with the lowest Aflame value. X is the number of Corsair enemies in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "Corsairs are attacking the Grey Havens and burning the Elven fleet. You must defend the Havens from these fierce raiders and save as many ships as you can!"
+            },
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": {
+                "EncounterSet": "Raid on the Grey Havens",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "The Stormcaller Elite"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 36,
+            "Quantity": 1,
+            "Artist": "Simon Dominic",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sahír's Advance",
+            "Slug": "Sahir's-Advance-TGH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sahír's-Advance-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Add Na’asiyah and Captain Sahír to the staging area, enemy side faceup. Each player reveals the top card of the encounter deck. Place resources on Na’asiyah and Captain Sahír equal to the amount of damage on The Dream-chaser. Add 1 resource to each other Raider enemy in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "A menacing ship leads the raiders, its charismatic captain bellowing orders to the Corsairs: `Kill the defenders!` he shouts. `Destroy their ships!`"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Sahír's-Advance-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Any time players would place progress on this quest, remove an equal amount of damage from locations in play instead. (Progress is placed on the active location before triggering this effect.)",
+                    "Each Raider enemy revealed by the encounter deck enters play with 1 resource on it.",
+                    "If Captain Sahír is in the victory display and each location in play has no damage, the players win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Grey Havens",
+            "EncounterInfo": {
+                "EncounterSet": "Raid on the Grey Havens",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Corsair Raiders",
+                    "The Stormcaller Elite"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 37,
+            "Quantity": 1,
+            "Artist": "Sara Winters",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Battle-Hardened",
+            "Slug": "Battle-Hardened-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Corsair Infiltrator",
+            "Slug": "Corsair-Infiltrator-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Raid Leader",
+            "Slug": "Raid-Leader-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Corsair Raiders",
+            "Title": "Umbar Raider",
+            "Slug": "Umbar-Raider-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Burning Piers",
+            "Slug": "Burning-Piers-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Corsair Arsonist",
+            "Slug": "Corsair-Arsonist-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Dream-chaser (Location)",
+            "Slug": "Dream-chaser-Location-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Elven Caravel",
+            "Slug": "Elven-Caravel-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Elven Wave-runner",
+            "Slug": "Elven-Wave-runner-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Mithlond Harbor",
+            "Slug": "Mithlond-Harbor-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Pillaged Ship",
+            "Slug": "Pillaged-Ship-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Put to the Torch",
+            "Slug": "Put-to-the-Torch-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "Sahír's Ravager",
+            "Slug": "Sahir's-Ravager-TGH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "The Fires Spread",
+            "Slug": "The-Fires-Spread-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "The Havens Burn",
+            "Slug": "The-Havens-Burn-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens",
+            "Title": "White Ship",
+            "Slug": "White-Ship-TGH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Burning Tower",
+            "Slug": "Burning-Tower-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Corsair Pillager",
+            "Slug": "Corsair-Pillager-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Corsair Pyromaniac",
+            "Slug": "Corsair-Pyromaniac-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Dawn Star",
+            "Slug": "Dawn-Star-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Elite Marauder",
+            "Slug": "Elite-Marauder-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Infiltration",
+            "Slug": "Infiltration-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Nárelenya",
+            "Slug": "Narelenya-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Raid on the Grey Havens Nightmare",
+            "Slug": "Raid-on-the-Grey-Havens-Nightmare-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Silver Wing",
+            "Slug": "Silver-Wing-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Raid on the Grey Havens Nightmare",
+            "Title": "Sudden Assault",
+            "Slug": "Sudden-Assault-RotGHN",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Enemy)",
+            "Slug": "Captain-Sahir-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Captain Sahír (Objective-Ally)",
+            "Slug": "Captain-Sahir-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Enemy)",
+            "Slug": "Na'asiyah-Enemy-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Stormcaller Elite",
+            "Title": "Na'asiyah (Objective-Ally)",
+            "Slug": "Na'asiyah-Objective-Ally-TGH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        }
+    ]
+}

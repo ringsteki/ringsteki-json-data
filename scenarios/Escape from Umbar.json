@@ -1,0 +1,255 @@
+{
+    "Title": "Escape from Umbar",
+    "Slug": "Escape-from-Umbar",
+    "Product": "The Sands of Harad",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Stranded in Umbar",
+            "Slug": "Stranded-in-Umbar-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Stranded-in-Umbar-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Add “Seize them!” to the staging area. Each player adds 1 different location to the staging area and puts 1 copy of Umbar Sentry into play engaged with him. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "At the end of a long sea-voyage, you have reached the port of Umbar but your ship was dashed upon the rocks. Though you completed the quest that brought you to Harad, it has left you stranded in enemy territory, far from help."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Stranded-in-Umbar-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage cannot have more than 15 progress tokens on it.",
+                    "While at least 1 player is engaged with an enemy, the players cannot defeat this stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "Alarm bells ring from high watchtowers and the city guard shouts for you to lay down your arms and surrender. You must run or be captured!"
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Umbar",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Harad Territory",
+                    "Harad Soldiers"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Flee the City",
+            "Slug": "Flee-the-City-TSoH",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Flee-the-City-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: End the current phase. Shuffle the encounter discard pile into the encounter deck. Starting with the first player, each player discards cards from the top of the encounter deck until he discards an enemy, and puts that enemy into play engaged with him."
+                ],
+                "Shadow": null,
+                "FlavorText": "The whole of Umbar is astir, and the Southrons chase you through the streets. If you cannot escape the city quickly, you are certain to be taken prisoner."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Sands-of-Harad/Flee-the-City-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage cannot have more than 15 progress tokens on it.",
+                    "Forced: At the beginning of the quest phase, if any player is not engaged with an enemy, discard cards from the top of the encounter deck until an enemy is discarded and add it to the staging area.",
+                    "While at least 1 player is engaged with an enemy, the players cannot defeat this stage. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Sands of Harad",
+            "EncounterInfo": {
+                "EncounterSet": "Escape from Umbar",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Harad Territory",
+                    "Harad Soldiers"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 67,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "\"Seize Them!\"",
+            "Slug": "Seize-Them-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Enemy Pursuit",
+            "Slug": "Enemy-Pursuit-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Haradrim Estate",
+            "Slug": "Haradrim-Estate-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Narrow Alleyway",
+            "Slug": "Narrow-Alleyway-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Port of Harad",
+            "Slug": "Port-of-Harad-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Umbar Sentry",
+            "Slug": "Umbar-Sentry-TSoH",
+            "NormalQuantity": 5,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 5
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Umbar Square",
+            "Slug": "Umbar-Square-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Escape from Umbar",
+            "Title": "Umbar Street",
+            "Slug": "Umbar-Street-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Nowhere to Hide",
+            "Slug": "Nowhere-to-Hide-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Archer",
+            "Slug": "Southron-Archer-TSoH",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Captain",
+            "Slug": "Southron-Captain-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Champion",
+            "Slug": "Southron-Champion-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Soldier",
+            "Slug": "Southron-Soldier-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Enfeebled",
+            "Slug": "Enfeebled-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "In Enemy Territory",
+            "Slug": "In-Enemy-Territory-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Territory",
+            "Title": "Injured Companion",
+            "Slug": "Injured-Companion-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        }
+    ]
+}

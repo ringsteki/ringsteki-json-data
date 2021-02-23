@@ -1,0 +1,272 @@
+{
+    "Title": "The Mûmakil",
+    "Slug": "The-Mûmakil",
+    "Product": "The Mûmakil",
+    "Number": 1,
+    "QuestCards": [
+        {
+            "Title": "Welcome to the Jungle",
+            "Slug": "Welcome-to-the-Jungle-TMk",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Welcome-to-the-Jungle-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set each copy of Wild Mûmak and each Capture objective aside, out of play. Each player adds 1 different location to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "After seeing his village destroyed by Sauron’s Orcs, Kahliel has decided to travel north with you to Gondor. But it is a long road, and you will need mounts to ride. So your Haradrim allies have led you into the great jungle of Harad in search of the might Mumakil."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Welcome-to-the-Jungle-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "12"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location leaves play as an explored location, shuffle 1 set aside Wild Mûmak into the encounter deck.",
+                    "The players cannot advance unless the number of Wild Mûmak in play is equal to the number of players."
+                ],
+                "Shadow": null,
+                "FlavorText": "The jungle is full of danger. The Haradrim warn you to stay alert lest the hunters become the hunted."
+            },
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": {
+                "EncounterSet": "The Mûmakil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 26,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Capture the Oliphaunts",
+            "Slug": "Capture-the-Oliphaunts-TMk",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Capture-the-Oliphaunts-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Starting with the first player, each player attaches 1 random set-aside Capture objective to a Wild Mûmak in play."
+                ],
+                "Shadow": null,
+                "FlavorText": "You’ve tracked the Mûmakil through miles of dense jungle and battled with the creatures that dwell therein, but now comes the hard part: you must actually capture the Oliphaunts alive."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mumakil/Capture-the-Oliphaunts-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "8"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, if there is no active location, reveal an additional encounter card this phase.",
+                    "This stage cannot be defeated while there are any Capture objectives in play. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Mûmakil",
+            "EncounterInfo": {
+                "EncounterSet": "The Mûmakil",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 27,
+            "Quantity": 1,
+            "Artist": "Alexander Gustafson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Dense Jungle",
+            "Slug": "Dense-Jungle-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Forest Clearing",
+            "Slug": "Forest-Clearing-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Jungle Trail",
+            "Slug": "Jungle-Trail-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Jungle Forest",
+            "Title": "Overgrown",
+            "Slug": "Overgrown-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Biting Insects",
+            "Slug": "Biting-Insects-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Giant Centipede",
+            "Slug": "Giant-Centipede-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Guardians of the Jungle",
+            "Slug": "Guardians-of-the-Jungle-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Harad Tiger",
+            "Slug": "Harad-Tiger-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Horse-hair Lasso",
+            "Slug": "Horse-hair-Lasso-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Mûmak Trail",
+            "Slug": "Mumak-Trail-TMk",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Noose of Vines",
+            "Slug": "Noose-of-Vines-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Pit Trap",
+            "Slug": "Pit-Trap-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Poisoned Spear",
+            "Slug": "Poisoned-Spear-TMk",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Stampeding Oliphaunt",
+            "Slug": "Stampeding-Oliphaunt-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Strangling Python",
+            "Slug": "Strangling-Python-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Terrible Fever",
+            "Slug": "Terrible-Fever-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Territorial Ape",
+            "Slug": "Territorial-Ape-TMk",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "The Savage South",
+            "Slug": "The-Savage-South-TMk",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Mûmakil",
+            "Title": "Wild Mûmak",
+            "Slug": "Wild-Mumak-TMk",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        }
+    ]
+}

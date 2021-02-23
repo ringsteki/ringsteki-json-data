@@ -1,0 +1,684 @@
+{
+    "Title": "The Crossings of Poros",
+    "Slug": "The-Crossings-of-Poros",
+    "Product": "The Crossings of Poros",
+    "Number": 6,
+    "QuestCards": [
+        {
+            "Title": "Flight to Gondor",
+            "Slug": "Flight-to-Gondor-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Flight-to-Gondor-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Poros Garrison and each of the following encounter sets aside, out of play: Mountains of Shadow, Desert Sands, Desert Creatures, Harad Soldiers, and Mordor Orcs. The first player adds The Black Serpent to the staging area and shuffles the encounter deck. Each other player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have escaped the dungeons of Cirith Gurat with the rescued members of Kahliel`s tribe, but it`s still a long way to Gondor."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Flight-to-Gondor-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Allies enter play exhausted.",
+                    "Forced: At the end of the planning phase, advance to a random stage 2."
+                ],
+                "Shadow": null,
+                "FlavorText": "By now the Orcs will be searching for their escaped prisoners, and The Black Serpent will be seeking revenge against the outlaws who ambushed his caravan. You cannot hope to outrun your enemies with the exhausted refugees in your care, so you consult with Kahliel to decide the safest way north."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 157,
+            "Quantity": 1,
+            "Artist": "Alexander Gustafson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Desert Path",
+            "Slug": "The-Desert-Path-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/The-Desert-Path-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the Desert Sands encounter set into the encounter deck. Remove the Mountains of Shadow encounter set and the other stage 2A from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "You ask Kahliel which way you should take and he says: `My people are weary. Climbing the rocky hills of the Ephel Dúath will be too difficult for them. We will journey to Gondor across the desert.`"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/The-Desert-Path-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After a player plays an ally, he must either exhaust that ally or deal 1 damage to it."
+                ],
+                "Shadow": null,
+                "FlavorText": "You set out across the desert of Harondor, but it isn`t long before the heat begins to take its toll."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 158,
+            "Quantity": 1,
+            "Artist": "Kamila Szutenberg",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Ephel Dúath",
+            "Slug": "The-Ephel-Duath-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/The-Ephel-Dúath-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the Mountains of Shadow encounter set into the encounter deck. Remove the Desert Sands encounter set and the other stage 2A from the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "You ask Kahliel which way you should take and he says: `The desert offers us no place to hide, and I fear my people cannot endure another desert crossing. We will take the rocky path through the hills to Gondor.`"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/The-Ephel-Dúath-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "10"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After a player plays an ally, he must exhaust that ally or raise his threat by 1.",
+                    "Forced: When this stage is defeated, advance to a random stage 3."
+                ],
+                "Shadow": null,
+                "FlavorText": "As you travel along the edge of Mordor a feeling of unease sets in and you fear that you are being watched."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 159,
+            "Quantity": 1,
+            "Artist": "Sergey Glushakov",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Deadly Creatures",
+            "Slug": "Deadly-Creatures-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Deadly-Creatures-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Set each other stage 3A aside, out of play. Shuffle the encounter discard pile and the Desert Creatures encounter set into the encounter deck. Then, each player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Orcs and Southrons are not the only things to fear in the wild; the wastes of Harondor are home to many deadly creatures."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Deadly-Creatures-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Enemies in the staging area cannot take damage.",
+                    "Forced: After an enemy engages a player, deal 1 damage to a hero that player controls."
+                ],
+                "Shadow": null,
+                "FlavorText": "Venomous animals strike at you when you stumble too close. Weary as you are from your long journey, it is difficult to see them before it`s too late."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 160,
+            "Quantity": 1,
+            "Artist": "Dimitri Bielak",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Southron Pursuit",
+            "Slug": "Southron-Pursuit-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Southron-Pursuit-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Set each other stage 3A aside, out of play. Shuffle the discard pile and the Harad Soldiers encounter set into the encounter deck. Then, each player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "Driven by his desire for revenge, The Black Serpent has ordered his soldiers to scour all Harondor for your company."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Southron-Pursuit-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy in the staging area gets -10 engagement cost.",
+                    "Forced: After an enemy engages a player, remove 1 progress from this stage."
+                ],
+                "Shadow": null,
+                "FlavorText": "Slowed by the refugees in your care and hounded by the Serpent`s outriders, you struggle to make progress towards Gondor."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 161,
+            "Quantity": 1,
+            "Artist": "S. C. Watson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Patrols",
+            "Slug": "Orc-Patrols-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Orc-Patrols-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Set each other stage 3A aside, out of play. Shuffle the encounter discard pile and the Mordor Orcs encounter set into the encounter deck. Then, each player reveals an encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Orcs of Cirith Gurat sent their swiftest Warg-riders to track you down after you escaped from their dungeons."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Orc-Patrols-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "15"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Orc Patrols gets +2 quest points for each enemy in the staging area.",
+                    "Forced: After an enemy engages a player, raise that player`s threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 162,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Battle at the Crossings",
+            "Slug": "Battle-at-the-Crossings-CoP",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Battle-at-the-Crossings-4A.jpg",
+                "Stats": {
+                    "StageNumber": "4A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player takes control of Poros Garrison. Search the encounter deck and discard pile for each enemy that belongs to an encounter set denoted by the first icon on each set aside stage 3 and add them to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve reached the Crossings of Poros, but the enemy is hot on your heels. Desperate, you blow a loud note on your horn. From the northern shore you hear horns answer, and the soldiers of Gondor rush to your aid."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Crossings-of-Poros/Battle-at-the-Crossings-4B.jpg",
+                "Stats": {
+                    "StageNumber": "4B",
+                    "QuestPoints": "20"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After an enemy attacks and destroys a character, remove X progress from this stage. X is the attcking enemy`s printed Threat.",
+                    "This stage cannot be defeated except at the end of the combat phase. If the players defeat this stage, they win the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "The Back Serpent leads your pursuers in a final, savage attack. You must hold the crossings against them or fail at the last leg of your journey."
+            },
+            "CardSet": "The Crossings of Poros",
+            "EncounterInfo": {
+                "EncounterSet": "The Crossings of Poros",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mountains of Shadow",
+                    "Desert Sands",
+                    "Desert Creatures",
+                    "Harad Soldiers",
+                    "Mordor Orcs"
+                ],
+                "StageNumber": 4,
+                "StageLetter": "A"
+            },
+            "Number": 163,
+            "Quantity": 1,
+            "Artist": "Alexander Gustafson",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Craft Remedy",
+            "Slug": "Craft-Remedy-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Giant Scorpion",
+            "Slug": "Giant-Scorpion-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Desert Creatures",
+            "Title": "Sand Viper",
+            "Slug": "Sand-Viper-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Desert Sands",
+            "Title": "Desert Oasis",
+            "Slug": "Desert-Oasis-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Desert Sands",
+            "Title": "Find Water",
+            "Slug": "Find-Water-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Desert Sands",
+            "Title": "Heat Exhaustion",
+            "Slug": "Heat-Exhaustion-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Desert Sands",
+            "Title": "Sandstorm",
+            "Slug": "Sandstorm-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Desert Sands",
+            "Title": "Towering Dunes",
+            "Slug": "Towering-Dunes-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Nowhere to Hide",
+            "Slug": "Nowhere-to-Hide-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Archer",
+            "Slug": "Southron-Archer-TSoH",
+            "NormalQuantity": 4,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Captain",
+            "Slug": "Southron-Captain-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Champion",
+            "Slug": "Southron-Champion-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Harad Soldiers",
+            "Title": "Southron Soldier",
+            "Slug": "Southron-Soldier-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Fear of Mordor",
+            "Slug": "Fear-of-Mordor-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Mordor Warg",
+            "Slug": "Mordor-Warg-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Chieftain",
+            "Slug": "Uruk-Chieftain-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk of Mordor",
+            "Slug": "Uruk-of-Mordor-TSoH",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruk Warg-rider",
+            "Slug": "Uruk-Warg-rider-TSoH",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Orcs",
+            "Title": "Uruks of the Eye",
+            "Slug": "Uruks-of-the-Eye-TSoH",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountains of Shadow",
+            "Title": "Find a Way Down",
+            "Slug": "Find-a-Way-Down-CoP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mountains of Shadow",
+            "Title": "Foothills of Mordor",
+            "Slug": "Foothills-of-Mordor-CoP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mountains of Shadow",
+            "Title": "Mountains of Shadow",
+            "Slug": "Mountains-of-Shadow-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mountains of Shadow",
+            "Title": "Shadowy Vale",
+            "Slug": "Shadowy-Vale-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Danger Close Behind",
+            "Slug": "Danger-Close-Behind-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Desert Warg",
+            "Slug": "Desert-Warg-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Desolate Land",
+            "Slug": "Desolate-Land-CoP",
+            "NormalQuantity": 3,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Harondor Waste",
+            "Slug": "Harondor-Waste-CoP",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Poros Garrison",
+            "Slug": "Poros-Garrison-CoP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Southron Outrider",
+            "Slug": "Southron-Outrider-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "The Black Serpent",
+            "Slug": "The-Black-Serpent-CoP",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "The Crossings of Poros",
+            "Title": "Uruk Prowler",
+            "Slug": "Uruk-Prowler-CoP",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        }
+    ]
+}

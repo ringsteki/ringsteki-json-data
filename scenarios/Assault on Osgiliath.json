@@ -1,0 +1,349 @@
+{
+    "Title": "Assault on Osgiliath",
+    "Slug": "Assault-on-Osgiliath",
+    "Product": "Assault on Osgiliath",
+    "Number": 4,
+    "QuestCards": [
+        {
+            "Title": "Retake the City",
+            "Slug": "Retake-the-City-AoO",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Retake-the-City-1A.jpg",
+                "Stats": {
+                    "StageNumber": "1A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Each player chooses 1 enemy and 1 unique location and add them to the staging area. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "You have returned to Minas Tirith just in time to join the army of Gondor as it marches to Osgiliath. An army of orcs and southrons have garrisoned the ancient city, but Lord Boromir means to retake it. Eager to strike a blow against Mordor, you will see the city retaken or die in the attempt..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Assault-on-Osgiliath/Retake-the-City-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Player card effects cannot place progress tokens on locations in the staging area.",
+                    "Forced: When an Osgiliath location leaves play as an explored location, the first player takes control of that location.",
+                    "If the players control all Osgiliath locations in play at the end of the round, they have won the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Assault on Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "Assault on Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Mordor Elite",
+                    "Southrons"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
+            },
+            "Number": 91,
+            "Quantity": 1,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": null,
+            "RingsDbCardId": null,
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ],
+    "ScenarioCards": [
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Ancient Harbor",
+            "Slug": "Ancient-Harbor-AoO",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Counter-attack",
+            "Slug": "Counter-attack-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "East Quarter",
+            "Slug": "East-Quarter-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Pinned Down",
+            "Slug": "Pinned-Down-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Ruined Square",
+            "Slug": "Ruined-Square-AoO",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Ruined Tower",
+            "Slug": "Ruined-Tower-AoO",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Southron Commander",
+            "Slug": "Southron-Commander-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Southron Phalanx",
+            "Slug": "Southron-Phalanx-AoO",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Street Fighting",
+            "Slug": "Street-Fighting-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "The King's Library",
+            "Slug": "The-King's-Library-AoO",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "The Old Bridge",
+            "Slug": "The-Old-Bridge-AoO",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Uruk Lieutenant",
+            "Slug": "Uruk-Lieutenant-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "Uruk Soldier",
+            "Slug": "Uruk-Soldier-AoO",
+            "NormalQuantity": 4,
+            "EasyQuantity": 4,
+            "NightmareQuantity": 4
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "West Gate",
+            "Slug": "West-Gate-AoO",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath",
+            "Title": "West Quarter",
+            "Slug": "West-Quarter-AoO",
+            "NormalQuantity": 2,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Assault on Osgiliath Nightmare",
+            "Slug": "Assault-on-Osgiliath-Nightmare-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Crumbled Battlements",
+            "Slug": "Crumbled-Battlements-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Eastern Quarter",
+            "Slug": "Eastern-Quarter-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Haradrim Warrior",
+            "Slug": "Haradrim-Warrior-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Invading Orc",
+            "Slug": "Invading-Orc-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Overrun Defenses",
+            "Slug": "Overrun-Defenses-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Palace Remains",
+            "Slug": "Palace-Remains-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Pressed on All Sides",
+            "Slug": "Pressed-on-All-Sides-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Relentless Attack",
+            "Slug": "Relentless-Attack-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Assault on Osgiliath Nightmare",
+            "Title": "Western Quarter",
+            "Slug": "Western-Quarter-AoON",
+            "NormalQuantity": 0,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Lieutenant of Mordor",
+            "Slug": "Lieutenant-of-Mordor-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc Arbalesters",
+            "Slug": "Orc-Arbalesters-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc Vanguard",
+            "Slug": "Orc-Vanguard-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "Orc War Camp",
+            "Slug": "Orc-War-Camp-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "The Master's Malice",
+            "Slug": "The-Master's-Malice-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Mordor Elite",
+            "Title": "The Power of Mordor",
+            "Slug": "The-Power-of-Mordor-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 1,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Haradrim Elite",
+            "Slug": "Haradrim-Elite-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 2,
+            "NightmareQuantity": 2
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Mûmak",
+            "Slug": "Mumak-HoN",
+            "NormalQuantity": 1,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 1
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Mercenaries",
+            "Slug": "Southron-Mercenaries-HoN",
+            "NormalQuantity": 3,
+            "EasyQuantity": 3,
+            "NightmareQuantity": 3
+        },
+        {
+            "EncounterSet": "Southrons",
+            "Title": "Southron Support",
+            "Slug": "Southron-Support-HoN",
+            "NormalQuantity": 2,
+            "EasyQuantity": 0,
+            "NightmareQuantity": 2
+        }
+    ]
+}
