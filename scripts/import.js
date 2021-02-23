@@ -41,11 +41,17 @@ const doImport = async () => {
 
   for (let scenario of hobScenarios.data) {
     console.log(`Working with scenario ${scenario.Title}`);
-    const scenUrl = `${hob_allScenariosUrl}/${scenario.Slug}`;
-    console.log(`\tgetting the scenrio`);
-    const s = await axios.get(scenUrl);
+    const scenCardsUrl = `${hallOfBeorn}/?Scenario=${encodeURIComponent(scenario.Title)}`;
+    console.log(`\tgetting the scenario`);
+    const sc = await axios.get(scenCardsUrl);
     console.log(`\tgot scenario. Saving json...`);
-    fs.writeFileSync(path.join(scenariosDir, scenario.Title + '.json'), JSON.stringify(s.data, null, 4));
+    fs.writeFileSync(path.join(scenariosDir, scenario.Title + '.json'), JSON.stringify({
+      Title: scenario.Title,
+      Slug: scenario.Slug,
+      Product: scenario.Product,
+      Number: scenario.Number,
+      AllCards:sc.data
+    }, null, 4));
     console.log('\tSaved json.')
   }
 

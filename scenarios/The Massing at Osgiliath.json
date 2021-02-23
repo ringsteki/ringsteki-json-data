@@ -3,7 +3,677 @@
     "Slug": "The-Massing-at-Osgiliath",
     "Product": "2011",
     "Number": 1,
-    "QuestCards": [
+    "AllCards": [
+        {
+            "Title": "The Witch-king",
+            "Slug": "The-Witch-king-TMaO",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/The-Witch-king.jpg",
+                "Stats": {
+                    "EngagementCost": "40",
+                    "Threat": "6",
+                    "Attack": "6",
+                    "Defense": "6",
+                    "HitPoints": "11"
+                },
+                "Traits": [
+                    "Nazgûl.",
+                    "Captain."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Players cannot play attachments on The Witch-king.",
+                    "While The Witch-king is in the staging area, each character gets -1 Willpower.",
+                    "Forced: After The Witch-king attacks, he returns to the staging area unless the defending player raises his threat by 3."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Snaga Scouts",
+            "Slug": "Snaga-Scouts-TMaO",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Snaga-Scouts.jpg",
+                "Stats": {
+                    "EngagementCost": "1",
+                    "Threat": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Orc.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the encounter phase, all copies of Snaga Scouts engage the player with the lowest threat. (The first player chooses in case of a tie.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 4,
+            "Artist": "Paul Guzenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wolves from Mordor",
+            "Slug": "Wolves-from-Mordor-TMaO",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Wolves-from-Mordor.jpg",
+                "Stats": {
+                    "EngagementCost": "27",
+                    "Threat": "1",
+                    "Attack": "4",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Wolves from Mordor attack and destroy a character, shuffle Wolves from Mordor into the encounter deck."
+                ],
+                "Shadow": "Shadow: Deal 2 damage to the defending character.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 4,
+            "Artist": "Allison Theus",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wainriders",
+            "Slug": "Wainriders-TMaO",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Wainriders.jpg",
+                "Stats": {
+                    "EngagementCost": "35",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Easterling.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each damage dealt by Wainriders raises the defending player`s threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 4,
+            "Artist": "David Chen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wainrider Captain",
+            "Slug": "Wainrider-Captain-TMaO",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Wainrider-Captain.jpg",
+                "Stats": {
+                    "EngagementCost": "40",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Easterling.",
+                    "Captain."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Move the top Scout enemy from the encounter discard pile to the staging area. (Top 2 Scout enemies instead if the players have crossed the Anduin.)"
+                ],
+                "Shadow": "Shadow: If this attack is undefended, attacking enemy gets +2 Attack if it is a Scout.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "David Horne",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Uruk Vanguard",
+            "Slug": "Uruk-Vanguard-TMaO",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Uruk-Vanguard.jpg",
+                "Stats": {
+                    "EngagementCost": "45",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Uruk.",
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the players have crossed the Anduin, Uruk Vanguard gets +3 Attack."
+                ],
+                "Shadow": "Shadow: attacking enemy gets +1 Attack. (+2 Attack instead if players have crossed the Anduin).",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Matthew Starbuck",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Captured Watchtower",
+            "Slug": "Captured-Watchtower-TMaO",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Captured-Watchtower.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "West Bank."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the players have crossed the Anduin, Captured Watchtower gets +3 Threat."
+                ],
+                "Shadow": "Shadow: Remove all defending characters from combat. This attack is considered undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Emyn Arnen Overlook",
+            "Slug": "Emyn-Arnen-Overlook-TMaO",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Emyn-Arnen-Overlook.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "East Bank.",
+                    "Highlands."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "The first Scout enemy revealed from the encounter deck each round gains surge and doomed 2."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Igor Kieryluk",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Morgulduin",
+            "Slug": "Morgulduin-TMaO",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Morgulduin.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "East Bank.",
+                    "Polluted."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Morgulduin is the active Location, it gains: `Forced: When a character commits to a Quest, deal 1 damage to that character.`"
+                ],
+                "Shadow": "Shadow: If the players have not yet crossed the Anduin, return any current active location to the staging area. Morgulduin becomes the active location.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Pelennor Fields",
+            "Slug": "Pelennor-Fields-TMaO",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Pelennor-Fields.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "7"
+                },
+                "Traits": [
+                    "West Bank."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "If the players have crossed the Anduin, Pelennor Fields gains: `When faced with the option to travel, the players must either travel to Pelennor Fields or raise each player`s threat by 3.`"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 2,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ruins of Osgiliath",
+            "Slug": "Ruins-of-Osgiliath-TMaO",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Ruins-of-Osgiliath.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "East Bank."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the players have not crossed the Anduin, Ruins of Osgiliath gets +3 Threat."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Cut Off",
+            "Slug": "Cut-Off-TMaO",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Cut-Off.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.",
+                    "When Revealed: Each player must discard all ally cards from his hand, if able."
+                ],
+                "Shadow": "Shadow: Defending player must discard 1 ally card from his hand or attacking enemy gets +3 Attack. (2 allies instead if this attack is undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 12,
+            "Quantity": 4,
+            "Artist": "Ben Zweifel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dark Pursuit",
+            "Slug": "Dark-Pursuit-TMaO",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Dark-Pursuit.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Raise the total Threat of the staging area by 1 for each Scout enemy in play. If there are no Scout enemies in play, Dark Pursuit gains surge."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 13,
+            "Quantity": 2,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Massing at Osgiliath",
+            "Slug": "Massing-at-Osgiliath-TMaO",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Massing-at-Osgiliath.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.",
+                    "When Revealed: Until the end of the phase, each card revealed by the encounter deck gains doomed 1. (Doomed 3 instead if the players have crossed the Anduin.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger of Ithilien",
+            "Slug": "Ranger-of-Ithilien-TMaO",
+            "IsUnique": false,
+            "CardType": "Objective_Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Massing-at-Osgiliath/Ranger-of-Ithilien.jpg",
+                "Stats": {
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Ranger.",
+                    "Ally."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player takes control of Ranger of Ithilien, exhausted and committed to the quest. Then, Ranger of Ithilien gains surge."
+                ],
+                "Shadow": "Shadow: Deal 2 damage to attacking enemy. The defending player may exhaust a character he controls to take control of Ranger of Ithilien.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Massing at Osgiliath",
+            "EncounterInfo": {
+                "EncounterSet": "The Massing at Osgiliath",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 15,
+            "Quantity": 2,
+            "Artist": "Eric Braddock",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
         {
             "Title": "Beyond Expectations",
             "Slug": "Beyond-Expectations-TMaO",
@@ -52,8 +722,8 @@
             "Quantity": 1,
             "Artist": "Ben Zweifel",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -105,8 +775,8 @@
             "Quantity": 1,
             "Artist": "Cristi Balanescu",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -159,8 +829,8 @@
             "Quantity": 1,
             "Artist": "Marco Caradonna",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -212,133 +882,11 @@
             "Quantity": 1,
             "Artist": "Igor Kieryluk",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
-        }
-    ],
-    "ScenarioCards": [
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Captured Watchtower",
-            "Slug": "Captured-Watchtower-TMaO",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Cut Off",
-            "Slug": "Cut-Off-TMaO",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Dark Pursuit",
-            "Slug": "Dark-Pursuit-TMaO",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Emyn Arnen Overlook",
-            "Slug": "Emyn-Arnen-Overlook-TMaO",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Massing at Osgiliath",
-            "Slug": "Massing-at-Osgiliath-TMaO",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Morgulduin",
-            "Slug": "Morgulduin-TMaO",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Pelennor Fields",
-            "Slug": "Pelennor-Fields-TMaO",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Ranger of Ithilien",
-            "Slug": "Ranger-of-Ithilien-TMaO",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Ruins of Osgiliath",
-            "Slug": "Ruins-of-Osgiliath-TMaO",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Snaga Scouts",
-            "Slug": "Snaga-Scouts-TMaO",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "The Witch-king",
-            "Slug": "The-Witch-king-TMaO",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Uruk Vanguard",
-            "Slug": "Uruk-Vanguard-TMaO",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Wainrider Captain",
-            "Slug": "Wainrider-Captain-TMaO",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Wainriders",
-            "Slug": "Wainriders-TMaO",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
-        },
-        {
-            "EncounterSet": "The Massing at Osgiliath",
-            "Title": "Wolves from Mordor",
-            "Slug": "Wolves-from-Mordor-TMaO",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
         }
     ]
 }

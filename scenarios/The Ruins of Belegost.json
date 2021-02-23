@@ -3,7 +3,7 @@
     "Slug": "The-Ruins-of-Belegost",
     "Product": "2015",
     "Number": 6,
-    "QuestCards": [
+    "AllCards": [
         {
             "Title": "Ruins of the First Age",
             "Slug": "Ruins-of-the-First-Age-TRoB",
@@ -54,8 +54,8 @@
             "Quantity": 1,
             "Artist": "Wibben",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -109,8 +109,8 @@
             "Quantity": 1,
             "Artist": "Ethan Patrick Harris",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -165,8 +165,8 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -221,8 +221,8 @@
             "Quantity": 1,
             "Artist": "Wibben",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -277,8 +277,8 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -333,8 +333,8 @@
             "Quantity": 1,
             "Artist": "Yoann Boissonnet",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -389,197 +389,1059 @@
             "Quantity": 1,
             "Artist": "Sergey Glushakov",
             "HasErrata": false,
-            "OctgnGuid": null,
-            "RingsDbCardId": null,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
-        }
-    ],
-    "ScenarioCards": [
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Abandoned Mine",
-            "Slug": "Abandoned-Mine-TRoB",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
         },
         {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Blue Mountain Gem",
-            "Slug": "Blue-Mountain-Gem-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Blue Mountain Goblin",
-            "Slug": "Blue-Mountain-Goblin-TRoB",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Book of Aulë's Children",
-            "Slug": "Book-of-Aule's-Children-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Concealed Spikes",
-            "Slug": "Concealed-Spikes-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Covered Pit",
-            "Slug": "Covered-Pit-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Darkened Tunnel",
-            "Slug": "Darkened-Tunnel-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 2,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Dwarven Torch",
-            "Slug": "Dwarven-Torch-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Echoes in the Dark",
-            "Slug": "Echoes-in-the-Dark-TRoB",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Flooded Hall",
-            "Slug": "Flooded-Hall-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 0,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Keys of Belegost",
-            "Slug": "Keys-of-Belegost-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Lurker of the Depths",
-            "Slug": "Lurker-of-the-Depths-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Map of Ered Luin",
-            "Slug": "Map-of-Ered-Luin-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Nameless Cave Dweller",
-            "Slug": "Nameless-Cave-Dweller-TRoB",
-            "NormalQuantity": 4,
-            "EasyQuantity": 4,
-            "NightmareQuantity": 4
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Naurlhûg",
-            "Slug": "Naurlhug-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Naurlhûg's Lair",
-            "Slug": "Naurlhug's-Lair-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Old Stone Troll",
-            "Slug": "Old-Stone-Troll-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 0,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Orc of Ered Luin",
-            "Slug": "Orc-of-Ered-Luin-TRoB",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Secret Chamber",
-            "Slug": "Secret-Chamber-TRoB",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Spawn of Thangorodrim",
-            "Slug": "Spawn-of-Thangorodrim-TRoB",
-            "NormalQuantity": 2,
-            "EasyQuantity": 0,
-            "NightmareQuantity": 2
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
             "Title": "Stalking the Ruins",
             "Slug": "Stalking-the-Ruins-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
+            "IsUnique": false,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Stalking-the-Ruins.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Dragon."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the quest phase, place 1 progress token on Stalking the Ruins. Then, if there are at least 3 resources here, add or return Naurlhûg to the staging area.",
+                    "Forced: When the players advance to a new quest stage, discard all tokens from Stalking the Ruins. Then, set Naurlhûg aside, out of play."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Sergey Glushakov",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
         },
         {
-            "EncounterSet": "The Ruins of Belegost",
-            "Title": "Sunken Treasury",
-            "Slug": "Sunken-Treasury-TRoB",
-            "NormalQuantity": 3,
-            "EasyQuantity": 3,
-            "NightmareQuantity": 3
-        },
-        {
-            "EncounterSet": "The Ruins of Belegost",
             "Title": "Sword of Belegost",
             "Slug": "Sword-of-Belegost-TRoB",
-            "NormalQuantity": 1,
-            "EasyQuantity": 1,
-            "NightmareQuantity": 1
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Sword-of-Belegost.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Loot.",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Loot. Restricted.",
+                    "If unattached, the first player claims Sword of Belegost and attaches it to a hero he controls.",
+                    "Attached hero gets +4 Attack.",
+                    "Response: Exhaust Sword of Belegost to cancel a shadow effect just triggered."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Map of Ered Luin",
+            "Slug": "Map-of-Ered-Luin-TRoB",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Map-of-Ered-Luin.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Loot."
+                ],
+                "Text": [
+                    "Loot.",
+                    "If unattached, the fist player claims Map of Ered Luin and attaches it to a hero he controls.",
+                    "Action: Exhaust Map of Ered Luin to choose a non-unique location. That location gets -2 Threat until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Keys of Belegost",
+            "Slug": "Keys-of-Belegost-TRoB",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Keys-of-Belegost.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Loot."
+                ],
+                "Text": [
+                    "Loot.",
+                    "If unattached, the fist player claims Keys of Belegost and attaches it to a hero he controls.",
+                    "Action: Exhaust Keys of Belegost to choose a hero. Add 1 resource to that hero`s resource pool."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 11,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Book of Aulë's Children",
+            "Slug": "Book-of-Aule's-Children-TRoB",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Book-of-Aulë's-Children.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Loot."
+                ],
+                "Text": [
+                    "Loot.",
+                    "If unattached, the fist player claims Book of Aulë`s Children and attaches it to a hero he controls.",
+                    "Action: Exhaust Book of Aulë`s Children to choose a player. That player draws 1 card."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 12,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dwarven Torch",
+            "Slug": "Dwarven-Torch-TRoB",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Dwarven-Torch.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Loot."
+                ],
+                "Text": [
+                    "Loot.",
+                    "If unattached, the fist player claims Dwarven Torch and attaches it to a hero he controls.",
+                    "Action: Exhaust Dwarven Torch to choose a non-unique enemy. That enemy gets -1 Attack and -1 Defense until the end of the phase."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 13,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Blue Mountain Gem",
+            "Slug": "Blue-Mountain-Gem-TRoB",
+            "IsUnique": true,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Blue-Mountain-Gem.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Loot."
+                ],
+                "Text": [
+                    "Loot.",
+                    "If unattached, the fist player claims Blue Mountain Gem and attaches it to a hero he controls.",
+                    "Action: Exhaust Blue Mountain Gem to choose a player. Reduce that player`s threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 14,
+            "Quantity": 1,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Naurlhûg",
+            "Slug": "Naurlhug-TRoB",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Naurlhûg.jpg",
+                "Stats": {
+                    "EngagementCost": "20",
+                    "Threat": "X",
+                    "Attack": "7",
+                    "Defense": "5",
+                    "HitPoints": "20"
+                },
+                "Traits": [
+                    "Dragon."
+                ],
+                "Keywords": [
+                    "Victory 7."
+                ],
+                "Text": [
+                    "Immune to player card effects, Cannot take damage.",
+                    "X is the number of resources on Stalking the Ruins.",
+                    "Forced: When Naurlhûg makes an attack, the defending player assigns X damage among characters he controls."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 15,
+            "Quantity": 1,
+            "Artist": "Sergey Glushakov",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lurker of the Depths",
+            "Slug": "Lurker-of-the-Depths-TRoB",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Lurker-of-the-Depths.jpg",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "4",
+                    "Attack": "5",
+                    "Defense": "2",
+                    "HitPoints": "12"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [
+                    "Victory 5."
+                ],
+                "Text": [
+                    "Cannot have attachments.",
+                    "Lurker of the Depths cannot be engaged or take more than 4 damage each round.",
+                    "While Lurker of the Depths is in the staging area, it is considered to be engaged with each player."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 16,
+            "Quantity": 1,
+            "Artist": "Ethan Patrick Harris",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Nameless Cave Dweller",
+            "Slug": "Nameless-Cave-Dweller-TRoB",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Nameless-Cave-Dweller.jpg",
+                "Stats": {
+                    "EngagementCost": "35",
+                    "Threat": "X",
+                    "Attack": "X",
+                    "Defense": "X",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Nameless.",
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have player card attachments.",
+                    "X is 1 more than the Discover value on the active location."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if you control a Loot objective).",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 17,
+            "Quantity": 4,
+            "Artist": "Dimitri Bielak",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Old Stone Troll",
+            "Slug": "Old-Stone-Troll-TRoB",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Old-Stone-Troll.jpg",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "3",
+                    "Attack": "6",
+                    "Defense": "3",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Troll.",
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have player card attachments.",
+                    "Old Stone Troll gets -10 engagement cost for each Loot objective attached to a hero.",
+                    "Only the engaged player can declare attackers against Old Stone Troll."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 18,
+            "Quantity": 2,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Orc of Ered Luin",
+            "Slug": "Orc-of-Ered-Luin-TRoB",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Orc-of-Ered-Luin.jpg",
+                "Stats": {
+                    "EngagementCost": "30",
+                    "Threat": "2",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Orc of Ered Luin makes an immediate attack against each player that controls at least 1 Loot objective (in turn order)."
+                ],
+                "Shadow": "Shadow: After this attack, attacking enemy engages the next player, then makes an immediate attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Blue Mountain Goblin",
+            "Slug": "Blue-Mountain-Goblin-TRoB",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Blue-Mountain-Goblin.jpg",
+                "Stats": {
+                    "EngagementCost": "25",
+                    "Threat": "1",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Orc.",
+                    "Goblin."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While a Loot objective is attached to a hero, Blue Mountain Goblin gains surge."
+                ],
+                "Shadow": "Shadow: If you control a Loot objective, put Blue Mountain Goblin into play engaged with you and deal it a shadow card.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Naurlhûg's Lair",
+            "Slug": "Naurlhug's-Lair-TRoB",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Naurlhûg's-Lair.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [
+                    "Discover 5.",
+                    "Victory 4."
+                ],
+                "Text": [
+                    "Discover 5.",
+                    "Immune to player card effects.",
+                    "Forced: When Naurlhûg`s Lair is explored, add the Loot objective from underneath Stalking the Ruins to the staging area faceup.",
+                    "Travel: Place X resources on Stalking the Ruins, where X is the number of players."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 21,
+            "Quantity": 1,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Abandoned Mine",
+            "Slug": "Abandoned-Mine-TRoB",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Abandoned-Mine.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [
+                    "Discover 2."
+                ],
+                "Text": [
+                    "Discover 2.",
+                    "While Abandoned Mine is in the staging area, progress cannot be placed on locations in the staging area not named Abandoned Mine.",
+                    "Forced: When resolving the Discover keyword on Abandoned Mine, look at X additional cards where X is the number of players in the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 22,
+            "Quantity": 4,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Flooded Hall",
+            "Slug": "Flooded-Hall-TRoB",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Flooded-Hall.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [
+                    "Discover 4."
+                ],
+                "Text": [
+                    "Discover 4.",
+                    "While Flooded Hall is in the staging area, increase the cost to play each ally by 1.",
+                    "Forced: When resolving the Discover keyword on Flooded Hall, the first player reveals an additional looked at Hazard card for each other player in the game."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 23,
+            "Quantity": 2,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Darkened Tunnel",
+            "Slug": "Darkened-Tunnel-TRoB",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Darkened-Tunnel.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [
+                    "Discover 2."
+                ],
+                "Text": [
+                    "Discover 2.",
+                    "While Darkened Tunnel is in the staging area, it gains: `Forced: After a `when revealed` effect is canceled, discard the top card of the encounter deck. If the discarded card has the Hazard trait, resolve its staging as if it was just revealed from the encounter deck.`",
+                    "Travel: Place 1 resource on Stalking the Ruins."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 24,
+            "Quantity": 2,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sunken Treasury",
+            "Slug": "Sunken-Treasury-TRoB",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Sunken-Treasury.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [
+                    "Discover 3."
+                ],
+                "Text": [
+                    "Discover 3.",
+                    "Sunken Treasury gets +1 Threat for each Loot objective attached to a hero.",
+                    "Travel: Each player discards 1 random card from his hand."
+                ],
+                "Shadow": "Shadow: Exhaust a character you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 25,
+            "Quantity": 3,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Secret Chamber",
+            "Slug": "Secret-Chamber-TRoB",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Secret-Chamber.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Hazard."
+                ],
+                "Keywords": [
+                    "Discover 3."
+                ],
+                "Text": [
+                    "Discover 3.",
+                    "Response: After the players travel to Secret Chamber, if no Loot objective is attached to Secret Chamber, search the encounter discard pile for a Loot objective and attach it to Secret Chamber as a guarded objective.",
+                    "Travel: Raise each player`s threat by 2."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Echoes in the Dark",
+            "Slug": "Echoes-in-the-Dark-TRoB",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Echoes-in-the-Dark.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.",
+                    "When Revealed: Add 1 to the total Threat in the staging area for each character controlled by the first player until the end of the phase."
+                ],
+                "Shadow": "Shadow: Discard 1 random card from your hand. If the discarded card is an event, attacking enemy gets +2 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 27,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Spawn of Thangorodrim",
+            "Slug": "Spawn-of-Thangorodrim-TRoB",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Spawn-of-Thangorodrim.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If Naurlhûg is in play, it makes an immediate attack against the first player. If Naurlhûg is not in play, place 1 resource on Stalking the Ruins. Then, if there are at least 3 resources on Stalking the Ruins, add Naurlhûg to the staging area."
+                ],
+                "Shadow": "Shadow: Attacking enemy makes an additional attack against you after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 28,
+            "Quantity": 2,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Concealed Spikes",
+            "Slug": "Concealed-Spikes-TRoB",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Concealed-Spikes.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player assigns X damage among characters he controls. X is 1 more than the Discover value on the active location."
+                ],
+                "Shadow": "Shadow: Assign X damage among characters you control. X is the number of attachments you control. You may discard the highest cost attachment you control to cancel this effect.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 29,
+            "Quantity": 2,
+            "Artist": "Dimitri Bielak",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Covered Pit",
+            "Slug": "Covered-Pit-TRoB",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Ruins-of-Belegost/Covered-Pit.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player discards an ally he controls."
+                ],
+                "Shadow": "Shadow: If attacking enemy is non-unique, attach a Loot objective you control to it as a guarded objective. If this attack destroys a character, return attacking enemy to the staging area.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Ruins of Belegost",
+            "EncounterInfo": {
+                "EncounterSet": "The Ruins of Belegost",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 30,
+            "Quantity": 2,
+            "Artist": "Dimitri Bielak",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
         }
     ]
 }
