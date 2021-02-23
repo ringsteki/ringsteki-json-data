@@ -4,6 +4,7 @@ var fs = require('fs');
 
 const doImport = async () => {
 
+  const rootDir = path.join(__dirname, '..');
   const packDir = path.join(__dirname, '..', 'packs');
   const scenariosDir = path.join(__dirname, '..', 'scenarios');
 
@@ -35,6 +36,8 @@ const doImport = async () => {
   }
 
   const hobScenarios = await axios.get(hob_allScenariosUrl);
+
+  fs.writeFileSync(path.join(rootDir, 'scenarios.json'), JSON.stringify(hobScenarios.data, null, 4));
 
   for (let scenario of hobScenarios.data) {
     console.log(`Working with scenario ${scenario.Title}`);
