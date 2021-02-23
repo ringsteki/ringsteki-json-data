@@ -20,19 +20,19 @@ const doImport = async () => {
   const hob_allSetsUrl = `${hallOfBeorn}/CardSets`;
   const hob_allScenariosUrl = `${hallOfBeorn}/Scenarios`;
 
-  // const hobSets = await axios.get(hob_allSetsUrl);
+  const hobSets = await axios.get(hob_allSetsUrl);
 
-  // for (let pack of hobSets.data) {
-  //   console.log(`Working with pack ${pack.Name}`);
-  //   // get all the cards for the pack
-  //   const cardsUrl = `${hallOfBeorn}?CardSet=${encodeURIComponent(pack.Name)}`
-  //   console.log('\tgetting the cards...')
-  //   const cards = await axios.get(cardsUrl);
-  //   console.log('\tgot all cards. Saving json...')
-  //   pack.cards = cards.data instanceof Array ? cards.data : [];
-  //   fs.writeFileSync(path.join(packDir, pack.Name + '.json'), JSON.stringify(pack, null, 4));
-  //   console.log('\tSaved json.')
-  // }
+  for (let pack of hobSets.data) {
+    console.log(`Working with pack ${pack.Name}`);
+    // get all the cards for the pack
+    const cardsUrl = `${hallOfBeorn}?CardSet=${encodeURIComponent(pack.Name)}`
+    console.log('\tgetting the cards...')
+    const cards = await axios.get(cardsUrl);
+    console.log('\tgot all cards. Saving json...')
+    pack.cards = cards.data instanceof Array ? cards.data : [];
+    fs.writeFileSync(path.join(packDir, pack.Name + '.json'), JSON.stringify(pack, null, 4));
+    console.log('\tSaved json.')
+  }
 
   const hobScenarios = await axios.get(hob_allScenariosUrl);
 
