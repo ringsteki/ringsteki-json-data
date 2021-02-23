@@ -25,8 +25,8 @@ const doImport = async () => {
 
   for (let pack of hobSets.data) {
     console.log(`Working with pack ${pack.Name}`);
-    // get all the cards for the pack
-    const cardsUrl = `${hallOfBeorn}?CardSet=${encodeURIComponent(pack.Name)}`
+    // get all the player cards for the pack
+    const cardsUrl = `${hallOfBeorn}?CardSet=${encodeURIComponent(pack.Name)}&CardType=Player`
     console.log('\tgetting the cards...')
     const cards = await axios.get(cardsUrl);
     console.log('\tgot all cards. Saving json...')
