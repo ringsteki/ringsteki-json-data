@@ -7,46 +7,40 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Saruman",
-            "Slug": "Saruman-CotW-PRM",
-            "IsUnique": true,
-            "CardType": "Hero",
+            "Title": "Golden Belt",
+            "Slug": "Golden-Belt-CotW-PRM",
+            "IsUnique": false,
+            "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Lore",
+            "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Challenge-of-the-Wainriders-Preorder-Promotion/Saruman.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Challenge-of-the-Wainriders-Preorder-Promotion/Golden-Belt.jpg",
                 "Stats": {
-                    "ThreatCost": "13",
-                    "Willpower": "3",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "4"
+                    "ResourceCost": "0"
                 },
                 "Traits": [
-                    "Istari.",
-                    "Isengard."
+                    "Item."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When a player card effect would reduce your threat by any amount, reduce that amount to 1.",
-                    "While playing an event with the printed doomed keyword, Saruman gains the printed Leadership, Spirit, and Tactics icons.",
-                    "Response: After you play a card with the doomed keyword, ready Saruman."
+                    "Attach to a hero. Limit 1 per hero.",
+                    "Attached hero can have 1 additional restricted attachment."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "The lady bowed her head, and she turned to Boromir and to him she gave a belt of gold...\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Challenge of the Wainriders Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 54,
+            "Number": 60,
             "Quantity": 1,
-            "Artist": "Martin de Diego Sádaba",
+            "Artist": "Nino Vecia",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22054",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 2315,
+            "RingsDbCardId": "22060",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 116762,
             "Categories": null
         },
         {
@@ -88,40 +82,46 @@
             "Categories": null
         },
         {
-            "Title": "Golden Belt",
-            "Slug": "Golden-Belt-CotW-PRM",
-            "IsUnique": false,
-            "CardType": "Attachment",
+            "Title": "Saruman",
+            "Slug": "Saruman-CotW-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Lore",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Challenge-of-the-Wainriders-Preorder-Promotion/Golden-Belt.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Challenge-of-the-Wainriders-Preorder-Promotion/Saruman.jpg",
                 "Stats": {
-                    "ResourceCost": "0"
+                    "ThreatCost": "13",
+                    "Willpower": "3",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
                 },
                 "Traits": [
-                    "Item."
+                    "Istari.",
+                    "Isengard."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero. Limit 1 per hero.",
-                    "Attached hero can have 1 additional restricted attachment."
+                    "When a player card effect would reduce your threat by any amount, reduce that amount to 1.",
+                    "While playing an event with the printed doomed keyword, Saruman gains the printed Leadership, Spirit, and Tactics icons.",
+                    "Response: After you play a card with the doomed keyword, ready Saruman."
                 ],
                 "Shadow": null,
-                "FlavorText": "The lady bowed her head, and she turned to Boromir and to him she gave a belt of gold...\r\n-The Fellowship of the Ring"
+                "FlavorText": null
             },
             "Back": null,
             "CardSet": "Challenge of the Wainriders Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 60,
+            "Number": 54,
             "Quantity": 1,
-            "Artist": "Nino Vecia",
+            "Artist": "Martin de Diego Sádaba",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22060",
-            "RingsDbPopularity": 5,
-            "RingsDbVotes": 116762,
+            "RingsDbCardId": "22054",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 2315,
             "Categories": null
         }
     ]

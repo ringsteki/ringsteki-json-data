@@ -7,48 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Thorin Stonehelm",
-            "Slug": "Thorin-Stonehelm-WaR-PRM",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin-Preorder-Promotion/Thorin-Stonehelm.jpg",
-                "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "1",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dwarf.",
-                    "Noble.",
-                    "Warrior."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: After Thorin Stonehelm is declared as an attacker, discard the top card of your deck to deal 1 damage to an enemy engaged with you."
-                ],
-                "Shadow": null,
-                "FlavorText": "Thorin III Stonehelm, Dain`s son, became King under the mountain.\r\n-The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "Wrath and Ruin Preorder Promotion",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "22001",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 783,
-            "Categories": null
-        },
-        {
             "Title": "Soldier of Gondor",
             "Slug": "Soldier-of-Gondor-WaR-PRM",
             "IsUnique": false,
@@ -129,6 +87,48 @@
             "RingsDbCardId": "22010",
             "RingsDbPopularity": 1,
             "RingsDbVotes": 1926,
+            "Categories": null
+        },
+        {
+            "Title": "Thorin Stonehelm",
+            "Slug": "Thorin-Stonehelm-WaR-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Wrath-and-Ruin-Preorder-Promotion/Thorin-Stonehelm.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Thorin Stonehelm is declared as an attacker, discard the top card of your deck to deal 1 damage to an enemy engaged with you."
+                ],
+                "Shadow": null,
+                "FlavorText": "Thorin III Stonehelm, Dain`s son, became King under the mountain.\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Wrath and Ruin Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 783,
             "Categories": null
         }
     ]

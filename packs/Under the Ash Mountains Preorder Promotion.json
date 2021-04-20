@@ -7,44 +7,47 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Gildor Inglorion",
-            "Slug": "Gildor-Inglorion-UtAM-PRM",
-            "IsUnique": true,
-            "CardType": "Hero",
+            "Title": "Northern Bowmaster",
+            "Slug": "Northern-Bowmaster-UtAM-PRM",
+            "IsUnique": false,
+            "CardType": "Ally",
             "CardSubType": "None",
-            "Sphere": "Leadership",
+            "Sphere": "Tactics",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Under-the-Ash-Mountains-Preorder-Promotion/Gildor-Inglorion.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Under-the-Ash-Mountains-Preorder-Promotion/Northern-Bowmaster.jpg",
                 "Stats": {
-                    "ThreatCost": "9",
-                    "Willpower": "3",
+                    "ResourceCost": "1",
+                    "Willpower": "0",
                     "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
+                    "Defense": "0",
+                    "HitPoints": "1"
                 },
                 "Traits": [
-                    "Noldor.",
-                    "Noble."
+                    "Dúnedain.",
+                    "Ranger."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Ranged."
+                ],
                 "Text": [
-                    "Action: Pay 1 resource from Gildor Inglorion`s resource pool to choose a player to draw 1 card (Limit once per round.)"
+                    "Ranged.",
+                    "You cannot play Northern Bowmaster from your hand unless you are engaged with an enemy."
                 ],
                 "Shadow": null,
-                "FlavorText": "`Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed...`\r\n-The Fellowship of the Ring"
+                "FlavorText": null
             },
             "Back": null,
             "CardSet": "Under the Ash Mountains Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 81,
+            "Number": 86,
             "Quantity": 1,
-            "Artist": "Jason Jenicke",
+            "Artist": "Aleksander Karcz",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22081",
+            "RingsDbCardId": "22086",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 705,
+            "RingsDbVotes": 18390,
             "Categories": null
         },
         {
@@ -88,47 +91,44 @@
             "Categories": null
         },
         {
-            "Title": "Northern Bowmaster",
-            "Slug": "Northern-Bowmaster-UtAM-PRM",
-            "IsUnique": false,
-            "CardType": "Ally",
+            "Title": "Gildor Inglorion",
+            "Slug": "Gildor-Inglorion-UtAM-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Under-the-Ash-Mountains-Preorder-Promotion/Northern-Bowmaster.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Under-the-Ash-Mountains-Preorder-Promotion/Gildor-Inglorion.jpg",
                 "Stats": {
-                    "ResourceCost": "1",
-                    "Willpower": "0",
+                    "ThreatCost": "9",
+                    "Willpower": "3",
                     "Attack": "2",
-                    "Defense": "0",
-                    "HitPoints": "1"
+                    "Defense": "1",
+                    "HitPoints": "3"
                 },
                 "Traits": [
-                    "Dúnedain.",
-                    "Ranger."
+                    "Noldor.",
+                    "Noble."
                 ],
-                "Keywords": [
-                    "Ranged."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Ranged.",
-                    "You cannot play Northern Bowmaster from your hand unless you are engaged with an enemy."
+                    "Action: Pay 1 resource from Gildor Inglorion`s resource pool to choose a player to draw 1 card (Limit once per round.)"
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "`Gildor Inglorion of the House of Finrod. We are Exiles, and most of our kindred have long ago departed...`\r\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Under the Ash Mountains Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 86,
+            "Number": 81,
             "Quantity": 1,
-            "Artist": "Aleksander Karcz",
+            "Artist": "Jason Jenicke",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22086",
+            "RingsDbCardId": "22081",
             "RingsDbPopularity": 1,
-            "RingsDbVotes": 18390,
+            "RingsDbVotes": 705,
             "Categories": null
         }
     ]

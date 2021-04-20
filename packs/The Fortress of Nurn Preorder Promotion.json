@@ -7,33 +7,25 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Aragorn",
-            "Slug": "Aragorn-TFoN-PRM",
+            "Title": "Thorongil",
+            "Slug": "Thorongil-TFoN-PRM",
             "IsUnique": true,
-            "CardType": "Hero",
+            "CardType": "Attachment",
             "CardSubType": "None",
-            "Sphere": "Spirit",
+            "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fortress-of-Nurn-Preorder-Promotion/Aragorn.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fortress-of-Nurn-Preorder-Promotion/Thorongil.jpg",
                 "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "5"
+                    "ResourceCost": "3"
                 },
                 "Traits": [
-                    "Dúnedain.",
-                    "Ranger.",
-                    "Scout."
+                    "Title."
                 ],
-                "Keywords": [
-                    "Sentinel."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Sentinel.",
-                    "Action: Exhaust Aragorn to choose a location in the staging area. Until the end of the phase, that location gets -X Threat, where X is Aragorn`s Willpower. If this effect reduces the location`s Threat to 0, place 1 progress on it. (Limit once per round.)"
+                    "Attach to a non-Fellowship, non-Baggins hero you control.",
+                    "Response: After you attach Thorongil to a hero, search your collection for a different non-Fellowship, non-Baggins version of that hero and attach it to Thorongil. While Thorongil is in play, attached hero gains the game text and resource icon of the attached hero card. If Thorongil leaves play, remove the hero card attached to it from the game."
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -41,14 +33,14 @@
             "Back": null,
             "CardSet": "The Fortress of Nurn Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 137,
+            "Number": 146,
             "Quantity": 1,
-            "Artist": "Aleksander Karcz",
+            "Artist": "Chris Grun",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22137",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 714,
+            "RingsDbCardId": "22146",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 34541,
             "Categories": null
         },
         {
@@ -93,25 +85,33 @@
             "Categories": null
         },
         {
-            "Title": "Thorongil",
-            "Slug": "Thorongil-TFoN-PRM",
+            "Title": "Aragorn",
+            "Slug": "Aragorn-TFoN-PRM",
             "IsUnique": true,
-            "CardType": "Attachment",
+            "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": null,
+            "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fortress-of-Nurn-Preorder-Promotion/Thorongil.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fortress-of-Nurn-Preorder-Promotion/Aragorn.jpg",
                 "Stats": {
-                    "ResourceCost": "3"
+                    "ThreatCost": "12",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
                 },
                 "Traits": [
-                    "Title."
+                    "Dúnedain.",
+                    "Ranger.",
+                    "Scout."
                 ],
-                "Keywords": [],
+                "Keywords": [
+                    "Sentinel."
+                ],
                 "Text": [
-                    "Attach to a non-Fellowship, non-Baggins hero you control.",
-                    "Response: After you attach Thorongil to a hero, search your collection for a different non-Fellowship, non-Baggins version of that hero and attach it to Thorongil. While Thorongil is in play, attached hero gains the game text and resource icon of the attached hero card. If Thorongil leaves play, remove the hero card attached to it from the game."
+                    "Sentinel.",
+                    "Action: Exhaust Aragorn to choose a location in the staging area. Until the end of the phase, that location gets -X Threat, where X is Aragorn`s Willpower. If this effect reduces the location`s Threat to 0, place 1 progress on it. (Limit once per round.)"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -119,14 +119,14 @@
             "Back": null,
             "CardSet": "The Fortress of Nurn Preorder Promotion",
             "EncounterInfo": null,
-            "Number": 146,
+            "Number": 137,
             "Quantity": 1,
-            "Artist": "Chris Grun",
+            "Artist": "Aleksander Karcz",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "22146",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 34541,
+            "RingsDbCardId": "22137",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 714,
             "Categories": null
         }
     ]

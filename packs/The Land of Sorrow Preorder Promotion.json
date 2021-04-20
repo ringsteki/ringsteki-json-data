@@ -7,52 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Gwaihir",
-            "Slug": "Gwaihir-TLoSo-PRM",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Tactics",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow-Preorder-Promotion/Gwaihir.jpg",
-                "Stats": {
-                    "ThreatCost": "13",
-                    "Willpower": "2",
-                    "Attack": "4",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Eagle."
-                ],
-                "Keywords": [
-                    "Ranged.",
-                    "Sentinel."
-                ],
-                "Text": [
-                    "Ranged. Sentinel.",
-                    "Cannot have restricted attachments. Gwaihir does not ready during the refresh phase.",
-                    "Response: After an Eagle ally enters or leaves play, ready Gwaihir. (Limit once per phase.)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Land of Sorrow Preorder Promotion",
-            "EncounterInfo": null,
-            "Number": 108,
-            "Quantity": 1,
-            "Artist": "Carlos Palma Cruchaga",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "22108",
-            "RingsDbPopularity": 1,
-            "RingsDbVotes": 1297,
-            "Categories": null
-        },
-        {
             "Title": "Song of Healing",
             "Slug": "Song-of-Healing-TLoSo-PRM",
             "IsUnique": false,
@@ -129,6 +83,52 @@
             "RingsDbCardId": "22113",
             "RingsDbPopularity": 1,
             "RingsDbVotes": 21764,
+            "Categories": null
+        },
+        {
+            "Title": "Gwaihir",
+            "Slug": "Gwaihir-TLoSo-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Sorrow-Preorder-Promotion/Gwaihir.jpg",
+                "Stats": {
+                    "ThreatCost": "13",
+                    "Willpower": "2",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Eagle."
+                ],
+                "Keywords": [
+                    "Ranged.",
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Ranged. Sentinel.",
+                    "Cannot have restricted attachments. Gwaihir does not ready during the refresh phase.",
+                    "Response: After an Eagle ally enters or leaves play, ready Gwaihir. (Limit once per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Land of Sorrow Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 108,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22108",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1297,
             "Categories": null
         }
     ]

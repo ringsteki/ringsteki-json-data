@@ -7,48 +7,6 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Lothíriel",
-            "Slug": "Lothiriel-TCoU-PRM",
-            "IsUnique": true,
-            "CardType": "Hero",
-            "CardSubType": "None",
-            "Sphere": "Spirit",
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast-Preorder-Promotion/Lothíriel.jpg",
-                "Stats": {
-                    "ThreatCost": "8",
-                    "Willpower": "3",
-                    "Attack": "1",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Gondor.",
-                    "Noble."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Éomer is in play, Lothíriel gains the Rohan trait.",
-                    "Response: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The City of Ulfast Preorder Promotion",
-            "EncounterInfo": null,
-            "Number": 27,
-            "Quantity": 1,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "22027",
-            "RingsDbPopularity": 2,
-            "RingsDbVotes": 3101,
-            "Categories": null
-        },
-        {
             "Title": "Angbor the Fearless",
             "Slug": "Angbor-the-Fearless-TCoU-PRM",
             "IsUnique": true,
@@ -121,6 +79,48 @@
             "RingsDbCardId": "22036",
             "RingsDbPopularity": 2,
             "RingsDbVotes": 25282,
+            "Categories": null
+        },
+        {
+            "Title": "Lothíriel",
+            "Slug": "Lothiriel-TCoU-PRM",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-City-of-Ulfast-Preorder-Promotion/Lothíriel.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Éomer is in play, Lothíriel gains the Rohan trait.",
+                    "Response: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The City of Ulfast Preorder Promotion",
+            "EncounterInfo": null,
+            "Number": 27,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "22027",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 3101,
             "Categories": null
         }
     ]
