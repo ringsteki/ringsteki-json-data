@@ -7,6 +7,9 @@ const hallOfBeorn = "http://hallofbeorn.com/Export";
 const hob_cookies =
     "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
+const LAST_PACK_COMPLETED = 187;
+const LAST_SCENARIO_COMPLETED = 103;
+
 // Info about new campaign boxes
 const revCoreCampaignCards = [
   { slug: "Mendor-RevCore", quantity: 1 },
@@ -54,6 +57,8 @@ const modifyCardsForCampaign = async (scenario, cards) => {
 
   const cardsFromRelatedCardSet = await axios.get(cardsUrl, {
     headers: { Cookie: hob_cookies },
+  }).catch((e) => {
+    console.log('got an axios error' + ': ' + e.message);
   });
 
   const cardsBySlugs = {};
@@ -89,10 +94,18 @@ const doImport = async () => {
   const hobSetsByName = {};
   const hobSets = await axios.get(hob_allSetsUrl, {
     headers: { Cookie: hob_cookies },
+  }).catch((e) => {
+    console.log('got an axios error' + ': ' + e.message);
   });
 
-  for (let pack of hobSets.data) {
-    console.log(`Working with pack ${pack.Name}`);
+  console.log('*********** PACKS *****');
+
+  for (let [index, pack] of hobSets.data.entries()) {
+    console.log(`Working with pack ${pack.Name} (${index + 1} of ${hobSets.data.length})`);
+    if (index < LAST_PACK_COMPLETED) {
+      console.log('Skipping..');
+      continue;
+    }
     hobSetsByName[pack.Name.toLowerCase()] = pack;
     // get all the player cards for the pack
     if (!DRY_RUN) {
@@ -102,6 +115,8 @@ const doImport = async () => {
       console.log("\tgetting the cards...");
       const cards = await axios.get(cardsUrl, {
         headers: { Cookie: hob_cookies },
+      }).catch((e) => {
+        console.log('got an axios error' + ': ' + e.message);
       });
       console.log("\tgot all cards. Saving json...");
       pack.cards = cards.data instanceof Array ? cards.data : [];
@@ -113,16 +128,22 @@ const doImport = async () => {
     }
   }
 
+  console.log('*********** PACKS COMPLETE *****');
+
   const hobScenarios = await axios.get(hob_allScenariosUrl, {
     headers: { Cookie: hob_cookies },
+  }).catch((e) => {
+    console.log('got an axios error' + ': ' + e.message);
   });
 
-  for (let scenario of hobScenarios.data) {
-    console.log(`Working with scenario ${scenario.Title}`);
+  console.log('*********** SCENARIOS *****');
+  for (let [index, scenario] of hobScenarios.data.entries()) {
+    console.log(`Working with scenario ${scenario.Title} (${index + 1} of ${hobScenarios.data.length})`);
 
-    // if (scenario.Title !== "Passage Through Mirkwood Campaign") {
-    //   continue;
-    // }
+    if (index < LAST_SCENARIO_COMPLETED) {
+      console.log('Skipping..');
+      continue;
+    }
 
     //Update the scenario to include Cycle
     scenario.Cycle =
@@ -135,6 +156,8 @@ const doImport = async () => {
     console.log(`\tgetting the scenario ${scenario.Title}`);
     let sc = await axios.get(scenCardsUrl, {
       headers: { Cookie: hob_cookies },
+    }).catch((e) => {
+      console.log('got an axios error' + ': ' + e.message);
     });
 
     // If the scenario is in our campaign list, do more stuff to it
@@ -163,6 +186,8 @@ const doImport = async () => {
     console.log("\tSaved json.");
   }
 
+  console.log('*********** SCENARIOS COMPLETE *****');
+
   if (DRY_RUN) {
     // console.log(hobScenarios.data);
   } else {
@@ -173,4 +198,8 @@ const doImport = async () => {
   }
 };
 
-doImport();
+try {
+  doImport();
+} catch (e) {
+  console.log(`ERROR`);
+}

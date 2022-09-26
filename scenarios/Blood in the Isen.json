@@ -1,8 +1,8 @@
 {
-    "Title": "The Battle for the Beacon",
-    "Slug": "The-Battle-for-the-Beacon",
-    "Product": "Children of Eorl",
-    "Number": 2,
+    "Title": "Blood in the Isen",
+    "Slug": "Blood-in-the-Isen",
+    "Product": "Blood in the Isen",
+    "Number": 6,
     "AllCards": [
         {
             "Title": "Dunland Chieftain",
@@ -271,814 +271,879 @@
             "Categories": null
         },
         {
-            "Title": "Recreant Rider",
-            "Slug": "Recreant-Rider-CoE",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Recreant-Rider.png",
-                "Stats": {
-                    "EngagementCost": "31",
-                    "Threat": "3",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Traitor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: When Recreant Rider enters the staging area, it makes an immediate attack against the first player."
-                ],
-                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "Faithless Rohirrim",
-                "EasyModeQuantity": 2,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 39,
-            "Quantity": 3,
-            "Artist": "CollaborationJS",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300039",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Deadly Defector",
-            "Slug": "Deadly-Defector-CoE",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Deadly-Defector.png",
-                "Stats": {
-                    "EngagementCost": "38",
-                    "Threat": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Rohan.",
-                    "Traitor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: At the end of the combat phase, if Deadly Defector is in the staging area, it makes an immediate attack against the last player."
-                ],
-                "Shadow": "Shadow: If attacking enemy is in the staging area, it makes an additional attack after this one.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "Faithless Rohirrim",
-                "EasyModeQuantity": 1,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 40,
-            "Quantity": 3,
-            "Artist": "Bryan Sola",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300040",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Erelas Beacon",
-            "Slug": "Erelas-Beacon-CoE",
+            "Title": "Ealdwulf",
+            "Slug": "Ealdwulf-BitI",
             "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Ealdwulf.png",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "5",
+                    "Attack": "5",
+                    "Defense": "4",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Noble.",
+                    "Traitor."
+                ],
+                "Keywords": [
+                    "Victory 15."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Ealdwulf gets +2 hit points for each resource token on him.",
+                    "Forced: When a resource token would be removed from Hasty Pursuit, move it to Ealdwulf instead."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 192,
+            "Quantity": 1,
+            "Artist": "Min Gyu Lee",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00192",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Narrow Crossing",
+            "Slug": "Narrow-Crossing-BitI",
+            "IsUnique": false,
             "CardType": "Objective",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Erelas-Beacon.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Narrow-Crossing.png",
                 "Stats": {},
-                "Traits": [],
+                "Traits": [
+                    "Fords."
+                ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the combat phase, deal 1 damage to Erelas Beacon for each enemy in the staging area.",
-                    "Erelas Beacon has X hit points, where X is equal to 2, plus 3Per Player. If Erelas Beacon has no hit points remaining, the players lose the game."
+                    "Forced: At the end of the planning phase, the first player places 3 resource tokens on Narrow Crossing.",
+                    "Forced: After resolving the above Forced effect, if the total printed cost of all cards you control is greater than the number of resource tokens here, raise your threat by the difference. (Each player must resolve this effect.)"
                 ],
                 "Shadow": null,
-                "FlavorText": "All the lands were grey and still; and ever the shadow deepened before them, and hope waned in every heart.\r\n—The Return of the King"
+                "FlavorText": null
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 59,
+            "Number": 193,
             "Quantity": 1,
-            "Artist": "Cliff Cramp",
+            "Artist": "Alan Lee",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300059",
+            "RingsDbCardId": "00193",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Host of Rohan",
-            "Slug": "Host-of-Rohan-CoE",
+            "Title": "Hasty Pursuit",
+            "Slug": "Hasty-Pursuit-BitI",
             "IsUnique": false,
-            "CardType": "Objective_Ally",
+            "CardType": "Objective",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Host-of-Rohan.png",
-                "Stats": {
-                    "Willpower": "3",
-                    "Attack": "4",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Hasty-Pursuit.png",
+                "Stats": {},
                 "Traits": [
-                    "Rohan."
+                    "Fords."
                 ],
-                "Keywords": [
-                    "Sentinel."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "Sentinel.",
-                    "Action: The players as a group may spend 2 resources to ready Host of Rohan. (Limit once per phase.)"
+                    "Forced: At the end of the planning phase, the first player removes 1 resource token from Hasty Pursuit.",
+                    "Forced: After resolving the above Forced effect, if the total printed cost of all cards you control is greater than the number of resource tokens here, raise your threat by the difference. (Each player must resolve this effect.)"
                 ],
                 "Shadow": null,
-                "FlavorText": "“War is abroad, and the Rohirrim, the Horse-lords, do not sleep.”\r\n—Gandalf, The Two Towers"
+                "FlavorText": null
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 60,
+            "Number": 193,
             "Quantity": 1,
-            "Artist": "Julia Alekseeva",
+            "Artist": "Zhihui Su",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300060",
+            "RingsDbCardId": "00193",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Enraged Dunlending",
-            "Slug": "Enraged-Dunlending-CoE",
+            "Title": "Grimrede",
+            "Slug": "Grimrede-BitI",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Grimrede.png",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "X",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Dunland.",
+                    "Raven Clan."
+                ],
+                "Keywords": [
+                    "Victory 5."
+                ],
+                "Text": [
+                    "X is 1Per Player. Immune to player card effects. Each player’s threat cannot be reduced by more than 1 each round.",
+                    "Forced: When any number of resource tokens would be placed on the Fords objective, reduce that number by 1 unless each player deals 1 damage to an undamaged character they control."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 194,
+            "Quantity": 1,
+            "Artist": "Yama Orce",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00194",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "West Bank",
+            "Slug": "West-Bank-BitI",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/West-Bank.png",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Riverland."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Immune to player card effects.",
+                    "Narrow Crossing cannot have more than 10 resource tokens on it.",
+                    "Forced: At the end of the round, raise each player’s threat by 1."
+                ],
+                "Shadow": null,
+                "FlavorText": "“Go not to the Fords of Isen, and do not tarry in the plain!”\r\n—Gandalf, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 195,
+            "Quantity": 1,
+            "Artist": "Cyril Tahmassebi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00195",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rohan Renegade",
+            "Slug": "Rohan-Renegade-BitI",
             "IsUnique": false,
             "CardType": "Enemy",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Enraged-Dunlending.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Rohan-Renegade.png",
                 "Stats": {
-                    "EngagementCost": "30",
+                    "EngagementCost": "40",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Traitor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While a hero is defending against Rohan Renegade, that hero does not count its Defense."
+                ],
+                "Shadow": "Shadow: After this attack, attacking enemy engages the next player, then makes an immediate attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 196,
+            "Quantity": 3,
+            "Artist": "Ufuk Can",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00196",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dunland Axe-hand",
+            "Slug": "Dunland-Axe-hand-BitI",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Dunland-Axe-hand.png",
+                "Stats": {
+                    "EngagementCost": "38",
+                    "Threat": "2",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dunland.",
+                    "Raven Clan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Dunland Axe-hand engages you, either remove 1 resource token from the Fords objective, or deal 2 damage among characters you control."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +3 Attack. You may discard X cards from your hand to reduce this amount by X.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 197,
+            "Quantity": 3,
+            "Artist": "Barbara Gołębiewska",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00197",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fleet-footed Dunlending",
+            "Slug": "Fleet-footed-Dunlending-BitI",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Fleet-footed-Dunlending.png",
+                "Stats": {
+                    "EngagementCost": "31",
                     "Threat": "2",
                     "Attack": "3",
                     "Defense": "1",
                     "HitPoints": "3"
                 },
                 "Traits": [
-                    "Dunland."
+                    "Dunland.",
+                    "Wolf Clan."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Enraged Dunlending engages you, deal 1 damage to Erelas Beacon."
+                    "Forced: After Fleet-footed Dunlending engages you, discard an attachment you control."
                 ],
-                "Shadow": "Shadow: Any damage dealt to the defending character by this attack is instead dealt to Erelas Beacon.",
+                "Shadow": "Shadow: Discard the highest cost attachment attached to the defending character.",
                 "FlavorText": null
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 61,
-            "Quantity": 4,
-            "Artist": "Chris Wahl",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300061",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Bald Hill",
-            "Slug": "Bald-Hill-CoE",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Bald-Hill.png",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Hills."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While the players control the beacon, Bald Hill gets +3 Threat.",
-                    "Travel: If the players control the beacon, deal 2 damage to Erelas Beacon."
-                ],
-                "Shadow": null,
-                "FlavorText": "At last they reached the crest of the grey hill, and a sudden breeze blew in their hair and stirred their cloaks: the chill wind of dawn.\r\n—The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 2,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 62,
+            "Number": 198,
             "Quantity": 4,
-            "Artist": "Nelleke Pieters",
+            "Artist": "Cağlayan Kaya Goksoy",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300062",
+            "RingsDbCardId": "00198",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Wooden Barricade",
-            "Slug": "Wooden-Barricade-CoE",
+            "Title": "Spurned Hillman",
+            "Slug": "Spurned-Hillman-BitI",
             "IsUnique": false,
-            "CardType": "Location",
+            "CardType": "Enemy",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Wooden-Barricade.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Spurned-Hillman.png",
                 "Stats": {
+                    "EngagementCost": "28",
                     "Threat": "1",
-                    "QuestPoints": "3"
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
                 },
                 "Traits": [
-                    "Gate."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Wooden Barricade is in the staging area, it gains: “Forced: At the end of the combat phase, deal 1 damage to Erelas Beacon and place 1 progress on Wooden Barricade.”"
-                ],
-                "Shadow": "Shadow: Either discard 2 attachments you control or deal 1 damage to Erelas Beacon.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 63,
-            "Quantity": 2,
-            "Artist": "Joshua Cairós",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300063",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rocky Slope",
-            "Slug": "Rocky-Slope-CoE",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Rocky-Slope.png",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Hills."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "After an encounter card effect is canceled, deal 1 damage to Erelas Beacon.",
-                    "Travel: The first player must discard all event cards from their hand."
-                ],
-                "Shadow": "Shadow: Either discard all resources from each hero you control or deal 1 damage to Erelas Beacon.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 64,
-            "Quantity": 2,
-            "Artist": "JSLArt",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300064",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Surrounding Grassland",
-            "Slug": "Surrounding-Grassland-CoE",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Surrounding-Grassland.png",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "2"
-                },
-                "Traits": [
-                    "Plains."
+                    "Dunland.",
+                    "Boar Clan."
                 ],
                 "Keywords": [
-                    "Archery 1."
-                ],
-                "Text": [
-                    "Archery 1.",
-                    "Forced: After Surrounding Grassland leaves play as an explored location, if there are no copies of Surrounding Grassland in the staging area, return this location to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "They could see beyond the stream the green fields of Rohan fading into distant grey.\r\n—The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 65,
-            "Quantity": 3,
-            "Artist": "René Aigner",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300065",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Narrow Stair",
-            "Slug": "Narrow-Stair-CoE",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Narrow-Stair.png",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Stair."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Each player cannot declare more than 1 attack and cannot declare more than 1 attacker each phase.",
-                    "While Narrow Stair is the active location, each player cannot defend more than 1 attack each phase (other attacks are undefended)."
-                ],
-                "Shadow": "Shadow: Either attacking enemy gets +3 Attack or deal 1 damage to Erelas Beacon.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 1,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 66,
-            "Quantity": 2,
-            "Artist": "Tomasz Alen Kopera",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300066",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "From All Sides",
-            "Slug": "From-All-Sides-CoE",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/From-All-Sides.png",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player must choose: either deal 1 damage to 4 different characters you control or deal 1 damage to Erelas Beacon."
-                ],
-                "Shadow": "Shadow: After this attack, either discard the defending character or deal 1 damage to Erelas Beacon.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 1,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 67,
-            "Quantity": 3,
-            "Artist": "Stefan Kopinski",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300067",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Another Wave",
-            "Slug": "Another-Wave-CoE",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Another-Wave.png",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge.",
                     "Doomed 1."
                 ],
                 "Text": [
-                    "Surge. Doomed 1.",
-                    "When Revealed: If the players control the beacon, either deal 2 damage to Erelas Beacon or reveal an encounter card."
+                    "Doomed 1.",
+                    "Forced: After Spurned Hillman engages you, raise your threat by 1."
                 ],
-                "Shadow": "Shadow: Either the attacking enemy makes an additional attack or deal 1 damage to Erelas Beacon.",
-                "FlavorText": null
+                "Shadow": null,
+                "FlavorText": "“Death to the Forgoil!”\r\n—The Two Towers"
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 68,
-            "Quantity": 2,
-            "Artist": "Thomas Wievegg",
+            "Number": 199,
+            "Quantity": 3,
+            "Artist": "Bethesda Softworks",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300068",
+            "RingsDbCardId": "00199",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Assault Upon Erelas",
-            "Slug": "Assault-Upon-Erelas-CoE",
+            "Title": "Contested Battleground",
+            "Slug": "Contested-Battleground-BitI",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Contested-Battleground.png",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Plains.",
+                    "Battleground."
+                ],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.",
+                    "Forced: After Contested Battleground becomes the active location, either remove 1 resource token from the Fords objective, or the current quest gains battle until Contested Battleground leaves play."
+                ],
+                "Shadow": "Shadow: After this attack, raise your threat by X, where X is the amount of damage dealt by this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 200,
+            "Quantity": 2,
+            "Artist": "Serban Gabriel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00200",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Defensive Outcrop",
+            "Slug": "Defensive-Outcrop-BitI",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Defensive-Outcrop.png",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Hill."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Dunland enemies get +1 Defense. This ability does not stack with other copies of Defensive Outcrop.",
+                    "While Defensive Outcrop is the active location, Dunland enemies get +1 Attack."
+                ],
+                "Shadow": "Shadow: Until the end of the phase, when a character is declared as an attacker against this enemy, deal 1 damage to that character.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 201,
+            "Quantity": 3,
+            "Artist": "Yohann Schepacz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00201",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "North-South Road",
+            "Slug": "North-South-Road-BitI",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/North-South-Road.png",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Road."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Travel: Each player deals 1 damage to a character they control.",
+                    "Response: After North-South Road leaves play as an explored location, place 1 resource token on the Fords objective."
+                ],
+                "Shadow": null,
+                "FlavorText": "…the stream from above passed out, and the road beside it ran down…\r\n—The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 202,
+            "Quantity": 3,
+            "Artist": "Benoit Audibert",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00202",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Coordinated Assault",
+            "Slug": "Coordinated-Assault-BitI",
             "IsUnique": false,
             "CardType": "Treachery",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Assault-Upon-Erelas.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Coordinated-Assault.png",
                 "Stats": {},
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player chooses an enemy engaged with a player and returns it to the staging area. If no enemy was returned to the staging area this way, either deal 1 damage to Erelas Beacon or Assault Upon Erelas gains surge."
+                    "When Revealed: The first player must choose 3 different things they control to discard: 1 resource, 1 ally, 1 character attachment, 1 enemy attachment, 1 location attachment, 1 player side quest in the staging area, or 1 random card from their hand."
                 ],
-                "Shadow": "Shadow: Either raise your threat by 4 or deal 1 damage to Erelas Beacon.",
+                "Shadow": null,
                 "FlavorText": null
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
-                "EasyModeQuantity": 0,
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 1,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
                 "StageLetter": null
             },
-            "Number": 69,
-            "Quantity": 2,
-            "Artist": "Stefan Kopinski",
+            "Number": 203,
+            "Quantity": 3,
+            "Artist": "Daarken",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300069",
+            "RingsDbCardId": "00203",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Reclaim the Beacon",
-            "Slug": "Reclaim-the-Beacon-CoE",
+            "Title": "Heavy Losses",
+            "Slug": "Heavy-Losses-BitI",
             "IsUnique": false,
-            "CardType": "Encounter_Side_Quest",
+            "CardType": "Treachery",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Reclaim-the-Beacon.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Heavy-Losses.png",
                 "Stats": {},
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "The Dunlendings control the beacon. Enemies in the staging area cannot be optionally engaged or take damage.",
-                    "Cannot have more than X progress, where X is equal to 2, plus 1Per Player. If Reclaim the Beacon has X progress on it, flip it over (keeping all progress)."
-                ],
-                "Shadow": null,
-                "FlavorText": "Seize the beacon, lest the Dunlendings deface it, or worse."
-            },
-            "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": null,
-            "Number": 70,
-            "Quantity": 1,
-            "Artist": "Jan Pospisil",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "300070",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Defend the Beacon",
-            "Slug": "Defend-the-Beacon-CoE",
-            "IsUnique": false,
-            "CardType": "Encounter_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Defend-the-Beacon.png",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "The players control the beacon. Shadow cards are immune to player card effects.",
-                    "Cannot have more than X progress, where X is equal to 2, plus 1Per Player.",
-                    "Response: Remove any amount of progress from Defend the Beacon to cancel an equal amount of damage just dealt to Erelas Beacon. Then, if Defend the Beacon has 0 progress, flip it over."
+                    "When Revealed: Each player may discard any number of characters they control. Then, each player raises their threat by 1 for each damaged character they control. Each player that did not raise their threat this way must deal 1 damage to 3 different characters they control."
                 ],
                 "Shadow": null,
                 "FlavorText": null
             },
             "Back": null,
-            "CardSet": "Children of Eorl",
-            "EncounterInfo": null,
-            "Number": 70,
-            "Quantity": 1,
-            "Artist": "Skvor",
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 2,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 204,
+            "Quantity": 3,
+            "Artist": "Imperia Online JSC",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300070",
+            "RingsDbCardId": "00204",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Battle for the Hill",
-            "Slug": "Battle-for-the-Hill-CoE",
+            "Title": "Open Rebellion",
+            "Slug": "Open-Rebellion-BitI",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Open-Rebellion.png",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player deals 1 damage to each hero they control with at least 1 resource in its pool, then raises their threat by 1 for each Noble hero damaged this way."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if the defending character is Noble).",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": {
+                "EncounterSet": "Blood in the Isen",
+                "EasyModeQuantity": 1,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 205,
+            "Quantity": 2,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00205",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Chaos and Confusion",
+            "Slug": "Chaos-and-Confusion-BitI",
+            "IsUnique": false,
+            "CardType": "Encounter_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Chaos-and-Confusion.png",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Victory 10."
+                ],
+                "Text": [
+                    "Forced: After engaging a Dunland enemy causes its Forced effect to trigger, resolve that Forced effect a second time. (Limit once per enemy per phase.)"
+                ],
+                "Shadow": null,
+                "FlavorText": "The voices and the clink of weapons and harness were very close. Frodo and Sam loosened their small swords in their sheaths. Flight was impossible.\r\n—The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Blood in the Isen",
+            "EncounterInfo": null,
+            "Number": 206,
+            "Quantity": 1,
+            "Artist": "Imad Awan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00206",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Crossing the Fords",
+            "Slug": "Crossing-the-Fords-BitI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Battle-for-the-Hill-1A.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Crossing-the-Fords-1A.png",
                 "Stats": {
                     "StageNumber": "1A"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Set Host of Rohan aside, out of play. Add Erelas Beacon and 1Per Player Enraged Dunlendings to the staging area. Add the double-sided side quest to the staging area, Reclaim the Beacon side faceup. Search the encounter deck for 1 copy of Surrounding Grassland and make it the active location. Shuffle the encounter deck."
+                    "Setup: Set Ealdwulf aside, out of play. Add the Fords objective to the staging area, Narrow Crossing side faceup. The first player adds Grimrede and West Bank to the staging area. Each other player searches the encounter deck for a different enemy and adds it to the staging area. Shuffle the encounter deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "Dunlendings and traitorous Rohirrim have captured the beacon at Erelas. Reclaim the hill at any cost!"
+                "FlavorText": "The traitor Ealdwulf has manipulated a host of Dunlendings and traitorous Rohirrim in a bid for the throne of Rohan. His armies have massed on the banks of the Isen where the Dunlendings prepare to ford."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Battle-for-the-Hill-1B.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/Crossing-the-Fords-1B.png",
                 "Stats": {
                     "StageNumber": "1B",
-                    "QuestPoints": "12"
+                    "QuestPoints": "0"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After placing any amount of progress on this stage, each player must choose: either exhaust a character you control or deal 1 damage to Erelas Beacon.",
-                    "This stage cannot be completed while the Dunlendings control the beacon."
+                    "Grimrede cannot be optionally engaged or take damage.",
+                    "This stage cannot be defeated while West Bank is in play."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "Ealdwulf must be stopped. Now is the time to cross the river and put an end to this foolhardy campaign, lest Rohan be drowned in blood."
             },
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [
-                    "Dunlending Warriors",
-                    "Faithless Rohirrim"
+                    "Dunlending Warriors"
                 ],
                 "StageNumber": 1,
                 "StageLetter": "A"
             },
-            "Number": 88,
+            "Number": 207,
             "Quantity": 1,
-            "Artist": "Wenjun Lin",
+            "Artist": "Wouter Florusse",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300088",
+            "RingsDbCardId": "00207",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "Hold the Hilltop",
-            "Slug": "Hold-the-Hilltop-CoE",
+            "Title": "The Battle is Joined",
+            "Slug": "The-Battle-is-Joined-BitI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Hold-the-Hilltop-2A.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/The-Battle-is-Joined-2A.png",
                 "Stats": {
                     "StageNumber": "2A"
                 },
                 "Traits": [],
-                "Keywords": [
-                    "Time 3."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "When Revealed: Place progress on Defend the Beacon (bypassing the active location) until it has X progress on it, where X is equal to 2, plus 1Per Player. Shuffle the encounter discard pile into the encounter deck. Each player discards cards from the top of the encounter deck until an enemy is discarded and adds that enemy to the staging area."
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards until X enemies are discarded. X is 1 less than the number of players. Add each enemy discarded this way to the staging area."
                 ],
                 "Shadow": null,
-                "FlavorText": "As your foes gather for another assault on the beacon, you can spot the torchlights of Gálmód’s troops massing amid the hills below."
+                "FlavorText": "As you wade into the river, your foes attempt to repel you with sling and spear. The Dunlending chieftain Grimrede shoulders his axe and steps before you, growling. “The land of green hills shall be ours again. It was taken from us by iron and flame. So will we reclaim it.”"
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/Hold-the-Hilltop-2B.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/The-Battle-is-Joined-2B.png",
                 "Stats": {
                     "StageNumber": "2B",
-                    "QuestPoints": "-"
+                    "QuestPoints": "10"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: At the end of the round, deal 1 damage to Erelas Beacon (2 damage instead if there are 3 or more players in the game). Then, if there are no time counters on this stage, immediately advance to stage 3.",
-                    "Forced: After Defend the Beacon is chosen as the current quest, reveal an encounter card.",
-                    "If the Dunlendings control the beacon, the players lose the game."
+                    "Grimrede engages the first player. Enemies get –10 engagement cost and cannot be optionally engaged.",
+                    "Narrow Crossing cannot have more than 15 resource tokens on it.",
+                    "Grimrede cannot be defeated while this stage has any quest points remaining. This stage cannot be defeated unless Grimrede is in the victory display."
                 ],
                 "Shadow": null,
                 "FlavorText": null
             },
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [
-                    "Dunlending Warriors",
-                    "Faithless Rohirrim"
+                    "Dunlending Warriors"
                 ],
                 "StageNumber": 2,
                 "StageLetter": "A"
             },
-            "Number": 89,
+            "Number": 208,
             "Quantity": 1,
-            "Artist": "Da YU",
+            "Artist": "James_Rinere",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300089",
+            "RingsDbCardId": "00208",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         },
         {
-            "Title": "The Last Push",
-            "Slug": "The-Last-Push-CoE",
+            "Title": "The Flight of Ealdwulf",
+            "Slug": "The-Flight-of-Ealdwulf-BitI",
             "IsUnique": false,
             "CardType": "Quest",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/The-Last-Push-3A.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/The-Flight-of-Ealdwulf-3A.png",
                 "Stats": {
                     "StageNumber": "3A"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove all progress from Defend the Beacon and flip it over. Put Host of Rohan into play under the first player’s control. Shuffle the encounter discard pile into the encounter deck. Each player discards cards from the encounter deck until an enemy is discarded and adds that enemy to the staging area."
+                    "When Revealed: End the current phase. The first player adds Ealdwulf to the staging area. Each other player searches the encounter deck and discard pile for a copy of Rohan Renegade and engages it, if able. Shuffle the encounter deck. Flip Narrow Crossing over, keeping any resource tokens on it."
                 ],
                 "Shadow": null,
-                "FlavorText": "As Gálmód’s forces ride to flank the enemy, you must steel yourselves for one final melee."
+                "FlavorText": "As the tide of battle turns, the traitor Ealdwulf wheels in retreat. The warlord rushes toward the wilderness, leaving his men to fight and die for their master’s hopeless crusade."
             },
             "Back": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Children-of-Eorl/The-Last-Push-3B.png",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Blood-in-the-Isen/The-Flight-of-Ealdwulf-3B.png",
                 "Stats": {
                     "StageNumber": "3B",
-                    "QuestPoints": "-"
+                    "QuestPoints": "12"
                 },
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Add 2 to the total Threat in the staging area for each damage on Erelas Beacon.",
-                    "Forced: At the beginning of the combat phase, each engaged enemy makes an immediate attack.",
-                    "Forced: After a character leaves play, deal 1 damage to Erelas Beacon.",
-                    "At the end of the round, if the Dunlendings control the beacon, the players lose the game, and if the players control the beacon, they win the game."
+                    "Ealdwulf cannot be optionally engaged while this stage has any quest points remaining.",
+                    "Forced: After a player reduces their threat by any amount, that player must distribute an equal amount of damage among characters they control.",
+                    "This stage cannot be defeated while Ealdwulf is in play. When Ealdwulf is defeated, the players have thwarted the traitor’s plot and win the game."
                 ],
                 "Shadow": null,
-                "FlavorText": null
+                "FlavorText": "The traitor’s horse is fleet of foot, and battle spills across both banks of the river. Ealdwulf must be captured and brought before King Thengel to face justice."
             },
-            "CardSet": "Children of Eorl",
+            "CardSet": "Blood in the Isen",
             "EncounterInfo": {
-                "EncounterSet": "The Battle for the Beacon",
+                "EncounterSet": "Blood in the Isen",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [
-                    "Dunlending Warriors",
-                    "Faithless Rohirrim"
+                    "Dunlending Warriors"
                 ],
                 "StageNumber": 3,
                 "StageLetter": "A"
             },
-            "Number": 90,
+            "Number": 209,
             "Quantity": 1,
-            "Artist": "FeriAnimations",
+            "Artist": "Marta Nael",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "300090",
+            "RingsDbCardId": "00209",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
