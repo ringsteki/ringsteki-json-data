@@ -7,8 +7,8 @@ const hallOfBeorn = "http://hallofbeorn.com/Export";
 const hob_cookies =
     "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
-const LAST_PACK_COMPLETED = 187;
-const LAST_SCENARIO_COMPLETED = 103;
+const LAST_PACK_COMPLETED = -1;
+const LAST_SCENARIO_COMPLETED = -1;
 
 // Info about new campaign boxes
 const revCoreCampaignCards = [
