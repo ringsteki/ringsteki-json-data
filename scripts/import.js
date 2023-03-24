@@ -7,7 +7,7 @@ const hallOfBeorn = "http://hallofbeorn.com/Export";
 const hob_cookies =
     "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
-const LAST_PACK_COMPLETED = 188;
+const LAST_PACK_COMPLETED = -1;
 const LAST_SCENARIO_COMPLETED = -1;
 
 // Info about new campaign boxes
@@ -100,13 +100,18 @@ const doImport = async () => {
 
   console.log('*********** PACKS *****');
 
+  // First, store all packs for later use
+  for (let [_index, pack] of hobSets.data.entries()) {
+    hobSetsByName[pack.Name.toLowerCase()] = pack;
+  }
+
   for (let [index, pack] of hobSets.data.entries()) {
     console.log(`Working with pack ${pack.Name} (${index + 1} of ${hobSets.data.length})`);
     if (index < LAST_PACK_COMPLETED) {
       console.log('Skipping..');
       continue;
     }
-    hobSetsByName[pack.Name.toLowerCase()] = pack;
+    
     // get all the player cards for the pack
     if (!DRY_RUN) {
       const cardsUrl = `${hallOfBeorn}?CardSet=${encodeURIComponent(
@@ -150,6 +155,13 @@ const doImport = async () => {
       hobSetsByName[scenario.Title.toLowerCase()]?.Cycle ||
       hobSetsByName[scenario.Product.toLowerCase()]?.Cycle;
 
+    //Update the scenario to include Set Type
+    scenario.SetType =
+      hobSetsByName[scenario.Title.toLowerCase()]?.SetType ||
+      hobSetsByName[scenario.Product.toLowerCase()]?.SetType;
+
+    console.log('Just set cycle and settype to', scenario.Cycle, scenario.SetType)
+
     const scenCardsUrl = `${hallOfBeorn}/?Scenario=${encodeURIComponent(
       scenario.Title
     )}`;
@@ -177,6 +189,7 @@ const doImport = async () => {
             Number: scenario.Number,
             AllCards: sc.data,
             Cycle: scenario.Cycle,
+            SetType: scenario.SetType,
           },
           null,
           4
