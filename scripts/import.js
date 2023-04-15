@@ -22,19 +22,19 @@ const revCoreCampaignCards = [
 ];
 
 const campaignScenarios = {
-  "Passage-Through-Mirkwood-Campaign": {
+  "Passage-Through-Mirkwood-(Campaign)": {
     cardSet: 'Revised Core Set',
     campaignCardSlugs: [
       { slug: "Passage-Through-Mirkwood-Campaign-RevCore", quantity: 1 },
     ].concat(revCoreCampaignCards),
   },
-  "Journey-Along-the-Anduin-Campaign": {
+  "Journey-Along-the-Anduin-(Campaign)": {
     cardSet: 'Revised Core Set',
     campaignCardSlugs: [
       { slug: "Journey-Along-the-Anduin-Campaign-RevCore", quantity: 1 },
     ].concat(revCoreCampaignCards),
   },
-  "Escape-from-Dol-Guldur-Campaign": {
+  "Escape-from-Dol-Guldur-(Campaign)": {
     cardSet: 'Revised Core Set',
     campaignCardSlugs: [
       { slug: "Escape-from-Dol-Guldur-Campaign-RevCore", quantity: 1 },
@@ -92,6 +92,7 @@ const doImport = async () => {
   const hob_allScenariosUrl = `${hallOfBeorn}/Scenarios`;
 
   const hobSetsByName = {};
+  console.log(`**** getting all sets ****`)
   const hobSets = await axios.get(hob_allSetsUrl, {
     headers: { Cookie: hob_cookies },
   }).catch((e) => {
