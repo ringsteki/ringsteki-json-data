@@ -43,7 +43,17 @@ const revCoreCampaignCards = [
 ];
 
 const hobbitCampaignCards = [
-  { slug: "The-One-Ring-TBR", quantity: 1, cardSet: "The Black Riders" },
+  { slug: "Bilbo-Baggins-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
+  { slug: "Bilbo-Baggins-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "Glamdring-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
+  { slug: "Sting-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
+  { slug: "Orcrist-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
+  { slug: "Bilbo's-Magic-Ring-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "Mithril-Shirt-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "Thror's-Golden-Cup-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "Thror's-Hunting-Bow-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "The-Arkenstone-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  { slug: "Thror's-Battle-Axe-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
 ];
 
 const lotrCampaignCards = [
@@ -136,6 +146,7 @@ const lotrCampaignCards = [
 ];
 
 const campaignScenarios = {
+  // Revised Core
   "Passage-Through-Mirkwood-(Campaign)": {
     cardSet: "Revised Core Set",
     campaignCardSlugs: [
@@ -154,6 +165,34 @@ const campaignScenarios = {
       { slug: "Escape-from-Dol-Guldur-Campaign-RevCore", quantity: 1 },
     ].concat(revCoreCampaignCards),
   },
+
+  // The Hobbit
+  "We-Must-Away,-Ere-Break-of-Day": {
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+  "Over-the-Misty-Mountains-Grim": {
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+  "Dungeons-Deep-and-Caverns-Dim": {
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+  "Flies-and-Spiders": {
+    cardSet: "The Hobbit: On the Doorstep",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+  "The-Lonely-Mountain": {
+    cardSet: "The Hobbit: On the Doorstep",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+  "The-Battle-of-Five-Armies": {
+    cardSet: "The Hobbit: On the Doorstep",
+    campaignCardSlugs: hobbitCampaignCards,
+  },
+
+  // LOTR
   "A-Shadow-of-the-Past": {
     cardSet: "The Black Riders",
     campaignCardSlugs: [
@@ -406,11 +445,11 @@ const doImport = async () => {
       })`
     );
 
-    if (!scenario.Title.includes("Shadow of") && !stopSkipping) {
-      continue;
-    } else {
-      stopSkipping = true;
-    }
+    // if (!scenario.Title.includes("Shadow of") && !stopSkipping) {
+    //   continue;
+    // } else {
+    //   stopSkipping = true;
+    // }
 
     if (index < LAST_SCENARIO_COMPLETED) {
       console.log("Skipping..");
