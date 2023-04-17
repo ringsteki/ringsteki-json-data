@@ -94,6 +94,310 @@
             "CAMPAIGN": true
         },
         {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TBR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Black-Riders/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Spend 1 Fellowship resource and exhaust The One Ring to cancel the effect of an encounter card just revealed from the encounter deck. Shuffle that card back into the encounter deck and reveal another encounter card."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I will take the Ring,` he said, `though I do not know the way.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Black Riders",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "3217a119-6b86-47dd-b451-c5e45be3f874",
+            "RingsDbCardId": "141001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1424,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-RD",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Road-Darkens/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Frodo Baggins exhausts to defend an attack, exhaust The One Ring and spend 1 Fellowship resource to target the attacking enemy. Then, this attack deals no damage and each player raises his threat by 2."
+                ],
+                "Shadow": null,
+                "FlavorText": "`But there is more about you now than appears on the surface.`\r\n-Bilbo, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Road Darkens",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "f9196cda-8f50-4cc5-9aad-1c56cb677bca",
+            "RingsDbCardId": "142001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 540,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-ToS",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treason-of-Saruman/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Noble.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.",
+                    "Action: Spend 2 resources from Aragorn`s resource pool to ready a hero."
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treason of Saruman",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "f5178135-1485-43c5-9660-99232a4cdca8",
+            "RingsDbCardId": "143001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 1156,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TLoS",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Land-of-Shadow/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Fellowship resource and exhaust The One Ring to give Frodo Baggins +2 Willpower and +2 Attack until the end of the round."
+                ],
+                "Shadow": null,
+                "FlavorText": "`It`s my doom, I think, to go to that Shadow yonder, so that a way will be found.`\r\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Land of Shadow",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Melanie Maier",
+            "HasErrata": false,
+            "OctgnGuid": "fe58a6d3-7028-41c1-ab00-5e33e7d77b5f",
+            "RingsDbCardId": "144001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 719,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-TFotW",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Flame-of-the-West/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Noble.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.",
+                    "While Aragorn has an Artifact attached, he gains sentinel and does not exhaust to quest."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I have no help to send, therefore I must go myself...`\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Flame of the West",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Javier Charro Martinez",
+            "HasErrata": false,
+            "OctgnGuid": "2e778689-9e3f-4da8-a473-781c777f6473",
+            "RingsDbCardId": "145001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 521,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TMoF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Frodo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Exhaust The One Ring to add 1 resource to a hero`s pool."
+                ],
+                "Shadow": null,
+                "FlavorText": "`I must carry the burden to the end.`\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "b937644c-ccbb-4a39-ae3c-24857d1d4d57",
+            "RingsDbCardId": "146001",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 598,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-TMoF",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Mountain-of-Fire/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Gondor.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "The first player gains control of Aragorn.",
+                    "Action: Spend 1 resource from Aragorn`s pool to ready him. (Limit once per phase.)",
+                    "If Aragorn leaves play the players lose the game."
+                ],
+                "Shadow": null,
+                "FlavorText": "`As I have begun, so I will go on.`\r\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Mountain of Fire",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": "f1cc6057-ced3-4105-9172-869d26a54af5",
+            "RingsDbCardId": "146002",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 50,
+            "Categories": null,
+            "CAMPAIGN": true
+        },
+        {
             "Title": "Mr. Underhill",
             "Slug": "Mr-Underhill-TBR",
             "IsUnique": true,

@@ -8,7 +8,7 @@ const hallOfBeorn = "http://hallofbeorn.com/Export";
 const hob_cookies =
   "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
-const LAST_PACK_COMPLETED = -1;
+const LAST_PACK_COMPLETED = 999;
 const LAST_SCENARIO_COMPLETED = -1;
 
 const axiosCache = {}
@@ -42,8 +42,23 @@ const revCoreCampaignCards = [
   { slug: "Scarred-RevCore", quantity: 4 },
 ];
 
+const hobbitCampaignCards = [
+  { slug: "The-One-Ring-TBR", quantity: 1, cardSet: "The Black Riders" },
+];
+
 const lotrCampaignCards = [
   { slug: "The-One-Ring-TBR", quantity: 1, cardSet: "The Black Riders" },
+  
+  // Fellowship heroes
+  { slug: "Frodo-Baggins-TBR", quantity: 1, cardSet: "The Black Riders" },
+  { slug: "Frodo-Baggins-RD", quantity: 1, cardSet: "The Road Darkens" },
+  { slug: "Aragorn-ToS", quantity: 1, cardSet: "The Treason of Saruman" },
+  { slug: "Frodo-Baggins-TLoS", quantity: 1, cardSet: "The Land of Shadow" },
+  { slug: "Aragorn-TFotW", quantity: 1, cardSet: "The Flame of the West" },
+  { slug: "Frodo-Baggins-TMoF", quantity: 1, cardSet: "The Mountain of Fire" },
+  { slug: "Aragorn-TMoF", quantity: 1, cardSet: "The Mountain of Fire" },
+
+  //Boons and burdens
   { slug: "Mr-Underhill-TBR", quantity: 1, cardSet: "The Black Riders" },
   { slug: "Gildor-Inglorion-TBR", quantity: 1, cardSet: "The Black Riders" },
   { slug: "Gandalf's-Delay-TBR", quantity: 1, cardSet: "The Black Riders" },
