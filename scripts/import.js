@@ -3,7 +3,8 @@ var path = require("path");
 var fs = require("fs");
 const { exit } = require("process");
 
-const hallOfBeorn = "http://hallofbeorn.com/Export";
+const hallOfBeorn =
+  "http://hallofbeorn-env.us-east-1.elasticbeanstalk.com/Export";
 
 const hob_cookies =
   "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
@@ -11,25 +12,23 @@ const hob_cookies =
 const LAST_PACK_COMPLETED = -1;
 const LAST_SCENARIO_COMPLETED = -1;
 
-const axiosCache = {}
+const axiosCache = {};
 
 const axiosGet = async (url, options) => {
   if (!!axiosCache[url]) {
     return axiosCache[url];
   }
 
-  const response = await axios
-  .get(url, options)
-  .catch((e) => {
+  const response = await axios.get(url, options).catch((e) => {
     errored = true;
     console.log("got an axios error for url " + url + ": " + e.message);
-    exit(-1)
-  })
+    exit(-1);
+  });
 
   axiosCache[url] = response;
-  
+
   return response;
-}
+};
 
 // Info about new campaign boxes
 const revCoreCampaignCards = [
@@ -43,22 +42,66 @@ const revCoreCampaignCards = [
 ];
 
 const hobbitCampaignCards = [
-  { slug: "Bilbo-Baggins-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
-  { slug: "Bilbo-Baggins-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "Glamdring-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
-  { slug: "Sting-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
-  { slug: "Orcrist-THOHaUH", quantity: 1, cardSet: "The Hobbit: Over Hill and Under Hill" },
-  { slug: "Bilbo's-Magic-Ring-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "Mithril-Shirt-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "Thror's-Golden-Cup-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "Thror's-Hunting-Bow-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "The-Arkenstone-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
-  { slug: "Thror's-Battle-Axe-THOtD", quantity: 1, cardSet: "The Hobbit: On the Doorstep" },
+  {
+    slug: "Bilbo-Baggins-THOHaUH",
+    quantity: 1,
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+  },
+  {
+    slug: "Bilbo-Baggins-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "Glamdring-THOHaUH",
+    quantity: 1,
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+  },
+  {
+    slug: "Sting-THOHaUH",
+    quantity: 1,
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+  },
+  {
+    slug: "Orcrist-THOHaUH",
+    quantity: 1,
+    cardSet: "The Hobbit: Over Hill and Under Hill",
+  },
+  {
+    slug: "Bilbo's-Magic-Ring-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "Mithril-Shirt-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "Thror's-Golden-Cup-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "Thror's-Hunting-Bow-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "The-Arkenstone-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
+  {
+    slug: "Thror's-Battle-Axe-THOtD",
+    quantity: 1,
+    cardSet: "The Hobbit: On the Doorstep",
+  },
 ];
 
 const lotrCampaignCards = [
   { slug: "The-One-Ring-TBR", quantity: 1, cardSet: "The Black Riders" },
-  
+
   // Fellowship heroes
   { slug: "Frodo-Baggins-TBR", quantity: 1, cardSet: "The Black Riders" },
   { slug: "Frodo-Baggins-RD", quantity: 1, cardSet: "The Road Darkens" },
@@ -326,12 +369,12 @@ const modifyCardsForCampaign = async (scenario, cards) => {
         )
     );
 
-  console.log('This scenario is a campaign. Getting campaign cards');
+  console.log("This scenario is a campaign. Getting campaign cards");
   // get all the different card sets
   let cardSets = [campaignCardsForScenario.cardSet];
   for (c of campaignCardsForScenario.campaignCardSlugs) {
     if (!!c.cardSet && !cardSets.includes(c.cardSet)) {
-      cardSets = cardSets.concat([c.cardSet])
+      cardSets = cardSets.concat([c.cardSet]);
     }
   }
 
@@ -341,14 +384,14 @@ const modifyCardsForCampaign = async (scenario, cards) => {
 
   const cardsBySlugs = {};
 
-  for(url of cardsUrls) {
+  for (url of cardsUrls) {
     const axiosResponse = await axiosGet(url, {
       headers: { Cookie: hob_cookies },
-    })
+    });
 
     axiosResponse.data.forEach((c) => {
       cardsBySlugs[c.Slug] = c;
-    })
+    });
   }
 
   cards.data = campaignCardsForScenario.campaignCardSlugs
@@ -378,7 +421,7 @@ const doImport = async () => {
   const hob_allScenariosUrl = `${hallOfBeorn}/Scenarios`;
 
   const hobSetsByName = {};
-  console.log(`**** getting all sets ****`);
+  console.log(`**** getting all sets ****  ${hob_allSetsUrl}`);
   const hobSets = await axios
     .get(hob_allSetsUrl, {
       headers: { Cookie: hob_cookies },
