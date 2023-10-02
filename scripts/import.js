@@ -9,7 +9,7 @@ const hallOfBeorn =
 const hob_cookies =
   "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
-const LAST_PACK_COMPLETED = 25;
+const LAST_PACK_COMPLETED = -1;
 const LAST_SCENARIO_COMPLETED = -1;
 
 const axiosCache = {};
@@ -358,7 +358,7 @@ const campaignScenarios = {
   },
 };
 
-// Specific Card overrides
+// Specific Card overrides (e.g for weird data from beorn data)
 const specificCardOverrides = {
   "Shrine-to-Morgoth-Grotto-TDRu": {
     Back: {
@@ -380,7 +380,228 @@ const specificCardOverrides = {
       FlavorText: null,
     },
   },
+  "Undersea-Grotto-TDRu": {
+    Slug: "Undersea-Grotto-TDRu-1",
+    Quantity: 2,
+    Back: {
+      Subtitle: null,
+      ImagePath:
+        "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Dark-Abyss.jpg",
+      Stats: {
+        Threat: "5",
+        QuestPoints: "12",
+      },
+      Traits: ["Underground.", "Underwater."],
+      Keywords: ["Victory 2."],
+      Text: [
+        "While Dark Abyss is the active location, characters cannot attack.",
+        "Forced: If Dark Abyss is the active location at the end of the quest phase, deal 1 damage to each character in play. Then, you may flip Dark Abyss to its Grotto side.",
+      ],
+      Shadow: null,
+      FlavorText: null,
+    },
+  },
+  "Cursed-Caverns-TDRu": {
+    Slug: "Cursed-Caverns-TDRu-1",
+    Quantity: 2,
+    Back: {
+      Subtitle: null,
+      ImagePath:
+        "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Twisting-Hollow.jpg",
+      Stats: {
+        Threat: "4",
+        QuestPoints: "14",
+      },
+      Traits: ["Underground.", "Underwater."],
+      Keywords: ["Victory 2."],
+      Text: [
+        "While Twisting Hollow is the active location, characters cannot ready from card effects.",
+        "Forced: If Twisting Hollow is the active location at the end of the quest phase, each player must discard 1 character. Then, you may flip Twisting Hollow to its Grotto side.",
+      ],
+      Shadow: null,
+      FlavorText: null,
+    },
+  },
   "Shrine-to-Morgoth-Underwater-TDRu": "DELETE",
+  "Dark-Abyss-TDRu": "DELETE",
+  "Twisting-Hollow-TDRu": "DELETE",
+  "Sunken-Temple-TDRu": "DELETE",
+  "Na'asiyah-Objective-Ally-TGH": {
+    Back: {
+      Subtitle: null,
+      ImagePath:
+        "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Na'asiyah-Enemy.jpg",
+      Stats: {
+        EngagementCost: "8",
+        Threat: "1",
+        Attack: "2",
+        Defense: "2",
+        HitPoints: "4",
+      },
+      Traits: ["Corsair.", "Raider."],
+      Keywords: [],
+      Text: [
+        "Na’asiyah engages the last player.",
+        "Forced: When Na’asiyah engages you, discard each event in your hand. Add 1 resource to Na’asiyah for each event discarded in this way.",
+        "Forced: When Na’asiyah attacks or defends, she gets +1 Attack and +1 Defense for this attack for each resource on her. After this attack, discard 1 resource from her.",
+      ],
+      Shadow: null,
+      FlavorText: null,
+    },
+  },
+  "Captain-Sahir-Objective-Ally-TGH": {
+    Back: {
+      Subtitle: null,
+      ImagePath:
+        "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Grey-Havens/Captain-Sahír-Enemy.jpg",
+      Stats: {
+        EngagementCost: "4",
+        Threat: "6",
+        Attack: "6",
+        Defense: "2",
+        HitPoints: "5",
+      },
+      Traits: ["Corsair.", "Raider."],
+      Keywords: ["Victory 6."],
+      Text: [
+        "Captain Sahír engages the first player.",
+        "For each point of damage Captain Sahír would take, discard 1 resource from him and cancel that damage.",
+        "Forced: After Captain Sahír attacks, place 2 resource tokens on him (4 instead if his attack destroyed a character).",
+      ],
+      Shadow: null,
+      FlavorText: null,
+    },
+  },
+  "Captain-Sahir-Enemy-TGH": "DELETE",
+  "Na'asiyah-Enemy-TGH": "DELETE",
+};
+
+const additionalScenarioCards = (scenario) => {
+  const extraCards = [];
+
+  if (scenario === "The Drowned Ruins") {
+    extraCards.push(
+      {
+        Title: "Undersea Grotto",
+        Slug: "Undersea-Grotto-TDRu-2",
+        IsUnique: false,
+        CardType: "Location",
+        CardSubType: "None",
+        Sphere: null,
+        Front: {
+          Subtitle: null,
+          ImagePath:
+            "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Undersea-Grotto.jpg",
+          Stats: {
+            Threat: "2",
+            QuestPoints: "3",
+          },
+          Traits: ["Underground.", "Grotto."],
+          Keywords: [],
+          Text: [
+            "While Undersea Grotto is the active location, reduce the cost of the first ally played by the players each round by 1.",
+            "Response: After you travel to Undersea Grotto, you may flip it to its Underwater side.",
+          ],
+          Shadow: null,
+          FlavorText: null,
+        },
+        Back: {
+          Subtitle: null,
+          ImagePath:
+            "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Twisting-Hollow.jpg",
+          Stats: {
+            Threat: "4",
+            QuestPoints: "14",
+          },
+          Traits: ["Underground.", "Underwater."],
+          Keywords: ["Victory 2."],
+          Text: [
+            "While Twisting Hollow is the active location, characters cannot ready from card effects.",
+            "Forced: If Twisting Hollow is the active location at the end of the quest phase, each player must discard 1 character. Then, you may flip Twisting Hollow to its Grotto side.",
+          ],
+          Shadow: null,
+          FlavorText: null,
+        },
+        CardSet: "The Drowned Ruins",
+        EncounterInfo: {
+          EncounterSet: "The Drowned Ruins",
+          EasyModeQuantity: 0,
+          IncludedEncounterSets: [],
+          StageNumber: null,
+          StageLetter: null,
+        },
+        Number: 98,
+        Quantity: 1,
+        Artist: "Mariusz Gandzel",
+        HasErrata: false,
+        OctgnGuid: "c95b4c6a-3dd0-4f11-8620-df7af65c11bc",
+        RingsDbCardId: "12098",
+        RingsDbPopularity: 0,
+        RingsDbVotes: 0,
+        Categories: null,
+      },
+      {
+        Title: "Twisting Hollow",
+        Slug: "Twisting-Hollow-TDRu-2",
+        IsUnique: false,
+        CardType: "Location",
+        CardSubType: "None",
+        Sphere: null,
+        Front: {
+          Subtitle: null,
+          ImagePath:
+            "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Twisting-Hollow.jpg",
+          Stats: {
+            Threat: "4",
+            QuestPoints: "14",
+          },
+          Traits: ["Underground.", "Underwater."],
+          Keywords: ["Victory 2."],
+          Text: [
+            "While Twisting Hollow is the active location, characters cannot ready from card effects.",
+            "Forced: If Twisting Hollow is the active location at the end of the quest phase, each player must discard 1 character. Then, you may flip Twisting Hollow to its Grotto side.",
+          ],
+          Shadow: null,
+          FlavorText: null,
+        },
+        Back: {
+          Subtitle: null,
+          ImagePath:
+            "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Sunken-Temple.jpg",
+          Stats: {
+            Threat: "3",
+            QuestPoints: "10",
+          },
+          Traits: ["Ruins.", "Underground.", "Underwater."],
+          Keywords: ["Victory 2."],
+          Text: [
+            "While Sunken Temple is the active location, treat each attachment as if its printed text box is blank (except for Traits).",
+            "Forced: If Sunken Temple is the active location at the end of the quest phase, discard 1 resource from each objective-ally an each hero`s resource pool. Then, you may flip Sunken Temple to its Grotto side.",
+          ],
+          Shadow: null,
+          FlavorText: null,
+        },
+        CardSet: "The Drowned Ruins",
+        EncounterInfo: {
+          EncounterSet: "The Drowned Ruins",
+          EasyModeQuantity: 0,
+          IncludedEncounterSets: [],
+          StageNumber: null,
+          StageLetter: null,
+        },
+        Number: 102,
+        Quantity: 1,
+        Artist: "Niten",
+        HasErrata: false,
+        OctgnGuid: "",
+        RingsDbCardId: "12102",
+        RingsDbPopularity: 0,
+        RingsDbVotes: 0,
+        Categories: null,
+      }
+    );
+  }
+  return extraCards;
 };
 
 const fixupCard = (card) => {
@@ -574,7 +795,11 @@ const doImport = async () => {
 
     console.log(`\tgot scenario. Saving json...`);
     if (!DRY_RUN) {
-      const allCards = sc.data.map((c) => fixupCard(c)).filter((c) => !!c);
+      const allCards = sc.data
+        .map((c) => fixupCard(c))
+        .filter((c) => !!c)
+        .concat(additionalScenarioCards(scenario.Title));
+
       fs.writeFileSync(
         path.join(scenariosDir, scenario.Title + ".json"),
         JSON.stringify(
