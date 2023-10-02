@@ -9,7 +9,7 @@ const hallOfBeorn =
 const hob_cookies =
   "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
 
-const LAST_PACK_COMPLETED = -1;
+const LAST_PACK_COMPLETED = 25;
 const LAST_SCENARIO_COMPLETED = -1;
 
 const axiosCache = {};
@@ -358,6 +358,44 @@ const campaignScenarios = {
   },
 };
 
+// Specific Card overrides
+const specificCardOverrides = {
+  "Shrine-to-Morgoth-Grotto-TDRu": {
+    Back: {
+      Subtitle: null,
+      ImagePath:
+        "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Drowned-Ruins/Shrine-to-Morgoth-Underwater.jpg",
+      Stats: {
+        Threat: "5",
+        QuestPoints: "18",
+      },
+      Traits: ["Ruins.", "Underground.", "Underwater."],
+      Keywords: ["Victory 5."],
+      Text: [
+        "Shrine to Morgoth cannot have attachments and cannot enter the staging area.",
+        "Forced: If Shrine to Morgoth is the active location at the end of the quest phase, raise each player`s threat by 5.",
+        "When Shrine to Morgoth is placed in the victory display, the players have escaped the flooded grotto and win the game.",
+      ],
+      Shadow: null,
+      FlavorText: null,
+    },
+  },
+  "Shrine-to-Morgoth-Underwater-TDRu": "DELETE",
+};
+
+const fixupCard = (card) => {
+  if (specificCardOverrides[card.Slug] === "DELETE") {
+    return undefined;
+  } else if (specificCardOverrides[card.Slug] !== undefined) {
+    return {
+      ...card,
+      ...specificCardOverrides[card.Slug],
+    };
+  }
+
+  return card;
+};
+
 const modifyCardsForCampaign = async (scenario, cards) => {
   const campaignCardsForScenario = campaignScenarios[scenario.Slug];
   cards.data = cards.data
@@ -461,6 +499,8 @@ const doImport = async () => {
         });
       console.log("\tgot all cards. Saving json...");
       pack.cards = cards.data instanceof Array ? cards.data : [];
+      pack.cards = pack.cards.map((c) => fixupCard(c)).filter((c) => !!c);
+
       fs.writeFileSync(
         path.join(packDir, pack.Name + ".json"),
         JSON.stringify(pack, null, 4)
@@ -534,6 +574,7 @@ const doImport = async () => {
 
     console.log(`\tgot scenario. Saving json...`);
     if (!DRY_RUN) {
+      const allCards = sc.data.map((c) => fixupCard(c)).filter((c) => !!c);
       fs.writeFileSync(
         path.join(scenariosDir, scenario.Title + ".json"),
         JSON.stringify(
@@ -542,7 +583,7 @@ const doImport = async () => {
             Slug: scenario.Slug,
             Product: scenario.Product,
             Number: scenario.Number,
-            AllCards: sc.data,
+            AllCards: allCards,
             Cycle: scenario.Cycle,
             SetType: scenario.SetType,
           },
