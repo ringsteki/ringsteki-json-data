@@ -611,7 +611,7 @@ const additionalScenarioCards = (scenario) => {
           StageLetter: null,
         },
         Number: 99,
-        Quantity: 2,
+        Quantity: 1,
         Artist: "Timo Karhula",
         HasErrata: false,
         OctgnGuid: "4be4e706-1bd2-455a-a712-833c1bbcea55",
