@@ -5,6 +5,388 @@
     "Number": 6,
     "AllCards": [
         {
+            "Title": "Inner Sanctum",
+            "Slug": "Inner-Sanctum-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Inner-Sanctum.jpg",
+                "Stats": {
+                    "Threat": "6",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Carn Dûm.",
+                    "Underground."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Progress cannot be placed on Inner Sanctum while it is in the staging area.\nTravel: Discard the top 3 cards of the encounter deck. Resolve the `when revealed` effects of each Sorcery card discarded by this effect.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 550875,
+            "Categories": null
+        },
+        {
+            "Title": "The Dread Realm Nightmare",
+            "Slug": "The-Dread-Realm-Nightmare-TDRN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/The-Dread-Realm-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "For at that time the realm of Angmar arose in the North beyond the Ettenmoors. Its lands lay on both sides of the Mountains, and there were gathered many evil men, and Orcs, and other fell creatures.\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Dread Realm scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n3x Witch of Angmar\n2x A Fell Dread\n1x Unholy Crypt\n1x Sinister Dungeon\n2x Dead Lord\n3x Terror of the North\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Dread Realm encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10001",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 18125,
+            "Categories": null
+        },
+        {
+            "Title": "Cursed Halls",
+            "Slug": "Cursed-Halls-TDRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Cursed-Halls.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Carn Dûm.",
+                    "Underground."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Cursed Halls is in the staging area, Sorcery attachments are immune to player card effects.\n"
+                ],
+                "Shadow": "Shadow: Until the end of the phase, attacking enemy gets +1 Attack and +1 Defense for each Reanimated Dead engaged with you.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 199667,
+            "Categories": null
+        },
+        {
+            "Title": "The Witch-king's Gift",
+            "Slug": "The-Witch-king's-Gift-TDRN",
+            "IsUnique": false,
+            "CardType": "Encounter_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/The-Witch-king's-Gift.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Time 5."
+                ],
+                "Text": [
+                    "Time 5.\nForced: When the last time counter is removed from this quest, reanimated each card in each player`s discard pile. Then, remove The Witch-king`s Gift from the game.",
+                    "When this quest is defeated, place it in the encounter discard pile.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Daechanar is powerful in the art of necromancy. His army will not rest until you join them in death."
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 190090,
+            "Categories": null
+        },
+        {
+            "Title": "Power Beyond Death",
+            "Slug": "Power-Beyond-Death-TDRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Power-Beyond-Death.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Sorcery."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Attach to the main quest. (Counts as a Condition attachment with the text: `Daechanar gets +2 Defense.`)\n"
+                ],
+                "Shadow": "Shadow: If this attack destroys a character, resolve this card`s `when revealed` effect.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10006",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 176518,
+            "Categories": null
+        },
+        {
+            "Title": "Daechanar's Curse",
+            "Slug": "Daechanar's-Curse-TDRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Daechanar's-Curse.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Sorcery."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Attach Daechanar`s Curse to the top of the first player`s deck. (Counts as a Condition attachment with the text: `The next time a player would draw 1 or more cards from attached deck, reanimate those cards instead. Then, discard Daechanar`s Curse.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Jokubas Uoginitas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 153693,
+            "Categories": null
+        },
+        {
+            "Title": "Silent Guardian",
+            "Slug": "Silent-Guardian-TDRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Silent-Guardian.jpg",
+                "Stats": {
+                    "EngagementCost": "36",
+                    "Threat": "4",
+                    "Attack": "2",
+                    "Defense": "4",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Undead."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While you are engaged with Silent Guardian, it gains: `Forced: The first time you play an event card each round, instead of discarding that card after playing it, reanimate it.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 104317,
+            "Categories": null
+        },
+        {
+            "Title": "All is Lost",
+            "Slug": "All-is-Lost-TDRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/All-is-Lost.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Sorcery."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Attach All is Lost to the first player`s threat dial. (Counts as a Condition attachment with the text: `Each time you attack a Reanimated Dead, raise your threat by 1.`)\n"
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Reanimated Dead, it attacks again after this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 77747,
+            "Categories": null
+        },
+        {
+            "Title": "Necromancer of Carn Dûm",
+            "Slug": "Necromancer-of-Carn-Dum-TDRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Necromancer-of-Carn-Dûm.jpg",
+                "Stats": {
+                    "EngagementCost": "28",
+                    "Threat": "2",
+                    "Attack": "X",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Sorcerer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When Necromancer of Carn Dûm would attack you, instead reanimate the top card of your deck and deal it each of the Necromancer of Carn Dûm`s shadow cards.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dread Realm Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Dread Realm Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 26151,
+            "Categories": null
+        },
+        {
             "Title": "Dead Lord",
             "Slug": "Dead-Lord-TLR",
             "IsUnique": false,
@@ -26,7 +408,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Dead Lord engages you, put the topmost Undead enemy in the discard pile into play engaged with you."
+                    "Forced: After Dead Lord engages you, put the topmost Undead enemy in the discard pile into play engaged with you.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, reveal 1 encounter card.",
                 "FlavorText": null
@@ -72,7 +454,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Put each copy of Cursed Dead in the discard pile into play in the staging area."
+                    "When Revealed: Put each copy of Cursed Dead in the discard pile into play in the staging area.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if there is a copy of the defending character in its owner`s discard pile).",
                 "FlavorText": null
@@ -110,7 +492,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each Undead enemy gets +1 Threat, +1 Attack, and +1 Defense until the end of the round. If there are no Undead enemies in play, Restless Evil gains surge."
+                    "When Revealed: Each Undead enemy gets +1 Threat, +1 Attack, and +1 Defense until the end of the round. If there are no Undead enemies in play, Restless Evil gains surge.\n"
                 ],
                 "Shadow": "Shadow: Each Undead enemy engaged with you gets +1 Attack and +1 Defense until the end of the round.",
                 "FlavorText": null
@@ -151,8 +533,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area."
+                    "Surge.\nForced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The undead keep rising from the grave. For each one that you strike down, another takes its place. You must do something to stem the tide..."
@@ -186,7 +567,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player discards the top 3 cards of his deck. Until the end of the round, add 2 to the total Threat in the staging area for each different card type discarded this way."
+                    "When Revealed: Each player discards the top 3 cards of his deck. Until the end of the round, add 2 to the total Threat in the staging area for each different card type discarded this way.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards the top 3 cards of his deck. Attacking enemy gets +1 Attack for each different card type discarded this way.",
                 "FlavorText": null
@@ -228,8 +609,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "When Revealed: Each player discards each ally he controls that has the same title as a card in his discard pile."
+                    "Doomed 2.\nWhen Revealed: Each player discards each ally he controls that has the same title as a card in his discard pile.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -271,8 +651,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `When a player plays a card, increase its cost by 1 if there is a card that has the same title in its owner`s discard pile.`)"
+                    "Surge.\nWhen Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `When a player plays a card, increase its cost by 1 if there is a card that has the same title in its owner`s discard pile.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Earth, air and water all seem accursed. But so our path is laid.` -Frodo, The Two Towers"
@@ -313,9 +692,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Cards in each player`s discard pile cannot leave that player`s discard pile by player card effect.",
-                    "Forced: After this stage is defeated, each player shuffles the top 5 cards of his discard pile back into his deck."
+                    "Surge.\nCards in each player`s discard pile cannot leave that player`s discard pile by player card effect.\nForced: After this stage is defeated, each player shuffles the top 5 cards of his discard pile back into his deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You must uncover the source of this evil that sets its will against yours."
@@ -349,7 +726,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Set Daechanar and Altar of Midwinter aside, out of play. Each player reveals an encounter card from the top of the encounter deck. Each player reanimates the top card of his deck."
+                    "Setup: Set Daechanar and Altar of Midwinter aside, out of play. Each player reveals an encounter card from the top of the encounter deck. Each player reanimates the top card of his deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you descend into the catacombs beneath Carn Dûm, you find yourself overcome with terror. Still, you press onward, knowing that Iârion`s fate-and perhaps the fate of the north-lies in your hand."
@@ -364,8 +741,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
-                    "When the players advance to stage 2, all Sorcery cards attached to this stage are attached to stage 2B."
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.\nWhen the players advance to stage 2, all Sorcery cards attached to this stage are attached to stage 2B.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Daechanar`s powers of sorcery and necromancy are strongest here, in the capital of the Witch-realm where the lord of the Nazgûl once resided."
@@ -404,7 +780,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Daechanar to the staging area. Make Altar of Midwinter the active location, returning any previously active location to the staging area. Each player reanimates the top card of his deck."
+                    "When Revealed: Add Daechanar to the staging area. Make Altar of Midwinter the active location, returning any previously active location to the staging area. Each player reanimates the top card of his deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A final scream fills the dreadful halls of Carn Dûm, and you suspect the worst. As you enter the site of Daechanar`s dark ritual, your fears come to life. Iârion stands before you, cracking his neck and gripping the blade at his side tightly, as though testing his muscles. Only it isn`t him."
@@ -419,8 +795,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
-                    "When Daechanar is defeated, advance to the next stage."
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.\nWhen Daechanar is defeated, advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Daechanar, in the body of your ally Iârion, laughs wickedly. Despair and frustration are the only thoughts that enter your mind. In the end, you were too late to stop this cruel fate. `Finally! Yes, this body will do nicely.` the wraith wearing the guise of your friend muses. He draws his blade."
@@ -459,7 +834,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: If there are less than X locations in the staging area, search the encounter deck and discard pile and add locations to the staging area until there are X locations in staging area. X is the number of players in the game."
+                    "When Revealed: If there are less than X locations in the staging area, search the encounter deck and discard pile and add locations to the staging area until there are X locations in staging area. X is the number of players in the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The imposter in Iârion`s body collapses in agony, and a piercing shriek echoes the halls as the sorcerer exits Iârion. `Thank you,` Iârion says with a pained smile before his eyes close for the last time. Before you can mourn your loss, the walls begin to shake and crack. The catacombs are collapsing!"
@@ -474,9 +849,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.",
-                    "Progress that would be placed on this quest is instead placed on locations in the staging area, divided as you choose.",
-                    "Forced: At the end of the quest phase, if there are any locations in play, deal 1 damage to all characters in play. If there are no locations in play, the players have escaped Carn Dûm, and win the game."
+                    "Reanimated Dead are Undead enemies with 2 Threat, 2 Attack, 2 Defense and 2 hit points.\nProgress that would be placed on this quest is instead placed on locations in the staging area, divided as you choose.\nForced: At the end of the quest phase, if there are any locations in play, deal 1 damage to all characters in play. If there are no locations in play, the players have escaped Carn Dûm, and win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -525,9 +898,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
-                    "Daechanar gets +1 Attack for each Sorcery card in play, and gains indestructible while at least 1 Sorcery card is in play.",
-                    "Forced: When Daechanar is damaged, if there is at least 1 Sorcery card in play, cancel all damage just dealt and remove a Sorcery card from the game."
+                    "Cannot have attachments.\nDaechanar gets +1 Attack for each Sorcery card in play, and gains indestructible while at least 1 Sorcery card is in play.\nForced: When Daechanar is damaged, if there is at least 1 Sorcery card in play, cancel all damage just dealt and remove a Sorcery card from the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -573,8 +944,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "While Daechanar is in play, progress cannot be placed on Altar of Widwinter.",
-                    "Forced: At the end of the staging step, the first player must either reveal 1 additional card from the encounter deck, or reanimate the top card of his deck."
+                    "While Daechanar is in play, progress cannot be placed on Altar of Widwinter.\nForced: At the end of the staging step, the first player must either reveal 1 additional card from the encounter deck, or reanimate the top card of his deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -621,7 +991,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Dwimmerlaik attacks and destroys a character, the defending player reanimates that character and deals it 1 shadow card."
+                    "Forced: After Dwimmerlaik attacks and destroys a character, the defending player reanimates that character and deals it 1 shadow card.\n"
                 ],
                 "Shadow": "Shadow: If this attacks destroys a character, reanimate that character and deal it 1 shadow card.",
                 "FlavorText": null
@@ -668,7 +1038,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When you resolve shadow cards dealt to Witch of Angmar, if they have the Sorcery trait, resolve their `when revealed` effects. (Resolve any shadow effects first.)"
+                    "Forced: When you resolve shadow cards dealt to Witch of Angmar, if they have the Sorcery trait, resolve their `when revealed` effects. (Resolve any shadow effects first.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -715,7 +1085,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Wraith of Carn Dûm leaves play, attach it to a character in play. (Counts as a Sorcery attachment with the text: `Attached character has -1 Willpower, -1 Attack, and -1 Defense. If the attached character leaves play, return Wraith of Carn Dûm to the staging area as an enemy.`)"
+                    "Forced: When Wraith of Carn Dûm leaves play, attach it to a character in play. (Counts as a Sorcery attachment with the text: `Attached character has -1 Willpower, -1 Attack, and -1 Defense. If the attached character leaves play, return Wraith of Carn Dûm to the staging area as an enemy.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -759,7 +1129,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Sinister Dungeon is explored, the first player reanimates a random card from his hand and deals Sinister Dungeon to it facedown as a shadow card."
+                    "Forced: When Sinister Dungeon is explored, the first player reanimates a random card from his hand and deals Sinister Dungeon to it facedown as a shadow card.\n"
                 ],
                 "Shadow": "Shadow: Discard the top 2 cards of the encounter deck. Resolve the `when revealed` effects of each Sorcery card discarded by this effect.",
                 "FlavorText": null
@@ -803,11 +1173,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the round, discard the top card of each player`s deck. Each player must reanimate each ally discarded by this effect.",
-                    "Travel: Deal 1 shadow card to each Undead enemy in play to travel here."
+                    "Forced: At the end of the round, discard the top card of each player`s deck. Each player must reanimate each ally discarded by this effect.\nTravel: Deal 1 shadow card to each Undead enemy in play to travel here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "He could see nothing but the dim flame of the torches; but if the company halted, there seemed and endless whisper of voices all about him...\r\n-The Return of the King"
+                "FlavorText": "He could see nothing but the dim flame of the torches; but if the company halted, there seemed and endless whisper of voices all about him...\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Dread Realm",
@@ -848,7 +1217,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Dark Halls is in the staging area, each Reanimated Dead gets +1 Attack and +1 Defense."
+                    "While Dark Halls is in the staging area, each Reanimated Dead gets +1 Attack and +1 Defense.\n"
                 ],
                 "Shadow": "Shadow: If there is a copy of the defending character in your discard pile, reanimate it and deal it 1 shadow card.",
                 "FlavorText": null
@@ -892,7 +1261,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Unholy Crypt gets +1 Threat for each Reanimated Dead in play."
+                    "Unholy Crypt gets +1 Threat for each Reanimated Dead in play.\n"
                 ],
                 "Shadow": "Shadow: if this attack destroys a character, reanimate that character and deal it 1 shadow card.",
                 "FlavorText": null
@@ -934,8 +1303,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
-                    "Doomed 1.",
-                    "When Revealed: Destroy the highest cost ally in play. That ally`s controller reanimates that character, adds it to the staging area, and attaches Possesion to it. (Counts as a Condition attachment with the text: `If Possession is discarded, the attached card is also discarded.`)"
+                    "Doomed 1.\nWhen Revealed: Destroy the highest cost ally in play. That ally`s controller reanimates that character, adds it to the staging area, and attaches Possesion to it. (Counts as a Condition attachment with the text: `If Possession is discarded, the attached card is also discarded.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -975,7 +1343,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The player with the highest threat must attach A Fell Dread to a hero he controls without A Fell Dread Attached. (Counts as a Condition attachment with the text: `Attached hero`s Willpower is reduced to 0. During the quest phase, attached hero must commit to the quest, if able.`)"
+                    "When Revealed: The player with the highest threat must attach A Fell Dread to a hero he controls without A Fell Dread Attached. (Counts as a Condition attachment with the text: `Attached hero`s Willpower is reduced to 0. During the quest phase, attached hero must commit to the quest, if able.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1015,7 +1383,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach Death and Calamity to the current quest. Then, the first player reanimates the top X cards of his deck, where X is the number of copies of Death and Calamity in play."
+                    "When Revealed: Attach Death and Calamity to the current quest. Then, the first player reanimates the top X cards of his deck, where X is the number of copies of Death and Calamity in play.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +X Attack, where X is the number of Sorcery cards in play.",
                 "FlavorText": null
@@ -1035,401 +1403,6 @@
             "HasErrata": false,
             "OctgnGuid": "205f938d-8dc8-4366-adc0-35897aaef600",
             "RingsDbCardId": "10164",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Dread Realm Nightmare",
-            "Slug": "The-Dread-Realm-Nightmare-TDRN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/The-Dread-Realm-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode."
-                ],
-                "Shadow": null,
-                "FlavorText": "For at that time the realm of Angmar arose in the North beyond the Ettenmoors. Its lands lay on both sides of the Mountains, and there were gathered many evil men, and Orcs, and other fell creatures.\r\n-The Return of the King"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Dread Realm scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "3x Witch of Angmar",
-                    "2x A Fell Dread",
-                    "1x Unholy Crypt",
-                    "1x Sinister Dungeon",
-                    "2x Dead Lord",
-                    "3x Terror of the North",
-                    "Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Dread Realm encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Silent Guardian",
-            "Slug": "Silent-Guardian-TDRN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Silent-Guardian.jpg",
-                "Stats": {
-                    "EngagementCost": "36",
-                    "Threat": "4",
-                    "Attack": "2",
-                    "Defense": "4",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Undead."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While you are engaged with Silent Guardian, it gains: `Forced: The first time you play an event card each round, instead of discarding that card after playing it, reanimate it.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 2,
-            "Artist": "JB Casacop",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Necromancer of Carn Dûm",
-            "Slug": "Necromancer-of-Carn-Dum-TDRN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Necromancer-of-Carn-Dûm.jpg",
-                "Stats": {
-                    "EngagementCost": "28",
-                    "Threat": "2",
-                    "Attack": "X",
-                    "Defense": "3",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Sorcerer."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: When Necromancer of Carn Dûm would attack you, instead reanimate the top card of your deck and deal it each of the Necromancer of Carn Dûm`s shadow cards."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Sara Biddle",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Inner Sanctum",
-            "Slug": "Inner-Sanctum-TDRN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Inner-Sanctum.jpg",
-                "Stats": {
-                    "Threat": "6",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Carn Dûm.",
-                    "Underground."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Progress cannot be placed on Inner Sanctum while it is in the staging area.",
-                    "Travel: Discard the top 3 cards of the encounter deck. Resolve the `when revealed` effects of each Sorcery card discarded by this effect."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 2,
-            "Artist": "Federico Musetti",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cursed Halls",
-            "Slug": "Cursed-Halls-TDRN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Cursed-Halls.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Carn Dûm.",
-                    "Underground."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Cursed Halls is in the staging area, Sorcery attachments are immune to player card effects."
-                ],
-                "Shadow": "Shadow: Until the end of the phase, attacking enemy gets +1 Attack and +1 Defense for each Reanimated Dead engaged with you.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Federico Musetti",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Power Beyond Death",
-            "Slug": "Power-Beyond-Death-TDRN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Power-Beyond-Death.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Sorcery."
-                ],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to the main quest. (Counts as a Condition attachment with the text: `Daechanar gets +2 Defense.`)"
-                ],
-                "Shadow": "Shadow: If this attack destroys a character, resolve this card`s `when revealed` effect.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "JB Casacop",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Daechanar's Curse",
-            "Slug": "Daechanar's-Curse-TDRN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/Daechanar's-Curse.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Sorcery."
-                ],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: Attach Daechanar`s Curse to the top of the first player`s deck. (Counts as a Condition attachment with the text: `The next time a player would draw 1 or more cards from attached deck, reanimate those cards instead. Then, discard Daechanar`s Curse.`)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Jokubas Uoginitas",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "All is Lost",
-            "Slug": "All-is-Lost-TDRN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/All-is-Lost.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Sorcery."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Attach All is Lost to the first player`s threat dial. (Counts as a Condition attachment with the text: `Each time you attack a Reanimated Dead, raise your threat by 1.`)"
-                ],
-                "Shadow": "Shadow: If attacking enemy is a Reanimated Dead, it attacks again after this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Dread Realm Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Witch-king's Gift",
-            "Slug": "The-Witch-king's-Gift-TDRN",
-            "IsUnique": false,
-            "CardType": "Encounter_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dread-Realm-Nightmare/The-Witch-king's-Gift.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Time 5."
-                ],
-                "Text": [
-                    "Time 5.",
-                    "Forced: When the last time counter is removed from this quest, reanimated each card in each player`s discard pile. Then, remove The Witch-king`s Gift from the game.",
-                    "When this quest is defeated, place it in the encounter discard pile."
-                ],
-                "Shadow": null,
-                "FlavorText": "Daechanar is powerful in the art of necromancy. His army will not rest until you join them in death."
-            },
-            "Back": null,
-            "CardSet": "The Dread Realm Nightmare",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

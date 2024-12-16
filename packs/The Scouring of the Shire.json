@@ -2,7 +2,7 @@
     "Name": "The Scouring of the Shire",
     "Slug": "The-Scouring-of-the-Shire",
     "Abbreviation": "TSotS",
-    "Cycle": null,
+    "Cycle": "ALeP Standalone",
     "SetType": "A_Long_extended_Party",
     "Cards": null,
     "cards": [
@@ -28,7 +28,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Frodo Baggins commits to the quest, spend 1 resource from his resource pool to ready another unique character committed to the quest. If you quest successfully this phase, reduce your threat by 1."
+                    "Response: After Frodo Baggins commits to the quest, spend 1 resource from his resource pool to ready another unique character committed to the quest. If you quest successfully this phase, reduce your threat by 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -60,12 +60,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "You cannot use this contract unless you have destroyed The One Ring and won The Scouring of the Shire in campaign mode.",
-                    "Your deck must contain an equal number of cards with a printed cost of 1, 2, 3, 4, and 5.",
-                    "Setup: Search the top 10 cards of your deck for an ally with a printed cost of 3 or less and put it into play. Shuffle your deck and flip this card over."
+                    "You cannot use this contract unless you have destroyed The One Ring and won The Scouring of the Shire in campaign mode.\nYour deck must contain an equal number of cards with a printed cost of 1, 2, 3, 4, and 5.\nSetup: Search the top 10 cards of your deck for an ally with a printed cost of 3 or less and put it into play. Shuffle your deck and flip this card over.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "“I tried to save the Shire, and it has been saved, but not for me.”\r\n-Frodo Baggins, The Return of the King"
+                "FlavorText": "“I tried to save the Shire, and it has been saved, but not for me.”\n-Frodo Baggins, The Return of the King"
             },
             "Back": {
                 "Subtitle": null,
@@ -74,9 +72,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Into the West is immune to the effects of other cards and cannot leave your control or leave play. Allies you play from your hand cannot have their cost reduced by more than 2.",
-                    "Forced: At the beginning of the quest phase, attach Into the West to an ally you control, if able.",
-                    "Forced: At the end of the refresh phase, distribute X resources among heroes you control, where X is the attached card`s printed cost. Remove the attached card from the game and draw 1 card."
+                    "Into the West is immune to the effects of other cards and cannot leave your control or leave play. Allies you play from your hand cannot have their cost reduced by more than 2.\nForced: At the beginning of the quest phase, attach Into the West to an ally you control, if able.\nForced: At the end of the refresh phase, distribute X resources among heroes you control, where X is the attached card`s printed cost. Remove the attached card from the game and draw 1 card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -112,12 +108,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gains +2 hit points (+3 hit points instead if attached hero is a Hobbit).",
-                    "Action: Exhaust Heightened Stature to heal 1 damage from attached hero."
+                    "Attach to a hero.\nAttached hero gains +2 hit points (+3 hit points instead if attached hero is a Hobbit).\nAction: Exhaust Heightened Stature to heal 1 damage from attached hero.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "“Mortals cannot go drinking ent-draughts and expect no more to come of them than of a pot of beer.”\r\n-Gimli, The Return of the King"
+                "FlavorText": "“Mortals cannot go drinking ent-draughts and expect no more to come of them than of a pot of beer.”\n-Gimli, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Scouring of the Shire",
@@ -154,9 +148,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Frodo Baggins.",
-                    "Response: After Frodo Baggins is declared as a defender, spend 1 Fellowship resource to reduce your threat by the attacking enemy`s Threat. Until the end of the round, that enemy cannot take damage.",
-                    "If Frodo Baggins leaves play, the players lose the game."
+                    "The first player gains control of Frodo Baggins.\nResponse: After Frodo Baggins is declared as a defender, spend 1 Fellowship resource to reduce your threat by the attacking enemy`s Threat. Until the end of the round, that enemy cannot take damage.\nIf Frodo Baggins leaves play, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -194,12 +186,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +1 Willpower.",
-                    "If attached hero is a Hobbit, it does not exhaust to quest."
+                    "Attach to a hero.\nAttached hero gets +1 Willpower.\nIf attached hero is a Hobbit, it does not exhaust to quest.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "“When the memory of the fear and the darkness troubles you, this will bring you aid.”\r\n-Arwen, The Return of the King"
+                "FlavorText": "“When the memory of the fear and the darkness troubles you, this will bring you aid.”\n-Arwen, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Scouring of the Shire",
@@ -234,11 +224,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Attached hero gets +1 Defense (+2 Defense instead if attached hero is a Hobbit)."
+                    "Attach to a hero.\nAttached hero gets +1 Defense (+2 Defense instead if attached hero is a Hobbit).\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "“They wouldn`t go for armed folk, with swords and helmets and shields and all. Make them think twice, that would.”\r\n-Barliman Butterbur, The Return of the King"
+                "FlavorText": "“They wouldn`t go for armed folk, with swords and helmets and shields and all. Make them think twice, that would.”\n-Barliman Butterbur, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Scouring of the Shire",
@@ -273,11 +262,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a hero.",
-                    "Action: Exhaust Scatha`s Horn to choose an attacking enemy. Until the end of the phase, that enemy gets −1 Attack (−2 Attack instead if the defending character is a Hobbit hero)."
+                    "Attach to a hero.\nAction: Exhaust Scatha`s Horn to choose an attacking enemy. Until the end of the phase, that enemy gets −1 Attack (−2 Attack instead if the defending character is a Hobbit hero).\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "“He that blows it at need shall set fear in the hearts of his enemies.”\r\n-Éowyn, The Return of the King"
+                "FlavorText": "“He that blows it at need shall set fear in the hearts of his enemies.”\n-Éowyn, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Scouring of the Shire",

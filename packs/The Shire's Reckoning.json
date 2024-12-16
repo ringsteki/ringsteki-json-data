@@ -1,0 +1,826 @@
+{
+    "Name": "The Shire's Reckoning",
+    "Slug": "The-Shire's-Reckoning",
+    "Abbreviation": "TSR",
+    "Cycle": "Fell Summer",
+    "SetType": "A_Long_extended_Party",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "Elena",
+            "Slug": "Elena-TSR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Elena.png",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Minstrel."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost of each Instrument attachment you play by 1.\nSetup: Search your deck for an Instrument attachment and add it to your hand. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Tom Bombadil",
+            "Slug": "Tom-Bombadil-TSR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Tom-Bombadil.png",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "X",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Legend.",
+                    "Minstrel."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is the number of Song cards attached to Tom Bombadil.\nResponse: After you play a Song card, either deal 2 damage to an enemy engaged with a player or heal 2 damage from a character. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Nico Rigobello",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Goldberry",
+            "Slug": "Goldberry-TSR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Goldberry.png",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "3",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Spirit.",
+                    "Healer.",
+                    "Minstrel."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Minstrel characters with at least 1 Song attachment do not exhaust to quest.\nResponse: After you play a Song event, attach it to a Minstrel character. It counts as a Song attachment with a blank text box. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Nico Rigobello",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lobelia Sackville-Baggins",
+            "Slug": "Lobelia-Sackville-Baggins-TSR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Lobelia-Sackville-Baggins.png",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Burglar."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "You may look at other players– hands at any time.\nAction: Choose an Item attachment in play or in a player–s hand. Pay X resources to attach it to Lobelia Sackville-Baggins, even if she is ineligible for it. X is its printed cost. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Katerina Poliakova",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "An Unexpected Party",
+            "Slug": "An-Unexpected-Party-TSR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/An-Unexpected-Party.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Search the top 10 cards of your deck for up to 2 cards with the Song, Instrument, or Minstrel trait and add them to your hand. Shuffle the other cards back into your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Chip the glasses and crack the plates!\nBlunt the knives and bend the forks!\nThat–s what Bilbo Baggins hates\nSmash the bottles and burn the corks!\n–The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Song of Slumber",
+            "Slug": "Song-of-Slumber-TSR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Song-of-Slumber.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song.",
+                    "Spell."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a Minstrel hero.\nCombat Action: Choose up to 2 enemies engaged with you. Those enemies cannot attack you this phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "All his court were cast down in slumber, and all the fires faded and were quenched…\n–The Silmarillion"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Songs of Slaying",
+            "Slug": "Songs-of-Slaying-TSR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Songs-of-Slaying.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Each Minstrel character gets +1 Attack until the end of the phase. Each character with a Song attachment gets +1 Attack until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Spear shall be shaken, shield be splintered,\nA sword-day, a red day, ere the sun rises!\n–The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wooden Lyre",
+            "Slug": "Wooden-Lyre-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Wooden-Lyre.png",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Instrument."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Leadership or Minstrel hero. Restricted.\nAction: Exhaust an Instrument attachment to give a character defending an attack +1 Defense for that attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "…for ever blending its innumerable notes in an endless changeful music.\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-TSR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Bilbo-Baggins.png",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Minstrel."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Bilbo Baggins commits to the quest, look at the top card of your deck. If that card has flavor text, you may (choose 1): leave it there, discard it, or spend 1 Lore resource to add it to your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There he wandered long in a dream of music that turned into running water, and then suddenly into a voice. It seemed to be the voice of Bilbo chanting verses.\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Jan Pospisil",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hey Dol! Merry Dol!",
+            "Slug": "Hey-Dol-Merry-Dol-TSR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Hey-Dol-Merry-Dol.png",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Reduce your threat by 1. Then, if this is the first time you played a copy of Hey Dol! Merry Dol! this round, you may exhaust a Minstrel hero to return it to your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Hey dol! merry dol! ring a dong dillo!\nRing a dong! hop along! fal lal the willow!\nTom Bom, jolly Tom, Tom Bombadillo!\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fatty Lumpkin",
+            "Slug": "Fatty-Lumpkin-TSR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Fatty-Lumpkin.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Tom Bombadil or a Hobbit character.\nAction: Exhaust Fatty Lumpkin to ready a character you control with a Mount attachment.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "“But now, my jolly Lumpkin, old Tom–s going to ride.”\n–Tom Bombadil, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bronze Bell",
+            "Slug": "Bronze-Bell-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Bronze-Bell.png",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Instrument."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Lore or Minstrel hero. Restricted.\nAction: Exhaust an Instrument attachment to choose a player. Each enemy engaged with that player gets ΓÇô1 Defense until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Three strokes it rang, like silver in the air, and ceased: the third hour from the rising of the sun.\n–The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Daughter of Withywindle",
+            "Slug": "Daughter-of-Withywindle-TSR",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Daughter-of-Withywindle.png",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Spirit.",
+                    "Minstrel."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Daughter of Withywindle enters play, choose a hero with a Song attachment. Until the end of the round, that hero gains the Leadership, Lore, Spirit, and Tactics icons.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "O spring-time and summer-time, and spring again after!\nO wind on the waterfall, and the leaves– laughter!\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-TSR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Frodo-Baggins.png",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Frodo Baggins to return a card from your discard pile to your hand. (Limit once per game.)\nIf Frodo Baggins is destroyed, or if he is discarded from play by a card effect, the players lose the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "“I wish it need not have happened in my time.”\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Nia Kovalevski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo's Walking Song",
+            "Slug": "Bilbo's-Walking-Song-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Bilbo's-Walking-Song.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Hobbit or Minstrel character.\nAction: Exhaust attached character to place 1 progress on a location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Still round the corner there may wait\nA new road or a secret gate,\nAnd though we pass them by today,\nTomorrow we may come this way\nAnd take the hidden paths that run\nTowards the Moon or to the Sun.\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Let Us Sing Together",
+            "Slug": "Let-Us-Sing-Together-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Let-Us-Sing-Together.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a hero with the printed Minstrel trait.\nAttach to a character. Limit 1 per character. Attached character gets +1 Willpower and gains the Minstrel trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Reeds by the shady pool, lilies on the water:\nOld Tom Bombadil and the River-daughter!\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 16,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lamenter of the Lost",
+            "Slug": "Lamenter-of-the-Lost-TSR",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Lamenter-of-the-Lost.png",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Ent.",
+                    "Minstrel."
+                ],
+                "Keywords": [
+                    "Devoted."
+                ],
+                "Text": [
+                    "Devoted. Enters play exhausted.\nCannot have restricted attachments.\nResponse: After Lamenter of the Lost enters play, discard an Ent or Song card from your hand to ready it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Come back to me! Come back to me…\n–The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo's Spoons",
+            "Slug": "Bilbo's-Spoons-TSR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Bilbo's-Spoons.png",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Mathom."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique Hobbit character. Attach to a hero.\nAttached hero collects 1 additional resource during the resource phase.\nForced: At the beginning of the planning phase, either discard Bilbo–s Spoons from play or attach it to a hero with a higher threat cost than the attached hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 18,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "A Burglar Indeed!",
+            "Slug": "A-Burglar-Indeed-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/A-Burglar-Indeed.png",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero. Limit 1 per hero.\nAction: Exhaust A Burglar Indeed! to choose a card with a guarded attachment. Deal 1 damage to that card if it is an enemy, or place 1 progress on that card if it is a location (deal 2 damage or place 2 progress instead if attached hero is Bilbo Baggins).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "“he lifted it, shut his eyes, and put it in his deepest pocket. “Now I am a burglar indeed!” thought he.\n–Bilbo Baggins, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Golden Horn",
+            "Slug": "Golden-Horn-TSR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/Golden-Horn.png",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Instrument."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Tactics or Minstrel hero. Restricted.\nAction: Exhaust an Instrument attachment to give an enemy in the staging area -1 Threat until the end of the phase. If this effect reduces the enemy–s Threat to 0, deal 1 damage to it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "At that moment, among the trees nearby, a horn rang out.\n–The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Riddle-game",
+            "Slug": "The-Riddle-game-TSR",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Shire's-Reckoning/The-Riddle-game-SideA.png",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Choose a hero you control to be “the Thief”. If the Thief has the Hobbit trait, place 1 progress token here. Choose an attachment in your collection with the guarded (X) keyword to be “the Birthday-present”. Attach it to the Thief, ignoring the guarded (X) keyword. Search your collection for Hungry Creature and put it into play engaged with you. Flip this card over.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "The Thief cannot be discarded from play or ready more than once per phase.\nForced: After you place a third progress token here, remove Hungry Creature and The Riddle-game from the game.\nForced: After you place a third damage token here, remove Hungry Creature, the Thief, the Birthday-present, and The Riddle-game from the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Shire's Reckoning",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 1,
+            "Artist": "Sansiia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

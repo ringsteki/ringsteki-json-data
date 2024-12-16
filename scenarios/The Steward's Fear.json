@@ -5,6 +5,439 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Faithless Conspirator",
+            "Slug": "Faithless-Conspirator-TSFN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Faithless-Conspirator.jpg",
+                "Stats": {
+                    "EngagementCost": "40",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Brigand."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the active location has at least 1 facedown card underneath it, Faithless Conspirator cannot take damage.\n"
+                ],
+                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Rick Price",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06005",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 1120201,
+            "Categories": null
+        },
+        {
+            "Title": "Traitors' Den",
+            "Slug": "Traitors'-Den-TSFN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Traitors'-Den.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Underworld.",
+                    "City."
+                ],
+                "Keywords": [
+                    "Underworld 1."
+                ],
+                "Text": [
+                    "Underworld 1.\nForced: At the end of the round, place 1 resource token on Traitors` Den. Then, if it has 4 or more resource tokens on it, remove all tokens from it and reveal at random one of the Plot cards removed from the game during setup. Add that card to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06006",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 708768,
+            "Categories": null
+        },
+        {
+            "Title": "The Cabal's Champion",
+            "Slug": "The-Cabal's-Champion-TSFN",
+            "IsUnique": false,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/The-Cabal's-Champion.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Surge.",
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Surge. Doomed 1.\nIf The Cabal`s Champion is unattached and in the staging area, attach it to a Villain enemy, if able. (Counts as a Title attachment with the text: `Attached enemy gets +1 Threat, +1 Attack, +1 Defense, and +2 hit points.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Ed Mattinian",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06010",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 555011,
+            "Categories": null
+        },
+        {
+            "Title": "Arched Tunnel",
+            "Slug": "Arched-Tunnel-TSFN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Arched-Tunnel.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Underworld.",
+                    "City."
+                ],
+                "Keywords": [
+                    "Underworld 1."
+                ],
+                "Text": [
+                    "Underworld 1.\nTravel: Reveal all facedown cards underneath Arched Tunnel, one at a time. Then, place the top card of the underworld deck facedown underneath Arched Tunnel, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "And each time that it passed the line of the Great Gate it went through an arched tunnel...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06008",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 337340,
+            "Categories": null
+        },
+        {
+            "Title": "False Accusations",
+            "Slug": "False-Accusations-TSFN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/False-Accusations.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Scheme."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must either raise his threat by 5 or exhaust each ready character he controls.\n"
+                ],
+                "Shadow": "Shadow: After this attack, return attacking enemy to the staging area. Then, it makes engagement checks against each player.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06009",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 329880,
+            "Categories": null
+        },
+        {
+            "Title": "Murderous Turncoat",
+            "Slug": "Murderous-Turncoat-TSFN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Murderous-Turncoat.jpg",
+                "Stats": {
+                    "EngagementCost": "20",
+                    "Threat": "1",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Brigand."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Murderous Turncoat makes an immediate attack against the first player.\nForced: At the end of the combat phase, place Murderous Turncoat facedown underneath the active location if you are not at stage 3.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Jon Bosco",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 326659,
+            "Categories": null
+        },
+        {
+            "Title": "Assassination",
+            "Slug": "Assassination-TSFN",
+            "IsUnique": false,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Assassination.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Plot."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Attach Assassination to the hero with the highest threat cost. (Counts as a Plot attachment with the text: `Each enemy gets +1 Attack. Attached hero cannot be healed. Damage from undefended attacks and A Knife in the Back must be assigned to attached hero. If attached hero leaves play, the players lose the game.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06003",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 248453,
+            "Categories": null
+        },
+        {
+            "Title": "Rise to Power",
+            "Slug": "Rise-to-Power-TSFN",
+            "IsUnique": false,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Rise-to-Power.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Plot."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Rise to Power contributes X Threat to the staging area during the quest phase, where X is the number of resources on it.\nForced: At the end of the round, place 2 resources on Rise to Power.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241901,
+            "Categories": null
+        },
+        {
+            "Title": "The Steward's Fear Nightmare",
+            "Slug": "The-Steward's-Fear-Nightmare-TSFN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/The-Steward's-Fear-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nSetup: Shuffle each copy of False Accusations into the underworld deck. When randomly determining which Plot is the `hidden` plot card, include the 2 new Plot cards from the Nightmare Deck, as well as the 3 Plot cards from the original scenario.\nForced: After an enemy is destroyed, shuffle it into the underworld deck if you are not at stage 3.\nForced: At the beginning of the refresh phase, if there is a Clue card in the staging area, shuffle it back into the underworld deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Thus the will of Sauron entered into Minas Tirith...`\n-Gandalf, The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Steward`s Fear scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n3x Pickpocket\n3x Underworld Dissident\n2x Storehouse\n2x Market Square\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Steward`s Fear encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 11684,
+            "Categories": null
+        },
+        {
+            "Title": "Rath Celerdain",
+            "Slug": "Rath-Celerdain-TSFN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Rath-Celerdain.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Rath Celerdain is in the staging area, it gains: `Forced: At the beginning of the encounter phase, reveal the top card of the underworld deck. If it is an objective, discard it.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...go down to the lowest circle and ask for the Old Guesthouse in the Rath Celerdain, the Lampwrights` Street.`\n-Beregond, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "The Steward's Fear Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Steward's Fear Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 143331,
+            "Categories": null
+        },
+        {
             "Title": "Pickpocket",
             "Slug": "Pickpocket-HoN",
             "IsUnique": false,
@@ -26,7 +459,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Pickpocket attacks, the defending player discards 1 resource from one of his heroes` resource pools and 1 card at random from his hand."
+                    "Forced: When Pickpocket attacks, the defending player discards 1 resource from one of his heroes` resource pools and 1 card at random from his hand.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards 1 of his attachments. (Discard all of his attachments instead if undefended.)",
                 "FlavorText": null
@@ -71,8 +504,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "While City Street is in the staging area, players cannot travel to a location that does not have the title City Street."
+                    "Surge.\nWhile City Street is in the staging area, players cannot travel to a location that does not have the title City Street.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -115,8 +547,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Travel: Each player must spend 1 resource from one of his heroes` resource pools to travel here."
+                    "Immune to player card effects.\nTravel: Each player must spend 1 resource from one of his heroes` resource pools to travel here.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards all resources in his heroes` resource pools.",
                 "FlavorText": null
@@ -154,7 +585,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 City location and add it to the staging area, if able. Shuffle the encounter deck. This effect cannot be canceled."
+                    "When Revealed: Each player must search the encounter deck and discard pile for 1 City location and add it to the staging area, if able. Shuffle the encounter deck. This effect cannot be canceled.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards his hand.",
                 "FlavorText": null
@@ -192,7 +623,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: `When attached hero exhausts, readies, or triggers an ability, raise its controller`s threat by 1.`)"
+                    "When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: `When attached hero exhausts, readies, or triggers an ability, raise its controller`s threat by 1.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...they all got an uncomfortable feeling that they were being watched with disapproval, deepening to dislike and even enmity. -The Fellowship of the Ring"
@@ -238,7 +669,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Zealous Traitor engages a player, that player must deal 1 damage to each ally he controls. (2 damage instead if Zealous Traitor was not optionally engaged.)"
+                    "Forced: When Zealous Traitor engages a player, that player must deal 1 damage to each ally he controls. (2 damage instead if Zealous Traitor was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -284,7 +715,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Lossarnach Bandit engages a player, that player discards 1 resource from each of his heroes` resource pools. (2 resources instead if Lossarnach Bandit was not optionally engaged.)"
+                    "Forced: When Lossarnach Bandit engages a player, that player discards 1 resource from each of his heroes` resource pools. (2 resources instead if Lossarnach Bandit was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -332,8 +763,7 @@
                     "Archery 2."
                 ],
                 "Text": [
-                    "Archery 2.",
-                    "Forced: When Umbar Assassin engages a player, that player must deal 3 damage to a hero he controls. (Discard that hero instead if Umbar Assassin was not optionally engaged.)"
+                    "Archery 2.\nForced: When Umbar Assassin engages a player, that player must deal 3 damage to a hero he controls. (Discard that hero instead if Umbar Assassin was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -371,7 +801,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Return all Brigand enemies engaged with players to the staging area. If this effect returned no Brigand enemies to the staging area, Lurking in Shadows gains surge."
+                    "When Revealed: Return all Brigand enemies engaged with players to the staging area. If this effect returned no Brigand enemies to the staging area, Lurking in Shadows gains surge.\n"
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after it attacks.",
                 "FlavorText": null
@@ -411,7 +841,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Create the underworld deck. Remove Roots of Mindolluin from the encounter deck and set it aside, out of play. Shuffle all Villain cards and randomly set one aside, out of play, without looking at it. Remove the others from the game. Repeat this with all Plot cards."
+                    "Setup: Create the underworld deck. Remove Roots of Mindolluin from the encounter deck and set it aside, out of play. Shuffle all Villain cards and randomly set one aside, out of play, without looking at it. Remove the others from the game. Repeat this with all Plot cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Even as foes mass from without, the Steward of Minas Tirith fears there are enemies within. You have been asked to investigate the possibility of a conspiracy within the White City..."
@@ -426,9 +856,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Search the encounter deck for The Fourth Star and make it the active location. Shuffle the encounter deck.",
-                    "Forced: After the active location leaves play as an explored location, place 1 resource token on this quest.",
-                    "If there are 4 or more resource tokens on Conspiracy, advance to the next stage."
+                    "When Revealed: Search the encounter deck for The Fourth Star and make it the active location. Shuffle the encounter deck.\nForced: After the active location leaves play as an explored location, place 1 resource token on this quest.\nIf there are 4 or more resource tokens on Conspiracy, advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You begin your investigation at The Fourth Star, a popular tavern..."
@@ -470,7 +898,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Reveal the set aside Plot card and add it to the staging area."
+                    "When Revealed: Reveal the set aside Plot card and add it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have uncovered crucial information about the dissident plot, and even gleaned hints of teh conspirator`s secretive leader. Clues have led you to a cavern deep in the heart of Mount Mindolluin. As you descend into the ancient rock, you begin to suspect the clues that led you here may have been misleading... that you may have been lured away from the city streets for a purpose."
@@ -485,9 +913,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Make Roots of Mindolluin the active location, returning any other active location to the staging area.",
-                    "Forced: After the active location leaves play as an explored location place 1 resource token on this quest.",
-                    "If there are 4 or more resource tokens on The Grand Design, advance to the next stage."
+                    "When Revealed: Make Roots of Mindolluin the active location, returning any other active location to the staging area.\nForced: After the active location leaves play as an explored location place 1 resource token on this quest.\nIf there are 4 or more resource tokens on The Grand Design, advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -529,7 +955,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Reveal the set aside Villain card and add it to the staging area."
+                    "When Revealed: Reveal the set aside Villain card and add it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have unmasked the conspiracy and its champion is upon you. The wheels of treachery are in motion, and only a heroic effort can stop the cabal`s plan in time..."
@@ -544,8 +970,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Shuffle the underworld deck into the encounter deck.",
-                    "The players cannot defeat this stage while a Villain is in play. If this stage is defeated, the players have won the game."
+                    "When Revealed: Shuffle the underworld deck into the encounter deck.\nThe players cannot defeat this stage while a Villain is in play. If this stage is defeated, the players have won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -593,7 +1018,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Underworld Dissident gets +1 Attack for each Underworld location in play."
+                    "Underworld Dissident gets +1 Attack for each Underworld location in play.\n"
                 ],
                 "Shadow": "Shadow: If this attack is undefended, remove 1 token from the current quest.",
                 "FlavorText": null
@@ -640,8 +1065,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Daughter of Berúthiel cannot be optionally engaged.",
-                    "Forced: After Daughter of Berúthiel attacks, return her to the staging area. The engaged player may raise his threat by 4 to prevent this effect."
+                    "Daughter of Berúthiel cannot be optionally engaged.\nForced: After Daughter of Berúthiel attacks, return her to the staging area. The engaged player may raise his threat by 4 to prevent this effect.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -688,8 +1112,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After The Hand of Castamir attacks, reveal the top card of the encounter deck, resolve its effects, and discard it.",
-                    "Forced: After a treachery card is revealed from the encounter deck, The Hand of Castamir makes an immediate attack against the first player."
+                    "Forced: After The Hand of Castamir attacks, reveal the top card of the encounter deck, resolve its effects, and discard it.\nForced: After a treachery card is revealed from the encounter deck, The Hand of Castamir makes an immediate attack against the first player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -736,8 +1159,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Telemnar`s Bane attacks, discard the top 3 cards of each player`s deck.",
-                    "Forced: After a player plays an event card, Telemnar`s Bane makes an immediate attack against the first player."
+                    "Forced: When Telemnar`s Bane attacks, discard the top 3 cards of each player`s deck.\nForced: After a player plays an event card, Telemnar`s Bane makes an immediate attack against the first player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -783,8 +1205,7 @@
                     "Underworld 1."
                 ],
                 "Text": [
-                    "Underworld 1.",
-                    "When Revealed: Place the top card of the underworld deck facedown underneath the active location, if able."
+                    "Underworld 1.\nWhen Revealed: Place the top card of the underworld deck facedown underneath the active location, if able.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -829,8 +1250,7 @@
                     "Underworld 1."
                 ],
                 "Text": [
-                    "Underworld 1.",
-                    "Each location in the staging area gets +2 quest points."
+                    "Underworld 1.\nEach location in the staging area gets +2 quest points.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Were it buried beneath the roots of Mindolluin, still it would burn your mind away...` -Gandalf, The Return of the King"
@@ -876,7 +1296,7 @@
                     "Underworld 1."
                 ],
                 "Text": [
-                    "Underworld 1."
+                    "Underworld 1.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. (+2 Attack instead if undefended.)",
                 "FlavorText": "Great stores of goods and food, and beer, were found that had been hidden away... -The Return of the King"
@@ -922,8 +1342,7 @@
                     "Underworld 2."
                 ],
                 "Text": [
-                    "Underworld 2.",
-                    "Forced: After Houses of the Dead becomes the active location, exhaust all characters."
+                    "Underworld 2.\nForced: After Houses of the Dead becomes the active location, exhaust all characters.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`The houses of the dead are no places for the living.` -Gandalf, The Return of the King"
@@ -968,9 +1387,7 @@
                     "Underworld X."
                 ],
                 "Text": [
-                    "Underworld X.",
-                    "X is the number of players in the game.",
-                    "Response: When The Fourth Star leaves play as an explored location, each player may draw 1 card."
+                    "Underworld X.\nX is the number of players in the game.\nResponse: When The Fourth Star leaves play as an explored location, each player may draw 1 card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1010,8 +1427,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Reveal 1 card from the underworld deck and add it to the staging area. If it is a Clue card, discard it instead."
+                    "Surge.\nWhen Revealed: Reveal 1 card from the underworld deck and add it to the staging area. If it is a Clue card, discard it instead.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1049,7 +1465,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Randomly select 1 ally controlled by the first player, if able. The first player deals X damage to one of his heroes, where X is that ally`s Attack. Then discard that ally. If no ally is discarded by this effect, A Knife in the Back gains surge."
+                    "When Revealed: Randomly select 1 ally controlled by the first player, if able. The first player deals X damage to one of his heroes, where X is that ally`s Attack. Then discard that ally. If no ally is discarded by this effect, A Knife in the Back gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1087,7 +1503,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: End the quest phase without resolving the quest."
+                    "When Revealed: End the quest phase without resolving the quest.\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, remove all tokens from the current quest.",
                 "FlavorText": null
@@ -1129,7 +1545,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Action: Exhaust a hero to claim this objective, add it to the victory display, and place 1 resource token on the current quest."
+                    "Action: Exhaust a hero to claim this objective, add it to the victory display, and place 1 resource token on the current quest.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1171,7 +1587,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Action: Exhaust a hero to claim this objective and attach it to that hero.Action: If attached to a hero, add Secret Map to the victory display to place 3 progress tokens on the active location."
+                    "Action: Exhaust a hero to claim this objective and attach it to that hero.Action: If attached to a hero, add Secret Map to the victory display to place 3 progress tokens on the active location.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1213,7 +1629,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Action: Exhaust a hero to claim this objective, add it to the victory display, and place 2 resource tokens on the current quest."
+                    "Action: Exhaust a hero to claim this objective, add it to the victory display, and place 2 resource tokens on the current quest.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1253,7 +1669,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round.If a hero is destroyed by an enemy attack, the players have lost the game."
+                    "Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round.If a hero is destroyed by an enemy attack, the players have lost the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1293,7 +1709,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the round, place 1 resource token on Up in Flames and discard the top X cards of each player`s deck. X is the number of resource tokens on Up in Flames.If any player has no cards in his deck, the players have lost the game."
+                    "Forced: At the end of the round, place 1 resource token on Up in Flames and discard the top X cards of each player`s deck. X is the number of resource tokens on Up in Flames.If any player has no cards in his deck, the players have lost the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1333,7 +1749,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "At the end of each round, raise each player`s threat by 2."
+                    "At the end of each round, raise each player`s threat by 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`... whispering was in your ears, poisoning your thought...` -Gandalf, The Two Towers"
@@ -1353,447 +1769,6 @@
             "HasErrata": false,
             "OctgnGuid": "4bcc7bde-4223-411e-a612-9459a1502743",
             "RingsDbCardId": "06031",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Steward's Fear Nightmare",
-            "Slug": "The-Steward's-Fear-Nightmare-TSFN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/The-Steward's-Fear-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Setup: Shuffle each copy of False Accusations into the underworld deck. When randomly determining which Plot is the `hidden` plot card, include the 2 new Plot cards from the Nightmare Deck, as well as the 3 Plot cards from the original scenario.",
-                    "Forced: After an enemy is destroyed, shuffle it into the underworld deck if you are not at stage 3.",
-                    "Forced: At the beginning of the refresh phase, if there is a Clue card in the staging area, shuffle it back into the underworld deck."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Thus the will of Sauron entered into Minas Tirith...` -Gandalf, The Return of the King"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Steward`s Fear scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n3x Pickpocket\n3x Underworld Dissident\n2x Storehouse\n2x Market Square\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Steward`s Fear encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rise to Power",
-            "Slug": "Rise-to-Power-TSFN",
-            "IsUnique": false,
-            "CardType": "Objective",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Rise-to-Power.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Plot."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Rise to Power contributes X Threat to the staging area during the quest phase, where X is the number of resources on it.",
-                    "Forced: At the end of the round, place 2 resources on Rise to Power."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Dleoblack",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Assassination",
-            "Slug": "Assassination-TSFN",
-            "IsUnique": false,
-            "CardType": "Objective",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Assassination.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Plot."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Attach Assassination to the hero with the highest threat cost. (Counts as a Plot attachment with the text: `Each enemy gets +1 Attack. Attached hero cannot be healed. Damage from undefended attacks and A Knife in the Back must be assigned to attached hero. If attached hero leaves play, the players lose the game.`)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Arden Beckwith",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Murderous Turncoat",
-            "Slug": "Murderous-Turncoat-TSFN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Murderous-Turncoat.jpg",
-                "Stats": {
-                    "EngagementCost": "20",
-                    "Threat": "1",
-                    "Attack": "5",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Brigand."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Murderous Turncoat makes an immediate attack against the first player.",
-                    "Forced: At the end of the combat phase, place Murderous Turncoat facedown underneath the active location if you are not at stage 3."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Brigands Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Jon Bosco",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Faithless Conspirator",
-            "Slug": "Faithless-Conspirator-TSFN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Faithless-Conspirator.jpg",
-                "Stats": {
-                    "EngagementCost": "40",
-                    "Threat": "4",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Brigand."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If the active location has at least 1 facedown card underneath it, Faithless Conspirator cannot take damage."
-                ],
-                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Rick Price",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Traitors' Den",
-            "Slug": "Traitors'-Den-TSFN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Traitors'-Den.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "Underworld.",
-                    "City."
-                ],
-                "Keywords": [
-                    "Underworld 1."
-                ],
-                "Text": [
-                    "Underworld 1.",
-                    "Forced: At the end of the round, place 1 resource token on Traitors` Den. Then, if it has 4 or more resource tokens on it, remove all tokens from it and reveal at random one of the Plot cards removed from the game during setup. Add that card to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rath Celerdain",
-            "Slug": "Rath-Celerdain-TSFN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Rath-Celerdain.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "City."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Rath Celerdain is in the staging area, it gains: `Forced: At the beginning of the encounter phase, reveal the top card of the underworld deck. If it is an objective, discard it.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "`...go down to the lowest circle and ask for the Old Guesthouse in the Rath Celerdain, the Lampwrights` Street.` -Beregond, The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Arched Tunnel",
-            "Slug": "Arched-Tunnel-TSFN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/Arched-Tunnel.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Underworld.",
-                    "City."
-                ],
-                "Keywords": [
-                    "Underworld 1."
-                ],
-                "Text": [
-                    "Underworld 1.",
-                    "Travel: Reveal all facedown cards underneath Arched Tunnel, one at a time. Then, place the top card of the underworld deck facedown underneath Arched Tunnel, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": "And each time that it passed the line of the Great Gate it went through an arched tunnel... -The Return of the King"
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "False Accusations",
-            "Slug": "False-Accusations-TSFN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/False-Accusations.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Scheme."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player must either raise his threat by 5 or exhaust each ready character he controls."
-                ],
-                "Shadow": "Shadow: After this attack, return attacking enemy to the staging area. Then, it makes engagement checks against each player.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 2,
-            "Artist": "Smirtouille",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Cabal's Champion",
-            "Slug": "The-Cabal's-Champion-TSFN",
-            "IsUnique": false,
-            "CardType": "Objective",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Steward's-Fear-Nightmare/The-Cabal's-Champion.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Title."
-                ],
-                "Keywords": [
-                    "Surge.",
-                    "Doomed 1."
-                ],
-                "Text": [
-                    "Surge. Doomed 1.",
-                    "If The Cabal`s Champion is unattached and in the staging area, attach it to a Villain enemy, if able. (Counts as a Title attachment with the text: `Attached enemy gets +1 Threat, +1 Attack, +1 Defense, and +2 hit points.`)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Steward's Fear Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Steward's Fear Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Ed Mattinian",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00010",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

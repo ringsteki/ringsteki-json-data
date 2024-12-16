@@ -5,6 +5,269 @@
     "Number": 4,
     "AllCards": [
         {
+            "Title": "Forgotten Courtyard",
+            "Slug": "Forgotten-Courtyard-TToRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Forgotten-Courtyard.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Ruins."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forgotten Courtyard gets +1 Threat for each resource on it.\nForced: After an Undead enemy enters play, place 1 resource on Forgotten Courtyard.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 550875,
+            "Categories": null
+        },
+        {
+            "Title": "The Treachery of Rhudaur Nightmare",
+            "Slug": "The-Treachery-of-Rhudaur-Nightmare-TToRN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/The-Treachery-of-Rhudaur-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nSetup: Set the Sift through the Debris, Decipher Ancient Texts and Quiet the Spirits encounter sets aside, out of play. These sets are indicated by the following icons, respectively:\nForced: After you advance to stage 2b, for each of the above sidequests that was not defeated, shuffle the encounter set that matches its title into the encounter deck, and shuffle the encounter discard pile into the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Treachery of Rhudaur scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n2x Decrepit Remains\n2x Eerie Halls\n1x Dark Covenant\n2x Ruins of Arnor\n2x Tragic Discovery\n5x Cursed Dead\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Treachery of Rhudaur encounter deck.",
+                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10001",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 18125,
+            "Categories": null
+        },
+        {
+            "Title": "Charred Cellar",
+            "Slug": "Charred-Cellar-TToRN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Charred-Cellar.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Ruins."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Charred Ruins is the active location, it gains: `Forced: After a player`s threat is increased by an encounter card effect, that player must deal 2 damage to a character he controls.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 199667,
+            "Categories": null
+        },
+        {
+            "Title": "Malevolent Forces",
+            "Slug": "Malevolent-Forces-TToRN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Malevolent-Forces.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Remove the questing character with the higest Willpower from the quest. The player who controls that character raises his threat by an amount equal to that character`s Willpower.\n"
+                ],
+                "Shadow": "Shadow: If this attack destroys a character, heal all damage from each Undead enemy in play.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10006",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 176518,
+            "Categories": null
+        },
+        {
+            "Title": "Thaurdir's Hunter",
+            "Slug": "Thaurdir's-Hunter-TToRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Thaurdir's-Hunter.jpg",
+                "Stats": {
+                    "EngagementCost": "16",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Undead."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When Thaurdir`s Hunter attacks, either remove 1 time counter from the main quest, or treat this attack as undefended.\n"
+                ],
+                "Shadow": "Shadow: If this attack is undefended, either remove 1 time counter or 5 progress from a quest.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 104317,
+            "Categories": null
+        },
+        {
+            "Title": "Undead Thrall",
+            "Slug": "Undead-Thrall-TToRN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Undead-Thrall.jpg",
+                "Stats": {
+                    "EngagementCost": "1",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Undead."
+                ],
+                "Keywords": [
+                    "Indestructible.",
+                    "Surge."
+                ],
+                "Text": [
+                    "Indestructible. Surge.\n"
+                ],
+                "Shadow": "Shadow: Put Undead Thrall into play engaged with the defending player and deal it a shadow card.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Treachery of Rhudaur Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Treachery of Rhudaur Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 26151,
+            "Categories": null
+        },
+        {
             "Title": "Ruins of Arnor",
             "Slug": "Ruins-of-Arnor-TLR",
             "IsUnique": false,
@@ -24,7 +287,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the `when revealed` effect of a treachery card is canceled, raise each player`s threat by 2."
+                    "Forced: After the `when revealed` effect of a treachery card is canceled, raise each player`s threat by 2.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, the defending player raises his threat by 2.",
                 "FlavorText": null
@@ -68,7 +331,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Ancient Causeway is explored, raise each player`s threat by 2."
+                    "Forced: When Ancient Causeway is explored, raise each player`s threat by 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...on either side of it there were lines of large boulders and hewn stones that screened the travellers almost like a hedge. -The Fellowship of the Ring"
@@ -106,7 +369,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by the Threat of the active location."
+                    "When Revealed: Raise each player`s threat by the Threat of the active location.\n"
                 ],
                 "Shadow": "Shadow: Defending player either raise his threat 3, or this attack is considered undefended.",
                 "FlavorText": null
@@ -147,9 +410,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: At the end of the refresh phase, raise each player`s threat by 2.",
-                    "Response: After Search the Ruins is defeated, reduce each player`s threat by 3."
+                    "Surge.\nForced: At the end of the refresh phase, raise each player`s threat by 2.\nResponse: After Search the Ruins is defeated, reduce each player`s threat by 3.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Your enemies lurk somewhere in the decrepit ruins around you: a constant threat until you search them out..."
@@ -189,7 +450,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Dead Lord engages you, put the topmost Undead enemy in the discard pile into play engaged with you."
+                    "Forced: After Dead Lord engages you, put the topmost Undead enemy in the discard pile into play engaged with you.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, reveal 1 encounter card.",
                 "FlavorText": null
@@ -235,7 +496,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Put each copy of Cursed Dead in the discard pile into play in the staging area."
+                    "When Revealed: Put each copy of Cursed Dead in the discard pile into play in the staging area.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if there is a copy of the defending character in its owner`s discard pile).",
                 "FlavorText": null
@@ -273,7 +534,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each Undead enemy gets +1 Threat, +1 Attack, and +1 Defense until the end of the round. If there are no Undead enemies in play, Restless Evil gains surge."
+                    "When Revealed: Each Undead enemy gets +1 Threat, +1 Attack, and +1 Defense until the end of the round. If there are no Undead enemies in play, Restless Evil gains surge.\n"
                 ],
                 "Shadow": "Shadow: Each Undead enemy engaged with you gets +1 Attack and +1 Defense until the end of the round.",
                 "FlavorText": null
@@ -314,8 +575,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area."
+                    "Surge.\nForced: At the end of the refresh phase, discard the top 3 cards of the encounter deck. Return the topmost Undead enemy in the encounter discard pile to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The undead keep rising from the grave. For each one that you strike down, another takes its place. You must do something to stem the tide..."
@@ -351,7 +611,7 @@
                     "Time 5."
                 ],
                 "Text": [
-                    "Setup: Make The Great Hall the active location. Set Thaurdir aside, out of play. Add the 3 Treachery of Rhudaur side quests to the staging area, quest side faceup. Search the encounter deck for 1 copy of Ancient Causeway, and add it to the staging area (2 copies instead if there are 3 or 4 players in the game). The first player gains control of Amarthiúl."
+                    "Setup: Make The Great Hall the active location. Set Thaurdir aside, out of play. Add the 3 Treachery of Rhudaur side quests to the staging area, quest side faceup. Search the encounter deck for 1 copy of Ancient Causeway, and add it to the staging area (2 copies instead if there are 3 or 4 players in the game). The first player gains control of Amarthiúl.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have decided to explore the ruins of this ancient keep, but Thaurdir pursues you, and time is of the essence."
@@ -366,10 +626,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 5.",
-                    "Forced: After the last time counter is removed from Secrets of Rhudaur, remove each Treachery of Rhudaur side quest from the game and immediately advance to stage 2.",
-                    "During the quest phase, Secrets of Rhudaur cannot be chosen as the current quest.",
-                    "If there are no Treachery of Rhudaur side quests in play, immediately advance to stage 2."
+                    "Time 5.\nForced: After the last time counter is removed from Secrets of Rhudaur, remove each Treachery of Rhudaur side quest from the game and immediately advance to stage 2.\nDuring the quest phase, Secrets of Rhudaur cannot be chosen as the current quest.\nIf there are no Treachery of Rhudaur side quests in play, immediately advance to stage 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -411,10 +668,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Thaurdir to the staging area. Each player searches the encounter deck and discard pile for an Undead enemy and adds it to the staging area. Shuffle the encounter deck."
+                    "When Revealed: Add Thaurdir to the staging area. Each player searches the encounter deck and discard pile for an Undead enemy and adds it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "As you study the clues that you`ve found, you feel a chill wind flow through the keep. `You will not leave this place alive,` a sinister voice echoes throughout the halls. `My master Daechanar will it so.`\r\n`Thaurdir!` Amarthiúl exclaims, unsheathing his blades."
+                "FlavorText": "As you study the clues that you`ve found, you feel a chill wind flow through the keep. `You will not leave this place alive,` a sinister voice echoes throughout the halls. `My master Daechanar will it so.`\n`Thaurdir!` Amarthiúl exclaims, unsheathing his blades."
             },
             "Back": {
                 "Subtitle": null,
@@ -426,8 +683,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Thaurdir`s Pursuit has -5 quest points for each Clue objective attached to a character.",
-                    "This stage cannot be defeated while Thaurdir has any hit point remaining. If this stage is defeated, the players win the game."
+                    "Thaurdir`s Pursuit has -5 quest points for each Clue objective attached to a character.\nThis stage cannot be defeated while Thaurdir has any hit point remaining. If this stage is defeated, the players win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The wraith you fought in Fornost has followed you since your flight from Mount Gram. Your only hope is to escape with the clues you`ve found."
@@ -476,8 +732,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After an enemy engages a player, give control of Amarthiúl to that player.",
-                    "If Amarthiúl leaves play, the players lose the game."
+                    "Response: After an enemy engages a player, give control of Amarthiúl to that player.\nIf Amarthiúl leaves play, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -520,7 +775,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When The Great Hall is explored, each player discards the top 5 cards of the encounter deck and chooses an Undead enemy he discarded in this way to add to the staging area."
+                    "Forced: When The Great Hall is explored, each player discards the top 5 cards of the encounter deck and chooses an Undead enemy he discarded in this way to add to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -569,8 +824,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Indestructible. Cannot have attachments.",
-                    "Forced: After a treachery card with the Sorcery trait is revealed from the encounter deck, Thaurdir heals 3 damage and makes an immediate attack against the first player."
+                    "Indestructible. Cannot have attachments.\nForced: After a treachery card with the Sorcery trait is revealed from the encounter deck, Thaurdir heals 3 damage and makes an immediate attack against the first player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -617,8 +871,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While the current quest has 1 or more progress on it, Wight of Rhudaur gains surge.",
-                    "While the current quest has 0 progress on it, Wight of Rhudaur gains doomed 2."
+                    "While the current quest has 1 or more progress on it, Wight of Rhudaur gains surge.\nWhile the current quest has 0 progress on it, Wight of Rhudaur gains doomed 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...evil spirits out of Angmar and Rhudaur entered into the deserted mounds and dwelt there. -The Return of the King"
@@ -665,7 +918,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Traitorous Wight engages a player, remove 2 progress from each quest card in play."
+                    "Forced: When Traitorous Wight engages a player, remove 2 progress from each quest card in play.\n"
                 ],
                 "Shadow": "Shadow: For each point of damage dealt by this attack, remove 1 progress from each quest in play.",
                 "FlavorText": null
@@ -708,8 +961,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Forbidden Descent is in the staging area, the first 2 progress that would be placed on a quest each round must be placed on Forbidden Descent, instead.",
-                    "Forced: If Forbidden Descent leaves play from the staging area, raise each player’s threat by 2."
+                    "While Forbidden Descent is in the staging area, the first 2 progress that would be placed on a quest each round must be placed on Forbidden Descent, instead.\nForced: If Forbidden Descent leaves play from the staging area, raise each player’s threat by 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -752,7 +1004,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Raise your threat by 1 to reduce the Threat of Eerie Halls by 1 until the end of the phase. (Any player may trigger this action.)"
+                    "Action: Raise your threat by 1 to reduce the Threat of Eerie Halls by 1 until the end of the phase. (Any player may trigger this action.)\n"
                 ],
                 "Shadow": "Shadow: If the defending player does not control at least 1 Clue objective, the attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
@@ -795,8 +1047,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Any time the encounter deck runs out of cards, return the topmost Undead enemy in the encounter discard pile to the staging area before resetting the encounter deck.",
-                    "Travel: Return the topmost Undead enemy in the encounter discard pile to the staging area."
+                    "Any time the encounter deck runs out of cards, return the topmost Undead enemy in the encounter discard pile to the staging area before resetting the encounter deck.\nTravel: Return the topmost Undead enemy in the encounter discard pile to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`I am not sure that I like it: it has a - well, rather a barrow-wightish look.` -Merry, The Fellowship of the Ring"
@@ -839,7 +1090,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Decrepit Remains is in the staging area, each location and quest in the staging area gets +2 quest points."
+                    "While Decrepit Remains is in the staging area, each location and quest in the staging area gets +2 quest points.\n"
                 ],
                 "Shadow": "Shadow: For each point of damage dealt by this attack, remove 1 progress from each quest in play.",
                 "FlavorText": null
@@ -879,8 +1130,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: The first player must choose a new quest to be the current quest, if able."
+                    "Surge.\nWhen Revealed: The first player must choose a new quest to be the current quest, if able.\n"
                 ],
                 "Shadow": "Shadow: If the defending player does not control at least 1 Clue objective, this attack is considered undefended.",
                 "FlavorText": null
@@ -920,7 +1170,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each exhausted character. Each player with a threat of 35 or higher must also discard each exhausted attachment he controls."
+                    "When Revealed: Deal 1 damage to each exhausted character. Each player with a threat of 35 or higher must also discard each exhausted attachment he controls.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if the defending player does not control at least 1 Clue objective.)",
                 "FlavorText": null
@@ -960,7 +1210,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Discard the top 3 cards of the encounter deck. The first player must either remove X progress from among the quests in play, or assign X damage among characters he controls. X is the total Threat of the discarded cards."
+                    "When Revealed: Discard the top 3 cards of the encounter deck. The first player must either remove X progress from among the quests in play, or assign X damage among characters he controls. X is the total Threat of the discarded cards.\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, raise your threat by the destroyed character`s Willpower.",
                 "FlavorText": null
@@ -1000,10 +1250,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must exhaust a character he controls. Attach Haunting Fog to the current quest. (Counts as a Condition attachment with the text: `Attached quest gets +6 quest points.`"
+                    "When Revealed: Each player must exhaust a character he controls. Attach Haunting Fog to the current quest. (Counts as a Condition attachment with the text: `Attached quest gets +6 quest points.`\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Fog still hung in veils upon the crumbling rock-wall...\r\n-The Fellowship of the Ring"
+                "FlavorText": "Fog still hung in veils upon the crumbling rock-wall...\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Treachery of Rhudaur",
@@ -1038,9 +1288,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While Quiet the Spirits is the current quest, each Undead enemy that enters play immediately engages the player with the highest threat. Enemies that engage a player from this effect contribute their Threat to the total Threat in the staging area until the end of the phase.",
-                    "Forced: After an enemy is destroyed, place 2 progress on Quiet the Spirits.",
-                    "When this quest is defeated, flip it over."
+                    "While Quiet the Spirits is the current quest, each Undead enemy that enters play immediately engages the player with the highest threat. Enemies that engage a player from this effect contribute their Threat to the total Threat in the staging area until the end of the phase.\nForced: After an enemy is destroyed, place 2 progress on Quiet the Spirits.\nWhen this quest is defeated, flip it over.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1074,8 +1322,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Exhaust Amarthiúl or a hero to claim Daechanar`s Brand. Then, attach Daechanar`s Brand to that character.",
-                    "Attached character gets +1 Attack while attacking undead enemies."
+                    "Action: Exhaust Amarthiúl or a hero to claim Daechanar`s Brand. Then, attach Daechanar`s Brand to that character.\nAttached character gets +1 Attack while attacking undead enemies.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "When you touch this dark blade, you can feel a cursed power coursing through it. In Tengwar, the name `Daechanar` is inscribed upon its handle."
@@ -1113,9 +1360,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While Sift through the Debris is the current quest, each location in the staging area gets +1 Threat.",
-                    "Forced: After a location is explored, place 2 progress on Sift through the Debris.",
-                    "When this quest is defeated, flip it over."
+                    "While Sift through the Debris is the current quest, each location in the staging area gets +1 Threat.\nForced: After a location is explored, place 2 progress on Sift through the Debris.\nWhen this quest is defeated, flip it over.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You search through the ashes of the keep`s destroyed rooms. If you are diligent, you may be able to find a clue as to Iârion`s ancestry."
@@ -1149,11 +1394,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Exhaust Amarthiúl or a hero to claim Heirloom of Iârchon. Then, attach Heirloom of Iârchon to that character.",
-                    "Attached character gets +1 Willpower."
+                    "Action: Exhaust Amarthiúl or a hero to claim Heirloom of Iârchon. Then, attach Heirloom of Iârchon to that character.\nAttached character gets +1 Willpower.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "You find a pendant, similar to the one you`ve seen Iârion wearing. The inscription on the back says:\r\n`Iârchon, may this pendant guide you away from the shadow that dwells within us all. -Your loving father`"
+                "FlavorText": "You find a pendant, similar to the one you`ve seen Iârion wearing. The inscription on the back says:\n`Iârchon, may this pendant guide you away from the shadow that dwells within us all. -Your loving father`"
             },
             "Back": null,
             "CardSet": "The Treachery of Rhudaur",
@@ -1188,9 +1432,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While Decipher Ancient Texts is the current quest, allies get –2 Willpower.",
-                    "Action: Pay 1 resource to place 1 progress on Decipher Ancient Texts. (Any player may trigger this action. Limit 3 times per round.)",
-                    "When this quest is defeated, flip it over."
+                    "While Decipher Ancient Texts is the current quest, allies get –2 Willpower.\nAction: Pay 1 resource to place 1 progress on Decipher Ancient Texts. (Any player may trigger this action. Limit 3 times per round.)\nWhen this quest is defeated, flip it over.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You look through the keep`s many torn and ancient records, hoping to find information to help you understand the Enemy`s plan..."
@@ -1224,8 +1466,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Exhaust Amarthiúl or a hero to claim Orders from Angmar. Then, attach Orders from Angmar to that character.",
-                    "Attached character gets +1 Defense while defending against undead enemies."
+                    "Action: Exhaust Amarthiúl or a hero to claim Orders from Angmar. Then, attach Orders from Angmar to that character.\nAttached character gets +1 Defense while defending against undead enemies.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You find a tattered, barely legible scroll dated over 1000 years ago, summong those loyal to the Witch-king of Angmar for an assault on Rivendell."
@@ -1245,280 +1486,6 @@
             "HasErrata": false,
             "OctgnGuid": "d9c04b71-93cd-455d-9f6e-4ee16cf7d1b4",
             "RingsDbCardId": "10114",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Treachery of Rhudaur Nightmare",
-            "Slug": "The-Treachery-of-Rhudaur-Nightmare-TToRN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/The-Treachery-of-Rhudaur-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Setup: Set the Sift through the Debris, Decipher Ancient Texts and Quiet the Spirits encounter sets aside, out of play. These sets are indicated by the following icons, respectively:",
-                    "Forced: After you advance to stage 2b, for each of the above sidequests that was not defeated, shuffle the encounter set that matches its title into the encounter deck, and shuffle the encounter discard pile into the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Treachery of Rhudaur scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "2x Decrepit Remains",
-                    "2x Eerie Halls",
-                    "1x Dark Covenant",
-                    "2x Ruins of Arnor",
-                    "2x Tragic Discovery",
-                    "5x Cursed Dead",
-                    "Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Treachery of Rhudaur encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Thaurdir's Hunter",
-            "Slug": "Thaurdir's-Hunter-TToRN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Thaurdir's-Hunter.jpg",
-                "Stats": {
-                    "EngagementCost": "16",
-                    "Threat": "2",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Undead."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: When Thaurdir`s Hunter attacks, either remove 1 time counter from the main quest, or treat this attack as undefended."
-                ],
-                "Shadow": "Shadow: If this attack is undefended, either remove 1 time counter or 5 progress from a quest.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Treachery of Rhudaur Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 2,
-            "Artist": "Anthony Devine",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Undead Thrall",
-            "Slug": "Undead-Thrall-TToRN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Undead-Thrall.jpg",
-                "Stats": {
-                    "EngagementCost": "1",
-                    "Threat": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "2"
-                },
-                "Traits": [
-                    "Undead."
-                ],
-                "Keywords": [
-                    "Indestructible.",
-                    "Surge."
-                ],
-                "Text": [
-                    "Indestructible. Surge."
-                ],
-                "Shadow": "Shadow: Put Undead Thrall into play engaged with the defending player and deal it a shadow card.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Treachery of Rhudaur Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 2,
-            "Artist": "Alexander Kozachenko",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Forgotten Courtyard",
-            "Slug": "Forgotten-Courtyard-TToRN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Forgotten-Courtyard.jpg",
-                "Stats": {
-                    "Threat": "1",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "Ruins."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forgotten Courtyard gets +1 Threat for each resource on it.",
-                    "Forced: After an Undead enemy enters play, place 1 resource on Forgotten Courtyard."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Treachery of Rhudaur Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 2,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Charred Cellar",
-            "Slug": "Charred-Cellar-TToRN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Charred-Cellar.jpg",
-                "Stats": {
-                    "Threat": "5",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Ruins."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Charred Ruins is the active location, it gains: `Forced: After a player`s threat is increased by an encounter card effect, that player must deal 2 damage to a character he controls.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Treachery of Rhudaur Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Federico Musetti",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Malevolent Forces",
-            "Slug": "Malevolent-Forces-TToRN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Treachery-of-Rhudaur-Nightmare/Malevolent-Forces.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Remove the questing character with the higest Willpower from the quest. The player who controls that character raises his threat by an amount equal to that character`s Willpower."
-                ],
-                "Shadow": "Shadow: If this attack destroys a character, heal all damage from each Undead enemy in play.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Treachery of Rhudaur Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Treachery of Rhudaur Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

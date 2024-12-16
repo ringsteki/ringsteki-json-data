@@ -1,0 +1,1518 @@
+{
+    "Name": "The Fellowship of the Ring",
+    "Slug": "The-Fellowship-of-the-Ring",
+    "Abbreviation": "TFotR",
+    "Cycle": "The Lord of the Rings",
+    "SetType": "Saga_Expansion",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-Black-Riders-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Frodo-Baggins-Black-Riders.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Spend 1 Fellowship resource and exhaust The One Ring to cancel the effect of an encounter card just revealed from the encounter deck. Shuffle that card back into the encounter deck and reveal another encounter card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I will take the Ring,` he said, `though I do not know the way.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Jacob Murray",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00001",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Frodo Baggins",
+            "Slug": "Frodo-Baggins-Road-Darkens-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Frodo-Baggins-Road-Darkens.jpg",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Ring-bearer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Frodo Baggins exhausts to defend an attack, exhaust The One Ring and spend 1 Fellowship resource to target the attacking enemy. Then, this attack deals no damage and each player raises his threat by 2.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But there is more about you now than appears on the surface.`\n-Bilbo, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sam Gamgee",
+            "Slug": "Sam-Gamgee-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Sam-Gamgee.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you engage an enemy with a higher engagement cost than your threat, ready Sam Gamgee. He gets +1 Willpower, +1 Attack and +1 Defense until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I`m going with him...and if any of those Black Riders try to stop him, they`ll have Sam Gamgee to reckon with`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Merry",
+            "Slug": "Merry-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Merry.jpg",
+                "Stats": {
+                    "ThreatCost": "6",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Merry gets +1 Attack for each Hobbit hero you control.\nResponse: After Merry participates in an attack that destroys an enemy, ready another character that participated in that attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You can trust us to stick to you through thick and thin to the bitter end`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fatty Bolger",
+            "Slug": "Fatty-Bolger-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Fatty-Bolger.jpg",
+                "Stats": {
+                    "ThreatCost": "7",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Fatty Bolger to choose an enemy in the staging area and raise your threat by that enemy`s Threat. Until the end of the phase, that enemy does not contribute its Threat. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I only hope that you do not need rescuing before the day is out`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Pippin",
+            "Slug": "Pippin-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Pippin.jpg",
+                "Stats": {
+                    "ThreatCost": "6",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy in play gets +1 engagement cost for each Hobbit hero you control.\nResponse: After you engage an enemy with an engagement cost higher than your threat, draw a card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We Hobbits ought to stick together, and we will`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gandalf",
+            "Slug": "Gandalf-TFotR",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Gandalf.jpg",
+                "Stats": {
+                    "ThreatCost": "14",
+                    "Willpower": "3",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Istari."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play with the top card of your deck faceup. Once per phase, you may play the top card of your deck as if it was in your hand. When playing a card this way, Gandalf is considered to have the printed Leadership, Lore, Tactics, and Spirit icons.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am a servant of the Secret Fire, wielder of the flame of Anor.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Matt Stewart",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bill the Pony",
+            "Slug": "Bill-the-Pony-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Bill-the-Pony.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Pony."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nLower the cost to play Bill the Pony by 2 if you control Sam Gamgee.\nEach Hobbit character gets +1 hit point.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`He gave me a look as plain as Mr. Pippin could speak it: if you don`t let me go with you, Sam, I`ll follow on my own`\n-Sam Gamgee, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Christine Bian",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galadriel",
+            "Slug": "Galadriel-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Galadriel.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "3",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "At the end of the round, discard Galadriel from play.\nResponse: After you play Galadriel from your hand, search the top 5 cards of your deck for an attachment of cost 3 or less and put it into play. Put the remaining cards back in any order.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hobbit Cloak",
+            "Slug": "Hobbit-Cloak-TFotR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Hobbit-Cloak.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Hobbit hero. Limit 1 per hero.\nAttached hero gets +2 Defense while defending against an attack by an enemy with an engagement cost higher than your threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "In their dark cloaks they were invisible as if they all had magic rings.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Boromir",
+            "Slug": "Boromir-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Boromir.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Boromir gets +2 Defense while defending against an enemy with an engagement cost higher than your threat.\nResponse: After Boromir takes any amount of damage, ready him.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Chris Rahn",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Farmer Maggot",
+            "Slug": "Farmer-Maggot-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Farmer-Maggot.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Farmer Maggot enters play, deal 1 damage to an enemy engaged with you. (Deal 2 damage instead if that enemy`s engagement cost is higher than your threat.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`It is lucky for you that I know you. I was going out to set my dogs on any strangers.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dagger of Westernesse",
+            "Slug": "Dagger-of-Westernesse-TFotR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Dagger-of-Westernesse.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.\nAttached hero gets + 1 Attack(+2 Attack instead if attacking an enemy with an engagement cost higher than your threat).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...these blades were forged many long years ago by Men of Westernesse: they were foes of the Dark Lord...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Halfling Determination",
+            "Slug": "Halfling-Determination-TFotR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Halfling-Determination.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a Hobbit character. That character gets +2 Willpower, +2 Attack and +2 Defense until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I have something to do before the end, and it lies ahead, not in the Shire. I must see it through, sir, if you understand me.`\n-Sam Gamgee, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Bilbo-Baggins.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Bilbo Baggins enters play, search your deck for a Pipe attachment and add it to your hand. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Elves may thrive on speech alone, and Dwarves endure great weariness, but I am an old Hobbit, and I miss my meal at noon.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hobbit Pipe",
+            "Slug": "Hobbit-Pipe-TFotR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Hobbit-Pipe.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Pipe."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Hobbit character. Limit 1 per character.\nResponse: After your threat is reduced by an event card effect, exhaust Hobbit Pipe to draw a card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "But even the Dúnedain of Gondor allow us this credit: Hobbits first put it into pipes. Not even the Wizards first thought of that before we did.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 16,
+            "Quantity": 3,
+            "Artist": "Mike Nash",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Smoke Rings",
+            "Slug": "Smoke-Rings-TFotR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Smoke-Rings.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Reduce your threat by 1 for each Pipe you control. Each hero with a Pipe attachment gets +1 Willpower until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...he smoked and blew smoke-rings with the same vigour and delight...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Lane Brown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Barliman Butterbur",
+            "Slug": "Barliman-Butterbur-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Barliman-Butterbur.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Bree."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If each hero you control has the Hobbit trait, damage from undefended attacks against you may be assigned to Barliman Butterbur.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But spooks or no spooks, they won`t get in The Prancing Pony so easy.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 18,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elrond",
+            "Slug": "Elrond-TFotR",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Elrond.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "3",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Healer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "At the end of the round, discard Elrond from play.\nResponse: After Elrond enters play, choose one: heal all damage on a hero, discard a Condition attachment, or each player draws 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Allen Douglas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elf-stone",
+            "Slug": "Elf-stone-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Elf-stone.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to the active location. Attached location gets +1 quest point.\nResponse: After attached location leaves play as an explored location, the first player puts 1 ally into play from his hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`It is a beryl, an elf-stone. Whether it was set there, or let fall by chance, I cannot say, but it brings hope to me`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Take No Notice",
+            "Slug": "Take-No-Notice-TFotR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Take-No-Notice.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Lower the cost play Take No Notice by 1 for each Hobbit or Ranger hero you control.\nAction: Add 5 to each enemy`s engagement cost until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...they made no noise that even hobbits would hear. Event the wild things in the fields and woods hardly noticed their passing.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 21,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gandalf's Staff",
+            "Slug": "Gandalf's-Staff-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Gandalf's-Staff.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Staff."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to Gandalf. Restricted.\nAction: Exhaust Gandalf`s Staff to (choose one): choose a player to draw 1 card, add 1 resource to a hero`s resource pool, or discard a shadow card from a non-unique enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...he held his staff aloft, and from its tip there came a feint radiance.\n -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 3,
+            "Artist": "Victor Maury",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wizard Pipe",
+            "Slug": "Wizard-Pipe-TFotR",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Wizard-Pipe.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Pipe."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to an Istari character. Limit 1 per character.\nAction: Exhaust Wizard Pipe to exchange a card in your hand with the top card of your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...there was a long silence, broken only by the soft puffs of Gandalf`s pipe, as he blew white smoke-rings out of the window.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 3,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Flame of Anor",
+            "Slug": "Flame-of-Anor-TFotR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Flame-of-Anor.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Spell."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add Flame of Anor to the victory display and discard the top card of your deck to ready an Istari character you control. That character gets +X Attack until the end of the phase where X is the discarded card`s cost.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You cannot pass!`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 24,
+            "Quantity": 3,
+            "Artist": "Diego Gisbert Llorens",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fellowship of the Ring",
+            "Slug": "Fellowship-of-the-Ring-Attachment-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Fellowship-of-the-Ring-Attachment.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Fellowship."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to the Ring-bearer.\nEach hero gets +1 Willpower.\nForced: After a character is destroyed, discard Fellowship of the Ring.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 25,
+            "Quantity": 3,
+            "Artist": "Michael Komarck",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Frodo's Intuition",
+            "Slug": "Frodo's-Intuition-TFotR",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Fellowship",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Frodo's-Intuition.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Each hero you control gets +1 Willpower until the end of the round. Draw 1 card for each Hobbit hero you control.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I wonder if that is Gandalf coming after us` said Frodo, but even as he said it, he had a feeling that it was not so...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Winona Nelson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Mr. Underhill",
+            "Slug": "Mr-Underhill-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Mr-Underhill.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Permanent.",
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Permanent.\nSetup: Attach to the Ring-bearer.\nAction: Add Mr. Underhill to the victory display to choose an enemy engaged with you. Until the end of the round, that enemy cannot attack you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I will give you a travelling name now. When you go, go as Mr. Underhill.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 44,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Tireless Ranger",
+            "Slug": "Tireless-Ranger-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Tireless-Ranger.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Permanent."
+                ],
+                "Text": [
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 defense and gains the Ranger trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`What roads would any dare to tread, what safety would there be in quiet lands, or in the homes of simple men at night, if the Dúnedain were asleep, or were all gone into the grave?`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 63,
+            "Quantity": 1,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Skilled Healer",
+            "Slug": "Skilled-Healer-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Skilled-Healer.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Permanent."
+                ],
+                "Text": [
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +2 hit points and gains the Healer trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Few now have the skill of healing to match such evil weapons. But I will do what I can.`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 1,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Valiant Warrior",
+            "Slug": "Valiant-Warrior-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Valiant-Warrior.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Permanent."
+                ],
+                "Text": [
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 Attack and gains the Warrior trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Three of the servants of Sauron were upon the Bridge, but they withdrew and I pursued them westward.`\n-Glorfindel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 65,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Noble Hero",
+            "Slug": "Noble-Hero-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Noble-Hero.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [
+                    "Permanent."
+                ],
+                "Text": [
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 Willpower and gains the Noble trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior in the fullness of his strength.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 66,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sting",
+            "Slug": "Sting-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Sting.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Hobbit hero. Restricted.\nAttached hero gets +1 Willpower, +1 Attack, and +1 Defense.\nResponse: After attached hero exhausts to defend an attack, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card`s Threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 106,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00106",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Mithril Shirt",
+            "Slug": "Mithril-Shirt-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Mithril-Shirt.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to the Ring-bearer.\nAttached hero gets +1 Defense and +1 hit point.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I should feel happier if I knew you were wearing it. I have a fancy it would turn even the knives of the Black Riders...`\n-Bilbo, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 107,
+            "Quantity": 1,
+            "Artist": "Sara Betsy",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00107",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Glamdring",
+            "Slug": "Glamdring-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Glamdring.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Warrior hero or Gandalf. Restricted.\nAttached character gets +2 Attack.\nResponse: After attached character destroys an Orc enemy, draw 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...at his side was the elven-sword Glamdring, the mate of Orcrist that lay now upon the breast of Thorin under the Lonely Mountain.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 108,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00108",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Andúril",
+            "Slug": "Anduril-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Andúril.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Noble hero or Aragorn. Restricted.\nAttached hero gets +1 Willpower, +1 Attack, and +1 Defense.\nResponse: After an attack in which the attached hero defended resolves, exhaust Andúril to target the enemy that just attacked. Declare attached hero as an attacker against that enemy (and resolve the attack).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 109,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00109",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Phial of Galadriel",
+            "Slug": "Phial-of-Galadriel-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Phial-of-Galadriel.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Gift."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Setup: Attach to a hero in play.\nAdd Phial of Galadriel to the victory display and remove it from the campaign pool, to give each enemy engaged with you -4 Attack until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`May it be a light to you in dark places, when all other lights go out.`\n-Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 160,
+            "Quantity": 1,
+            "Artist": "Cynthia Sheppard",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00160",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Three Golden Hairs",
+            "Slug": "Three-Golden-Hairs-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Three-Golden-Hairs.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Gift."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Setup: Attach to a hero in play.\nAction: Add Three Golden Hairs to the victory display and remove it from the campaign pool, to lower each player`s threat by 3. Then, each player draws 3 cards.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...your hands shall flow with gold, and yet over you gold shall have no dominion.`\n-Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 161,
+            "Quantity": 1,
+            "Artist": "Rovina Cai",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00161",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lórien Rope",
+            "Slug": "Lorien-Rope-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Lórien-Rope.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Gift."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Setup: Attach to a hero in play.\nAction: Add Lórien Rope to the victory display, and remove it from the campaign pool to give each location in the staging area -2 Threat until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`What a piece of luck you had that rope!`\n-Frodo, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 162,
+            "Quantity": 1,
+            "Artist": "Rick Price",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00162",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Leaf-wrapped Lembas",
+            "Slug": "Leaf-wrapped-Lembas-TFotR",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fellowship-of-the-Ring/Leaf-wrapped-Lembas.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Gift."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Setup: Attach to a hero in play.\nAction: Add Leaf-wrapped Lembas to the victory display, and remove it from the campaign pool, to ready all heroes in play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Often in their hearts they thanked the lady of Lórien for the gift of lembas, for they could eat of it and find new strength even as they ran.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Fellowship of the Ring",
+            "EncounterInfo": null,
+            "Number": 163,
+            "Quantity": 1,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00163",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

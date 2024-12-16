@@ -5,6 +5,338 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Cliffside Inlet",
+            "Slug": "Cliffside-Inlet-FotSN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Cliffside-Inlet.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Coastland.",
+                    "Ocean."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Cliffside Inlet is in the staging area, the main quest gets +2 quest points.\nTravel: Discard cards from the top of the encounter deck until a Ship enemy is discarded. Put that enemy into play in the Stormcaller`s area.\n☸\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Flight of the Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12006",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 537570,
+            "Categories": null
+        },
+        {
+            "Title": "Flight of the Stormcaller Nightmare",
+            "Slug": "Flight-of-the-Stormcaller-Nightmare-FotSN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Flight-of-the-Stormcaller-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nWhile you are at the same stage as the Stormcaller, the main quest gets +X quest points, where X is the Stormcaller`s remaining hit points.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the Sea became a word of fear among them, and a token of death, and they turned their faces away from the hills in the west.\n-The Fellowship of the Ring"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Flight of the Stormcaller scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n2x Calm Waters\n2x Corsair Skiff\n2x Southron Sailor\n2x Serpent`s Blade\n1x Hidden Cove\n2x Jagged Reef\nThen shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Flight on the Stormcaller encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n☸*: Some Cards in the Flight of the Stormcaller Nightmare Deck have Sailing Success symbols (☸) with an asterisk (*) next to them. This indicates that the card has a Forced effect which will trigger when the card is discarded during a sailing test.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12001",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 29404,
+            "Categories": null
+        },
+        {
+            "Title": "Venom's Bite",
+            "Slug": "Venom's-Bite-FotSN",
+            "IsUnique": true,
+            "CardType": "Ship_Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Venom's-Bite.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Corsair.",
+                    "Ship."
+                ],
+                "Keywords": [
+                    "Boarding 2.",
+                    "Victory 5."
+                ],
+                "Text": [
+                    "Boarding 2. Cannot have attachments.\n*Forced: After this Sailing test ends, if you are off-course (Cloudy, Rainy, or Stormy), put the Venom`s Bite into play in the staging area. If you are on-course (Sunny), put it into play in the Stormcaller`s area instead.\n☸*\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Brenda Bae",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 228118,
+            "Categories": null
+        },
+        {
+            "Title": "Sahír's Getting Away!",
+            "Slug": "Sahir's-Getting-Away-FotSN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Sahír's-Getting-Away.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: For each Ship enemy in the Stormcaller`s area, place 1 progress on the Stormcaller`s quest stage. Then, either shift your heading off-course or add 8 Threat to the staging area until the end of the phase.\n"
+                ],
+                "Shadow": "Shadow: If this attack damages a Ship objective, place 1 progress on the Stormcaller`s quest stage.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Flight of the Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 224363,
+            "Categories": null
+        },
+        {
+            "Title": "Raider of the Storm",
+            "Slug": "Raider-of-the-Storm-FotSN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Raider-of-the-Storm.jpg",
+                "Stats": {
+                    "EngagementCost": "28",
+                    "Threat": "0",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Corsair."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Raider of the Storm is engaged with you, each Ship enemy engaged with you gets +1 Threat, +1 Attack, +1 Defense, and contributes its Threat to the total Threat in the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Flight of the Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 4,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12002",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 170563,
+            "Categories": null
+        },
+        {
+            "Title": "Dark and Stormy",
+            "Slug": "Dark-and-Stormy-FotSN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Dark-and-Stormy.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Weather."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Deal 1 shadow card to each Ship enemy in play. Until the end of the round, shadow effects cannot be canceled.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Flight of the Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Federico Musetti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 65448,
+            "Categories": null
+        },
+        {
+            "Title": "Tide-runner",
+            "Slug": "Tide-runner-FotSN",
+            "IsUnique": false,
+            "CardType": "Ship_Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Tide-runner.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Corsair.",
+                    "Ship."
+                ],
+                "Keywords": [
+                    "Boarding 1."
+                ],
+                "Text": [
+                    "Boarding 1. Cannot have attachments.\nWhile you are off-course (Cloudy, Rainy, or Stormy), Tide-runner is considered to be in the Stormcaller`s area and the staging area, regardless of its current location.\nWhen Revealed: Either choose a player to engage Tide-runner, or add Tide-runner to the Stormcaller`s area and it gains surge.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Brenda Bae",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 45865,
+            "Categories": null
+        },
+        {
+            "Title": "Sharp Jetties",
+            "Slug": "Sharp-Jetties-FotSN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Sharp-Jetties.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Coastland.",
+                    "Ocean."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If your heading is off-course (Cloudy, Rainy, or Stormy), make Sharp Jetties the active location, returning any currently active location to the staging area.\nForced: When any amount of progress is placed on Sharp Jetties, either remove an equal amount of progress from the current quest, or deal an equal amount of damage to each Ship objective.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Flight of the Stormcaller Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Flight of the Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 34317,
+            "Categories": null
+        },
+        {
             "Title": "Calm Waters",
             "Slug": "Calm-Waters-TGH",
             "IsUnique": false,
@@ -23,7 +355,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Calm Waters is the active location, look at 2 additional cards from the top of the encounter deck during each Sailing test."
+                    "While Calm Waters is the active location, look at 2 additional cards from the top of the encounter deck during each Sailing test.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if attacking enemy is a Ship Enemy).",
                 "FlavorText": null
@@ -66,8 +398,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Shift your heading off-course to travel here.",
-                    "Shadow: If this attack deals damage to a Ship objective, shift your heading off-course."
+                    "Travel: Shift your heading off-course to travel here.\nShadow: If this attack deals damage to a Ship objective, shift your heading off-course.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The winds of wrath came driving him, and blindly in the foam he fled… —The Fellowship of the Ring"
@@ -105,7 +436,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Either remove all progress from the current quest and raise each player’s threat by 4, or shift your heading off-course."
+                    "When Revealed: Either remove all progress from the current quest and raise each player’s threat by 4, or shift your heading off-course.\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, shift your heading off-course.",
                 "FlavorText": null
@@ -148,7 +479,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Rough Waters is in the staging area, cancel the first Sailing Success symbol found during each Sailing test."
+                    "While Rough Waters is in the staging area, cancel the first Sailing Success symbol found during each Sailing test.\n"
                 ],
                 "Shadow": "Shadow: If you are off-course (Cloudy, Rainy, or Stormy), attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -191,8 +522,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While your heading is at the worst setting (Stormy), when faced with the option to travel, the players must travel to Waterspout, if able.",
-                    "Forced: After traveling to Waterspout, deal 4 damage to each Ship objective."
+                    "While your heading is at the worst setting (Stormy), when faced with the option to travel, the players must travel to Waterspout, if able.\nForced: After traveling to Waterspout, deal 4 damage to each Ship objective.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -232,7 +562,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Either shift your heading off-course or deal 1 damage to each exhausted character."
+                    "When Revealed: Either shift your heading off-course or deal 1 damage to each exhausted character.\n"
                 ],
                 "Shadow": "Shadow: Excess damage from this attack is dealt to a Ship objective you control.",
                 "FlavorText": null
@@ -272,7 +602,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: If you are off-course, deal 1 damage to each character in play. If your heading is at the worst setting (Stormy), this effect cannot be canceled."
+                    "When Revealed: If you are off-course, deal 1 damage to each character in play. If your heading is at the worst setting (Stormy), this effect cannot be canceled.\n"
                 ],
                 "Shadow": "Shadow: Either shift your heading off-course or treat this attack as undefended.",
                 "FlavorText": null
@@ -318,7 +648,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Southron Sailor is engaged with you, each Ship enemy engaged with you contributes its Threat to the total Threat in the staging area."
+                    "While Southron Sailor is engaged with you, each Ship enemy engaged with you contributes its Threat to the total Threat in the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`There is a great fleet drawing near to the mouths of Anduin, manned by the corsairs of Umbar in the South.` —Beregond, The Return of the King"
@@ -365,8 +695,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cunning Pirate gets +1 Attack and +1 Defense for each resource on it.",
-                    "Forced: When Cunning Pirate engages you, discard an attachment you control and place resources on Cunning Pirate equal to that attachment`s printed cost."
+                    "Cunning Pirate gets +1 Attack and +1 Defense for each resource on it.\nForced: When Cunning Pirate engages you, discard an attachment you control and place resources on Cunning Pirate equal to that attachment`s printed cost.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -413,8 +742,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Vicious Marauder engages you, discard a random card from your hand and place resources on it equal to that card’s printed cost.",
-                    "Forced: When Vicious Marauder attacks you, distribute damage among characters you control equal to the number of resources on it."
+                    "Forced: When Vicious Marauder engages you, discard a random card from your hand and place resources on it equal to that card’s printed cost.\nForced: When Vicious Marauder attacks you, distribute damage among characters you control equal to the number of resources on it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -460,7 +788,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While you are engaged with Umbar Captain, characters you control cannot attack Ship enemies."
+                    "While you are engaged with Umbar Captain, characters you control cannot attack Ship enemies.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...the strength of the rebels in Umbar was a great peril to Gondor... —The Return of the King"
@@ -503,9 +831,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects. Sentinel.",
-                    "The Dream-chaser can always be committed to sailing tests (even if you are not the first player), and counts as 2 characters when committed to a Sailing test.",
-                    "If the Dream-chaser is destroyed, the players lose the game."
+                    "Immune to player card effects. Sentinel.\nThe Dream-chaser can always be committed to sailing tests (even if you are not the first player), and counts as 2 characters when committed to a Sailing test.\nIf the Dream-chaser is destroyed, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -542,10 +868,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects. Sentinel.",
-                    "Raise your starting threat by 3.",
-                    "Draw 1 additional card during the resource phase.",
-                    "If the Dawn Star is destroyed, its controller is eliminated from the game."
+                    "Immune to player card effects. Sentinel.\nRaise your starting threat by 3.\nDraw 1 additional card during the resource phase.\nIf the Dawn Star is destroyed, its controller is eliminated from the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -582,9 +905,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Immune to player card effects. Sentinel.",
-                    "Reduce the cost of the first ally you play each round by 1.",
-                    "If the Nárelenya is destroyed, its controller is eliminated from the game."
+                    "Immune to player card effects. Sentinel.\nReduce the cost of the first ally you play each round by 1.\nIf the Nárelenya is destroyed, its controller is eliminated from the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -622,10 +943,7 @@
                     "Ranged."
                 ],
                 "Text": [
-                    "Immune to player card effects. Sentinel. Ranged.",
-                    "Reduce your starting threat by 3.",
-                    "Each hero you control gets +1 Attack.",
-                    "If the Silver Wing is destroyed, its controller is eliminated from the game."
+                    "Immune to player card effects. Sentinel. Ranged.\nReduce your starting threat by 3.\nEach hero you control gets +1 Attack.\nIf the Silver Wing is destroyed, its controller is eliminated from the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -657,7 +975,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Sunny, Cloudy, Rainy, Stormy"
+                    "Sunny, Cloudy, Rainy, Stormy\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -699,7 +1017,7 @@
                     "Sailing."
                 ],
                 "Text": [
-                    "Setup: Prepare the Corsair deck. Players prepare their fleet. Prepare the Stormcaller’s area with a second quest deck consisting of only stages 2C, 3C, and 4C, as well as the Stormcaller (see insert). Search the encounter deck for 1 copy of Rolling Seas, and add it to the staging area (2 copies instead if there are 3 or more players in the game). Shuffle the encounter deck."
+                    "Setup: Prepare the Corsair deck. Players prepare their fleet. Prepare the Stormcaller’s area with a second quest deck consisting of only stages 2C, 3C, and 4C, as well as the Stormcaller (see insert). Search the encounter deck for 1 copy of Rolling Seas, and add it to the staging area (2 copies instead if there are 3 or more players in the game). Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Corsairs led by the treacherous Captain Sahír have stolen the black key you recovered in the ruins of Númenor. You must get it back!"
@@ -714,8 +1032,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Sailing.",
-                    "Forced: At the end of the quest phase, if you are off-course (Cloudy, Rainy, or Stormy), move 2 progress from Swift Departure to the Stormcaller`s quest stage."
+                    "Sailing.\nForced: At the end of the quest phase, if you are off-course (Cloudy, Rainy, or Stormy), move 2 progress from Swift Departure to the Stormcaller`s quest stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -761,7 +1078,7 @@
                     "Sailing."
                 ],
                 "Text": [
-                    "When Revealed: Search the encounter deck and discard pile for 1 copy of Swift Raider and add it to the staging area. Shuffle the encounter deck."
+                    "When Revealed: Search the encounter deck and discard pile for 1 copy of Swift Raider and add it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you travel along the western coast of Middle-earth, Corsairs continue to harry your fleet in an attempt to slow your progress."
@@ -776,9 +1093,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Sailing.",
-                    "No more than 8 progress can be placed here each round. If you are off-course (Cloudy, Rainy, or Stormy), no more than 4 progress can be placed here each round instead.",
-                    "When you defeat this stage, if the Stormcaller is at stage 2, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage."
+                    "Sailing.\nNo more than 8 progress can be placed here each round. If you are off-course (Cloudy, Rainy, or Stormy), no more than 4 progress can be placed here each round instead.\nWhen you defeat this stage, if the Stormcaller is at stage 2, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -837,9 +1152,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Sailing.",
-                    "Forced: At the end of the staging step, if you are off-course (??, ??, or ??), reveal an additional encounter card from the top of the encounter deck.",
-                    "When you defeat this stage, if the Stormcaller is still at stage 3, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage."
+                    "Sailing.\nForced: At the end of the staging step, if you are off-course (??, ??, or ??), reveal an additional encounter card from the top of the encounter deck.\nWhen you defeat this stage, if the Stormcaller is still at stage 3, you have caught up to the Stormcaller and win the game. Otherwise, advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -885,7 +1198,7 @@
                     "Sailing."
                 ],
                 "Text": [
-                    "When Revealed: Discard cards from the top of the encounter deck until a Weather treachery is discarded. Resolve that card’s “when revealed” effect. That effect cannot be canceled."
+                    "When Revealed: Discard cards from the top of the encounter deck until a Weather treachery is discarded. Resolve that card’s “when revealed” effect. That effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You’ve pursued the Stormcaller all the way to the deadly Cape of Andrast, where terrible winds and sharp jetties threaten to tear apart your entire fleet."
@@ -900,9 +1213,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Sailing.",
-                    "Forced: After a Weather treachery is revealed, deal 1 damage to each Ship objective and Ship enemy at this stage.",
-                    "If you defeat this stage, you have caught up to the Stormcaller and win the game."
+                    "Sailing.\nForced: After a Weather treachery is revealed, deal 1 damage to each Ship objective and Ship enemy at this stage.\nIf you defeat this stage, you have caught up to the Stormcaller and win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -959,9 +1270,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If the players are off-course (Cloudy, Rainy, or Stormy), the Stormcaller gets +2 Threat.",
-                    "No more than 4 damage may be placed on the Stormcaller each round.",
-                    "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card."
+                    "If the players are off-course (Cloudy, Rainy, or Stormy), the Stormcaller gets +2 Threat.\nNo more than 4 damage may be placed on the Stormcaller each round.\nForced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1005,7 +1314,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Search the encounter deck and discard pile for 1 copy of Sahír`s Escort and add it to the Stormcaller`s area. Shuffle the encounter deck."
+                    "When Revealed: Search the encounter deck and discard pile for 1 copy of Sahír`s Escort and add it to the Stormcaller`s area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Aided by other Corsair ships, the Stormcaller slips out of sight, heading into the dark clouds on the southern horizon."
@@ -1020,9 +1329,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If the players are off-course (Cloudy, Rainy, or Stormy), the Stormcaller gets +2 Threat.",
-                    "No more than 8 damage may be placed on the Stormcaller each round.",
-                    "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card."
+                    "If the players are off-course (Cloudy, Rainy, or Stormy), the Stormcaller gets +2 Threat.\nNo more than 8 damage may be placed on the Stormcaller each round.\nForced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1079,8 +1386,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card.",
-                    "If the Stormcaller defeats this stage, Captain Sahír has gotten away with the key, and the players lose the game."
+                    "Forced: At the end of the round, discard the top card of the encounter deck. the Stormcaller places progress on this stage equal to its Threat plus the Threat of the discarded card.\nIf the Stormcaller defeats this stage, Captain Sahír has gotten away with the key, and the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1127,9 +1433,7 @@
                     "Boarding 2."
                 ],
                 "Text": [
-                    "Boarding 2. Cannot have attachments.",
-                    "When the Stormcaller advances to the next quest stage, return it to the Stormcaller`s area.",
-                    "If the Stormcaller leaves play, the players win the game."
+                    "Boarding 2. Cannot have attachments.\nWhen the Stormcaller advances to the next quest stage, return it to the Stormcaller`s area.\nIf the Stormcaller leaves play, the players win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1166,9 +1470,7 @@
                     "Boarding 1."
                 ],
                 "Text": [
-                    "Boarding 1. Cannot have attachments.",
-                    "While Sahír`s Escort is in the Stormcaller’s area, it contributes its Threat to the amount of progress the Stormcaller places on its quest stage each round.",
-                    "When Revealed: Add Sahír’s Escort to the Stormcaller’s area, instead of the players’ staging area."
+                    "Boarding 1. Cannot have attachments.\nWhile Sahír`s Escort is in the Stormcaller’s area, it contributes its Threat to the amount of progress the Stormcaller places on its quest stage each round.\nWhen Revealed: Add Sahír’s Escort to the Stormcaller’s area, instead of the players’ staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1205,8 +1507,7 @@
                     "Boarding 2."
                 ],
                 "Text": [
-                    "Boarding 2. Cannot have attachments.",
-                    "While Swift Raider is in the staging area, it gains: “Forced: After a player commits 4 or more characters to a Sailing test or to the quest, Swift Raider engages that player.”"
+                    "Boarding 2. Cannot have attachments.\nWhile Swift Raider is in the staging area, it gains: “Forced: After a player commits 4 or more characters to a Sailing test or to the quest, Swift Raider engages that player.”\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1243,8 +1544,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge. Cannot have attachments.",
-                    "Forced: When Corsair Skiff engages you from the staging area, either raise your threat by 3 or it gains Boarding 1."
+                    "Surge. Cannot have attachments.\nForced: When Corsair Skiff engages you from the staging area, either raise your threat by 3 or it gains Boarding 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1285,8 +1585,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Corsair Seafarer gets +1 Attack for each resource on it.",
-                    "Forced: After the engaged player commits a hero to a Sailing test or to a quest, move 1 resource from that hero`s resource pool to Corsair Seafarer."
+                    "Corsair Seafarer gets +1 Attack for each resource on it.\nForced: After the engaged player commits a hero to a Sailing test or to a quest, move 1 resource from that hero`s resource pool to Corsair Seafarer.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1332,7 +1631,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When the Stormcaller advances to the next quest stage, Serpent`s Blade makes an immediate attack against the engaged player."
+                    "Forced: When the Stormcaller advances to the next quest stage, Serpent`s Blade makes an immediate attack against the engaged player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1378,8 +1677,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: At the beginning of the travel phase, if you are on-course (Sunny), place 2 progress on Jagged Reef. If you are off-course (Cloudy, Rainy, or Stormy), deal 2 damage to each Ship objective instead."
+                    "Surge.\nForced: At the beginning of the travel phase, if you are on-course (Sunny), place 2 progress on Jagged Reef. If you are off-course (Cloudy, Rainy, or Stormy), deal 2 damage to each Ship objective instead.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1423,8 +1721,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Move 2 progress from the main quest to the Stormcaller`s quest stage.",
-                    "Response: After Hidden Cove becomes the active location, heal 4 damage from each Ship objective."
+                    "Travel: Move 2 progress from the main quest to the Stormcaller`s quest stage.\nResponse: After Hidden Cove becomes the active location, heal 4 damage from each Ship objective.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1468,7 +1765,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Vast Coastland to the Stormcaller’s area."
+                    "When Revealed: Add Vast Coastland to the Stormcaller’s area.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack if you are at the same stage as The Stormcaller.",
                 "FlavorText": null
@@ -1506,7 +1803,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player contributing at least 8 Willpower to the quest must discard a questing character. If your heading is at the worst setting (Stormy), this effect cannot be canceled."
+                    "When Revealed: Each player contributing at least 8 Willpower to the quest must discard a questing character. If your heading is at the worst setting (Stormy), this effect cannot be canceled.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +X Attack, where X is The Stormcaller`s current quest stage.",
                 "FlavorText": null
@@ -1548,8 +1845,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "When Revealed: Attach Raging Squall to the current quest. (Counts as a Condition attachment with the text: “Forced: After an ally is committed to the quest, deal 1 damage to that ally if you are off-course.”)"
+                    "Doomed 2.\nWhen Revealed: Attach Raging Squall to the current quest. (Counts as a Condition attachment with the text: “Forced: After an ally is committed to the quest, deal 1 damage to that ally if you are off-course.”)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1569,357 +1865,6 @@
             "HasErrata": false,
             "OctgnGuid": "076b47e8-6bbe-41b3-9af8-edeca28e2c0c",
             "RingsDbCardId": "12029",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Flight of the Stormcaller Nightmare",
-            "Slug": "Flight-of-the-Stormcaller-Nightmare-FotSN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Flight-of-the-Stormcaller-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "While you are at the same stage as the Stormcaller, the main quest gets +X quest points, where X is the Stormcaller`s remaining hit points."
-                ],
-                "Shadow": null,
-                "FlavorText": "...the Sea became a word of fear among them, and a token of death, and they turned their faces away from the hills in the west.\r\n-The Fellowship of the Ring"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Flight of the Stormcaller scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "2x Calm Waters",
-                    "2x Corsair Skiff",
-                    "2x Southron Sailor",
-                    "2x Serpent`s Blade",
-                    "1x Hidden Cove",
-                    "2x Jagged Reef",
-                    "Then shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Flight on the Stormcaller encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.",
-                    "☸*: Some Cards in the Flight of the Stormcaller Nightmare Deck have Sailing Success symbols (☸) with an asterisk (*) next to them. This indicates that the card has a Forced effect which will trigger when the card is discarded during a sailing test."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Federico Musetti",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Raider of the Storm",
-            "Slug": "Raider-of-the-Storm-FotSN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Raider-of-the-Storm.jpg",
-                "Stats": {
-                    "EngagementCost": "28",
-                    "Threat": "0",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Corsair."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Raider of the Storm is engaged with you, each Ship enemy engaged with you gets +1 Threat, +1 Attack, +1 Defense, and contributes its Threat to the total Threat in the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Flight of the Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 4,
-            "Artist": "Monztre",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Tide-runner",
-            "Slug": "Tide-runner-FotSN",
-            "IsUnique": false,
-            "CardType": "Ship_Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Tide-runner.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Corsair.",
-                    "Ship."
-                ],
-                "Keywords": [
-                    "Boarding 1."
-                ],
-                "Text": [
-                    "Boarding 1. Cannot have attachments.",
-                    "While you are off-course (Cloudy, Rainy, or Stormy), Tide-runner is considered to be in the Stormcaller`s area and the staging area, regardless of its current location.",
-                    "When Revealed: Either choose a player to engage Tide-runner, or add Tide-runner to the Stormcaller`s area and it gains surge."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": null,
-            "Number": 3,
-            "Quantity": 2,
-            "Artist": "Brenda Bae",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Venom's Bite",
-            "Slug": "Venom's-Bite-FotSN",
-            "IsUnique": true,
-            "CardType": "Ship_Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Venom's-Bite.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Corsair.",
-                    "Ship."
-                ],
-                "Keywords": [
-                    "Boarding 2.",
-                    "Victory 5."
-                ],
-                "Text": [
-                    "Boarding 2. Cannot have attachments.",
-                    "*Forced: After this Sailing test ends, if you are off-course (Cloudy, Rainy, or Stormy), put the Venom`s Bite into play in the staging area. If you are on-course (Sunny), put it into play in the Stormcaller`s area instead.",
-                    "☸*"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": null,
-            "Number": 4,
-            "Quantity": 1,
-            "Artist": "Brenda Bae",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Sharp Jetties",
-            "Slug": "Sharp-Jetties-FotSN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Sharp-Jetties.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "Coastland.",
-                    "Ocean."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: If your heading is off-course (Cloudy, Rainy, or Stormy), make Sharp Jetties the active location, returning any currently active location to the staging area.",
-                    "Forced: When any amount of progress is placed on Sharp Jetties, either remove an equal amount of progress from the current quest, or deal an equal amount of damage to each Ship objective."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Flight of the Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Jordan Saia",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cliffside Inlet",
-            "Slug": "Cliffside-Inlet-FotSN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Cliffside-Inlet.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Coastland.",
-                    "Ocean."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Cliffside Inlet is in the staging area, the main quest gets +2 quest points.",
-                    "Travel: Discard cards from the top of the encounter deck until a Ship enemy is discarded. Put that enemy into play in the Stormcaller`s area.",
-                    "☸"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Flight of the Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Jordan Saia",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Dark and Stormy",
-            "Slug": "Dark-and-Stormy-FotSN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Dark-and-Stormy.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Weather."
-                ],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: Deal 1 shadow card to each Ship enemy in play. Until the end of the round, shadow effects cannot be canceled."
-                ],
-                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Flight of the Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Federico Musetti",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Sahír's Getting Away!",
-            "Slug": "Sahir's-Getting-Away-FotSN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Flight-of-the-Stormcaller-Nightmare/Sahír's-Getting-Away.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: For each Ship enemy in the Stormcaller`s area, place 1 progress on the Stormcaller`s quest stage. Then, either shift your heading off-course or add 8 Threat to the staging area until the end of the phase."
-                ],
-                "Shadow": "Shadow: If this attack damages a Ship objective, place 1 progress on the Stormcaller`s quest stage.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Flight of the Stormcaller Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Flight of the Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

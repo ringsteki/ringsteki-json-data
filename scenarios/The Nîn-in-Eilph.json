@@ -5,6 +5,420 @@
     "Number": 4,
     "AllCards": [
         {
+            "Title": "Deadly Marsh Adder",
+            "Slug": "Deadly-Marsh-Adder-NiEN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Deadly-Marsh-Adder.jpg",
+                "Stats": {
+                    "EngagementCost": "30",
+                    "Threat": "3",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Deadly Marsh Adder engages you, discard a damaged character you control.\nForced: After the players advance to a quest stage return Deadly Marsh Adder to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08002",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 331787,
+            "Categories": null
+        },
+        {
+            "Title": "Desolate Meadow",
+            "Slug": "Desolate-Meadow-NiEN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Desolate-Meadow.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Marsh."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Desolate Meadow is in the staging area, it gains: `Forced: After any number of time counters are removed from the current quest, heal 2 damage on each Creature enemy in play.`\n"
+                ],
+                "Shadow": "Shadow: If this attack destroys a character, remove all progress from the current quest.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Matthew Cowdery",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 299559,
+            "Categories": null
+        },
+        {
+            "Title": "Through the Marsh",
+            "Slug": "Through-the-Marsh-An-Arduous-Journey-NiEN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Through-the-Marsh-An-Arduous-Journey-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [
+                    "When Revealed: Raise each player`s threat by 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "As you trudge through endless swamp, you begin to wonder if you will ever reach the other side."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Through-the-Marsh-An-Arduous-Journey-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "13"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3. Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.\nAllies enter play exhausted.\nForced: When the players defeat this stage, advance to a random stage 3A.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 253433,
+            "Categories": null
+        },
+        {
+            "Title": "Lost in the Swanfleet",
+            "Slug": "Lost-in-the-Swanfleet-Deadly-Waters-NiEN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Lost-in-the-Swanfleet-Deadly-Waters-3A.jpg",
+                "Stats": {
+                    "StageNumber": "3A"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Time 3."
+                ],
+                "Text": [
+                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Lost as you are, your presence in the marsh has not gone unnoticed. An ancient and foul swamp creature stalks your company..."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Lost-in-the-Swanfleet-Deadly-Waters-3B.jpg",
+                "Stats": {
+                    "StageNumber": "3B",
+                    "QuestPoints": "16"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.\nTreachery card effects cannot be canceled.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [
+                    "Weary Travelers"
+                ],
+                "StageNumber": 3,
+                "StageLetter": "A"
+            },
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Silver Saaremäel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 224339,
+            "Categories": null
+        },
+        {
+            "Title": "The Nîn-in-Eilph Nightmare",
+            "Slug": "The-Nin-in-Eilph-Nightmare-NiEN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/The-Nîn-in-Eilph-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: When the players advance to stage 2A, add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There was a deep silence, only scraped on its surfaces by the faint quiver of empty seed plumes, and broken grass-blades trembling in small air-movements that they could not feel. -The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Nîn-in-Eilph scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x A Weary Passage (Stage 1B)\n1x Impassable Marshland (Stage 2B)\n3x Neekerbreekers\n1x Hidden Eyot\n3x Finger of Glanduin\n2x Off Track\n1x Low on Provisions\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Nin-in-Eilph encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Claudio Pozas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08001",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 15291,
+            "Categories": null
+        },
+        {
+            "Title": "Peat Bog",
+            "Slug": "Peat-Bog-NiEN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Peat-Bog.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Marsh."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Peat Bog is in the staging area, it gains: `Forced: After the players advance to a quest stage, each player discards 1 random card from his hand.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Dead grasses and rotting reeds loomed up in the mists like ragged shadows of long-forgotten summers.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 4,
+            "Artist": "Igor Burlakov",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 95881,
+            "Categories": null
+        },
+        {
+            "Title": "Quicksand",
+            "Slug": "Quicksand-NiEN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Quicksand.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Either remove 1 time counter from the current quest or remove each character with 3 or more Willpower from the quest.\n"
+                ],
+                "Shadow": "Shadow: Defending character cannot ready until the end of the round.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Mark Molnar",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08006",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 91897,
+            "Categories": null
+        },
+        {
+            "Title": "Swarms of Mosquitoes",
+            "Slug": "Swarms-of-Mosquitoes-NiEN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Swarms-of-Mosquitoes.jpg",
+                "Stats": {
+                    "EngagementCost": "25",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "7"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Insect."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nWhile Swarm of Mosquitoes is in the victory display, it gains: `Forced: After the players advance to a quest stage, return Swarm of Mosquitoes to the staging area.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Yog Joshi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 41112,
+            "Categories": null
+        },
+        {
+            "Title": "Rotten Stench",
+            "Slug": "Rotten-Stench-NiEN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Rotten-Stench.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Return the topmost location in the encounter discard pile to the staging area. Until the end of the phase, each location in the staging area gets +1 Willpower.\n"
+                ],
+                "Shadow": "Shadow: Deal 1 damage to the defending character.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Nîn-in-Eilph Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Nîn-in-Eilph Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Nele Diel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 27260,
+            "Categories": null
+        },
+        {
             "Title": "Low on Provisions",
             "Slug": "Low-on-Provisions-VoI",
             "IsUnique": false,
@@ -18,7 +432,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must assign X damage among characters he controls, where X is the number of characters he controls."
+                    "When Revealed: Each player must assign X damage among characters he controls, where X is the number of characters he controls.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if the defending character is undamaged.)",
                 "FlavorText": null
@@ -58,8 +472,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to a location in play. (Counts as a Condition attachment with the text: `Limit 1 per location. Attached location gets +2 quest points and Gain: `Forced: Remove an additional time counter from the current quest at the end of each refresh phase, if able.``)"
+                    "Surge.\nWhen Revealed: Attach to a location in play. (Counts as a Condition attachment with the text: `Limit 1 per location. Attached location gets +2 quest points and Gain: `Forced: Remove an additional time counter from the current quest at the end of each refresh phase, if able.``)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -97,10 +510,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove a hero from the quest and attach In Need of Rest to that hero. (Counts as a Condition attachment with the text: `Limit 1 per hero. Forced: After a time counter is removed from the current quest, attached hero takes 1 damage.`)"
+                    "When Revealed: Remove a hero from the quest and attach In Need of Rest to that hero. (Counts as a Condition attachment with the text: `Limit 1 per hero. Forced: After a time counter is removed from the current quest, attached hero takes 1 damage.`)\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "I have just about enough strength left to find some hole away up there. And then I must rest a little.\r\n-Frodo, The Return of the King"
+                "FlavorText": "I have just about enough strength left to find some hole away up there. And then I must rest a little.\n-Frodo, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Voice of Isengard",
@@ -137,7 +550,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: The first player takes control of Nalir. Set the Ancient Marsh-dweller aside, out of play. Each player searches the encounter deck for a different location and adds it to the staging area. Shuffle the encounter deck."
+                    "Setup: The first player takes control of Nalir. Set the Ancient Marsh-dweller aside, out of play. Each player searches the encounter deck for a different location and adds it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You`ve entered the vast marshlands of the Nin-in-Eilph with Nalir in order to escape Bellach and his Orcs. Now, you must cross the swamp in order to reach Hollin on the other side."
@@ -152,7 +565,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Advance to a random stage 2A."
+                    "When Revealed: Advance to a random stage 2A.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "No traveller has entered the Nîn-in-Eilph for an age and there is no path through the shifting marshland. You must find your own way across the treacherous bog."
@@ -193,7 +606,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1."
+                    "When Revealed: Raise each player`s threat by 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you trudge through endless swamp, you begin to wonder if you will ever reach the other side."
@@ -208,10 +621,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.",
-                    "Player card effects cannot be used to gain resources or draw cards.",
-                    "Forced: When the players defeat this stage, advance to a random stage 3A."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.\nPlayer card effects cannot be used to gain resources or draw cards.\nForced: When the players defeat this stage, advance to a random stage 3A.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -252,7 +662,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1."
+                    "When Revealed: Raise each player`s threat by 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you trudge through endless swamp, you begin to wonder if you will ever reach the other side."
@@ -267,10 +677,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.",
-                    "In order to commit characters to the quest, a player must first discard a card at random from his hand.",
-                    "Forced: When the players defeat this stage, advance to a random stage 3A."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.\nIn order to commit characters to the quest, a player must first discard a card at random from his hand.\nForced: When the players defeat this stage, advance to a random stage 3A.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -311,7 +718,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1."
+                    "When Revealed: Raise each player`s threat by 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you trudge through endless swamp, you begin to wonder if you will ever reach the other side."
@@ -326,10 +733,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.",
-                    "Each player cannot play more than 1 card each round.",
-                    "Forced: When the players defeat this stage, advance to a random stage 3A."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 2A at random. Return this stage to the quest deck.\nEach player cannot play more than 1 card each round.\nForced: When the players defeat this stage, advance to a random stage 3A.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -370,7 +774,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."
+                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Lost as you are, your presence in the marsh has not gone unnoticed. An ancient and foul swamp creature stalks your company..."
@@ -385,9 +789,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.",
-                    "Each location in play gets +1 Threat."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.\nEach location in play gets +1 Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Despite the size of the creatures hunting you, the swamp itself is your worst enemy. The ground sinks down beneath you and the mud pulls the boots off your feet. Every step forward is a struggle..."
@@ -428,7 +830,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."
+                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Lost as you are, your presence in the marsh has not gone unnoticed. An ancient and foul swamp creature stalks your company..."
@@ -443,9 +845,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.",
-                    "Each player cannot ready more than 5 characters during the refresh phase."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.\nEach player cannot ready more than 5 characters during the refresh phase.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "After wandering aimlessly for so long, harried by foul creatues, your resolve begins to waver and your companions collapse from exhaustion. If you cannot find a way across, the swamp will erase all evidence of your passage..."
@@ -486,7 +886,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it."
+                    "When Revealed: Raise each player`s threat by 1. Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage from it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Lost as you are, your presence in the marsh has not gone unnoticed. An ancient and foul swamp creature stalks your company..."
@@ -501,9 +901,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.",
-                    "Each enemy in the staging area gets -20 engagement cost."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, advance to a different stage 3A at random. Return this stage to the quest deck.\nEach enemy in the staging area gets -20 engagement cost.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As if the swamp itself was not bad enough, its foul denizens swarm around you, their serpentine forms slithering through the murky water that rises to your waist..."
@@ -544,7 +942,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage on it. Then Ancient Marsh-dweller makes an attack against each player in player order."
+                    "When Revealed: Add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player) and heal all damage on it. Then Ancient Marsh-dweller makes an attack against each player in player order.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Beyond all hope, you have reached the edge of the swamp! You can see the gentle rise of the hills in the distance, but the huge marsh-dweller that has pursued your company now lies between you and dry land."
@@ -559,9 +957,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 2.",
-                    "Forced: After the last time counter is removed from this stage, Ancient Marsh-dweller makes an attack against each player in order. Place 2 time counters on this stage.",
-                    "When Ancient Marsh-dweller is defeated, the players win the game."
+                    "Time 2.\nForced: After the last time counter is removed from this stage, Ancient Marsh-dweller makes an attack against each player in order. Place 2 time counters on this stage.\nWhen Ancient Marsh-dweller is defeated, the players win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -607,9 +1003,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Nalir.",
-                    "Forced: At the beginning of the refresh phase, raise your threat by 1 for each player in the game.",
-                    "If Nalir leaves play, the players lose the game."
+                    "The first player gains control of Nalir.\nForced: At the beginning of the refresh phase, raise your threat by 1 for each player in the game.\nIf Nalir leaves play, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -657,9 +1051,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Cannot have attachments.",
-                    "Ancient Marsh-dweller gets +1 Threat and +1 Attack for each resource token on it.",
-                    "Forced: After any number of time counters are removed from the current quest, place a resource token here."
+                    "Cannot have attachments.\nAncient Marsh-dweller gets +1 Threat and +1 Attack for each resource token on it.\nForced: After any number of time counters are removed from the current quest, place a resource token here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -705,8 +1097,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "Forced: After any number of time counters are removed from the current quest, Giant Swamp Adder attacks the engaged player."
+                    "Cannot have attachments.\nForced: After any number of time counters are removed from the current quest, Giant Swamp Adder attacks the engaged player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "There were also abominable creatures haunting the reeds and tussocks... -The Fellowship of the Ring"
@@ -753,7 +1144,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After any number of time counters are removed from the current quest, the engaged player must deal 2 damage to an ally he controls."
+                    "Forced: After any number of time counters are removed from the current quest, the engaged player must deal 2 damage to an ally he controls.\n"
                 ],
                 "Shadow": "Shadow: Deal 1 damage to the defending character.",
                 "FlavorText": null
@@ -796,7 +1187,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Fen of Reeds is in the staging area, it gains: `Forced: After the players advance to a quest stage, each player must exhaust a character he controls.`"
+                    "While Fen of Reeds is in the staging area, it gains: `Forced: After the players advance to a quest stage, each player must exhaust a character he controls.`\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each time counter on the quest.",
                 "FlavorText": null
@@ -840,7 +1231,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Finger of Glanduin is in the staging area, it gains : `Forced: At the end of each round, remove 1 progress from each location in play.`"
+                    "While Finger of Glanduin is in the staging area, it gains : `Forced: At the end of each round, remove 1 progress from each location in play.`\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character remove all progress from the current quest.",
                 "FlavorText": null
@@ -883,8 +1274,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Hidden Eyot leaves play as an explored location, place 2 time counters on the current quest.",
-                    "Travel: Each player must exhaust a character he controls to travel here."
+                    "Response: After Hidden Eyot leaves play as an explored location, place 2 time counters on the current quest.\nTravel: Each player must exhaust a character he controls to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -927,7 +1317,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Sinking Bog is in the staging area, each character gets -1 Willpower, -1 Attack, and -1 Defense for each Item attached to it. This ability does not stack with other copies of Sinking Bog."
+                    "While Sinking Bog is in the staging area, each character gets -1 Willpower, -1 Attack, and -1 Defense for each Item attached to it. This ability does not stack with other copies of Sinking Bog.\n"
                 ],
                 "Shadow": "Shadow: Defending character gets -1 Defense for this attack for each attachment attached to it.",
                 "FlavorText": null
@@ -967,8 +1357,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Remove 1 time counter from the current quest."
+                    "Surge.\nWhen Revealed: Remove 1 time counter from the current quest.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
@@ -1006,10 +1395,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must search the encounter deck or discard pile for a Creature enemy and put it into play engaged with him. Shuffle the encounter deck. This effect cannot be canceled."
+                    "When Revealed: Each player must search the encounter deck or discard pile for a Creature enemy and put it into play engaged with him. Shuffle the encounter deck. This effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`An evil of the Ancient World it seemed, such as I have never seen before...`\r\n-Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`An evil of the Ancient World it seemed, such as I have never seen before...`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Nîn-in-Eilph",
@@ -1026,307 +1415,6 @@
             "HasErrata": false,
             "OctgnGuid": "944aaafa-17e2-4352-9a04-384673089ee6",
             "RingsDbCardId": "08111",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Nîn-in-Eilph Nightmare",
-            "Slug": "The-Nin-in-Eilph-Nightmare-NiEN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/The-Nîn-in-Eilph-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Forced: When the players advance to stage 2A, add Ancient Marsh-dweller to the staging area (from out of play or engaged with a player)."
-                ],
-                "Shadow": null,
-                "FlavorText": "There was a deep silence, only scraped on its surfaces by the faint quiver of empty seed plumes, and broken grass-blades trembling in small air-movements that they could not feel. -The Two Towers"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Nîn-in-Eilph scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n1x A Weary Passage (Stage 1B)\n1x Impassable Marshland (Stage 2B)\n3x Neekerbreekers\n1x Hidden Eyot\n3x Finger of Glanduin\n2x Off Track\n1x Low on Provisions\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Nin-in-Eilph encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Claudio Pozas",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Deadly Marsh Adder",
-            "Slug": "Deadly-Marsh-Adder-NiEN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Deadly-Marsh-Adder.jpg",
-                "Stats": {
-                    "EngagementCost": "30",
-                    "Threat": "3",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Creature."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Deadly Marsh Adder engages you, discard a damaged character you control.",
-                    "Forced: After the players advance to a quest stage return Deadly Marsh Adder to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Swarms of Mosquitoes",
-            "Slug": "Swarms-of-Mosquitoes-NiEN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Swarms-of-Mosquitoes.jpg",
-                "Stats": {
-                    "EngagementCost": "25",
-                    "Threat": "2",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "7"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Insect."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot have attachments.",
-                    "While Swarm of Mosquitoes is in the victory display, it gains: `Forced: After the players advance to a quest stage, return Swarm of Mosquitoes to the staging area.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Yog Joshi",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Desolate Meadow",
-            "Slug": "Desolate-Meadow-NiEN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Desolate-Meadow.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Marsh."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Desolate Meadow is in the staging area, it gains: `Forced: After any number of time counters are removed from the current quest, heal 2 damage on each Creature enemy in play.`"
-                ],
-                "Shadow": "Shadow: If this attack destroys a character, remove all progress from the current quest.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Matthew Cowdery",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Peat Bog",
-            "Slug": "Peat-Bog-NiEN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Peat-Bog.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Marsh."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Peat Bog is in the staging area, it gains: `Forced: After the players advance to a quest stage, each player discards 1 random card from his hand.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "Dead grasses and rotting reeds loomed up in the mists like ragged shadows of long-forgotten summers.\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 4,
-            "Artist": "Igor Burlakov",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Quicksand",
-            "Slug": "Quicksand-NiEN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Quicksand.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Either remove 1 time counter from the current quest or remove each character with 3 or more Willpower from the quest."
-                ],
-                "Shadow": "Shadow: Defending character cannot ready until the end of the round.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Mark Molnar",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rotten Stench",
-            "Slug": "Rotten-Stench-NiEN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Nin-in-Eilph-Nightmare/Rotten-Stench.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Return the topmost location in the encounter discard pile to the staging area. Until the end of the phase, each location in the staging area gets +1 Willpower."
-                ],
-                "Shadow": "Shadow: Deal 1 damage to the defending character.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Nîn-in-Eilph Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Nîn-in-Eilph Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Nele Diel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

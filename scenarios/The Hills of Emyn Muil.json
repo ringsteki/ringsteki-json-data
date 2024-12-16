@@ -5,6 +5,395 @@
     "Number": 4,
     "AllCards": [
         {
+            "Title": "Brambles and Thorns",
+            "Slug": "Brambles-and-Thorns-THoEMN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Brambles-and-Thorns.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Emyn Muil."
+                ],
+                "Keywords": [
+                    "Victory 3."
+                ],
+                "Text": [
+                    "Forced: After a character commits to the quest, deal 1 damage to that character if it has not been dealt damage by another copy of Brambles and Thorns this round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "..and on both shores there were steep slopes buried in deep brakes of thorn and sloe, tangled with brambles and creepers. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Trudi Castle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 593115,
+            "Categories": null
+        },
+        {
+            "Title": "Tunneling Nameless Thing",
+            "Slug": "Tunneling-Nameless-Thing-THoEMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Tunneling-Nameless-Thing.jpg",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "4",
+                    "Attack": "6",
+                    "Defense": "4",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Nameless."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the players travel to a location, Tunneling Nameless Thing engages the first player.\nIf there is no active location, return Tunneling Nameless Thing to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02002",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 587205,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Interceptor",
+            "Slug": "Orc-Interceptor-THoEMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Orc-Interceptor.jpg",
+                "Stats": {
+                    "EngagementCost": "39",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Mordor.",
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Orc Interceptor gets +1 Threat and +1 Attack for each resource token on it.\nForced: After a location leaves play as an explored location, place a resource token on Orc Interceptor.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02003",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356521,
+            "Categories": null
+        },
+        {
+            "Title": "Sarn Gebir Rapids",
+            "Slug": "Sarn-Gebir-Rapids-THoEMN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Sarn-Gebir-Rapids.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Emyn Muil."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "While Sarn Gebir Rapids is the active location, the `when revealed` effects of Hazard cards cannot be canceled.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`What a horrible place! Just let me get out of this boat, and I`ll never wet my toes in a puddle again, let alone a river!`\n-Sam Gamgee, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Jose Vega",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02005",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356408,
+            "Categories": null
+        },
+        {
+            "Title": "A Hurrying Darkness",
+            "Slug": "A-Hurrying-Darkness-THoEMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/A-Hurrying-Darkness.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must either increase his threat by 5, or reveal an additional encounter card from the encounter deck and add it to the staging area.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +X Attack. X is the Threat of the active location.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02006",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 309994,
+            "Categories": null
+        },
+        {
+            "Title": "Hazardous Terrain",
+            "Slug": "Hazardous-Terrain-THoEMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Hazardous-Terrain.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge.",
+                    "Doomed 2."
+                ],
+                "Text": [
+                    "When Revealed: Shuffle all Hazard cards from the encounter discard pile back into the encounter deck.\n"
+                ],
+                "Shadow": "Shadow: Shuffle all Hazard cards from the encounter discard pile back into the encounter deck. Then, deal another shadow card for this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 197882,
+            "Categories": null
+        },
+        {
+            "Title": "Retraced Steps",
+            "Slug": "Retraced-Steps-THoEMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Retraced-Steps.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "When Revealed: Discard a random Emyn Muil location from the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...they had climbed and laboured among the barren slopes and stones of Emyn Muil, sometimes retracing their steps because they could find no way forward...\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 156564,
+            "Categories": null
+        },
+        {
+            "Title": "Blast of Savage Wind",
+            "Slug": "Blast-of-Savage-Wind-THoEMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Blast-of-Savage-Wind.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Hazard."
+                ],
+                "Keywords": [
+                    "Doomed 2."
+                ],
+                "Text": [
+                    "When Revealed: Remove all progress from each Emyn Muil location in play. Each Emyn Muil location gets +2 Threat until the end of the round.\n"
+                ],
+                "Shadow": "Shadow: Remove all progress from each Emyn Muil location in play.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Hills of Emyn Muil Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Christina Davis",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 148433,
+            "Categories": null
+        },
+        {
+            "Title": "The Hills of Emyn Muil Nightmare",
+            "Slug": "The-Hills-of-Emyn-Muil-Nightmare-THoEMN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/The-Hills-of-Emyn-Muil-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing in Nightmare mode.\nNo more than 1 progress can be placed on each location in the staging area each round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Over them was a lane of pale-blue sky, around them the dark overshadowed River, and before them black, shutting out the sun, the hills of Emyn Muil, in which no opening could be seen.\n-The Fellowship of the Ring"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Hills of Emyn Muil scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x The East Wall of Rohan\n1x The North Stair\n2x The Shores of Nen Hithoel\n4x The Highlands\n2x Slick Footing\n2x Impassable Chasm\n2x Dol Guldur Orcs\n1x Chieftan Ufthak\n2x Dol Guldur Beastmaster\n2x The Necromancer`s Reach\n2x Necromancer`s Pass\n2x Enchanted Stream\n3x Evil Storm\n2x Pursued by Shadow\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Hills of Emyn Muil encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Hills of Emyn Muil Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Alyn Spiller",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 9188,
+            "Categories": null
+        },
+        {
             "Title": "Dol Guldur Orcs",
             "Slug": "Dol-Guldur-Orcs-Enemy-Core",
             "IsUnique": false,
@@ -27,7 +416,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character."
+                    "When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets 1 Attack. (3 Attack instead if this attack is undefended.)",
                 "FlavorText": null
@@ -76,8 +465,7 @@
                     "Victory 4."
                 ],
                 "Text": [
-                    "Chieftain Ufthak get 2 Attack for each resource token on him.",
-                    "Forced: After Chieftain Ufthak attacks, place 1 resource token on him."
+                    "Chieftain Ufthak get 2 Attack for each resource token on him.\nForced: After Chieftain Ufthak attacks, place 1 resource token on him.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -124,7 +512,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card."
+                    "Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -162,7 +550,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each enemy and each location currently in the staging area gets 1 Threat until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge."
+                    "When Revealed: Each enemy and each location currently in the staging area gets 1 Threat until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge.\n"
                 ],
                 "Shadow": "Shadow: Choose and discard 1 attachment from the defending character. (If this attack is undefended, discard all attachments you control.)",
                 "FlavorText": null
@@ -200,7 +588,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each exhausted character."
+                    "When Revealed: Deal 1 damage to each exhausted character.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. - The Fellowship of the Ring"
@@ -244,7 +632,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: The first player must discard 2 cards from his hand at random to travel here."
+                    "Travel: The first player must discard 2 cards from his hand at random to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`It is clad in a forest of dark fir, where the trees strive one against another and their branches rot and wither. In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling.`\r\n-Haldir, The Fellowship of the Ring"
@@ -287,7 +675,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Enchanted Stream is the active location, players cannot draw cards."
+                    "While Enchanted Stream is the active location, players cannot draw cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`There is one stream, I know, black and strong which crosses the path. That you should neither drink of, nor bathe in; for I have heard that it carries enchantment and a great drowsiness and forgetfulness.`\r\n-Beorn, The Hobbit"
@@ -335,8 +723,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: After Eastern Crows is defeated, shuffle it back into the encounter deck."
+                    "Surge.\nForced: After Eastern Crows is defeated, shuffle it back into the encounter deck.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+2 Attack instead if defending player`s threat is 35 or higher.)",
                 "FlavorText": null
@@ -374,7 +761,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each character controlled by each player with a threat of 35 or higher."
+                    "When Revealed: Deal 1 damage to each character controlled by each player with a threat of 35 or higher.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`They say in my land he can govern the storms in the Mountains of Shadow...`\r\n-Boromir, The Fellowship of the Ring"
@@ -412,7 +799,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player raises his threat by 1 for each character he controls that is not currently committed to a quest."
+                    "When Revealed: Each player raises his threat by 1 for each character he controls that is not currently committed to a quest.\n"
                 ],
                 "Shadow": "Shadow: Defending player chooses and returns 1 exhausted ally he controls to its owner`s hand. If he controls no exhausted allies, raise his threat by 3.",
                 "FlavorText": null
@@ -450,7 +837,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each location in the staging area gets +1 Threat until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand."
+                    "When Revealed: Each location in the staging area gets +1 Threat until the end of the phase. Then, each player with a threat of 35 or higher chooses and discards 1 card from his hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`But it will be hard to find the path unless the fog lifts a little later on.`\r\n-Aragorn, The Fellowship of the Ring"
@@ -490,7 +877,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck."
+                    "Setup: Search the encounter deck for Amon Hen and Amon Lhaw, and add them to the staging area. Then shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The hunt for Gollum has led you to the south, and you are now approaching Rauros falls and the nearby hills of Emyn Muil..."
@@ -505,8 +892,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.",
-                    "Players cannot defeat this stage until there are no Emyn Muil locations in play, and they have collected at least 20 victory points."
+                    "Forced: If there are no location cards in the staging area, the first treachery card revealed during the quest phase gains surge.\nPlayers cannot defeat this stage until there are no Emyn Muil locations in play, and they have collected at least 20 victory points.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You are certain that Gollum has fled into the area, and you must explore until you find the fresh trail."
@@ -553,8 +939,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "X is double the number of players in the game.",
-                    "While Amon Hen is the active location, players cannot play events."
+                    "X is double the number of players in the game.\nWhile Amon Hen is the active location, players cannot play events.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -599,8 +984,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "X is double the number of players in the game.",
-                    "While Amon Lhaw is the active location, treat all attachments as if their printed text boxes were blank."
+                    "X is double the number of players in the game.\nWhile Amon Lhaw is the active location, treat all attachments as if their printed text boxes were blank.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -645,7 +1029,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "While The East Wall of Rohan is the active location, non-Rohan characters cost 2 additional matching resources to play."
+                    "While The East Wall of Rohan is the active location, non-Rohan characters cost 2 additional matching resources to play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -690,7 +1074,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Forced: After traveling to The North Stair, move the top card of the encounter discard pile to the staging area. Resolve any `when revealed` effects on that card."
+                    "Forced: After traveling to The North Stair, move the top card of the encounter discard pile to the staging area. Resolve any `when revealed` effects on that card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -735,7 +1119,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase."
+                    "While Rauros Falls is the active location, all characters must commit to the current quest during the quest phase.\n"
                 ],
                 "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
                 "FlavorText": null
@@ -780,7 +1164,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "Travel: The first player must discard 1 event card from his hand to travel to this location."
+                    "Travel: The first player must discard 1 event card from his hand to travel to this location.\n"
                 ],
                 "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
                 "FlavorText": null
@@ -825,7 +1209,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "While The Outer Ridge is the active location, each location in the staging area gets +1 Threat."
+                    "While The Outer Ridge is the active location, each location in the staging area gets +1 Threat.\n"
                 ],
                 "Shadow": "Shadow: After this attack resolves, return attacking enemy to the staging area.",
                 "FlavorText": null
@@ -870,7 +1254,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area."
+                    "Travel: In order to travel to The Highlands, the players must reveal the top card of the encounter deck, and add it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -910,7 +1294,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge."
+                    "When Revealed: If there is an active location, remove all progress tokens from that location and return it to the staging area. If no location is moved by this effect, this card gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -950,7 +1334,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 2 damage to each character committed to this quest."
+                    "When Revealed: Deal 2 damage to each character committed to this quest.\n"
                 ],
                 "Shadow": "Shadow: Remove defending character from combat. This attack is considered undefended.",
                 "FlavorText": null
@@ -990,7 +1374,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player`s deck for each progress token removed by this effect."
+                    "When Revealed: Remove 1 progress token from each location in play. Then, discard the top card of each player`s deck for each progress token removed by this effect.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1039,8 +1423,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "Orc Horse Thieves get +1 Attack for each location in the staging area."
+                    "Doomed 2.\nOrc Horse Thieves get +1 Attack for each location in the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1060,398 +1443,6 @@
             "HasErrata": false,
             "OctgnGuid": "51223bd0-ffd1-11df-a976-0801204c9010",
             "RingsDbCardId": "02094",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Hills of Emyn Muil Nightmare",
-            "Slug": "The-Hills-of-Emyn-Muil-Nightmare-THoEMN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/The-Hills-of-Emyn-Muil-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing in Nightmare mode.",
-                    "No more than 1 progress can be placed on each location in the staging area each round."
-                ],
-                "Shadow": null,
-                "FlavorText": "Over them was a lane of pale-blue sky, around them the dark overshadowed River, and before them black, shutting out the sun, the hills of Emyn Muil, in which no opening could be seen.\r\n-The Fellowship of the Ring"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Hills of Emyn Muil scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n1x The East Wall of Rohan\n1x The North Stair\n2x The Shores of Nen Hithoel\n4x The Highlands\n2x Slick Footing\n2x Impassable Chasm\n2x Dol Guldur Orcs\n1x Chieftan Ufthak\n2x Dol Guldur Beastmaster\n2x The Necromancer`s Reach\n2x Necromancer`s Pass\n2x Enchanted Stream\n3x Evil Storm\n2x Pursued by Shadow\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Hills of Emyn Muil encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Alyn Spiller",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Tunneling Nameless Thing",
-            "Slug": "Tunneling-Nameless-Thing-THoEMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Tunneling-Nameless-Thing.jpg",
-                "Stats": {
-                    "EngagementCost": "50",
-                    "Threat": "4",
-                    "Attack": "6",
-                    "Defense": "4",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Nameless."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After the players travel to a location, Tunneling Nameless Thing engages the first player.",
-                    "If there is no active location, return Tunneling Nameless Thing to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Sandara Tang",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Interceptor",
-            "Slug": "Orc-Interceptor-THoEMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Orc-Interceptor.jpg",
-                "Stats": {
-                    "EngagementCost": "39",
-                    "Threat": "2",
-                    "Attack": "2",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Mordor.",
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Orc Interceptor gets +1 Threat and +1 Attack for each resource token on it.",
-                    "Forced: After a location leaves play as an explored location, place a resource token on Orc Interceptor."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 2,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Brambles and Thorns",
-            "Slug": "Brambles-and-Thorns-THoEMN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Brambles-and-Thorns.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Emyn Muil."
-                ],
-                "Keywords": [
-                    "Victory 3."
-                ],
-                "Text": [
-                    "Forced: After a character commits to the quest, deal 1 damage to that character if it has not been dealt damage by another copy of Brambles and Thorns this round."
-                ],
-                "Shadow": null,
-                "FlavorText": "..and on both shores there were steep slopes buried in deep brakes of thorn and sloe, tangled with brambles and creepers. -The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Trudi Castle",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Sarn Gebir Rapids",
-            "Slug": "Sarn-Gebir-Rapids-THoEMN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Sarn-Gebir-Rapids.jpg",
-                "Stats": {
-                    "Threat": "5",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Emyn Muil."
-                ],
-                "Keywords": [
-                    "Victory 2."
-                ],
-                "Text": [
-                    "While Sarn Gebir Rapids is the active location, the `when revealed` effects of Hazard cards cannot be canceled."
-                ],
-                "Shadow": null,
-                "FlavorText": "`What a horrible place! Just let me get out of this boat, and I`ll never wet my toes in a puddle again, let alone a river!`\r\n-Sam Gamgee, The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Jose Vega",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "A Hurrying Darkness",
-            "Slug": "A-Hurrying-Darkness-THoEMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/A-Hurrying-Darkness.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Hazard."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player must either increase his threat by 5, or reveal an additional encounter card from the encounter deck and add it to the staging area."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +X Attack. X is the Threat of the active location.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Michael Rasmussen",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Blast of Savage Wind",
-            "Slug": "Blast-of-Savage-Wind-THoEMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Blast-of-Savage-Wind.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Hazard."
-                ],
-                "Keywords": [
-                    "Doomed 2."
-                ],
-                "Text": [
-                    "When Revealed: Remove all progress from each Emyn Muil location in play. Each Emyn Muil location gets +2 Threat until the end of the round."
-                ],
-                "Shadow": "Shadow: Remove all progress from each Emyn Muil location in play.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Christina Davis",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Hazardous Terrain",
-            "Slug": "Hazardous-Terrain-THoEMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Hazardous-Terrain.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge.",
-                    "Doomed 2."
-                ],
-                "Text": [
-                    "When Revealed: Shuffle all Hazard cards from the encounter discard pile back into the encounter deck."
-                ],
-                "Shadow": "Shadow: Shuffle all Hazard cards from the encounter discard pile back into the encounter deck. Then, deal another shadow card for this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "Alexandre Dainche",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Retraced Steps",
-            "Slug": "Retraced-Steps-THoEMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hills-of-Emyn-Muil-Nightmare/Retraced-Steps.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "When Revealed: Discard a random Emyn Muil location from the victory display."
-                ],
-                "Shadow": null,
-                "FlavorText": "...they had climbed and laboured among the barren slopes and stones of Emyn Muil, sometimes retracing their steps because they could find no way forward...\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Hills of Emyn Muil Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Hills of Emyn Muil Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 2,
-            "Artist": "Jake Murray",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

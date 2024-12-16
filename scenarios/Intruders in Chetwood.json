@@ -5,6 +5,416 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Northern Chetwood",
+            "Slug": "Northern-Chetwood-IiCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Northern-Chetwood.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Arnor.",
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After progress is placed on Northern Chetwood (and it is still in play), search the encounter deck, discard pile and victory display for Lost in the Wilderness, and reveal it.\n"
+                ],
+                "Shadow": "Shadow: Discard 1 card at random from your hand for each point of damage deal by this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 550875,
+            "Categories": null
+        },
+        {
+            "Title": "Protect the Bree-landers",
+            "Slug": "Protect-the-Bree-landers-IiCN",
+            "IsUnique": false,
+            "CardType": "Encounter_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Protect-the-Bree-landers.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge.",
+                    "Victory 10."
+                ],
+                "Text": [
+                    "Surge.\nForced: At the end of the quest phase, if no progress was placed on Protect the Bree-landers, place 1 resource on it. Then, raise each players threat by the number of resources on Protect the Bree-landers.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Every step brings the Orcs closer to Bree-land. If you can`t find some way to delay the enemy, the war party will reach the village before you can stop them."
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 1,
+            "Artist": "Juan Carlos Barquet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10010",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 315134,
+            "Categories": null
+        },
+        {
+            "Title": "Intruders in Chetwood Nightmare",
+            "Slug": "Intruders-in-Chetwood-Nightmare-IiCN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Intruders-in-Chetwood-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`If simple folk are free from care and fear, simple they will be, and we must be secret to keep them so.`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Intruders in Chetwood scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x Angmar Orc\n3x Angmar Marauder\n2x Chetwood Forest\n1x Outlying Homestead\n2x Borders of Bree-land\n1x Rugged Country\n1x Shrouded Hills\n3x Surprising Speed\n2x Sudden Assault\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Intruders in Chetwood encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10001",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 18125,
+            "Categories": null
+        },
+        {
+            "Title": "Greenway Path",
+            "Slug": "Greenway-Path-IiCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Greenway-Path.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Arnor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the round, if Greenway Path is in the staging area, search the encounter deck, discard pile and victory display for Shadow the War Party, and reveal it.\n"
+                ],
+                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10005",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 199667,
+            "Categories": null
+        },
+        {
+            "Title": "Shadow the War Party",
+            "Slug": "Shadow-the-War-Party-IiCN",
+            "IsUnique": false,
+            "CardType": "Encounter_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Shadow-the-War-Party.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Victory 10."
+                ],
+                "Text": [
+                    "Each copy of Orc War Party cannot be engaged, cannot be dealt damage and gets +2 Threat.\nWhen Revealed: Return each engaged Orc War Party to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10009",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 190090,
+            "Categories": null
+        },
+        {
+            "Title": "Outskirts of Archet",
+            "Slug": "Outskirts-of-Archet-IiCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Outskirts-of-Archet.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Arnor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Travel: Search the encounter deck, discard pile and victory display for Protect the Bree-landers, and reveal it.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack. if this attack destroys a character, raise your threat by 3.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10006",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 176518,
+            "Categories": null
+        },
+        {
+            "Title": "A Great Host",
+            "Slug": "A-Great-Host-IiCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/A-Great-Host.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player returns each enemy engaged with him to the staging area. Either search the encunter deck, discard pile and victory display for Orc Rearguard and reveal it, or each player must deal 4 damage to a character he controls. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 153693,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Abductor",
+            "Slug": "Orc-Abductor-IiCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Orc-Abductor.jpg",
+                "Stats": {
+                    "EngagementCost": "45",
+                    "Threat": "2",
+                    "Attack": "4",
+                    "Defense": "4",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the round, if Orc Abductor is in the staging area, search the encounter deck, discard pile and victory display for Rescue Iârion and reveal it. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": "Shadow: Deal 1 damage to defending character.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 104317,
+            "Categories": null
+        },
+        {
+            "Title": "Kill Them!",
+            "Slug": "Kill-Them-IiCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Kill-Them.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Search the encounter deck, discard pile and victory display for a copy of Orc War Party and add it to the staging area. Shuffle the encounter deck. Either remove all progress from the main quest, or each Orc War Party in the staging area makes an immediate attack against the player with the highest threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 77747,
+            "Categories": null
+        },
+        {
+            "Title": "Soldier of Angmar",
+            "Slug": "Soldier-of-Angmar-IiCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Soldier-of-Angmar.jpg",
+                "Stats": {
+                    "EngagementCost": "28",
+                    "Threat": "2",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Soldier of Angmar attacks and destroys an ally, search the encounter deck, discard pile and victory display for Orc Ambush and reveal it. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Intruders in Chetwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Intruders in Chetwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "10003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 26151,
+            "Categories": null
+        },
+        {
             "Title": "Iârion",
             "Slug": "Iarion-TLR",
             "IsUnique": false,
@@ -26,10 +436,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "X is the number of quest cards in play.",
-                    "The first player gains control of Iârion.",
-                    "Response: After a side quest is revealed from the encounter deck, ready Iârion.",
-                    "If Iârion leaves play, the players lose the game."
+                    "X is the number of quest cards in play.\nThe first player gains control of Iârion.\nResponse: After a side quest is revealed from the encounter deck, ready Iârion.\nIf Iârion leaves play, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -75,9 +482,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "While Orc War Party is in the staging area, enemies in the staging area cannot take damage.",
-                    "The players cannot win the game while Orc War Party is in play."
+                    "Cannot have attachments.\nWhile Orc War Party is in the staging area, enemies in the staging area cannot take damage.\nThe players cannot win the game while Orc War Party is in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "They kept no order, thrusting, jostling, and cursing; yet their speed was very great. -The Two Towers"
@@ -121,7 +526,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: One player chooses and engages an enemy in the staging area."
+                    "Travel: One player chooses and engages an enemy in the staging area.\n"
                 ],
                 "Shadow": "Shadow: Defending player either exhausts a hero he controls, or returns attacking enemy to the staging area after this attack.",
                 "FlavorText": null
@@ -164,7 +569,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Borders of Bree-land is in the staging area it gains: `Forced: At the beginning of the quest phase, return 1 enemy engaged with a player to the staging area.`"
+                    "While Borders of Bree-land is in the staging area it gains: `Forced: At the beginning of the quest phase, return 1 enemy engaged with a player to the staging area.`\n"
                 ],
                 "Shadow": "Shadow: Defending character gets -1 Defense for each quest stage in play.",
                 "FlavorText": null
@@ -209,9 +614,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
-                    "Doomed 1.",
-                    "While Outlying Homestead is in the staging area, players cannot reduce their threat.",
-                    "Travel: Reveal a card from the encounter deck."
+                    "Doomed 1.\nWhile Outlying Homestead is in the staging area, players cannot reduce their threat.\nTravel: Reveal a card from the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "They were far beyond the borders of the Bree-land, out in the pathless wilderness... -The Fellowship of the Ring"
@@ -249,7 +652,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: If the total Willpower of character committed to the quest is greater than the total Threat in the staging area, each enemy in the staging area makes an immediate attack against the first player. If no attach is made this way, search the encounter deck and discard pile for an Orc War Party and add it to the staging area. Shuffle the encounter deck. This effect cannot be canceled."
+                    "When Revealed: If the total Willpower of character committed to the quest is greater than the total Threat in the staging area, each enemy in the staging area makes an immediate attack against the first player. If no attach is made this way, search the encounter deck and discard pile for an Orc War Party and add it to the staging area. Shuffle the encounter deck. This effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -287,7 +690,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player returns 1 enemy engaged with him to the staging area. If no enemy was returned to the staging area this way, Surprising Speed gains surge and doomed 1."
+                    "When Revealed: Each player returns 1 enemy engaged with him to the staging area. If no enemy was returned to the staging area this way, Surprising Speed gains surge and doomed 1.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. Return attacking enemy to the staging area after this attack.",
                 "FlavorText": null
@@ -327,8 +730,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "No more than 3 progress tokens can be placed on the current quest each round.",
-                    "While Orc Rearguard is the current quest it gains: `Forced: At the end of the staging step, reveal 1 card from the encounter deck.`"
+                    "No more than 3 progress tokens can be placed on the current quest each round.\nWhile Orc Rearguard is the current quest it gains: `Forced: At the end of the staging step, reveal 1 card from the encounter deck.`\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Some of the Orcs have broken from the war party to hinder your pursuit. Until you deal with them, it will be difficult to continue your chase..."
@@ -363,8 +765,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Time 4. When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him.",
-                    "Forced: After the last time counter is removed from this stage, discard Iârion."
+                    "Time 4. When Revealed: The first player loses control of Iârion and places him facedown underneath this stage. When this stage is defeated, the first player takes control of Iârion and exhausts him.\nForced: After the last time counter is removed from this stage, discard Iârion.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "While scouting ahead, Iârion is ambushed by several Orcs. The Ranger is knoced unconscious and dragged away by the Orcs. You must rescue him!"
@@ -404,7 +805,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Either discard 1 ally from play, or reveal an additional encounter card."
+                    "When Revealed: Either discard 1 ally from play, or reveal an additional encounter card.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys an ally, return attacking enemy to the staging area.",
                 "FlavorText": null
@@ -450,7 +851,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Angmar Marauder attacks and destroys an ally, return it to the staging area."
+                    "Forced: After Angmar Marauder attacks and destroys an ally, return it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each ally the defending player controls.",
                 "FlavorText": null
@@ -496,7 +897,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Angmar Captain attacks and destroys an ally, discard the top card of the defending player`s deck. If the discarded card is an ally, Angmar Captain makes an additional attack against the defending player."
+                    "Forced: After Angmar Captain attacks and destroys an ally, discard the top card of the defending player`s deck. If the discarded card is an ally, Angmar Captain makes an additional attack against the defending player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "In the twilight he saw a large black Orc... -The Two Towers"
@@ -536,8 +937,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Each Orc enemy gets +1 Threat, +1 Attack and +1 Defense.",
-                    "When Revealed: Each player must search the encounter deck and discard pile for an Orc enemy and put it into play engaged with him. Shuffle the encounter deck."
+                    "Each Orc enemy gets +1 Threat, +1 Attack and +1 Defense.\nWhen Revealed: Each player must search the encounter deck and discard pile for an Orc enemy and put it into play engaged with him. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Several Orcs spring upon you from their hiding place! Their surprise attack puts you on the defensive. You must fight to gain the upper hand."
@@ -574,7 +974,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If the current quest is a side quest, Rugged Country gets +2 Threat."
+                    "If the current quest is a side quest, Rugged Country gets +2 Threat.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each quest card in play.",
                 "FlavorText": null
@@ -618,8 +1018,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "X is the number of quest cards in play.",
-                    "While there is only 1 quest card in play, Shrouded Hills gains surge."
+                    "X is the number of quest cards in play.\nWhile there is only 1 quest card in play, Shrouded Hills gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As the sun rose and passed noon they glimpsed far off in the east the grey-green lines of the Downs... -The Fellowship of the Ring"
@@ -659,8 +1058,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "When Revealed: Either search the encounter deck and discard pile for an encounter side quest and reveal it, or choose a different quest card in play to be the current quest until the end of the phase. Shuffe the encounter deck."
+                    "Doomed 2.\nWhen Revealed: Either search the encounter deck and discard pile for an encounter side quest and reveal it, or choose a different quest card in play to be the current quest until the end of the phase. Shuffe the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`But often I must put mirth aside.` -Aragorn, The Fellowship of the Ring"
@@ -698,7 +1096,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Reveal 1 encounter card for each quest card in play."
+                    "When Revealed: Reveal 1 encounter card for each quest card in play.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards 1 attachment for each quest card in play.",
                 "FlavorText": null
@@ -738,8 +1136,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "When Revealed: Each player places all cards in his hand facedown underneath Lost in the Wilderness.",
-                    "Forced: When Lost in the Wilderness is defeated, return each card underneath it to its owner`s hand."
+                    "When Revealed: Each player places all cards in his hand facedown underneath Lost in the Wilderness.\nForced: When Lost in the Wilderness is defeated, return each card underneath it to its owner`s hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You`ve lost your way in the vastness of Arnor. You must search around until you find your trail again."
@@ -773,7 +1170,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Put Iârion into play. Add 1 Orc War Party to the staging area. Each players adds 1 different location to the staging area. Shuffle the encounter deck."
+                    "Setup: Put Iârion into play. Add 1 Orc War Party to the staging area. Each players adds 1 different location to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Rangers have sighted a large group of Orcs making its way towards Bree-land. The Dúnedain, Iârion, has asked you to help him intercept the war party before it can reach the quiet village. The Orcs are a day ahead of you and moving fast, but there is hope you can catch them with the Ranger`s tracking skill..."
@@ -788,9 +1185,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Enemies do not make engagement checks.",
-                    "Forced: At the end of the refresh phase, raise each player`s threat by 1 for each enemy in the staging area.",
-                    "The players cannot defeat this stage unless the first player controls Iârion. If the players defeat this stage, they win the game."
+                    "Enemies do not make engagement checks.\nForced: At the end of the refresh phase, raise each player`s threat by 1 for each enemy in the staging area.\nThe players cannot defeat this stage unless the first player controls Iârion. If the players defeat this stage, they win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You must move swiftly to prevent the Orcs from reaching Bree-land!"
@@ -813,430 +1208,6 @@
             "HasErrata": false,
             "OctgnGuid": "be3ca12f-2550-48b4-9384-e71a1b401d4e",
             "RingsDbCardId": "09068",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Intruders in Chetwood Nightmare",
-            "Slug": "Intruders-in-Chetwood-Nightmare-IiCN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Intruders-in-Chetwood-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode."
-                ],
-                "Shadow": null,
-                "FlavorText": "`If simple folk are free from care and fear, simple they will be, and we must be secret to keep them so.`\r\n-Aragorn, The Fellowship of the Ring"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Intruders in Chetwood scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "1x Angmar Orc",
-                    "3x Angmar Marauder",
-                    "2x Chetwood Forest",
-                    "1x Outlying Homestead",
-                    "2x Borders of Bree-land",
-                    "1x Rugged Country",
-                    "1x Shrouded Hills",
-                    "3x Surprising Speed",
-                    "2x Sudden Assault",
-                    "Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Intruders in Chetwood encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Abductor",
-            "Slug": "Orc-Abductor-IiCN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Orc-Abductor.jpg",
-                "Stats": {
-                    "EngagementCost": "45",
-                    "Threat": "2",
-                    "Attack": "4",
-                    "Defense": "4",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: At the end of the round, if Orc Abductor is in the staging area, search the encounter deck, discard pile and victory display for Rescue Iârion and reveal it. Shuffle the encounter deck."
-                ],
-                "Shadow": "Shadow: Deal 1 damage to defending character.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Soldier of Angmar",
-            "Slug": "Soldier-of-Angmar-IiCN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Soldier-of-Angmar.jpg",
-                "Stats": {
-                    "EngagementCost": "28",
-                    "Threat": "2",
-                    "Attack": "5",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Soldier of Angmar attacks and destroys an ally, search the encounter deck, discard pile and victory display for Orc Ambush and reveal it. Shuffle the encounter deck."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 2,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Northern Chetwood",
-            "Slug": "Northern-Chetwood-IiCN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Northern-Chetwood.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "Arnor.",
-                    "Forest."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After progress is placed on Northern Chetwood (and it is still in play), search the encounter deck, discard pile and victory display for Lost in the Wilderness, and reveal it."
-                ],
-                "Shadow": "Shadow: Discard 1 card at random from your hand for each point of damage deal by this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Greenway Path",
-            "Slug": "Greenway-Path-IiCN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Greenway-Path.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Arnor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: At the end of the round, if Greenway Path is in the staging area, search the encounter deck, discard pile and victory display for Shadow the War Party, and reveal it."
-                ],
-                "Shadow": "Shadow: Return attacking enemy to the staging area after this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Outskirts of Archet",
-            "Slug": "Outskirts-of-Archet-IiCN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Outskirts-of-Archet.jpg",
-                "Stats": {
-                    "Threat": "5",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Arnor."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Travel: Search the encounter deck, discard pile and victory display for Protect the Bree-landers, and reveal it."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack. if this attack destroys a character, raise your threat by 3.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "A Great Host",
-            "Slug": "A-Great-Host-IiCN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/A-Great-Host.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player returns each enemy engaged with him to the staging area. Either search the encunter deck, discard pile and victory display for Orc Rearguard and reveal it, or each player must deal 4 damage to a character he controls. Shuffle the encounter deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Unknown",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Kill Them!",
-            "Slug": "Kill-Them-IiCN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Kill-Them.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Search the encounter deck, discard pile and victory display for a copy of Orc War Party and add it to the staging area. Shuffle the encounter deck. Either remove all progress from the main quest, or each Orc War Party in the staging area makes an immediate attack against the player with the highest threat."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Intruders in Chetwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Lukasz Jaskolski",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Shadow the War Party",
-            "Slug": "Shadow-the-War-Party-IiCN",
-            "IsUnique": false,
-            "CardType": "Encounter_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Shadow-the-War-Party.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Victory 10."
-                ],
-                "Text": [
-                    "Each copy of Orc War Party cannot be engaged, cannot be dealt damage and gets +2 Threat.",
-                    "When Revealed: Return each engaged Orc War Party to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": null,
-            "Number": 9,
-            "Quantity": 1,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Protect the Bree-landers",
-            "Slug": "Protect-the-Bree-landers-IiCN",
-            "IsUnique": false,
-            "CardType": "Encounter_Side_Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Intruders-in-Chetwood-Nightmare/Protect-the-Bree-landers.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge.",
-                    "Victory 10."
-                ],
-                "Text": [
-                    "Surge.",
-                    "Forced: At the end of the quest phase, if no progress was placed on Protect the Bree-landers, place 1 resource on it. Then, raise each players threat by the number of resources on Protect the Bree-landers."
-                ],
-                "Shadow": null,
-                "FlavorText": "Every step brings the Orcs closer to Bree-land. If you can`t find some way to delay the enemy, the war party will reach the village before you can stop them."
-            },
-            "Back": null,
-            "CardSet": "Intruders in Chetwood Nightmare",
-            "EncounterInfo": null,
-            "Number": 10,
-            "Quantity": 1,
-            "Artist": "Juan Carlos Barquet",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00010",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

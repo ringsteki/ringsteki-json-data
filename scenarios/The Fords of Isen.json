@@ -5,6 +5,358 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Dunland Assassin",
+            "Slug": "Dunland-Assassin-TFoIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Dunland-Assassin.jpg",
+                "Stats": {
+                    "EngagementCost": "45",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dunland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Dunland Assassin cannot be optionally engaged by a player with 3 or more cards in his hand.\nWhile Dunland Assassin is in the staging area, it gains: `Forced: After the first player draws any number of cards, Dunland Assassin makes an immediate attack against him.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08002",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 331787,
+            "Categories": null
+        },
+        {
+            "Title": "Savage Hillman",
+            "Slug": "Savage-Hillman-TFoIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Savage-Hillman.jpg",
+                "Stats": {
+                    "EngagementCost": "20",
+                    "Threat": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dunland."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhile the engaged player has 3 or more cards in hand, Savage Hillman cannot take damage.\nWhile the engaged player has 5 or more cards in hand, Savage Hillman gets +2 Attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Suzanne Helmigh",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 299559,
+            "Categories": null
+        },
+        {
+            "Title": "Brutal Assault",
+            "Slug": "Brutal-Assault-TFoIN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Brutal-Assault.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player assigns X damage among characters he controls, where X is the number of cards in his hand."
+                ],
+                "Shadow": "Shadow: Assign X damage among characters you control. X is the number of cards in your hand.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 253433,
+            "Categories": null
+        },
+        {
+            "Title": "The Fords of Isen Nightmare",
+            "Slug": "The-Fords-of-Isen-Nightmare-TFoIN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/The-Fords-of-Isen-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: After the players advance to a new quest stage, each player with fewer than 3 cards in his hand draws 3 cards.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the young and made alliance with him.`\n-Gamling, The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the The Fords of Isen scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n3x Dunland Prowler\n2x Dunlending Bandit\n1x Dunland Berserker\n2x Gap of Rohan\n2x The King`s Road\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Fords of Isen encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08001",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 15291,
+            "Categories": null
+        },
+        {
+            "Title": "Western Shore",
+            "Slug": "Western-Shore-TFoIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Western-Shore.jpg",
+                "Stats": {
+                    "Threat": "X",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "River.",
+                    "Valley."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is the number of cards in the first player`s hand.\nWhile Western Shore is in the staging area, each enemy gets -X engagement cost.\n"
+                ],
+                "Shadow": "Shadow: If you have 5 or more cards in your hand, this attack is considered undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Julian Kok",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 95881,
+            "Categories": null
+        },
+        {
+            "Title": "Eastern Shore",
+            "Slug": "Eastern-Shore-TFoIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Eastern-Shore.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "River.",
+                    "Valley."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Eastern Shore is in the staging area, each player cannot play more than 1 event each round."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, remove 1 time counter from the current quest.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Julian Kok",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08006",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 91897,
+            "Categories": null
+        },
+        {
+            "Title": "Vengeful Hillman",
+            "Slug": "Vengeful-Hillman-TFoIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Vengeful-Hillman.jpg",
+                "Stats": {
+                    "EngagementCost": "27",
+                    "Threat": "2",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Dunland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Vengeful Hillman attacks and destroys a character, remove 1 progress the current quest card for each card in the defending player`s hand."
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 41112,
+            "Categories": null
+        },
+        {
+            "Title": "Isen River",
+            "Slug": "Isen-River-TFoIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Isen-River.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "River."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Isen River is in the staging area, each player cannot discard cards from his hand.\nForced: After Isen River becomes the active location, each player draws a card\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Now further, and now nearer Isen flowed in its stony bed.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "The Fords of Isen Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Fords of Isen Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 27260,
+            "Categories": null
+        },
+        {
             "Title": "Gríma",
             "Slug": "Grima-Objective-Ally-VoI",
             "IsUnique": true,
@@ -25,9 +377,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If free of encounters, the first player gains control of Gríma.",
-                    "Action: Exhaust Gríma to draw a card.",
-                    "If Gríma leaves play, the players lose the game."
+                    "If free of encounters, the first player gains control of Gríma.\nAction: Exhaust Gríma to draw a card.\nIf Gríma leaves play, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Behind him cringing between two other men, came Gríma the Wormtongue. -The Two Towers"
@@ -70,8 +420,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "While Iselet is the active location, each Dunland enemy in play gets +1 Threat."
+                    "Immune to player card effects.\nWhile Iselet is the active location, each Dunland enemy in play gets +1 Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "There were three lines of flat stepping-stones across the stream, and between them fords for horses, that went from either brink to a bare eyot in the midst. -The Two Towers"
@@ -114,8 +463,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Fords of Isen is in the staging area, players cannot gain resources from card effects.",
-                    "Forced: After Fords of Isen becomes the active location, each player with fewer than 5 cards in his hand draws cards until he has 5 in his hand."
+                    "While Fords of Isen is in the staging area, players cannot gain resources from card effects.\nForced: After Fords of Isen becomes the active location, each player with fewer than 5 cards in his hand draws cards until he has 5 in his hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The road dipped between rising turf-banks, carving its way through the terraces to the river`s edge, and up again upon the further side. -The Two Towers"
@@ -158,8 +506,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While any player has 3 or more cards in hand, The King`s Road gets +3 quest points.",
-                    "While any player has 5 or more cards in hand, The King`s Road gains: `When faced with the option to travel, the players must travel to The King`s Road, if able.`"
+                    "While any player has 3 or more cards in hand, The King`s Road gets +3 quest points.\nWhile any player has 5 or more cards in hand, The King`s Road gains: `When faced with the option to travel, the players must travel to The King`s Road, if able.`\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -202,7 +549,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Gap of Rohan is in the staging area, Dunland enemies get +1 Attack."
+                    "While Gap of Rohan is in the staging area, Dunland enemies get +1 Attack.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, remove 1 time counter from the current quest.",
                 "FlavorText": null
@@ -240,7 +587,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player draws a card. Each player raises his threat by 1 for each card in his hand."
+                    "When Revealed: Each player draws a card. Each player raises his threat by 1 for each card in his hand.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards an attachment he controls (each attachment he controls instead if this attack is undefended).",
                 "FlavorText": null
@@ -278,7 +625,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must choose: Either remove 1 time counter from the current quest, or search the encounter deck and discard pile for a Dunland enemy, reveal it, and add it to the staging area. Shuffle the encounter deck. If any player has 5 or more cards in hand, this effect cannot be canceled."
+                    "When Revealed: Each player must choose: Either remove 1 time counter from the current quest, or search the encounter deck and discard pile for a Dunland enemy, reveal it, and add it to the staging area. Shuffle the encounter deck. If any player has 5 or more cards in hand, this effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -316,7 +663,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player draws this card into his hand. Ill Tidings cannot leave that player`s hand. Then, if the first player has 5 or more cards in his hand, Ill Tidings gains surge."
+                    "When Revealed: The first player draws this card into his hand. Ill Tidings cannot leave that player`s hand. Then, if the first player has 5 or more cards in his hand, Ill Tidings gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Troubles follow you like crows, and ever the oftener the wrose.` -Gríma, The Two Towers"
@@ -362,8 +709,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While any player has 3 or more cards in hand, Dunland Prowler gains surge.",
-                    "While any player has 5 or more cards in hand, Dunland Powler gets +1 Threat."
+                    "While any player has 3 or more cards in hand, Dunland Prowler gains surge.\nWhile any player has 5 or more cards in hand, Dunland Powler gets +1 Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...the wild men of the Dunland fells. -The Two Towers"
@@ -409,7 +755,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While engaged with a player, Dunlending Bandit gets +1 Attack for each card in that player`s hand."
+                    "While engaged with a player, Dunlending Bandit gets +1 Attack for each card in that player`s hand.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if the defending player has at least 3 cards in his hand).",
                 "FlavorText": null
@@ -455,7 +801,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Dunland Raider engages a player, that player must deal X damage divided among characters he controls where X equals the number of cards in his hand."
+                    "Forced: After Dunland Raider engages a player, that player must deal X damage divided among characters he controls where X equals the number of cards in his hand.\n"
                 ],
                 "Shadow": "Shadow: Discard an attachment you control.",
                 "FlavorText": null
@@ -495,8 +841,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws an number of cards, raise his threat by 1.`)"
+                    "Surge.\nWhen Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws an number of cards, raise his threat by 1.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`They hate us, and they are glad; for our doom seems certain to them.` -Gamling, The Two Towers"
@@ -542,8 +887,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player draws a card.",
-                    "Forced: After a player draws any number of cards, Dunland Tribesman gets +1 Threat until the end of the round."
+                    "When Revealed: Each player draws a card.\nForced: After a player draws any number of cards, Dunland Tribesman gets +1 Threat until the end of the round.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack.",
                 "FlavorText": null
@@ -589,7 +933,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Dunland Chieftain engages a player, discard X cards from the top of the encounter deck where X is the number of cards in the engages player`s hand. Put the topmost Dunland enemy discarded this way into play engaged with that player."
+                    "Forced: After Dunland Chieftain engages a player, discard X cards from the top of the encounter deck where X is the number of cards in the engages player`s hand. Put the topmost Dunland enemy discarded this way into play engaged with that player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -635,7 +979,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the engaged player draws any number of cards. Dunland Berserker makes an immediate attack."
+                    "Forced: After the engaged player draws any number of cards. Dunland Berserker makes an immediate attack.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
@@ -675,8 +1019,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws any number of cards, that player deals 1 damage to a character he controls.`)"
+                    "Surge.\nWhen Revealed: Attach to the current quest. (Counts as a Condition attachment with the text: `Forced: After a player draws any number of cards, that player deals 1 damage to a character he controls.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`I looked on the hillmen and they seemed over large for me...` -Gimli, The Two Towers"
@@ -718,7 +1061,7 @@
                     "Time 5."
                 ],
                 "Text": [
-                    "Setup: Add The Islet to the staging area and attach Gríma to that location. Each player searches the encounter deck for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck."
+                    "Setup: Add The Islet to the staging area and attach Gríma to that location. Each player searches the encounter deck for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Riding north to the Gap of Rohan, you come upon a battle at the Fords of Isen. A Small number of Rohirrim have taken a defensive position, on the islet in the river`s center where a large force of wild Dunlending assails them. You must move swifty lest the river run red with blood of Rohan..."
@@ -733,9 +1076,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 5.",
-                    "Forced: After the last time counter is removed from this stage, discard Gríma from play.",
-                    "The players cannot advance unless the first player controls Gríma."
+                    "Time 5.\nForced: After the last time counter is removed from this stage, discard Gríma from play.\nThe players cannot advance unless the first player controls Gríma.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -792,9 +1133,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 2.",
-                    "When Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck.",
-                    "Forced: After the last time counter is removed from this stage, each player assigns X damage among characters he controls where X is the number of cards in his hand. Place 2 time counters on this stage."
+                    "Time 2.\nWhen Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck.\nForced: After the last time counter is removed from this stage, each player assigns X damage among characters he controls where X is the number of cards in his hand. Place 2 time counters on this stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -838,7 +1177,7 @@
                     "Time 3."
                 ],
                 "Text": [
-                    "When Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck."
+                    "When Revealed: Each player searches the encounter deck and discard pile for 1 different Dunland enemy and adds it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The Dunlendings` assault is relentless and your arms grow weary. `Take me to Isengard!` Gríma pleads, but you will not abandon the defense. You will either break the will of the enemy, or give your life in a heroic last stand..."
@@ -853,9 +1192,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Time 3.",
-                    "Forced: After the last time counter is removed from this stage, discard the top X cards from the encounter deck. X is the number of cards in the first player`s hand. Add each enemy discarded this way to the staging area. Put 3 time counters on this stage.",
-                    "While there is at least 1 enemy in play, the players cannot defeat this stage. If the players defeat this stage, they win the game."
+                    "Time 3.\nForced: After the last time counter is removed from this stage, discard the top X cards from the encounter deck. X is the number of cards in the first player`s hand. Add each enemy discarded this way to the staging area. Put 3 time counters on this stage.\nWhile there is at least 1 enemy in play, the players cannot defeat this stage. If the players defeat this stage, they win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -877,372 +1214,6 @@
             "HasErrata": false,
             "OctgnGuid": "0cdc4034-738d-487d-9a8c-8ef364772076",
             "RingsDbCardId": "07061",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Fords of Isen Nightmare",
-            "Slug": "The-Fords-of-Isen-Nightmare-TFoIN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/The-Fords-of-Isen-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Forced: After the players advance to a new quest stage, each player with fewer than 3 cards in his hand draws 3 cards."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the young and made alliance with him.` -Gamling, The Two Towers"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the The Fords of Isen scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "3x Dunland Prowler",
-                    "2x Dunlending Bandit",
-                    "1x Dunland Berserker",
-                    "2x Gap of Rohan",
-                    "2x The King`s Road",
-                    "Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Fords of Isen encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Dunland Assassin",
-            "Slug": "Dunland-Assassin-TFoIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Dunland-Assassin.jpg",
-                "Stats": {
-                    "EngagementCost": "45",
-                    "Threat": "3",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Dunland."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Dunland Assassin cannot be optionally engaged by a player with 3 or more cards in his hand.",
-                    "While Dunland Assassin is in the staging area, it gains: `Forced: After the first player draws any number of cards, Dunland Assassin makes an immediate attack against him.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 2,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Vengeful Hillman",
-            "Slug": "Vengeful-Hillman-TFoIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Vengeful-Hillman.jpg",
-                "Stats": {
-                    "EngagementCost": "27",
-                    "Threat": "2",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Dunland."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Vengeful Hillman attacks and destroys a character, remove 1 progress the current quest card for each card in the defending player`s hand."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Savage Hillman",
-            "Slug": "Savage-Hillman-TFoIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Savage-Hillman.jpg",
-                "Stats": {
-                    "EngagementCost": "20",
-                    "Threat": "1",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Dunland."
-                ],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "While the engaged player has 3 or more cards in hand, Savage Hillman cannot take damage.",
-                    "While the engaged player has 5 or more cards in hand, Savage Hillman gets +2 Attack."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Suzanne Helmigh",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Western Shore",
-            "Slug": "Western-Shore-TFoIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Western-Shore.jpg",
-                "Stats": {
-                    "Threat": "X",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "River.",
-                    "Valley."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "X is the number of cards in the first player`s hand.",
-                    "While Western Shore is in the staging area, each enemy gets -X engagement cost."
-                ],
-                "Shadow": "Shadow: If you have 5 or more cards in your hand, this attack is considered undefended.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Julian Kok",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Eastern Shore",
-            "Slug": "Eastern-Shore-TFoIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Eastern-Shore.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "River.",
-                    "Valley."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Eastern Shore is in the staging area, each player cannot play more than 1 event each round."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, remove 1 time counter from the current quest.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Julian Kok",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Isen River",
-            "Slug": "Isen-River-TFoIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Isen-River.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "River."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Isen River is in the staging area, each player cannot discard cards from his hand.",
-                    "Forced: After Isen River becomes the active location, each player draws a card"
-                ],
-                "Shadow": null,
-                "FlavorText": "Now further, and now nearer Isen flowed in its stony bed.\r\n-The Two Towers"
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Brutal Assault",
-            "Slug": "Brutal-Assault-TFoIN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Fords-of-Isen-Nightmare/Brutal-Assault.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player assigns X damage among characters he controls, where X is the number of cards in his hand."
-                ],
-                "Shadow": "Shadow: Assign X damage among characters you control. X is the number of cards in your hand.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Fords of Isen Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Fords of Isen Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "JB Casacop",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

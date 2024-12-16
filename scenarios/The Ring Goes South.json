@@ -18,11 +18,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "You are playing in Campaign Mode.",
-                    "Setup: Each player may change hero cards he controls without incurring the +1 threat penalty. The players have earned the boon cards: Sting, Mithril Shirt, Glamdring, and Andúril. Each player chooses one and adds it to his hand. If any of those boon cards remain unchosen, shuffle them into the first player`s deck."
+                    "Setup: Set Lust for the Ring, Redhorn Pass, Doors of Durin and Watcher in the Water aside, out of play. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I think that this task is appointed for you, Frodo; and that if you do not find a way, no one will.` -Elrond, The Fellowship of the Ring"
+                "FlavorText": "In the House of Elrond, the evil wound that Frodo received on Weathertop is healed and he is reunited with his uncle Bilbo. The One Ring cannot remain hidden in Rivendell for long, so Lord Elrond summons a council to decide what should be done to protect the Free Peoples of Middle-earth."
             },
             "Back": {
                 "Subtitle": null,
@@ -31,10 +30,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Resolution: If Lust for the Ring is attached to a hero, the players have earned that burden."
+                    "Forced: At the end of the planning phase, each player places the top card of his deck faceup in front of him, in player order, until there are a total of 4 faceup cards between the players. The first player chooses 1 faceup card to be played for 0 cost, 1 to add to its owner`s hand, 1 to discard, and 1 to shuffle into its owner`s deck. Then, either shuffle Lust for the Ring into the encounter deck, or raise each player`s threat by 5. Advance to stage 2.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "They were just in time. Sam and Frodo were only a few steps up, and Gandalf had just begun to climb, when the groping tentacles writhed across the narrow shore and fingered the cliff-wall and the doors. One came wriggling over the threshold, glistening in the starlight. Gandalf turned and paused. If he was considering what word would close the gate again from within, there was no need. Many coiling arms seized the doors on either side, and with horrible strength, swung them round. With a shattering echo they slammed, and all light was lost. -The Fellowship of the Ring"
+                "FlavorText": null
             },
             "CardSet": "The Road Darkens",
             "EncounterInfo": null,
@@ -67,8 +66,6 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Setup: The first player claims The One Ring and attaches it to the Ring-bearer.",
-                    "Attached hero does not count against the hero limit. The first player gains control of attached hero.",
                     "If The One Ring leaves play, the players lose the game."
                 ],
                 "Shadow": null,
@@ -77,7 +74,7 @@
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": {
-                "EncounterSet": "The Black Riders",
+                "EncounterSet": "",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -117,17 +114,17 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: Spend 1 Fellowship resource and exhaust The One Ring to cancel the effect of an encounter card just revealed from the encounter deck. Shuffle that card back into the encounter deck and reveal another encounter card."
+                    "Response: Spend 1 Fellowship resource and exhaust The One Ring to cancel the effect of an encounter card just revealed from the encounter deck. Shuffle that card back into the encounter deck and reveal another encounter card.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I will take the Ring,` he said, `though I do not know the way.` -The Fellowship of the Ring"
+                "FlavorText": "`I will take the Ring,` he said, `though I do not know the way.`\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
             "EncounterInfo": null,
             "Number": 1,
             "Quantity": 1,
-            "Artist": "Jake Murray",
+            "Artist": "Jacob Murray",
             "HasErrata": false,
             "OctgnGuid": "3217a119-6b86-47dd-b451-c5e45be3f874",
             "RingsDbCardId": "141001",
@@ -159,10 +156,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Frodo Baggins exhausts to defend an attack, exhaust The One Ring and spend 1 Fellowship resource to target the attacking enemy. Then, this attack deals no damage and each player raises his threat by 2."
+                    "Response: After Frodo Baggins exhausts to defend an attack, exhaust The One Ring and spend 1 Fellowship resource to target the attacking enemy. Then, this attack deals no damage and each player raises his threat by 2.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`But there is more about you now than appears on the surface.`\r\n-Bilbo, The Fellowship of the Ring"
+                "FlavorText": "`But there is more about you now than appears on the surface.`\n-Bilbo, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -202,8 +199,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.",
-                    "Action: Spend 2 resources from Aragorn`s resource pool to ready a hero."
+                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.\nAction: Spend 2 resources from Aragorn`s resource pool to ready a hero.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -245,10 +241,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Spend 1 Fellowship resource and exhaust The One Ring to give Frodo Baggins +2 Willpower and +2 Attack until the end of the round."
+                    "Action: Spend 1 Fellowship resource and exhaust The One Ring to give Frodo Baggins +2 Willpower and +2 Attack until the end of the round.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`It`s my doom, I think, to go to that Shadow yonder, so that a way will be found.`\r\n-The Two Towers"
+                "FlavorText": "`It`s my doom, I think, to go to that Shadow yonder, so that a way will be found.`\n-The Two Towers"
             },
             "Back": null,
             "CardSet": "The Land of Shadow",
@@ -288,11 +284,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.",
-                    "While Aragorn has an Artifact attached, he gains sentinel and does not exhaust to quest."
+                    "The first player gains control of Aragorn. If Aragorn leaves play, the players lose the game.\nWhile Aragorn has an Artifact attached, he gains sentinel and does not exhaust to quest.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I have no help to send, therefore I must go myself...`\r\n-The Return of the King"
+                "FlavorText": "`I have no help to send, therefore I must go myself...`\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Flame of the West",
@@ -334,7 +329,7 @@
                     "Planning Action: Exhaust The One Ring to add 1 resource to a hero`s pool."
                 ],
                 "Shadow": null,
-                "FlavorText": "`I must carry the burden to the end.`\r\n-The Return of the King"
+                "FlavorText": "`I must carry the burden to the end.`\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Mountain of Fire",
@@ -377,12 +372,10 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "The first player gains control of Aragorn.",
-                    "Action: Spend 1 resource from Aragorn`s pool to ready him. (Limit once per phase.)",
-                    "If Aragorn leaves play the players lose the game."
+                    "The first player gains control of Aragorn.\nAction: Spend 1 resource from Aragorn`s pool to ready him. (Limit once per phase.)\nIf Aragorn leaves play the players lose the game.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`As I have begun, so I will go on.`\r\n-The Return of the King"
+                "FlavorText": "`As I have begun, so I will go on.`\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "The Mountain of Fire",
@@ -419,12 +412,10 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to the Ring-bearer.",
-                    "Action: Add Mr. Underhill to the victory display to choose an enemy engaged with you. Until the end of the round, that enemy cannot attack you."
+                    "Permanent.\nSetup: Attach to the Ring-bearer.\nAction: Add Mr. Underhill to the victory display to choose an enemy engaged with you. Until the end of the round, that enemy cannot attack you.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I will give you a travelling name now. When you go, go as Mr. Underhill.`\r\n-Gandalf, The Fellowship of the Ring"
+                "FlavorText": "`I will give you a travelling name now. When you go, go as Mr. Underhill.`\n-Gandalf, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -461,11 +452,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Gildor Inglorion.",
-                    "Forced: At the end of the round, discard Gildor Inglorion. The first player may spend 1 Fellowship resource to cancel this effect."
+                    "The first player gains control of Gildor Inglorion.\nForced: At the end of the round, discard Gildor Inglorion. The first player may spend 1 Fellowship resource to cancel this effect.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`We think you had best come now with us.`\r\n-The Fellowship of the Ring"
+                "FlavorText": "`We think you had best come now with us.`\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -501,8 +491,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Add Gandalf`s Delay to the staging area.",
-                    "Each player draws 1 less card in his starting hand."
+                    "Setup: Add Gandalf`s Delay to the staging area.\nEach player draws 1 less card in his starting hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The next day Frodo became really anxious, and kept a constant look-out for Gandalf. Thursday, his birthday morning, dawned as fair and clear as it had long ago for Bilbo`s great party. Still Gandalf did not appear.\r\n-The Fellowship of the Ring"
@@ -543,8 +532,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: At the end of the phase, each enemy in the staging area engages the first player. If the One Ring is exhausted, this effect cannot be canceled."
+                    "Surge.\nWhen Revealed: At the end of the phase, each enemy in the staging area engages the first player. If the One Ring is exhausted, this effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Also,` he added, and his voice sank to a whisper, `the Ring draws them` -The Fellowship of the Ring"
@@ -585,8 +573,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to the Ring-bearer. (Counts as a Condition attachment with the text: `Forced: At the beginning of each quest phase, either exhaust The One Ring or reveal and additional encounter card this phase.`)"
+                    "Surge.\nWhen Revealed: Attach to the Ring-bearer. (Counts as a Condition attachment with the text: `Forced: At the beginning of each quest phase, either exhaust The One Ring or reveal and additional encounter card this phase.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Once more the desire to slip on the Ring came over Frodo... -The Fellowship of the Ring"
@@ -627,8 +614,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: The first player must either exhaust the Ring-bearer or reveal and additional encounter card"
+                    "Surge.\nWhen Revealed: The first player must either exhaust the Ring-bearer or reveal and additional encounter card\n"
                 ],
                 "Shadow": "Shadow: Defending player raises his threat by 3.",
                 "FlavorText": null
@@ -669,8 +655,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: The first player must deal X damage divided among heroes he controls where X is the number of players in the game."
+                    "Surge.\nWhen Revealed: The first player must deal X damage divided among heroes he controls where X is the number of players in the game.\n"
                 ],
                 "Shadow": "Shadow: Deal 1 damage to defending character.",
                 "FlavorText": null
@@ -711,8 +696,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: The first player raises his threat by 3 and passes the first player token to the next player."
+                    "Surge.\nWhen Revealed: The first player raises his threat by 3 and passes the first player token to the next player.\n"
                 ],
                 "Shadow": "Shadow: Defending player exhausts a character he controls.",
                 "FlavorText": null
@@ -753,8 +737,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: The first player must exhaust The One Ring. If The One Ring is already exhausted, the first player must discard 2 cards at random from his hand."
+                    "Surge.\nWhen Revealed: The first player must exhaust The One Ring. If The One Ring is already exhausted, the first player must discard 2 cards at random from his hand.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards 1 card at random from his hand.",
                 "FlavorText": null
@@ -799,8 +782,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Setup: The first player attaches Old Bogey-stories to a hero in play.",
-                    "Action: Add Old Bogey-stories to the victory display to shuffle your hand of at least 6 cards into your deck. Then, draw 6 cards."
+                    "Setup: The first player attaches Old Bogey-stories to a hero in play.\nAction: Add Old Bogey-stories to the victory display to shuffle your hand of at least 6 cards into your deck. Then, draw 6 cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`If you mean the old bogey-stories Fatty`s nurses used to tell him, about goblins and wolves and things of that sort, I should say no.` -Merry, The Fellowship of the Ring"
@@ -839,11 +821,10 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Setup: The first player adds this card to his hand.",
-                    "Response: Add this card to the victory display and remove it from the campaign pool to cancel the `when revealed` effects of an encounter card just revealed from the encounter deck."
+                    "Setup: The first player adds this card to his hand.\nResponse: Add this card to the victory display and remove it from the campaign pool to cancel the `when revealed` effects of an encounter card just revealed from the encounter deck.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "By fire, sun and moon, harken now and hear us!\r\nCome, Tom Bombadil, for our need is near us!\r\n-Frodo, The Fellowship of the Ring"
+                "FlavorText": "By fire, sun and moon, harken now and hear us!\nCome, Tom Bombadil, for our need is near us!\n-Frodo, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "Fog on the Barrow-downs",
@@ -879,12 +860,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gets +1 defense and gains the Ranger trait."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 defense and gains the Ranger trait.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`What roads would any dare to tread, what safety would there be in quiet lands, or in the homes of simple men at night, if the Dúnedain were asleep, or were all gone into the grave?`\r\n-Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`What roads would any dare to tread, what safety would there be in quiet lands, or in the homes of simple men at night, if the Dúnedain were asleep, or were all gone into the grave?`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -920,12 +899,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gets +2 hit points and gains the Healer trait."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +2 hit points and gains the Healer trait.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Few now have the skill of healing to match such evil weapons. But I will do what I can.`\r\n-Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`Few now have the skill of healing to match such evil weapons. But I will do what I can.`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -961,12 +938,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gets +1 Willpower and gains the Noble trait."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 Willpower and gains the Noble trait.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior in the fullness of his strength.\r\n-The Fellowship of the Ring"
+                "FlavorText": "Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior in the fullness of his strength.\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -1002,12 +977,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gets +1 Attack and gains the Warrior trait."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 Attack and gains the Warrior trait.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Three of the servants of Sauron were upon the Bridge, but they withdrew and I pursued them westward.`\r\n-Glorfindel, The Fellowship of the Ring"
+                "FlavorText": "`Three of the servants of Sauron were upon the Bridge, but they withdrew and I pursued them westward.`\n-Glorfindel, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Black Riders",
@@ -1045,9 +1018,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Hobbit hero. Restricted.",
-                    "Attached hero gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Response: After attached hero exhausts to defend an attack, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card`s Threat."
+                    "Attach to a Hobbit hero. Restricted.\nAttached hero gets +1 Willpower, +1 Attack, and +1 Defense.\nResponse: After attached hero exhausts to defend an attack, discard the top card of the encounter deck. Deal damage to the attacking enemy equal to the discarded card`s Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1088,9 +1059,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Noble hero or Aragorn. Restricted.",
-                    "Attached hero gets +1 Willpower, +1 Attack, and +1 Defense.",
-                    "Response: After an attack in which the attached hero defended resolves, exhaust Andúril to target the enemy that just attacked. Declare attached hero as an attacker against that enemy (and resolve the attack)."
+                    "Attach to a Noble hero or Aragorn. Restricted.\nAttached hero gets +1 Willpower, +1 Attack, and +1 Defense.\nResponse: After an attack in which the attached hero defended resolves, exhaust Andúril to target the enemy that just attacked. Declare attached hero as an attacker against that enemy (and resolve the attack).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1129,11 +1098,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to the Ring-bearer.",
-                    "Attached hero gets +1 Defense and +1 hit point."
+                    "Attach to the Ring-bearer.\nAttached hero gets +1 Defense and +1 hit point.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I should feel happier if I knew you were wearing it. I have a fancy it would turn even the knives of the Black Riders...`\r\n-Bilbo, The Fellowship of the Ring"
+                "FlavorText": "`I should feel happier if I knew you were wearing it. I have a fancy it would turn even the knives of the Black Riders...`\n-Bilbo, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1170,11 +1138,10 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Setup: Attach to a hero in play.",
-                    "Add Phial of Galadriel to the victory display and remove it from the campaign pool, to give each enemy engaged with you -4 Attack until the end of the round."
+                    "Setup: Attach to a hero in play.\nAdd Phial of Galadriel to the victory display and remove it from the campaign pool, to give each enemy engaged with you -4 Attack until the end of the round.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`May it be a light to you in dark places, when all other lights go out.` -Galadriel, The Fellowship of the Ring"
+                "FlavorText": "`May it be a light to you in dark places, when all other lights go out.`\n-Galadriel, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1212,12 +1179,10 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Warrior hero or Gandalf. Restricted.",
-                    "Attached character gets +2 Attack.",
-                    "Response: After attached character destroys an Orc enemy, draw 1 card."
+                    "Attach to a Warrior hero or Gandalf. Restricted.\nAttached character gets +2 Attack.\nResponse: After attached character destroys an Orc enemy, draw 1 card.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`...at his side was the elven-sword Glamdring, the mate of Orcrist that lay now upon the breast of Thorin under the Lonely Mountain.` -The Fellowship of the Ring"
+                "FlavorText": "`...at his side was the elven-sword Glamdring, the mate of Orcrist that lay now upon the breast of Thorin under the Lonely Mountain.`\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1254,11 +1219,10 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Setup: Attach to a hero in play.",
-                    "Action: Add Leaf-wrapped Lembas to the victory display, and remove it from the campaign pool, to ready all heroes in play."
+                    "Setup: Attach to a hero in play.\nAction: Add Leaf-wrapped Lembas to the victory display, and remove it from the campaign pool, to ready all heroes in play.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Often in their hearts they thanked the lady of Lórien for the gift of lembas, for they could eat of it and find new strength even as they ran. -The Two Towers"
+                "FlavorText": "Often in their hearts they thanked the lady of Lórien for the gift of lembas, for they could eat of it and find new strength even as they ran.\n-The Two Towers"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1295,11 +1259,10 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Setup: Attach to a hero in play.",
-                    "Action: Add Three Golden Hairs to the victory display and remove it from the campaign pool, to lower each player`s threat by 3. Then, each player draws 3 cards."
+                    "Setup: Attach to a hero in play.\nAction: Add Three Golden Hairs to the victory display and remove it from the campaign pool, to lower each player`s threat by 3. Then, each player draws 3 cards.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`...your hands shall flow with gold, and yet over you gold shall have no dominion.` -Galadriel, The Fellowship of the Ring"
+                "FlavorText": "`...your hands shall flow with gold, and yet over you gold shall have no dominion.`\n-Galadriel, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1336,11 +1299,10 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Setup: Attach to a hero in play.",
-                    "Action: Add Lórien Rope to the victory display, and remove it from the campaign pool to give each location in the staging area -2 Threat until the end of the phase."
+                    "Setup: Attach to a hero in play.\nAction: Add Lórien Rope to the victory display, and remove it from the campaign pool to give each location in the staging area -2 Threat until the end of the phase.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`What a piece of luck you had that rope!` -Frodo, The Two Towers"
+                "FlavorText": "`What a piece of luck you had that rope!`\n-Frodo, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1375,7 +1337,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Attach to a non-Fellowship hero in play. Counts as a Condition attachment with the text: `Forced: After The One Ring exhausts, raise each player`s threat by 1 and reduce attached hero`s Willpower to 0 until the end of the round.`"
+                    "Peril. Surge.\nWhen Revealed: Attach to a non-Fellowship hero in play. Counts as a Condition attachment with the text: `Forced: After The One Ring exhausts, raise each player`s threat by 1 and reduce attached hero`s Willpower to 0 until the end of the round.`\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1383,7 +1345,7 @@
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
-                "EncounterSet": "The Ring Goes South",
+                "EncounterSet": "Breaking of the Fellowship",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -1417,7 +1379,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Treat the printed text box of each character in play as blank (except for Traits) until the end of the round."
+                    "Doomed 1. Surge.\nWhen Revealed: Treat the printed text box of each character in play as blank (except for Traits) until the end of the round.\n"
                 ],
                 "Shadow": "Shadow: Defending character does not count its Defense.",
                 "FlavorText": null
@@ -1425,7 +1387,7 @@
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
-                "EncounterSet": "Journey in the Dark",
+                "EncounterSet": "Breaking of the Fellowship",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -1459,7 +1421,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Each enemy engaged with a player, and not in the staging area, makes an immediate attack."
+                    "Doomed 1. Surge.\nWhen Revealed: Each enemy engaged with a player, and not in the staging area, makes an immediate attack.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
@@ -1467,7 +1429,7 @@
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
-                "EncounterSet": "Journey in the Dark",
+                "EncounterSet": "Breaking of the Fellowship",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -1500,8 +1462,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Add Overcome by Grief to the staging area.",
-                    "Forced: After a character is destroyed, if Overcome by Grief is unattached, attach to a hero. (Counts as a Condition attachment with the text: `Forced: After a character you control is destroyed, exhaust attached hero. Until the end of the round, attached hero cannot ready.`)"
+                    "Setup: Add Overcome by Grief to the staging area.\nForced: After a character is destroyed, if Overcome by Grief is unattached, attach to a hero. (Counts as a Condition attachment with the text: `Forced: After a character you control is destroyed, exhaust attached hero. Until the end of the round, attached hero cannot ready.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1509,7 +1470,7 @@
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
-                "EncounterSet": "Journey in the Dark",
+                "EncounterSet": "Breaking of the Fellowship",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -1542,8 +1503,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Add Grievous Wound to the staging area.",
-                    "`Forced: After a hero takes damage, if Grievous Wound is unattached, attach to that hero. (Counts as a Condition attachment with the text: `Forced: After attached hero exhausts, deal 1 damage to it.`)"
+                    "Setup: Add Grievous Wound to the staging area.\nForced: After a hero takes damage, if Grievous Wound is unattached, attach to that hero. (Counts as a Condition attachment with the text: `Forced: After attached hero exhausts, deal 1 damage to it.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1551,7 +1511,7 @@
             "Back": null,
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
-                "EncounterSet": "Journey in the Dark",
+                "EncounterSet": "Breaking of the Fellowship",
                 "EasyModeQuantity": 0,
                 "IncludedEncounterSets": [],
                 "StageNumber": null,
@@ -1585,10 +1545,10 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Put the topmost enemy of the encounter deck discard pile into play engaged with you."
+                    "Peril. Surge.\n`When Revealed: Put the topmost enemy of the encounter deck discard pile into play engaged with you.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Quite apart from murder by night on his own account, he may put any enemy that is about on our track.` -Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`Quite apart from murder by night on his own account, he may put any enemy that is about on our track.`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1629,10 +1589,10 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Attach to a hero you control. (Counts as a Condition attachment with the text: `Forced: After a character you control is destroyed, raise your threat by 2.`)"
+                    "Peril. Surge.\nWhen Revealed: Attach to a hero you control. (Counts as a Condition attachment with the text: `Forced: After a character you control is destroyed, raise your threat by 2.`)\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Alas! An ill fate is on me this day, and all that I do goes amiss.` -Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`Alas! An ill fate is on me this day, and all that I do goes amiss.`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -1674,12 +1634,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a Healer hero.",
-                    "Action: Exhaust attached hero and Hands of a Healer to heal up to 3 damage from a hero."
+                    "Permanent.\nSetup: Attach to a Healer hero.\nAction: Exhaust attached hero and Hands of a Healer to heal up to 3 damage from a hero.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Life to the dying\r\nIn the king`s hand lying!`\r\n-Herb-master, The Return of the King"
+                "FlavorText": "`Life to the dying\nIn the king`s hand lying!`\n-Herb-master, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
@@ -1716,8 +1674,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Attach to Fellowship Aragorn.",
-                    "Quest Action: Exhaust Aragorn and Palantír of Orthanc to discard the top card of the encounter deck. If Aragorn`s Willpower is greater than the discarded card`s Threat, you may add Palantír of Orthanc to the victory display and remove it from the campaign pool to choose a player. That player reveals 1 fewer encounter card this phase (to a minimum of 0)."
+                    "Attach to Fellowship Aragorn.\nQuest Action: Exhaust Aragorn and Palantír of Orthanc to discard the top card of the encounter deck. If Aragorn`s Willpower is greater than the discarded card`s Threat, you may add Palantír of Orthanc to the victory display and remove it from the campaign pool to choose a player. That player reveals 1 fewer encounter card this phase (to a minimum of 0).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1756,12 +1713,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a Ranger hero.",
-                    "Response: After attached hero is declared as a defender against a non-unique enemy, exhaust Forewarned to discard 1 shadow card from that enemy."
+                    "Permanent.\nSetup: Attach to a Ranger hero.\nResponse: After attached hero is declared as a defender against a non-unique enemy, exhaust Forewarned to discard 1 shadow card from that enemy.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Faint and far are the feet of our enemies.`\r\n-Aragorn, The Two Towers"
+                "FlavorText": "`Faint and far are the feet of our enemies.`\n-Aragorn, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
@@ -1797,12 +1752,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gets +1 Willpower, +1 Attack, +1 Defense and cannot have treachery card attachments."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gets +1 Willpower, +1 Attack, +1 Defense and cannot have treachery card attachments.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Beyond all hope you return to us in our need!`\r\n-Aragorn, The Two Towers"
+                "FlavorText": "`Beyond all hope you return to us in our need!`\n-Aragorn, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
@@ -1838,12 +1791,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a Warrior hero.",
-                    "Response: After attached hero is declared as the only attacker against a non-unique enemy, exhaust Intimidation to give that enemy -2 Defense for this attack."
+                    "Permanent.\nSetup: Attach to a Warrior hero.\nResponse: After attached hero is declared as the only attacker against a non-unique enemy, exhaust Intimidation to give that enemy -2 Defense for this attack.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`None knows what the new day shall bring him,` said Aragorn. `Get you gone, ere it turn to your evil!`\r\n-Aragorn, The Two Towers"
+                "FlavorText": "`None knows what the new day shall bring him,` said Aragorn. `Get you gone, ere it turn to your evil!`\n-Aragorn, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
@@ -1879,12 +1830,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a Noble hero.",
-                    "Response: After attached hero quests successfully, exhaust Leader of Men to add 1 resource to attached hero`s pool."
+                    "Permanent.\nSetup: Attach to a Noble hero.\nResponse: After attached hero quests successfully, exhaust Leader of Men to add 1 resource to attached hero`s pool.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Take this, dear lord!` said a clear voice. `It was ever at your service.`\r\n-The Two Towers"
+                "FlavorText": "`Take this, dear lord!` said a clear voice. `It was ever at your service.`\n-The Two Towers"
             },
             "Back": null,
             "CardSet": "The Treason of Saruman",
@@ -1916,8 +1865,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Poisoned Counsels functions like a player card.",
-                    "Forced: After you draw this card, discard all other cards in your hand."
+                    "Poisoned Counsels functions like a player card.\nForced: After you draw this card, discard all other cards in your hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`And ever Wormtongue`s whispering was in your ears, poisoning your thought, chilling your heart, weakening your limbs...` -Gandalf, The Two Towers"
@@ -1962,8 +1910,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "Play only if you control the Ring-bearer.",
-                    "Planning Action: Add Brace of Coneys to the victory display to (choose 2): heal up to 2 damage from a hero, add 2 resources to a hero`s pool, draw 2 cards, or reduce a player`s threat by 2."
+                    "Play only if you control the Ring-bearer.\nPlanning Action: Add Brace of Coneys to the victory display to (choose 2): heal up to 2 damage from a hero, add 2 resources to a hero`s pool, draw 2 cards, or reduce a player`s threat by 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "``Sméagol always helps,` he said. `He has brought rabbits, nice rabbits.`` —Gollum, The Two Towers"
@@ -2000,12 +1947,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to the Ring-bearer.",
-                    "Forced: At the end of the planning phase, either raise each player`s threat by 1, or exhaust the Ring-bearer."
+                    "Permanent.\nSetup: Attach to the Ring-bearer.\nForced: At the end of the planning phase, either raise each player`s threat by 1, or exhaust the Ring-bearer.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`It`s heavy on me, Sam lad, very heavy. I wonder how far I can carry it?`\r\n—Frodo Baggins, The Two Towers"
+                "FlavorText": "`It`s heavy on me, Sam lad, very heavy. I wonder how far I can carry it?`\n—Frodo Baggins, The Two Towers"
             },
             "Back": null,
             "CardSet": "The Land of Shadow",
@@ -2047,13 +1992,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gains the Rohan trait.",
-                    "Attached hero gets +1 Attack while attacking with another Rohan character."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gains the Rohan trait.\nAttached hero gets +1 Attack while attacking with another Rohan character.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Rise now, Meriadoc, esquire of Rohan of the household of Meduseld!`\r\n-Théoden, The Return of the King"
+                "FlavorText": "`Rise now, Meriadoc, esquire of Rohan of the household of Meduseld!`\n-Théoden, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Flame of the West",
@@ -2089,13 +2031,10 @@
                     "Permanent."
                 ],
                 "Text": [
-                    "Permanent.",
-                    "Setup: Attach to a hero.",
-                    "Attached hero gains the Gondor trait.",
-                    "Attached hero gets +1 Willpower while commited to the quest with another Gondor character."
+                    "Permanent.\nSetup: Attach to a hero.\nAttached hero gains the Gondor trait.\nAttached hero gets +1 Willpower while commited to the quest with another Gondor character.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Here do I swear fealty and service to Gondor, and to the Lord and Steward of the realm...`\r\n-Pippin, The Return of the King"
+                "FlavorText": "`Here do I swear fealty and service to Gondor, and to the Lord and Steward of the realm...`\n-Pippin, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Flame of the West",
@@ -2132,12 +2071,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects. The first player gains control of Army of the Dead.",
-                    "Setup: The first player takes control of Army of the Dead.",
-                    "If Army of the Dead leaves play, remove it from the game."
+                    "Immune to player card effects. The first player gains control of Army of the Dead.\nSetup: The first player takes control of Army of the Dead.\nIf Army of the Dead leaves play, remove it from the game.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Now come! By the Black Stone I call you!`\r\n-Aragorn, The Return of the King"
+                "FlavorText": "`Now come! By the Black Stone I call you!`\n-Aragorn, The Return of the King"
             },
             "Back": null,
             "CardSet": "The Flame of the West",
@@ -2175,7 +2112,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Set Lust for the Ring, Redhorn Pass, Doors of Durin and Watcher in the Water aside, out of play. Shuffle the encounter deck."
+                    "Setup: Set Lust for the Ring, Redhorn Pass, Doors of Durin and Watcher in the Water aside, out of play. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "In the House of Elrond, the evil wound that Frodo received on Weathertop is healed and he is reunited with his uncle Bilbo. The One Ring cannot remain hidden in Rivendell for long, so Lord Elrond summons a council to decide what should be done to protect the Free Peoples of Middle-earth."
@@ -2190,7 +2127,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the planning phase, each player places the top card of his deck faceup in front of him, in player order, until there are a total of 4 faceup cards between the players. The first player chooses 1 faceup card to be played for 0 cost, 1 to add to its owner`s hand, 1 to discard, and 1 to shuffle into its owner`s deck. Then, either shuffle Lust for the Ring into the encounter deck, or raise each player`s threat by 5. Advance to stage 2."
+                    "Forced: At the end of the planning phase, each player places the top card of his deck faceup in front of him, in player order, until there are a total of 4 faceup cards between the players. The first player chooses 1 faceup card to be played for 0 cost, 1 to add to its owner`s hand, 1 to discard, and 1 to shuffle into its owner`s deck. Then, either shuffle Lust for the Ring into the encounter deck, or raise each player`s threat by 5. Advance to stage 2.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2229,7 +2166,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Make Redhorn Pass the active location. The first player reveals cards from the encounter deck until there is at least X Threat in the staging area. X is twice the number of players in the game."
+                    "When Revealed: Make Redhorn Pass the active location. The first player reveals cards from the encounter deck until there is at least X Threat in the staging area. X is twice the number of players in the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The Council decides The One Ring must be cast into Mount Doom. Frodo is appointed eight companions to help him compete this quest and the Company of the Ring sets out from Rivendell into Hollin on their way to Mordor..."
@@ -2244,11 +2181,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "During the travel phase, the players must travel to a location, if able.",
-                    "Forced: After an enemy engages a player, place 1 damage on the active location, if able."
+                    "\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Hollin is no longer wholesome for us: it is being watched.` -Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`Hollin is no longer wholesome for us: it is being watched.`\n-Aragorn, The Fellowship of the Ring"
             },
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
@@ -2284,10 +2220,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player searches the encounter deck and discard pile for an enemy and adds it to the staging area. One of those enemies must be Great Warg Chief, if able. Shuffle the encounter deck."
+                    "When Revealed: Each player searches the encounter deck and discard pile for an enemy and adds it to the staging area. One of those enemies must be Great Warg Chief, if able. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Suddenly Aragorn leapt to his feet, `How the wind howls!` he cried. `It is howling with wolf-voices. The Wargs have come west of the Mountains!` -The Fellowship of the Ring"
+                "FlavorText": "Suddenly Aragorn leapt to his feet, `How the wind howls!` he cried. `It is howling with wolf-voices. The Wargs have come west of the Mountains!`\n-The Fellowship of the Ring"
             },
             "Back": {
                 "Subtitle": null,
@@ -2299,8 +2235,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "During the travel phase, the players must travel to a location, if able.",
-                    "Forced: After an enemy engages a player, place 1 damage on the active location, if able."
+                    "During the travel phase, the players must travel to a location, if able.\nForced: After an enemy engages a player, place 1 damage on the active location, if able.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The Fellowship is being hunted by Wargs!"
@@ -2339,7 +2274,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Make Doors of Durin the active location. Add Watcher in the Water to the staging area. Discard all tokens from the Ring-bearer and place it (and each card attached to it) facedown under Watcher in the Water."
+                    "When Revealed: Make Doors of Durin the active location. Add Watcher in the Water to the staging area. Discard all tokens from the Ring-bearer and place it (and each card attached to it) facedown under Watcher in the Water.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Pursued by evil Wargs and foul weather, the Company of the Ring decides to enter the Mines of Moria. But as they seek the hidden gate, a foul creature seizes the Ring-bearer with one of its many groping arms..."
@@ -2354,12 +2289,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "There can be 2 active locations. During the travel phase, the players must travel to a location, if able.",
-                    "Forced: After an enemy engages a player, place 1 damage on each active location.",
-                    "If Doors of Durin is explored, the players win the game."
+                    "There can be 2 active locations. During the travel phase, the players must travel to a location, if able.\nForced: After an enemy engages a player, place 1 damage on each active location.\nIf Doors of Durin is explored, the players win the game.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "The Fellowship is being hunted by Wargs!"
+                "FlavorText": null
             },
             "CardSet": "The Road Darkens",
             "EncounterInfo": {
@@ -2403,9 +2336,7 @@
                     "Indestructible."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Cannot leave the staging area but is considered to be engaged with each player.",
-                    "Forced: After placing the 6th damage here, the first player takes control of the Ring-bearer, exhausted with 1 damage on it."
+                    "Immune to player card effects.\nCannot leave the staging area but is considered to be engaged with each player.\nForced: After placing the 6th damage here, the first player takes control of the Ring-bearer, exhausted with 1 damage on it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2452,8 +2383,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "Forced: After Great Warg Chief enages you, discard cards from the encounter deck until a Warg enemy is discarded. Put that enemy into play engaged with you."
+                    "Cannot have attachments.\nForced: After Great Warg Chief enages you, discard cards from the encounter deck until a Warg enemy is discarded. Put that enemy into play engaged with you.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2502,7 +2432,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Hound of Sauron gets -5 engagement cost for each enemy in the staging area."
+                    "Surge.\nHound of Sauron gets -5 engagement cost for each enemy in the staging area.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if it was engaged with round).",
                 "FlavorText": null
@@ -2549,7 +2479,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Howling Warg attacks, place 1 damage on an active location."
+                    "Forced: After Howling Warg attacks, place 1 damage on an active location.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack. If this attack destroys a character, place 1 damage on an active location.",
                 "FlavorText": null
@@ -2597,8 +2527,7 @@
                     "Peril."
                 ],
                 "Text": [
-                    "When Revealed: Either exhaust a hero you control, or engaged Crebain from Dunland.",
-                    "Forced: After Crebain from Dunland engages a player, reveal the top card of the encounter deck."
+                    "Peril.\nWhen Revealed: Either exhaust a hero you control, or engage Crebain from Dunland.\nForced: After Crebain from Dunland engages a player, reveal the top card of the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2643,11 +2572,10 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Forced: When Redhorn Pass is explored, each player assigns X damage among characters he controls. X is the number of damage here."
+                    "Immune to player card effects.\nForced: When Redhorn Pass is explored, each player assigns X damage among characters he controls. X is the number of damage here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`We may well be seen by watchers on that narrow path...` -Gandalf, The Fellowship of the Ring"
+                "FlavorText": "`We may well be seen by watchers on that narrow path...`\n-Gandalf, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -2689,10 +2617,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Progress cannot be placed on each other active location before it can be placed here. Progress cannot be placed here unless the first player controls the Ring-bearer.",
-                    "                ",
-                    "If there are 9 damage tokens, the players lose the game."
+                    "Immune to player card effects.\nProgress cannot be placed on each other active location before it can be placed here. Progress cannot be placed here unless the first player controls the Ring-bearer.\nIf there are 9 damage tokens, the players lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2733,16 +2658,12 @@
                 "Traits": [
                     "Hills."
                 ],
-                "Keywords": [
-                    "Victory 1."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "While Tree-crowned hill is the active location, each enemy gets -1 Threat.",
-                    "                ",
-                    "Forced: When Tree-crowned hill is explored, the players, as a group, exhaust X characters in play. X is the number of damage here."
+                    "While Tree-crowned hill is the active location, each enemy gets -1 Threat.\nForced: When Tree-crowned hill is explored, the players, as a group, exhaust X characters in play. X is the number of damage here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "For their defense in the night the Company climbed to the top of the small hill... -The Fellowship of the Ring"
+                "FlavorText": "For their defense in the night the Company climbed to the top of the small hill...\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -2755,7 +2676,7 @@
             },
             "Number": 31,
             "Quantity": 1,
-            "Artist": "Ferdinand Dumago Ladera",
+            "Artist": "Ferdinand Ladera",
             "HasErrata": false,
             "OctgnGuid": "ca18c3fa-ebda-4cf9-99bb-2ce47c9160a1",
             "RingsDbCardId": "142031",
@@ -2780,16 +2701,12 @@
                 "Traits": [
                     "Hills."
                 ],
-                "Keywords": [
-                    "Victory 1."
-                ],
+                "Keywords": [],
                 "Text": [
-                    "While Hills of Hollin is the active location, each enemy in the staging area gets +5 engagement cost.",
-                    "                ",
-                    "Forced: When Hills of Hollin is explored, each player raises his threat by 1 for each damage here."
+                    "While Hills of Hollin is the active location, each enemy in the staging area gets +5 engagement cost.\nForced: When Hills of Hollin is explored, each player raises his threat by 1 for each damage here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "For their defense in the night the Company climbed to the top of the small hill... -The Fellowship of the Ring"
+                "FlavorText": "For their defense in the night the Company climbed to the top of the small hill...\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -2830,7 +2747,7 @@
                 "Keywords": [],
                 "Text": [
                     "While Hills of Hollin is the active location, it gains: `Forced: After an enemy is added to the staging area, it gets -5 engagement cost until the end of the round.`",
-                    "Forced: When Redhorn Foothills is explored, each player must discard X cards from his hand at random. X is the number of damage here."
+                    "Forced: When Redhorn Foothills is explored, each player must discard X cards from his hand at random. X is the number of damage here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -2873,7 +2790,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Eregion is explored, the players, as a group, must discard X allies from play. X is the number of damage here."
+                    "Forced: When Eregion is explored, the players, as a group, must discard X allies from play. X is the number of damage here.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards a non-objective attachment he controls.",
                 "FlavorText": null
@@ -2911,10 +2828,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Place 3 damage on each active location."
+                    "When Revealed: Place 3 damage on each active location.\n"
                 ],
-                "Shadow": "Shadow: Undefended damage from this attack must be assigned to the active location.",
-                "FlavorText": "`I think they are spying out the land.` -Aragorn, The Fellowship of the Ring"
+                "Shadow": null,
+                "FlavorText": "`I think they are spying out the land.`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -2951,10 +2868,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach to the active location. (Countss as a Condition attachment with the text, `Limit 1 per location. No more than 3 progress can be placed on attached location each round.`) If Snowdrifts is not attached to the active location, it gains surge."
+                    "When Revealed: Attach to the active location. (Countss as a Condition attachment with the text, `Limit 1 per location. No more than 3 progress can be placed on attached location each round.`) If Snowdrifts is not attached to the active location, it gains surge.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Soon even Boromir found it hard to keep going. -The Fellowship of the Ring"
+                "FlavorText": "Soon even Boromir found it hard to keep going.\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Road Darkens",
@@ -2991,7 +2908,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must choose: either discard each ally he controls, or raise his threat by 1 for each ally he controls."
+                    "When Revealed: Each player must choose: either discard each ally he controls, or raise his threat by 1 for each ally he controls.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
                 "FlavorText": null
@@ -3031,7 +2948,7 @@
                     "Peril."
                 ],
                 "Text": [
-                    "When Revealed: Either the Warg enemy in the staging area with the highest engagement cost attacks you, or each Warg enemy gets -20 engagement until the end of the round. If no Warg enemy is in the staging area, Storm of Howls gains surge."
+                    "Peril.\nWhen Revealed: Either the Warg enemy in the staging area with the highest engagement cost attacks you, or each Warg enemy gets -20 engagement until the end of the round. If no Warg enemy is in the staging area, Storm of Howls gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null

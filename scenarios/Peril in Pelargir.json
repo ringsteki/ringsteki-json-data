@@ -5,6 +5,392 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Dockside Street",
+            "Slug": "Dockside-Street-PiPN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Dockside-Street.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Dockside Street is in the staging area, enemies in the staging area cannot be damaged or optionally engaged.\nTravel: Exhaust the hero with Alcaron`s Scroll attached to travel here.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06005",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 1120201,
+            "Categories": null
+        },
+        {
+            "Title": "Pelargir Alley",
+            "Slug": "Pelargir-Alley-PiPN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Pelargir-Alley.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "City."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Alcaron`s Scroll is not attached to a hero, Pelargir Alley gets +3 Threat.\n"
+                ],
+                "Shadow": "Shadow: If the defending player controls a hero with Alcaron`s Scroll attached, attach Alcaron`s Scroll to the attacking enemy.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06006",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 708768,
+            "Categories": null
+        },
+        {
+            "Title": "The Thieves' Ploy",
+            "Slug": "The-Thieves'-Ploy-PiPN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/The-Thieves'-Ploy.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: If Alcaron`s Scroll is attached to a hero, choose an enemy engaged with that hero`s controller, if able. Attached Alcaron`s Scroll to that enemy, then add 1 progress to that enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06008",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 337340,
+            "Categories": null
+        },
+        {
+            "Title": "They're Getting Away!",
+            "Slug": "They're-Getting-Away-PiPN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/They're-Getting-Away.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: If Alcaron`s Scroll is attached to an enemy, choose one: either add 1 progress token to that enemy, or each card in the staging area gets +2 Threat until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06009",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 329880,
+            "Categories": null
+        },
+        {
+            "Title": "Pelargir Ringleader",
+            "Slug": "Pelargir-Ringleader-PiPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Pelargir-Ringleader.jpg",
+                "Stats": {
+                    "EngagementCost": "35",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Brigand."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When Pelargir Ringleader engages a player, return the topmost Brigand enemy in the encounter discard pile to play, engaged with that player.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 326659,
+            "Categories": null
+        },
+        {
+            "Title": "Harbor Brute",
+            "Slug": "Harbor-Brute-PiPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Harbor-Brute.jpg",
+                "Stats": {
+                    "EngagementCost": "38",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "4",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Brigand.",
+                    "Thug."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: If Alcaron`s Scroll is attached to an enemy, detach it from that enemy and attach it to Harbor Brute. Move all progress tokens from that enemy to Harbor Brute.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 2,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06003",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 248453,
+            "Categories": null
+        },
+        {
+            "Title": "Cunning Informant",
+            "Slug": "Cunning-Informant-PiPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Cunning-Informant.jpg",
+                "Stats": {
+                    "EngagementCost": "21",
+                    "Threat": "3",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Brigand."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Alcaron`s Scroll is attached to a hero, Cunning Informant gets +3 Attack.\nDuring the encounter phase, if Alcaron`s Scroll is attached to a hero, that hero`s controller is considered to have +10 threat for the purpose of engagement checks.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241901,
+            "Categories": null
+        },
+        {
+            "Title": "Peril in Pelargir Nightmare",
+            "Slug": "Peril-in-Pelargir-Nightmare-PiPN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Peril-in-Pelargir-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: At the end of the combat phase, if Alcaron`s Scroll is in the staging area, attach it to the enemy in play with the highest Defense.\nForced: At the beginning of the refresh phase, if Alcaron`s Scroll is attached to an enemy, place 1 progress token on that enemy.\nIf at any point there are 3 or more progress tokens on any enemy, that enemy has escaped with the scroll, and the players lose the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Peril in Pelargir scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n4x Collateral Damage\n2x Harbor Storehouse\n3x Pickpocket\n1x Harbor Thug\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Peril in Pelargir encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 11684,
+            "Categories": null
+        },
+        {
+            "Title": "Bedlam in the Streets",
+            "Slug": "Bedlam-in-the-Streets-PiPN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Bedlam-in-the-Streets.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Each player must either remove a hero he controls from the quest or engage an enemy in the staging area. Each enemy engaged by this effect makes an immediate attack.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Peril in Pelargir Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Peril in Pelargir Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 143331,
+            "Categories": null
+        },
+        {
             "Title": "Alcaron's Scroll",
             "Slug": "Alcaron's-Scroll-HoN",
             "IsUnique": true,
@@ -20,7 +406,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, return Alcaron`s Scroll to the staging area and it gains: `Action: Exhaust a hero to attach Alcaron`s Scroll to that hero.`Forced: When the hero with Alcaron`s Scroll attached is damaged by an enemy attack, attach Alcaron`s Scroll to that enemy."
+                    "If unattached, return Alcaron`s Scroll to the staging area and it gains: `Action: Exhaust a hero to attach Alcaron`s Scroll to that hero.`Forced: When the hero with Alcaron`s Scroll attached is damaged by an enemy attack, attach Alcaron`s Scroll to that enemy.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -66,7 +452,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When the player whose hero has Alcaron`s Scroll attached raises his threat, Harbor Thug engages that player."
+                    "Forced: When the player whose hero has Alcaron`s Scroll attached raises his threat, Harbor Thug engages that player.\n"
                 ],
                 "Shadow": "Shadow: Any damage dealt by this attack is dealt to the hero with Alcaron`s Scroll attached, if able.",
                 "FlavorText": null
@@ -111,7 +497,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "If Alcaron`s Scroll is attached to a hero, The Leaping Fish gains: `Forced: At the beginning of the quest phase discard X cards from the top of the encounter deck where X is the number of players in the game. Add each enemy discarded by this effect to the staging area.`"
+                    "If Alcaron`s Scroll is attached to a hero, The Leaping Fish gains: `Forced: At the beginning of the quest phase discard X cards from the top of the encounter deck where X is the number of players in the game. Add each enemy discarded by this effect to the staging area.`\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -155,7 +541,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Pelargir Docks is the active location, enemies get +1 Attack and +1 Defense."
+                    "While Pelargir Docks is the active location, enemies get +1 Attack and +1 Defense.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...they saw the River like a ribbon laid down to Pelargir, and beyond that was a light on the hem of the sky that spoke of the Sea. -The Return of the King"
@@ -198,7 +584,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: Each time a location is discarded from the top of the encounter deck, raise each player`s threat by 1."
+                    "Forced: Each time a location is discarded from the top of the encounter deck, raise each player`s threat by 1.\n"
                 ],
                 "Shadow": "Shadow: Deal attacking enemy an additional shadow card for each Thug enemy in play.",
                 "FlavorText": null
@@ -236,7 +622,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Discard 2 cards from the top of the encounter deck. Discard an additional 2 cards for each copy of Collateral Damage in the discard pile. Then, raise each player`s threat by 2 for each location discarded by this effect."
+                    "When Revealed: Discard 2 cards from the top of the encounter deck. Discard an additional 2 cards for each copy of Collateral Damage in the discard pile. Then, raise each player`s threat by 2 for each location discarded by this effect.\n"
                 ],
                 "Shadow": "Shadow: Any damage dealt by this attack is dealt to the hero with Alcaron`s Scroll attached, if able.",
                 "FlavorText": null
@@ -282,7 +668,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Pickpocket attacks, the defending player discards 1 resource from one of his heroes` resource pools and 1 card at random from his hand."
+                    "Forced: When Pickpocket attacks, the defending player discards 1 resource from one of his heroes` resource pools and 1 card at random from his hand.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards 1 of his attachments. (Discard all of his attachments instead if undefended.)",
                 "FlavorText": null
@@ -327,8 +713,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "While City Street is in the staging area, players cannot travel to a location that does not have the title City Street."
+                    "Surge.\nWhile City Street is in the staging area, players cannot travel to a location that does not have the title City Street.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -371,8 +756,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Travel: Each player must spend 1 resource from one of his heroes` resource pools to travel here."
+                    "Immune to player card effects.\nTravel: Each player must spend 1 resource from one of his heroes` resource pools to travel here.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards all resources in his heroes` resource pools.",
                 "FlavorText": null
@@ -410,7 +794,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 City location and add it to the staging area, if able. Shuffle the encounter deck. This effect cannot be canceled."
+                    "When Revealed: Each player must search the encounter deck and discard pile for 1 City location and add it to the staging area, if able. Shuffle the encounter deck. This effect cannot be canceled.\n"
                 ],
                 "Shadow": "Shadow: Defending player discards his hand.",
                 "FlavorText": null
@@ -448,7 +832,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: `When attached hero exhausts, readies, or triggers an ability, raise its controller`s threat by 1.`)"
+                    "When Revealed: Attach this card to the hero with the highest threat cost without a copy of Local Trouble attached. (Counts as a Condition attachment with the text: `When attached hero exhausts, readies, or triggers an ability, raise its controller`s threat by 1.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...they all got an uncomfortable feeling that they were being watched with disapproval, deepening to dislike and even enmity. -The Fellowship of the Ring"
@@ -494,7 +878,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Zealous Traitor engages a player, that player must deal 1 damage to each ally he controls. (2 damage instead if Zealous Traitor was not optionally engaged.)"
+                    "Forced: When Zealous Traitor engages a player, that player must deal 1 damage to each ally he controls. (2 damage instead if Zealous Traitor was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -540,7 +924,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Lossarnach Bandit engages a player, that player discards 1 resource from each of his heroes` resource pools. (2 resources instead if Lossarnach Bandit was not optionally engaged.)"
+                    "Forced: When Lossarnach Bandit engages a player, that player discards 1 resource from each of his heroes` resource pools. (2 resources instead if Lossarnach Bandit was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -588,8 +972,7 @@
                     "Archery 2."
                 ],
                 "Text": [
-                    "Archery 2.",
-                    "Forced: When Umbar Assassin engages a player, that player must deal 3 damage to a hero he controls. (Discard that hero instead if Umbar Assassin was not optionally engaged.)"
+                    "Archery 2.\nForced: When Umbar Assassin engages a player, that player must deal 3 damage to a hero he controls. (Discard that hero instead if Umbar Assassin was not optionally engaged.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -627,7 +1010,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Return all Brigand enemies engaged with players to the staging area. If this effect returned no Brigand enemies to the staging area, Lurking in Shadows gains surge."
+                    "When Revealed: Return all Brigand enemies engaged with players to the staging area. If this effect returned no Brigand enemies to the staging area, Lurking in Shadows gains surge.\n"
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after it attacks.",
                 "FlavorText": null
@@ -669,7 +1052,7 @@
                     "Battle."
                 ],
                 "Text": [
-                    "Setup: Search the encounter deck for The Leaping Fish and Alcaron`s Scroll. Make The Leaping Fish the active location and attach Alcaron`s Scroll to a hero."
+                    "Setup: Search the encounter deck for The Leaping Fish and Alcaron`s Scroll. Make The Leaping Fish the active location and attach Alcaron`s Scroll to a hero.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The White Council has sent you by ship to Gondor to help fight the threat of Mordor. Upon arrival in the port city of Pelargir, you are greeted by Lord Alcaron who takes you to The Leaping Fish where you can speak privately."
@@ -684,8 +1067,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Battle.",
-                    "When Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck."
+                    "Battle.\nWhen Revealed: Each player must search the encounter deck for a copy of Harbor Thug and add it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Inside the tavern, Lord Alcaron looks nervously toward the door as he hands you a scroll bearing the seal of Gondor. He asks that you deliver it to Faramir in Ithilen, but the brigands who just entered look intent on taking it from you"
@@ -742,8 +1124,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Battle.",
-                    "When Revealed: Attach Alcaron`s Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron`s Scroll to the staging area."
+                    "Battle.\nWhen Revealed: Attach Alcaron`s Scroll to the highest engagement cost enemy in play, if able. Otherwise, add Alcaron`s Scroll to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -785,7 +1166,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player searches the encounter deck and discard pile for 1 enemy and adds it to the staging area."
+                    "When Revealed: Each player searches the encounter deck and discard pile for 1 enemy and adds it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You`ve recovered the scroll but are still outnumbered by your determined foes. Lord Alcaron shouts for you to escape and deliver the scroll before he flees to summon the city guard. If you can get to your ship, you can escape the clutches of these desperate thugs..."
@@ -800,9 +1181,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Enemies cannot be optionally engaged.",
-                    "Forced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron`s Scroll from the staging area.",
-                    "The players cannot defeat this stage unless Alcaron`s Scroll is attached to a hero. If the players defeat this stage, they have won the game."
+                    "Enemies cannot be optionally engaged.\nForced: The first enemy revealed from the encounter deck each round makes an immediate attack against the player who controls Alcaron`s Scroll from the staging area.\nThe players cannot defeat this stage unless Alcaron`s Scroll is attached to a hero. If the players defeat this stage, they have won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -824,395 +1203,6 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9025",
             "RingsDbCardId": "05067",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Peril in Pelargir Nightmare",
-            "Slug": "Peril-in-Pelargir-Nightmare-PiPN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Peril-in-Pelargir-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.\n\nForced; At the end of the combat phase, if Alcaron`s Scroll is in the staging area, attach it to the enemy in play with the highest Defense.\n\nForced: At the beginning of the refresh phase, if Alcaron`s Scroll is attached to an enemy, place 1 progress token on that enemy.\n\nIf at any point there are 3 or more progress tokens on any enemy, that enemy has escaped with the scroll, and the players lose the game."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Peril in Pelargir scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n4x Collateral Damage\n2x Harbor Storehouse\n3x Pickpocket\n1x Harbor Thug\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Peril in Pelargir encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Dleoblack",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cunning Informant",
-            "Slug": "Cunning-Informant-PiPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Cunning-Informant.jpg",
-                "Stats": {
-                    "EngagementCost": "21",
-                    "Threat": "3",
-                    "Attack": "2",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Brigand."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Alcaron`s Scroll is attached to a hero, Cunning Informant gets +3 Attack.\n\nDuring the encounter phase, if Alcaron`s Scroll is attached to a hero, that hero`s controller is considered to have +10 threat for the purpose of engagement checks."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Jason Ward",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Harbor Brute",
-            "Slug": "Harbor-Brute-PiPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Harbor-Brute.jpg",
-                "Stats": {
-                    "EngagementCost": "38",
-                    "Threat": "4",
-                    "Attack": "4",
-                    "Defense": "4",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Brigand.",
-                    "Thug."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: If Alcaron`s Scroll is attached to an enemy, detach it from that enemy and attach it to Harbor Brute. Move all progress tokens from that enemy to Harbor Brute."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 2,
-            "Artist": "Mark Behm",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Pelargir Ringleader",
-            "Slug": "Pelargir-Ringleader-PiPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Pelargir-Ringleader.jpg",
-                "Stats": {
-                    "EngagementCost": "35",
-                    "Threat": "2",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Brigand."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: When Pelargir Ringleader engages a player, return the topmost Brigand enemy in the encounter discard pile to play, engaged with that player."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 2,
-            "Artist": "Mark Behm",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Dockside Street",
-            "Slug": "Dockside-Street-PiPN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Dockside-Street.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "City."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Dockside Street is in the staging area, enemies in the staging area cannot be damaged or optionally engaged.",
-                    "Travel: Exhaust the hero with Alcaron`s Scroll attached to travel here."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Mark Behm",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Pelargir Alley",
-            "Slug": "Pelargir-Alley-PiPN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Pelargir-Alley.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "City."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Alcaron`s Scroll is not attached to a hero, Pelargir Alley gets +3 Threat."
-                ],
-                "Shadow": "Shadow: If the defending player controls a hero with Alcaron`s Scroll attached, attach Alcaron`s Scroll to the attacking enemy.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Dleoblack",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Bedlam in the Streets",
-            "Slug": "Bedlam-in-the-Streets-PiPN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/Bedlam-in-the-Streets.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Each player must either remove a hero he controls from the quest or engage an enemy in the staging area. Each enemy engaged by this effect makes an immediate attack."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Thieves' Ploy",
-            "Slug": "The-Thieves'-Ploy-PiPN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/The-Thieves'-Ploy.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: If Alcaron`s Scroll is attached to a hero, choose an enemy engaged with that hero`s controller, if able. Attached Alcaron`s Scroll to that enemy, then add 1 progress to that enemy."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "JB Casacop",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "They're Getting Away!",
-            "Slug": "They're-Getting-Away-PiPN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Peril-in-Pelargir-Nightmare/They're-Getting-Away.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: If Alcaron`s Scroll is attached to an enemy, choose one: either add 1 progress token to that enemy, or each card in the staging area gets +2 Threat until the end of the phase."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Peril in Pelargir Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Peril in Pelargir Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 2,
-            "Artist": "JB Casacop",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

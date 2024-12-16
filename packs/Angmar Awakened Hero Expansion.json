@@ -7,21 +7,21 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Aragorn",
-            "Slug": "Aragorn-AAH",
+            "Title": "Amarthiúl",
+            "Slug": "Amarthiul-AAH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
-            "Sphere": "Tactics",
+            "Sphere": "Leadership",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Aragorn.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Amarthiúl.jpg",
                 "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "2",
+                    "ThreatCost": "10",
+                    "Willpower": "1",
                     "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "5"
+                    "Defense": "3",
+                    "HitPoints": "3"
                 },
                 "Traits": [
                     "Dúnedain.",
@@ -30,18 +30,17 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Each enemy engaged with you gets -1 Defense.",
-                    "Response: After Aragorn participates in an attack that destroys an enemy, choose an enemy not engaged with you and engage that enemy."
+                    "While you are engaged with at least 1 enemy, Amarthiúl gains the Tactics resource icon.\nWhile you are engaged with at least 2 enemies, add 1 additional resource to Amarthiúl`s resource pool when you collect resources during the resource phase.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`I serve no man,` said Aragorn; `but the servants of Sauron I pursue into whatever land they may go.` -The Two Towers"
+                "FlavorText": "`The heirs of Elendil do not forget all things past...` -Aragorn, The Return of the King"
             },
             "Back": null,
             "CardSet": "Angmar Awakened Hero Expansion",
             "EncounterInfo": null,
             "Number": 1,
             "Quantity": 1,
-            "Artist": "Sebastian Giacobino",
+            "Artist": "Tomasz Jedruszek",
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "900001",
@@ -72,8 +71,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While you are engaged with any enemy, Halbarad does not exhaust to commit to a quest.",
-                    "You may optionally engage 1 additional enemy during the encounter phase."
+                    "While you are engaged with any enemy, Halbarad does not exhaust to commit to a quest.\nYou may optionally engage 1 additional enemy during the encounter phase.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Little do they know of our long labour for the safekeeping of their borders, and yet I grudge it not.` -The Return of the King"
@@ -87,6 +85,2761 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "900002",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Aragorn",
+            "Slug": "Aragorn-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Aragorn.jpg",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each enemy engaged with you gets -1 Defense.\nResponse: After Aragorn participates in an attack that destroys an enemy, choose an enemy not engaged with you and engage that enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I serve no man,` said Aragorn; `but the servants of Sauron I pursue into whatever land they may go.` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900003",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dori",
+            "Slug": "Dori-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Dori.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nResponse: After another hero is declared as a defender, exhaust Dori to add his Defense to the defending hero`s Defense for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Dori was really a decent fellow in spite of his grumbling.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900004",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Arwen Undómiel",
+            "Slug": "Arwen-Undomiel-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Arwen-Undómiel.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "3",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Discard a card from your hand to add 1 resource to a Noldor hero`s resource pool, or to Aragorn`s resource pool. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the light of stars was in her bright eyes, grey as a cloudless night; yet queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Merry",
+            "Slug": "Merry-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Merry.jpg",
+                "Stats": {
+                    "ThreatCost": "6",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an enemy is revealed from the top of the encounter deck, exhaust Merry to reduce your threat by that enemy`s Threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We have come a long way with you and been through some stiff times. We want to go on.` —The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Erestor",
+            "Slug": "Erestor-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Erestor.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Draw 3 additional cards at the beginning of the resource phase.\nAt the end of the round, discard all cards in your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`That is the path of despair. Of folly, I would say, if the long wisdom of Elrond did not forbid me.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rossiel",
+            "Slug": "Rossiel-AAH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Rossiel.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If the active location shares a Trait with a location in the victory display, Rossiel gets +2 Willpower.\nIf the attacking enemy shares a Trait with an enemy in the victory display, Rossiel gets +2 Defense.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Did you not say that you wished to see Elf-magic?` —Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Alexandre Dainche",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Éothain",
+            "Slug": "Eothain-AAH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Éothain.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Rohan ally is discarded from play by a card effect, ready Éothain.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We must hasten south, lord. Let us leave these wild folk to their fancies. Or let us bind them and take them to our king.`\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Glen Osterberger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Guardian of Arnor",
+            "Slug": "Guardian-of-Arnor-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Guardian-of-Arnor.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nGuardian of Arnor gets +1 Defense for each enemy engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Travellers scowl at us, and countrymen give us scornful names.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ingold",
+            "Slug": "Ingold-AAH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Ingold.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Ingold gets +1 Willpower for each hero you control with at least 1 resource in its resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We wish for no strangers in the land at this time, unless they be mighty men of arms in whose faith and help we can trust.` —The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Veteran of Osgiliath",
+            "Slug": "Veteran-of-Osgiliath-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Veteran-of-Osgiliath.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Veteran of Osgiliath gets +1 Willpower, +1 Attack, and +1 Defense while your threat is 40 or higher.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`So do we ever watch the shores nigh Osgiliath, which our enemies now partly hold, and issue from it to harry our lands.` —Faramir, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "John Stanko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Weather Hills Watchman",
+            "Slug": "Weather-Hills-Watchman-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Weather-Hills-Watchman.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dúnedain."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Weather Hills Watchman enters play, search the top 5 cards of your deck for a Signal card and add it to your hand. Shuffle the other cards back into your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Rangers use runes, and they come here sometimes.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Heir of Valandil",
+            "Slug": "Heir-of-Valandil-AAH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Heir-of-Valandil.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dúnedain hero.\nPlanning Action: Exhaust Heir of Valandil to reduce the cost of the next Dúnedain ally you play this phase by 1 for each enemy engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But my home, such as I have, is in the North. For here the heirs of Valandil have ever dwelt in long line unbroken from father unto son for many generations.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger Provisions",
+            "Slug": "Ranger-Provisions-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Ranger-Provisions.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location. Limit 1 per location.\nResponse: After attached location is explored, the first player adds 1 resource to each of his heroes` resource pools.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Rangers have been here lately. It is they who left the firewood behind.`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sword of Númenor",
+            "Slug": "Sword-of-Numenor-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Sword-of-Númenor.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Dúnedain or Gondor hero. Restricted.\nAttached hero gets +1 Attack.\nResponse: After attached hero participates in an attack that destroys an enemy with 5 or more printed hit points, exhaust Sword of Númenor to add 1 resource to attached hero`s resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the flowing characters of Númenor glinted like fire upon the blade.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 16,
+            "Quantity": 3,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Descendants of Kings",
+            "Slug": "Descendants-of-Kings-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Descendants-of-Kings.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Ready up to X Dúnedain characters you control. X is the number of enemies engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But when dark things come from the houseless hills, or creep from sunless woods, they fly from us.` —Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Doom Hangs Still",
+            "Slug": "Doom-Hangs-Still-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Doom-Hangs-Still.jpg",
+                "Stats": {
+                    "ResourceCost": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Until the end of the round, players do not raise their threat from questing unsuccessfully.\nValour Planning Action: Raise each player`s threat by 2 to skip the quest phase this round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Dooms hangs still on a thread. Yet hope there is still, if we can stand but unconquered for a little while.` -Gandalf, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 18,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dúnedain Message",
+            "Slug": "Dunedain-Message-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Dúnedain-Message.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Signal."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Search your deck for a side quest and add it to your hand. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I called for the help of the Dúnedain, and their watch was doubled...`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rallying Cry",
+            "Slug": "Rallying-Cry-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Rallying-Cry.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an ally leaves play, add it to its owner’s hand instead of placing it in the discard pile.\nValour Action: Until the end of the phase, add each ally that leaves play to its owner`s hand instead of placing it in the discard pile.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He let blow the horns to rally all men to his banner that could come thither...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger Summons",
+            "Slug": "Ranger-Summons-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Ranger-Summons.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Signal."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a Dúnedain hero.\nPlanning Action: Shuffle 1 of your set aside Ranger of the North allies with the encounter keyword into the encounter deck. Then, remove Ranger Summons from the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We rode as swiftly as we might when your summons came.` -Halbarad, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 21,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger of the North",
+            "Slug": "Ranger-of-the-North-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Ranger-of-the-North.jpg",
+                "Stats": {
+                    "ResourceCost": "-",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Encounter.",
+                    "Surge.",
+                    "Ranged.",
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Encounter. Surge. Ranged. Sentinel.\nWhen Revealed: The first player chooses a player to take control of Ranger of the North. Then, either deal 2 damage to an enemy or place 2 progress tokens on a location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Reinforcements",
+            "Slug": "Reinforcements-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Reinforcements.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You must use resources from 3 different heroes` pools to play this card.\nAction: The players, as a group, can put up to 2 allies into play from their hands. Each of these allies may enter play under any player`s control. At the end of the phase, return each of those allies that are still in play to their owners` hands.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 3,
+            "Artist": "Oleg Saakyan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Send for Aid",
+            "Slug": "Send-for-Aid-AAH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Send-for-Aid.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nResponse: When this stage is defeated, each player may search the top 10 cards of his deck for an ally and put it into play under his control. Each player who did shuffles his deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Often the Rohirrim have aided us, but now the Lord Denethor asks for all your strength and all your speed...`\n-Hirgon, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 24,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Beechbone",
+            "Slug": "Beechbone-AAH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Beechbone.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have restricted attachments.\nEnters play exhausted.\nResponse: After Beechbone is declared as an attacker, deal 1 damage to him to deal X damage to the defending enemy. X is the amount of damage on Beechbone.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 25,
+            "Quantity": 3,
+            "Artist": "Katayanagi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Derndingle Warrior",
+            "Slug": "Derndingle-Warrior-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Derndingle-Warrior.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Ent.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nCannot have restricted attachments. Enters play exhausted.\nWhile Derndingle Warrior is defending, it gains: `Action: Deal 1 damage to Derndingle Warrior to give it +3 Defense for this attack.` (Limit once per attack.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Oscar Römer",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dúnedain Hunter",
+            "Slug": "Dunedain-Hunter-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Dúnedain-Hunter.jpg",
+                "Stats": {
+                    "ResourceCost": "0",
+                    "Willpower": "1",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Dúnedain Hunter enters play, search the top 5 cards of the encounter deck for a non-unique enemy and put it into play engaged with you. If no enemy enters play by this effect, discard Dúnedain Hunter. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 27,
+            "Quantity": 3,
+            "Artist": "Louis Green",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fornost Bowman",
+            "Slug": "Fornost-Bowman-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Fornost-Bowman.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.\nFornost Bowman gets +1 Attack for each enemy engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "To the last battle at Fornost with the Witch-lord of Angmar they sent some bowmen to the aid of the king...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 28,
+            "Quantity": 3,
+            "Artist": "Jose Vega",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Honour Guard",
+            "Slug": "Honour-Guard-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Honour-Guard.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust Honour Guard to cancel 1 point of damage just dealt to a character.\nValour Response: Exhaust and discard Honour Guard to cancel up to 5 damage just dealt to a character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Longbeard Sentry",
+            "Slug": "Longbeard-Sentry-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Longbeard-Sentry.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Discard 2 cards from the top of your deck to give Longbeard Sentry sentinel and +1 Defense until the end of the phase. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...many of them have had experience in the dreadful dwarf and goblin wars, of which you have no doubt heard.`\n-Bilbo Baggins, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 3,
+            "Artist": "Michele Frigo",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900030",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elven Spear",
+            "Slug": "Elven-Spear-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Elven-Spear.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Noldor or Silvan hero. Restricted.\nAction: Discard a card from your hand to give attached hero +1 Attack until the end of the phase. Limit 3 times per phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Their spears and swords shone in the gloom with a gleam of chill flame, so deadly was the wrath of the hands that held them.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 31,
+            "Quantity": 3,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900031",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Raven-winged Helm",
+            "Slug": "Raven-winged-Helm-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Raven-winged-Helm.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero with sentinel. Limit 1 per hero.\nResponse: Exhaust Raven-winged Helm to prevent 1 point of damage just dealt to attached character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He had a small hauberk, its rings of forged of steel, maybe, yet black as jet; and a high-crowned helm with small raven-wings on either side, set with a silver star in the centre of the circlet.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Blake Henriksen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900032",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Secret Vigil",
+            "Slug": "Secret-Vigil-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Secret-Vigil.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to an enemy. Limit 1 per enemy.\nAttached enemy gets -1 Threat.\nResponse: When attached enemy is destroyed, reduce each player`s threat by the attached enemy`s printed Threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`If simple folk are free from care and fear, simple they will be, and we must be secret to keep them so.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 33,
+            "Quantity": 3,
+            "Artist": "Piya Wannachaiwong",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900033",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Boomed and Trumpeted",
+            "Slug": "Boomed-and-Trumpeted-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Boomed-and-Trumpeted.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an Ent character takes any amount of damage, ready it. That character gets +3 Attack until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`They roared and boomed and trumpeted, until stones began to crack and fall at the mere noise of them.` —Merry, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Jordan Saia",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900034",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hold Your Ground!",
+            "Slug": "Hold-Your-Ground-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Hold-Your-Ground.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose and ready a sentinel character.\nValour Action: Ready all sentinel characters.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Aragorn and Boromir did not heed the command, but still held their ground, side by side, behind Gandalf at the far end of the bridge. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 35,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900035",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Horn's Cry",
+            "Slug": "Horn's-Cry-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Horn's-Cry.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: All enemies get -1 Attack until the end of the phase.\nValour Action: Choose a player. Each enemy engaged with that player gets -3 Attack until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Loud the challenge rang and bellowed, like the shout of many throats under the cavernous roof.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 3,
+            "Artist": "David Vargo",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hour of Wrath",
+            "Slug": "Hour-of-Wrath-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Hour-of-Wrath.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a hero. Until the end of the phase, the chosen hero does not exhaust to attack or defend.\nValour Action: Choose a player. Until the end of the phase, each of that player`s heroes do not exhaust to attack or defend.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "These three were unscathed, for such was their fortune and the skill and might of their arms...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 37,
+            "Quantity": 3,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Tireless Hunters",
+            "Slug": "Tireless-Hunters-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Tireless-Hunters.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only before the resolving enemy attacks step.\nCombat Action: Choose an enemy not engaged with you. Engage that enemy. Then, discard a shadow card from that enemy, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Many evil things there are that your strong walls and bright swords do not stay.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 38,
+            "Quantity": 3,
+            "Artist": "Ilich Henriquez",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Delay the Enemy",
+            "Slug": "Delay-the-Enemy-AAH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Delay-the-Enemy.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Battle.",
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nBattle.\nResponse: When this stage is defeated, each player may choose and discard a non-unique enemy engaged with him.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 39,
+            "Quantity": 3,
+            "Artist": "Mark Behm",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Curious Brandybuck",
+            "Slug": "Curious-Brandybuck-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Curious-Brandybuck.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After the active location is explored, place Curious Brandybuck on the bottom of its owner`s deck.\nResponse: After you travel to a location, put Curious Brandybuck into play from your hand, under any player`s control.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 40,
+            "Quantity": 3,
+            "Artist": "Matthew Starbuck",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elven Jeweler",
+            "Slug": "Elven-Jeweler-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Elven-Jeweler.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Craftsman."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Discard 2 cards from your hand to put Elven Jeweler into play from your hand, under your control.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...to the Elven-smiths they were but trifles...` -Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 41,
+            "Quantity": 3,
+            "Artist": "Cassandre Bolan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galadhrim Weaver",
+            "Slug": "Galadhrim-Weaver-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Galadhrim-Weaver.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Craftsman."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack or defend.\nResponse: After Galadhrim Weaver enters play, shuffle the top card of your discard pile into your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You are indeed high in the favour of the Lady! For she herself and her maidens wove this...` -Lórien Elf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 42,
+            "Quantity": 3,
+            "Artist": "Sara Betsy",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lindir",
+            "Slug": "Lindir-AAH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Lindir.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Lindir enters play, if you have less than 3 cards in your hand, draw until you have 3 cards in your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`To sheep other sheep no doubt appear different,` laughed Lindir. `Or to shepherds. But Mortals have not been our study. We have other business.` -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 43,
+            "Quantity": 3,
+            "Artist": "Tawny Fritzinger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Warden of Annúminas",
+            "Slug": "Warden-of-Annuminas-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Warden-of-Annúminas.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "0",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Warden of Annúminas gets +1 Willpower for each enemy engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Rangers passed at times beyond the hills, but they were few and did not stay. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 44,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hobbit Pony",
+            "Slug": "Hobbit-Pony-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Hobbit-Pony.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Hobbit hero. Restricted.\nQuest Action: If attached hero is not committed to the quest, exhaust Hobbit Pony and attached hero to commit attached hero to the quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He was riding a pony, and a scarf was swathed round his neck and over his chin to keep out the fog. —The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 45,
+            "Quantity": 3,
+            "Artist": "Eva Maria Toker",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Silver Harp",
+            "Slug": "Silver-Harp-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Silver-Harp.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Instrument."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Spirit hero. Restricted.\nResponse: After a card is discarded from your hand, exhaust Silver Harp to return that card to your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Elrond wore a mantle of grey and had a star upon his forehead, and a silver harp was in his hand... -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 46,
+            "Quantity": 3,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Star Brooch",
+            "Slug": "Star-Brooch-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Star-Brooch.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dúnedain or Noldor hero. Limit 1 per hero.\nWhile you are engaged with an enemy, attached hero gets +1 Willpower and cannot have its Willpower reduced.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...each cloak was pinned upon the left shoulder by a brooch of silver shaped like a rayed star. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 47,
+            "Quantity": 3,
+            "Artist": "Alexandr Elichev",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Steed of Imladris",
+            "Slug": "Steed-of-Imladris-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Steed-of-Imladris.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Spirit or Noldor hero. Restricted.\nResponse: After attached hero commits to a quest, discard a card from your hand to place 2 progress on the active location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "In the dusk its headstall flickered and flashed, as if it were studded with gems like living stars.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 48,
+            "Quantity": 3,
+            "Artist": "Eva Maria Toker",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elven-light",
+            "Slug": "Elven-light-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Elven-light.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Elven-light can only be played from your discard pile.\nAction: Return Elven-light to your hand from your discard pile. Then, draw 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Then Aragorn was abashed, for he saw the elven-light in her eyes and the wisdom of many days...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 49,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Fair and Perilous",
+            "Slug": "Fair-and-Perilous-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Fair-and-Perilous.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a Noldor or Silvan character.\nUntil the end of the phase, add that character`s Willpower to its Attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...you saw him for a moment as he is upon the other side: one of the mighty of the Firstborn.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 50,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Lords of the Eldar",
+            "Slug": "Lords-of-the-Eldar-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Lords-of-the-Eldar.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Lords of the Eldar can only be played from your discard pile.\nAction: Place Lords of the Eldar on the bottom of your deck from your discard pile. Then, until the end of the round all Noldor characters get +1 Willpower, +1 Attack, and +1 Defense.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`And here in Rivendell there live still some of his chief foes: the Elven-wise, lords of the Eldar...` -Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 51,
+            "Quantity": 3,
+            "Artist": "Rovina Cai",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Tale of Tinúviel",
+            "Slug": "Tale-of-Tinuviel-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Tale-of-Tinúviel.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust a Noldor character to ready a Dúnedain character, or vice-versa. Until the end of the phase, add the exhausted character`s printed Willpower to the other character`s Willpower, Attack, and Defense.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Long was the way that fate them bore,\nO`er stony mountains cold and grey,\nThrough halls of iron and darkling door,\nAnd woods of nightshade morrowless.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 52,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Double Back",
+            "Slug": "Double-Back-AAH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Double-Back.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nResponse: When this stage is defeated, reduce each player`s threat by 5.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He was taking a wandering course with many turns and doublings, to put off any pursuit. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 53,
+            "Quantity": 3,
+            "Artist": "Jorge Barrero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "East Road Ranger",
+            "Slug": "East-Road-Ranger-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/East-Road-Ranger.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "East Road Ranger gets +2 Willpower while committed to a side quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`If you bring a Ranger with you, it is well to pay attention to him...`\n-Gandalf, the Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 54,
+            "Quantity": 3,
+            "Artist": "Beth Sobel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galadhrim Healer",
+            "Slug": "Galadhrim-Healer-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Galadhrim-Healer.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Healer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Galadhrim Healer enters play, choose a player. Heal 1 damage from each hero controlled by that player.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Even if your Quest did not concern us closely, you should have refuge in this City, until you were healed and refreshed.`\n-Celeborn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 55,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galdor of the Havens",
+            "Slug": "Galdor-of-the-Havens-AAH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Galdor-of-the-Havens.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response:  After 1 or more cards are discarded from your hand, draw 1 card. Limit once per round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But have they the strength, have we here the strength to withstand the Enemy, the coming of Sauron at the last, when all else is overthrown?`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 56,
+            "Quantity": 3,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sarn Ford Sentry",
+            "Slug": "Sarn-Ford-Sentry-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Sarn-Ford-Sentry.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Sarn Ford Sentry enters play, draw 1 card for each enemy engaged with you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Lonely men are we, Rangers of the wild, hunters but hunters ever of the servants of the Enemy...` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 57,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900057",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wellinghall Preserver",
+            "Slug": "Wellinghall-Preserver-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Wellinghall-Preserver.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "3",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Ent."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have restricted attachments.\nEnters play exhausted.\nResponse: After Wellinghall Preserver readies, heal 1 damage from an Ent character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 58,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900058",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Athelas",
+            "Slug": "Athelas-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Athelas.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dúnedain or Healer character.\nAction: Discard Athelas and exhaust attached character to heal all damage on a character. You may discard a Condition attachment from that character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...it is a healing plant that the Men of the West brought to Middle-earth. Athelas they named it...` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 59,
+            "Quantity": 3,
+            "Artist": "Cristi Balanescu",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900059",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Long Defeat",
+            "Slug": "The-Long-Defeat-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/The-Long-Defeat.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a quest card in play. Limit 1 per quest.\nResponse: After attached quest card is defeated, each player either draws 2 cards or heals up to 5 damage from among characters he controls.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...for ere the fall of Nargothrond or Gondolin I passed over the mountains, and together through ages of the world we have fought the long defeat.` -Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 60,
+            "Quantity": 3,
+            "Artist": "Jose Vega",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900060",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Weather-stained Cloak",
+            "Slug": "Weather-stained-Cloak-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Weather-stained-Cloak.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Ranger character. Limit 1 per character.\nWhile attached character is commited to the quest, Weather-stained cloak gains: `Response: Exhaust Weather-stained Cloak to cancel 1 point of damage just dealt to attached character.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "They were clad in warm raiment and heavy cloaks...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 61,
+            "Quantity": 3,
+            "Artist": "Jorge Barrero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900061",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Distant Stars",
+            "Slug": "Distant-Stars-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Distant-Stars.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust a Ranger or Scout character to discard a non-unique active location. Then, search the encounter deck and discard pile for a non-unique location and make it the active location. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I have crossed many mountains and many rivers, and trodden many plains, even into the far countries of Rhûn and Harad where the stars are strange...` —Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 62,
+            "Quantity": 3,
+            "Artist": "John Stanko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900062",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Expert Trackers",
+            "Slug": "Expert-Trackers-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Expert-Trackers.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you engage an enemy, exhaust a Scout or Ranger character to place X progress tokens on a location. X is the engaged enemy`s printed Threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`At last!` said Aragorn. `Here are the tracks that we seek!` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 63,
+            "Quantity": 3,
+            "Artist": "Alexandr Shaldin",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900063",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Leave No Trace",
+            "Slug": "Leave-No-Trace-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Leave-No-Trace.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Limit 3 copies of Leave No Trace in the victory display.\nResponse: After a non-unique location is explored, add Leave No Trace to the victory display to add that location to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 3,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900064",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "None Return",
+            "Slug": "None-Return-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/None-Return.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Limit 3 copies of None Return in the victory display.\nResponse: After a non-unique enemy is destroyed, add None Return to the victory display to add that enemy to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`None of the Orcs will ever return out of Lórien.`\n-Haldir, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 65,
+            "Quantity": 3,
+            "Artist": "Kip Ayers",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900065",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Quick Ears",
+            "Slug": "Quick-Ears-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Quick-Ears.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: Exhaust a Dúnedain or Ranger hero to cancel an enemy card just revealed from the encounter deck. Then, shuffle it back into the encounter deck and reveal an additional encounter card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`... though I cannot disappear, I have hunted many wild and wary things and I can usually avoid being seen, if I wish.` -Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 66,
+            "Quantity": 3,
+            "Artist": "Eva Maria Toker",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Door is Closed!",
+            "Slug": "The-Door-is-Closed-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/The-Door-is-Closed.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an encounter card is revealed from the encounter deck, cancel its effects and discard it if there is a card with the same title in the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...I perceive the Dark Lord and know his mind, or all of his mind that concerns the Elves. And he gropes ever to see me and my thought. But still the door is closed!`\n-Galadriel, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 67,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Scout Ahead",
+            "Slug": "Scout-Ahead-AAH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Scout-Ahead.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nResponse: When this stage is defeated, the first player searches the top X cards of the encounter deck for 1 non-objective card worth no victory points and adds it to the victory display. Put the remaining cards back in any order. X is the number of players in the game plus 4.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Strider made them take cover in a thicket at the side of the Road, while he went forward to explore. -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 68,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger of Cardolan",
+            "Slug": "Ranger-of-Cardolan-AAH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Ranger-of-Cardolan.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you engage an enemy, if you control at least 1 Dúnedain hero, spend 1 resource to put Ranger of Cardolan into play from your hand, under your control. At the end of the round, if Ranger of Cardolan is still in play, shuffle it into its owner`s deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 69,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elf-friend",
+            "Slug": "Elf-friend-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Elf-friend.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nAttached character gains the Noldor and Silvan traits.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I name you Elf-friend; and may the stars shine upon the end of your road!`\n-Gildor, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 70,
+            "Quantity": 3,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Favor of the Valar",
+            "Slug": "Favor-of-the-Valar-AAH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Favor-of-the-Valar.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a player`s threat dial. Limit 1 per player.\nForced: When you would be eliminated by reaching your threat elimination level, instead discard Favor of the Valar and reduce your threat to 5 less than your threat elimination level. You are not eliminated.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...their hearts were lifted up in such a hope as they had not known since the darkness came out of the East...` -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 71,
+            "Quantity": 3,
+            "Artist": "Matthew Cowdery",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sword-thain",
+            "Slug": "Sword-thain-AAH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Sword-thain.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a unique ally belonging to any sphere of influence.\nAttached character loses the ally card type and gains the hero card type.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`But why, lord, did you receive me as sword-thain, if not to stay by your side?`\n-Merry, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 72,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hope Rekindled",
+            "Slug": "Hope-Rekindled-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Hope-Rekindled.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Reduce the cost of the next event that has a Valour trigger you play this phase by 2.\nValour Action: Search the top 10 cards of your deck for an event that has a Valour trigger and add it to your hand. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Hope he rekindled, and in hope ended;\nover death, over dread, over doom lifted\nout of loss, out of life, unto long glory.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 73,
+            "Quantity": 3,
+            "Artist": "Gabrielle Portal",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Keen as Lances",
+            "Slug": "Keen-as-Lances-AAH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Keen-as-Lances.jpg",
+                "Stats": {
+                    "ResourceCost": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost to play Keen as Lances by 1 for each card worth no victory points in the victory display.\nAction: Add Keen as Lances to the victory display. Then, choose one: add 2 resources to a hero`s resource pool, draw 3 cards, or reduce your threat by 4.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 74,
+            "Quantity": 3,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gather Information",
+            "Slug": "Gather-Information-AAH",
+            "IsUnique": false,
+            "CardType": "Player_Side_Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Angmar-Awakened-Hero-Expansion/Gather-Information.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nResponse: After this stage is defeated, each player may search his deck for 1 card and add it to his hand. Each player shuffles his deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Aragorn halted and examined the tracks closely. -The Tower Towers"
+            },
+            "Back": null,
+            "CardSet": "Angmar Awakened Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 75,
+            "Quantity": 3,
+            "Artist": "Smirtouille",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "900075",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

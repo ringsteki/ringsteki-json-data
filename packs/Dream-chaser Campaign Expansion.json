@@ -25,8 +25,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Armor Plating leaves play, remove it from the game.",
-                    "Attached Ship gets +1 Defense."
+                    "When Armor Plating leaves play, remove it from the game.\nAttached Ship gets +1 Defense.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -35,7 +34,45 @@
             "CardSet": "Dream-chaser Campaign Expansion",
             "EncounterInfo": null,
             "Number": 172,
-            "Quantity": 4,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12172",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Armor Plating",
+            "Slug": "Armor-Plating-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Armor-Plating-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification.",
+                    "Armor.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Armor Plating leaves play, remove it from the game.\nAttached Ship gets +1 Defense.\nResponse: After attached Ship defends against an enemy, discard 1 shadow card from another enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 172,
+            "Quantity": 1,
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
             "OctgnGuid": "",
@@ -63,8 +100,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Ballista leaves play, remove it from the game.",
-                    "Attached Ship gets +1 Attack."
+                    "When Ballista leaves play, remove it from the game.\nAttached Ship gets +1 Attack.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -73,11 +109,195 @@
             "CardSet": "Dream-chaser Campaign Expansion",
             "EncounterInfo": null,
             "Number": 173,
-            "Quantity": 4,
+            "Quantity": 1,
             "Artist": "Carlos Palma Cruchaga",
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "12173",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ballista",
+            "Slug": "Ballista-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Ballista-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification.",
+                    "Weapon.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Ballista leaves play, remove it from the game.\nAttached Ship gets +1 Attack and gains ranged.\nResponse: After attached Ship attacks, deal 1 damage to a non-unique enemy and remove 1 resource from that enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 173,
+            "Quantity": 1,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12173",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Enlarged Quarters",
+            "Slug": "Enlarged-Quarters-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Enlarged-Quarters.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Enlarged Quarters leaves play, remove it from the game.\nAttached Ship gets +3 hit points and can be commited to any Sailing test.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 174,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12174",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Enlarged Quarters",
+            "Slug": "Enlarged-Quarters-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Enlarged-Quarters-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Enlarged Quarters leaves play, remove it from the game.\nAttached Ship gets +3 hit points and can be commited to any Sailing test. It counts as 1 additional character when committed to a Sailing test.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 174,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12174",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Extra Sails",
+            "Slug": "Extra-Sails-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Extra-Sails.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Extra Sails leaves play, remove it from the game.\nAttached Ship gets +1 Willpower.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 175,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12175",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Extra Sails",
+            "Slug": "Extra-Sails-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Extra-Sails-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Modification.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Extra Sails leaves play, remove it from the game.\nAttached Ship gets +1 Willpower.\nResponse: When a non-unique Ship enemy engages you, spend 1 resource and exhaust Extra Sails to reduce that enemy`s Boarding value by 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 175,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12175",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -100,11 +320,44 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Spyglass leaves play, remove it from the game.",
-                    "Action: Exhaust Spyglass to choose one:",
-                    "• Look at a shadow card.",
-                    "• Look at the top and bottom card of your deck.",
-                    "• Place 1 progress on a location (2 progress instead if it is Uncharted)."
+                    "When Spyglass leaves play, remove it from the game.\nAction: Exhaust Spyglass to choose one:\n• Look at a shadow card.\n• Look at the top and bottom card of your deck.\n• Place 1 progress on a location (2 progress instead if it is Uncharted).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 180,
+            "Quantity": 1,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12180",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Spyglass",
+            "Slug": "Spyglass-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Spyglass-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Spyglass leaves play, remove it from the game.\nAction: Exhaust Spyglass to choose one:\n• Look at a shadow card. You may discard it.\n• Look at the top and bottom card of your deck.\n• Place 1 progress on a location (4 progress instead if it is Uncharted).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -124,14 +377,14 @@
         },
         {
             "Title": "Black Key",
-            "Slug": "Black-Key-DCC",
+            "Slug": "Black-Key-Attachment-DCC",
             "IsUnique": true,
             "CardType": "Attachment",
             "CardSubType": "Boon",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Black-Key.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Black-Key-Attachment.jpg",
                 "Stats": {
                     "ResourceCost": "0"
                 },
@@ -141,8 +394,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Black Key leaves play, remove it from the game.",
-                    "Attached character gets +1 Willpower, +1 Attack, +1 Defense."
+                    "When Black Key leaves play, remove it from the game.\nAttached character gets +1 Willpower, +1 Attack, +1 Defense.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -156,6 +408,867 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "12183",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Black Key",
+            "Slug": "Black-Key-Attachment-Upgraded-DCC",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Black-Key-Attachment-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Artifact.",
+                    "Upgraded."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Black Key leaves play, remove it from the game.\nAttached character gets +1 Willpower, +1 Attack, +1 Defense.\nResponse: After attached character quests successfully, place 1 resource on them.\nAction: Exhaust Black Key and remove 3 resources from attached character to ready them.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 183,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12183",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galdor's Counsel",
+            "Slug": "Galdor's-Counsel-Leadership-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Galdor's-Counsel-Leadership.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add X resources to any hero`s resource pool. X is half the level of Galdor`s Counsel (Leadership), rounded up. Add Galdor`s Counsel to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 184,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12184",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galdor's Counsel",
+            "Slug": "Galdor's-Counsel-Tactics-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Galdor's-Counsel-Tactics.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Deal X damage to a non-unique enemy. X is the level of Galdor`s Counsel (Tactics). Add Galdor`s Counsel to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 185,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12185",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galdor's Counsel",
+            "Slug": "Galdor's-Counsel-Spirit-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Galdor's-Counsel-Spirit.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Place X progress on a non-unique location in the staging area. X is the level of Galdor`s Counsel (Spirit). Add Galdor`s Counsel to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 186,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12186",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galdor's Counsel",
+            "Slug": "Galdor's-Counsel-Lore-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Galdor's-Counsel-Lore.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Look at the top X or bottom X cards of your deck, add any number of them to you hand, and put the rest on the top and/or bottom of your deck in any order. X is half the level of Galdor`s Counsel (Lore), rounded up. Add Galdor`s Counsel to the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 187,
+            "Quantity": 1,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12187",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Parrying Cutlass",
+            "Slug": "Parrying-Cutlass-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Parrying-Cutlass.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Permanent.",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Permanet. Restricted.\nAttached hero gets +1 Defense (+2 Defense instead if it has 2 or more resources in its resource pool).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 189,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12189",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Parrying Cutlass",
+            "Slug": "Parrying-Cutlass-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Parrying-Cutlass-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon.",
+                    "Upgraded."
+                ],
+                "Keywords": [
+                    "Permanent.",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Permanet. Restricted.\nAttached hero gets +2 Defense (+3 Defense instead if it has 2 or more resources in its resource pool).\nResponse: When attached hero defends against an enemy, exhaust Parrying Cutlass to move 1 resource from that enemy to attached hero`s resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 189,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12189",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Throwing Axe",
+            "Slug": "Throwing-Axe-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Throwing-Axe.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Permanent.",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Permanent. Restricted.\nAttached hero gets +1 Attack (+2 Attack instead if it has 2 or more damage on it).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 190,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12190",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Throwing Axe",
+            "Slug": "Throwing-Axe-Upgraded-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Throwing-Axe-Upgraded.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon.",
+                    "Upgraded."
+                ],
+                "Keywords": [
+                    "Permanent.",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Permanent. Restricted.\nAttached hero gets +2 Attack (+3 Attack instead if it has 2 or more damage on it).\nAction: Either deal 1 damage to an enemy, or toss Throwing Axe. If it travel at least two feet across the playing area and stops on any enemies, deal 4 damage to one of them. Reattach Throwing Axe to its hero. (Limit once per game.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 190,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12190",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Come Together",
+            "Slug": "Come-Together-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Come-Together.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Choose up to X characters. X is the level of Come Together, then add it to the victory display. Until the end of the round, each of those characters...\n...get +2 Defense if you control a Leadership hero.\n...get +2 Attack if you control a Tactics hero.\n...get +2 Willpower if you control a Spirit hero.\n...get a Trait of your choice and heal 2 damage from each of them if you control a Lore hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 195,
+            "Quantity": 1,
+            "Artist": "Borja Pindado",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12195",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Starla",
+            "Slug": "Starla-DCC",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "Boon",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Starla.jpg",
+                "Stats": {
+                    "ResourceCost": "0",
+                    "Willpower": "X",
+                    "Attack": "X",
+                    "Defense": "X",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is half the level of Starla, rounded up.\nResponse: After Starla is discard from your hand or deck, play her.\nResponse: After Starla exhausts, place 1 progress on a location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 198,
+            "Quantity": 1,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12198",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Command",
+            "Slug": "Command-Leadership-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Command-Leadership.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Tactic."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add Command (Leadership) to the victory display to choose up to X options, where X is its level:\n• A hero gets +2 Defense until the end of the round.\n• An enemy gets -2 Defense until the end of the round.\n• Ready a character with Círdan`s Blessing on it.\n• Put an ally with cost X or less in your discard pile into play. Discard it at the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 201,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12201",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Command",
+            "Slug": "Command-Lore-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Command-Lore.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Tactic."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add Command (Lore) to the victory display to choose up to X options, where X is its level:\n• Remove X resources from a non-unique enemy.\n• Add 2 resources to each Círdan`s Blessing.\n• Add the bottom card of your deck to your hand.\n• Look at the top 10 cards of the encounter deck, discard any number of them, and shuffle it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 202,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12202",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Command",
+            "Slug": "Command-Spirit-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Command-Spirit.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Tactic."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add Command (Spirit) to the victory display to choose up to X options, where X is its level:\n• A hero gets +2 Willpower until the end of the round.\n• Each character with Círdan`s Blessing on it does not exhaust to commit to a quest this round.\n• Place 2 progress on a non-unique location.\n• Put Spyglass into play, attached to a hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 203,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12203",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Command",
+            "Slug": "Command-Tactics-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Command-Tactics.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Tactic."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Action: Add Command (Tactics) to the victory display to choose up to X options, where X is its level:\n• A hero gets +2 Attack until the end of the round.\n• An enemy gets -2 Attack until the end of the round.\n• Deal 2 damage to an enemy. You may engage it.\n• Ready an attachment. You may move it to an eligible character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 204,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12204",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Círdan's Blessing",
+            "Slug": "Cirdan's-Blessing-Leadership-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Círdan's-Blessing-Leadership.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nCírdan`s Blessing enters play with X resources on it. X is 1 more than the level of Círdan`s Blessing (Leadership).\nResponse: When attached character defends, remove 1 resource from Círdan`s Blessing to give that character +3 Defense for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 205,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12205",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Círdan's Blessing",
+            "Slug": "Cirdan's-Blessing-Tactics-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Círdan's-Blessing-Tactics.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nCírdan`s Blessing enters play with X resources on it. X is 1 more than the level of Círdan`s Blessing (Tactics).\nResponse: When attached character attacks, remove 1 resource from Círdan`s Blessing to give that character +3 Attack for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 206,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12206",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Círdan's Blessing",
+            "Slug": "Cirdan's-Blessing-Spirit-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Círdan's-Blessing-Spirit.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nCírdan`s Blessing enters play with X resources on it. X is 1 more than the level of Círdan`s Blessing (Spirit).\nAction: Exhaust Círdan`s Blessing and remove 1 resource from it to give attached hero +3 Willpower until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 207,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12207",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Círdan's Blessing",
+            "Slug": "Cirdan's-Blessing-Lore-DCC",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "Boon",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Círdan's-Blessing-Lore.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.\nCírdan`s Blessing enters play with X resources on it. X is 1 more than the level of Círdan`s Blessing (Lore).\nResponse: After the active location is explored, move 1 resource from Círdan`s Blessing to attached hero`s resource pool. Then, heal 1 damage from attached hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 208,
+            "Quantity": 1,
+            "Artist": "Lin Hsiang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12208",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Send for Help",
+            "Slug": "Send-for-Help-Leadership-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Send-for-Help-Leadership.jpg",
+                "Stats": {
+                    "ResourceCost": "-"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Choose a player to search the top 10 cards of their deck for a card, draw it or play it at no cost, and shuffle their deck. If Send for Help (Leadership) is upgraded, repeat this effect. Remove Send for Help from the game\n"
+                ],
+                "Shadow": "Shadow: Resolve this card`s when revealed effect.\r\n.☸",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 211,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12211",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Send for Help",
+            "Slug": "Send-for-Help-Tactics-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Send-for-Help-Tactics.jpg",
+                "Stats": {
+                    "ResourceCost": "-"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Search the players` collections for a hero and put it into play under any player`s control. If Send for Help (Tactics) is upgraded, repeat this effect. At the end of the round, or if those heroes leave play, remove them from the game. Remove Send for Help from the game\n"
+                ],
+                "Shadow": "Shadow: Resolve this card`s when revealed effect.\r\n.☸",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 212,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12212",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Send for Help",
+            "Slug": "Send-for-Help-Spirit-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Send-for-Help-Spirit.jpg",
+                "Stats": {
+                    "ResourceCost": "-"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Choose one: resource, planning, combat, or refresh. After the current phase, there is an additional instance of the chosen phase. If Send for Help (Spirit) is upgraded, choose two instead (resolve them in any order). Remove Send for Help from the game\n"
+                ],
+                "Shadow": "Shadow: Resolve this card`s when revealed effect.\r\n.☸",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 213,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12213",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Send for Help",
+            "Slug": "Send-for-Help-Lore-DCC",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "Boon",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Campaign-Expansion/Send-for-Help-Lore.jpg",
+                "Stats": {
+                    "ResourceCost": "-"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Search the players` collections for Gandalf ally (Core Set 73) and put him into play under any player`s control, ignoring uniqueness. If Send for Help (Lore) is upgraded, that player chooses up to 3 of Gandalf`s options instead of 1. Remove Send for Help from the game.\n"
+                ],
+                "Shadow": "Shadow: Resolve this card`s when revealed effect.\r\n.☸",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Campaign Expansion",
+            "EncounterInfo": null,
+            "Number": 214,
+            "Quantity": 1,
+            "Artist": "Billy Norrby",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12214",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

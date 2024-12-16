@@ -5,6 +5,362 @@
     "Number": 3,
     "AllCards": [
         {
+            "Title": "Besieged Courtyard",
+            "Slug": "Besieged-Courtyard-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Besieged-Courtyard.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Cair Andros.",
+                    "Battleground."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Besieged Courtyard has 5 or more damage, discard it and exhaust each ready character.\n"
+                ],
+                "Shadow": "Shadow: Choose one: either attacking enemy makes an additional attack after this one, or deal 10 damage to a Battleground location.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Wibben",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06005",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 1120201,
+            "Categories": null
+        },
+        {
+            "Title": "Walls of Cair Andros",
+            "Slug": "Walls-of-Cair-Andros-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Walls-of-Cair-Andros.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Cair Andros.",
+                    "Battleground."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Walls of Cair Andros has 4 or more damage, discard it and each player must assign 4 damage amoung characters he controls.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +X, where X is the amount of damage on the active location.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Darek Zabrocki",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06006",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 708768,
+            "Categories": null
+        },
+        {
+            "Title": "Ruin and Wroth",
+            "Slug": "Ruin-and-Wroth-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Ruin-and-Wroth.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 2."
+                ],
+                "Text": [
+                    "Doomed 2.\nWhen Revealed: Deal 2 shadow cards to each enemy in play. Deal 2 damage to each Battleground location in play.\n"
+                ],
+                "Shadow": "Shadow: Discard an attachment you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Julian Kok",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06008",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 337340,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Ravager",
+            "Slug": "Orc-Ravager-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Orc-Ravager.jpg",
+                "Stats": {
+                    "EngagementCost": "30",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: When Orc Ravager is dealt a shadow card, it gets +2 Defense until the end of the phase.\n"
+                ],
+                "Shadow": "Shadow: Exhaust a character you control. Deal attacking enemy another shadow card.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 4,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 326659,
+            "Categories": null
+        },
+        {
+            "Title": "Orc Saboteur",
+            "Slug": "Orc-Saboteur-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Orc-Saboteur.jpg",
+                "Stats": {
+                    "EngagementCost": "21",
+                    "Threat": "2",
+                    "Attack": "5",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Damage dealt by Orc Saboteur`s attacks must be dealt to a Battleground location in play, if able.\n"
+                ],
+                "Shadow": "Shadow: If this attack destroys a character, deal 2 damage to a Battleground location in play.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06003",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 248453,
+            "Categories": null
+        },
+        {
+            "Title": "Southron Mounted Archer",
+            "Slug": "Southron-Mounted-Archer-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Southron-Mounted-Archer.jpg",
+                "Stats": {
+                    "EngagementCost": "45",
+                    "Threat": "3",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Harad."
+                ],
+                "Keywords": [
+                    "Archery 5."
+                ],
+                "Text": [
+                    "Archery 5.\nDamage from each round`s achery total may be assigned to Battleground locations, as well as characters.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241901,
+            "Categories": null
+        },
+        {
+            "Title": "The Siege of Cair Andros Nightmare",
+            "Slug": "The-Siege-of-Cair-Andros-Nightmare-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/The-Siege-of-Cair-Andros-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nUntil the end of the game, player cards in the victory display do not contribute their victory points.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Much must be risked in war,` said Denethor. `Cair Andros is manned and no more can be sent so far.`\n-The Return of the King"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Siege of Cair Andros scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n3x Southron Mercenaries\n2x Orc Arsonists\n2x Orc Rabble\n3x Orc Arbalesters\n1x The Power of Mordor\n2x Scourge of Mordor\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Siege of Cair Andros encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 11684,
+            "Categories": null
+        },
+        {
+            "Title": "Anduin Wharf",
+            "Slug": "Anduin-Wharf-TSoCAN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Anduin-Wharf.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "6"
+                },
+                "Traits": [
+                    "Cair Andros.",
+                    "Battleground.",
+                    "Riverland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Anduin Wharf has 6 or more damage, discard it and reveal 2 cards from the top of the encounter deck.\nWhile Anduin Wharf is the active location, allies cost 1 additional matching resource to play from hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Siege of Cair Andros Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Cair Andros Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Wibben",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 143331,
+            "Categories": null
+        },
+        {
             "Title": "Orc Scramblers",
             "Slug": "Orc-Scramblers-HoN",
             "IsUnique": false,
@@ -29,8 +385,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Deal 1 damage to each Battleground location in play, if able."
+                    "Surge.\nWhen Revealed: Deal 1 damage to each Battleground location in play, if able.\n"
                 ],
                 "Shadow": "Shadow: Deal 2 damage to The Citadel if it is in play. Otherwise, attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -78,8 +433,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "When Revealed: If the active location is a Battleground, deal 3 damage to it."
+                    "Doomed 2.\nWhen Revealed: If the active location is a Battleground, deal 3 damage to it.\n"
                 ],
                 "Shadow": "Shadow: Deal 2 damage to The Approach if it is in play. Otherwise, attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -125,7 +479,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 2 damage to the lowest Threat Battleground location in play, if able."
+                    "When Revealed: Deal 2 damage to the lowest Threat Battleground location in play, if able.\n"
                 ],
                 "Shadow": "Shadow: Deal 2 damage to The Banks if it is in play. Otherwise, attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -171,8 +525,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "If The Citadel has 11 or more damage, remove it from the game (do not collect its victory points).",
-                    "Response: After The Citadel leaves play as an explored location, remove stage 4 from the quest deck, if able."
+                    "If The Citadel has 11 or more damage, remove it from the game (do not collect its victory points).\nResponse: After The Citadel leaves play as an explored location, remove stage 4 from the quest deck, if able.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -218,8 +571,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "If the Approach has 7 or more damage, remove it from the game (do not collect its victory points).",
-                    "Response: After The Approach leaves play as an explored location, remove stage 3 from the quest deck, if able."
+                    "If the Approach has 7 or more damage, remove it from the game (do not collect its victory points).\nResponse: After The Approach leaves play as an explored location, remove stage 3 from the quest deck, if able.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -265,8 +617,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "If The Banks has 3 or more damage, remove it from the game (do not collect its victory points).",
-                    "Response: After The Banks leaves play as an explored location, remove stage 2 from the quest deck, if able."
+                    "If The Banks has 3 or more damage, remove it from the game (do not collect its victory points).\nResponse: After The Banks leaves play as an explored location, remove stage 2 from the quest deck, if able.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -304,7 +655,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each character gets -2 Attack and -2 Defense until the end of the round."
+                    "When Revealed: Each character gets -2 Attack and -2 Defense until the end of the round.\n"
                 ],
                 "Shadow": "Shadow: Deal 2 damage to all Battleground locations in play.",
                 "FlavorText": null
@@ -352,8 +703,7 @@
                     "Archery X."
                 ],
                 "Text": [
-                    "Archery X.",
-                    "X is the number of players in the game."
+                    "Archery X.\nX is the number of players in the game.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+3 Attack instead if it has the Harad trait.)",
                 "FlavorText": null
@@ -399,7 +749,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Haradrim Elite enters play, it makes an immediate attack from the staging area against the first player."
+                    "Forced: When Haradrim Elite enters play, it makes an immediate attack from the staging area against the first player.\n"
                 ],
                 "Shadow": "Shadow: This enemy attacks again after this attack resolves. (Deal a new shadow card for that attack.)",
                 "FlavorText": null
@@ -446,8 +796,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "No attachments can be attached to Mûmak.",
-                    "Mûmak cannot take more than 3 damage each round."
+                    "No attachments can be attached to Mûmak.\nMûmak cannot take more than 3 damage each round.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`His upturned hornlike tusks were bound with bands of gold and dripped with blood.` -The Two Towers"
@@ -487,8 +836,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
-                    "Doomed 3.",
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 Harad enemy and add it to the staging area, if able. Shuffle the encounter deck."
+                    "Doomed 3.\nWhen Revealed: Each player must search the encounter deck and discard pile for 1 Harad enemy and add it to the staging area, if able. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "... wild Southron men with red banners, shouting with harsh tongues, surging up, overtaking the retreat. -The Return of the King"
@@ -536,7 +884,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Allies cannot defend against Lieutenant of Mordor.When Revealed: Resolve the `when revealed` effect on the topmost treachery card in the encounter discard pile, if able. This effect cannot be canceled."
+                    "Allies cannot defend against Lieutenant of Mordor.When Revealed: Resolve the `when revealed` effect on the topmost treachery card in the encounter discard pile, if able. This effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -585,8 +933,7 @@
                     "Archery X."
                 ],
                 "Text": [
-                    "Archery X.",
-                    "X is the number of different resource icons (Leadership, Tactics, Spirit, or Lore) on heroes in play."
+                    "Archery X.\nX is the number of different resource icons (Leadership, Tactics, Spirit, or Lore) on heroes in play.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -633,7 +980,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Orc Vanguard is in the staging area, resources cannot be spent from the resource pools of heroes who have a Leadership, Spirit, or Lore resource icon."
+                    "While Orc Vanguard is in the staging area, resources cannot be spent from the resource pools of heroes who have a Leadership, Spirit, or Lore resource icon.\n"
                 ],
                 "Shadow": "Shadow: Deal the attacking enemy two additional shadow cards.",
                 "FlavorText": null
@@ -676,7 +1023,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If an Orc enemy is in play, progress tokens cannot be placed on Orc War Camp while it is in the staging area."
+                    "If an Orc enemy is in play, progress tokens cannot be placed on Orc War Camp while it is in the staging area.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack for each shadow card dealt to it.",
                 "FlavorText": null
@@ -714,7 +1061,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player chooses 1 sphere of influence (Leadership, Tactics, Spirit, or Lore). Each character a player controls that does not belong to his chosen sphere takes 3 damage."
+                    "When Revealed: Each player chooses 1 sphere of influence (Leadership, Tactics, Spirit, or Lore). Each character a player controls that does not belong to his chosen sphere takes 3 damage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`I doubt not that the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.` -Damrod, The Two Towers"
@@ -754,8 +1101,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
-                    "Doomed 3.",
-                    "When Revealed: Count the number of encounter cards in the staging area and shuffle them into the encounter deck. Reveal an equal number of cards from the encounter deck and add them to the staging area. This effect cannot be canceled."
+                    "Doomed 3.\nWhen Revealed: Count the number of encounter cards in the staging area and shuffle them into the encounter deck. Reveal an equal number of cards from the encounter deck and add them to the staging area. This effect cannot be canceled.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -802,7 +1148,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Orc Rabble is dealt a shadow card, it gets +2 Attack until the end of the phase."
+                    "Forced: When Orc Rabble is dealt a shadow card, it gets +2 Attack until the end of the phase.\n"
                 ],
                 "Shadow": "Shadow: Deal the attacking enemy an additional shadow card for each player in the game.",
                 "FlavorText": null
@@ -849,7 +1195,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Orc Arsonist engages a player, deal 1 shadow card to each enemy engaged with that player."
+                    "Forced: When Orc Arsonist engages a player, deal 1 shadow card to each enemy engaged with that player.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. Deal it another shadow card.",
                 "FlavorText": null
@@ -887,7 +1233,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player discards the top card of his deck. Until the end of the phase, raise the total Threat in the staging area by X, where X is the total cost of all cards discarded by this effect."
+                    "When Revealed: Each player discards the top card of his deck. Until the end of the phase, raise the total Threat in the staging area by X, where X is the total cost of all cards discarded by this effect.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. Deal it another shadow card.",
                 "FlavorText": null
@@ -929,7 +1275,7 @@
                     "Siege."
                 ],
                 "Text": [
-                    "Setup: Add The Approach, The Citadel, and The Banks to the staging area. Shuffle the encounter deck."
+                    "Setup: Add The Approach, The Citadel, and The Banks to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The island fortress of Cair Andros, which guards Gondor`s northernmost causeways over the river Anduin, is under siege! Battering rams rumble up the eastern causeway and rafts filled with Orcs float across the river toward the lightly defended northern banks."
@@ -944,8 +1290,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Siege.",
-                    "Players must deal damage from undefended attacks to the lowest Threat Battleground location in play. If there are no Battleground locations in play, immediate advance to the next stage."
+                    "Siege.\nPlayers must deal damage from undefended attacks to the lowest Threat Battleground location in play. If there are no Battleground locations in play, immediate advance to the next stage.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The assault is relentless, and the defenders grow weary. The tide is slowly but surely turning against you..."
@@ -1001,7 +1346,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round."
+                    "Reveal 1 additional card from the encounter deck and add it to the staging area during the staging step each round.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1059,8 +1404,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Battle.",
-                    "Forced: After the players quest unsuccessfully, instead of raising threat each player must choose and discard 1 character he controls."
+                    "Battle.\nForced: After the players quest unsuccessfully, instead of raising threat each player must choose and discard 1 character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1118,8 +1462,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Siege.",
-                    "Breakthrough at the Citadel adds 5 Threat to the staging area."
+                    "Siege.\nBreakthrough at the Citadel adds 5 Threat to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1177,10 +1520,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Siege.",
-                    "When Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.",
-                    "If the players have collected 4 or more victory points, The Last Battle gains Battle and loses Siege.",
-                    "If the players defeat this stage, they have won the game."
+                    "Siege.\nWhen Revealed: Reveal 1 card per player from the encounter deck and add it to the staging area.\nIf the players have collected 4 or more victory points, The Last Battle gains Battle and loses Siege.\nIf the players defeat this stage, they have won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1203,365 +1543,6 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9043",
             "RingsDbCardId": "05076",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Siege of Cair Andros Nightmare",
-            "Slug": "The-Siege-of-Cair-Andros-Nightmare-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/The-Siege-of-Cair-Andros-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.\n\nUntil the end of the game, player cards in the victory display do not contribute their victory points."
-                ],
-                "Shadow": null,
-                "FlavorText": "`Much must be risked in war,` said Denethor. `Cair Andros is manned and no more can be sent so far.` -The Return of the King"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Siege of Cair Andros scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n3x Southron Mercenaries\n2x Orc Arsonists\n2x Orc Rabble\n3x Orc Arbalesters\n1x The Power of Mordor\n2x Scourge of Mordor\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Siege of Cair Andros encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Southron Mounted Archer",
-            "Slug": "Southron-Mounted-Archer-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Southron-Mounted-Archer.jpg",
-                "Stats": {
-                    "EngagementCost": "45",
-                    "Threat": "3",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Harad."
-                ],
-                "Keywords": [
-                    "Archery 5."
-                ],
-                "Text": [
-                    "Archery 5.",
-                    "Damage from each round`s achery total may be assigned to Battleground locations, as well as characters."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Dleoblack",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Saboteur",
-            "Slug": "Orc-Saboteur-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Orc-Saboteur.jpg",
-                "Stats": {
-                    "EngagementCost": "21",
-                    "Threat": "2",
-                    "Attack": "5",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Damage dealt by Orc Saboteur`s attacks must be dealt to a Battleground location in play, if able."
-                ],
-                "Shadow": "Shadow: If this attack destroys a character, deal 2 damage to a Battleground location in play.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Orc Ravager",
-            "Slug": "Orc-Ravager-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Orc-Ravager.jpg",
-                "Stats": {
-                    "EngagementCost": "30",
-                    "Threat": "3",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: When Orc Ravager is dealt a shadow card, it gets +2 Defense until the end of the phase."
-                ],
-                "Shadow": "Shadow: Exhaust a character you control. Deal attacking enemy another shadow card.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 4,
-            "Artist": "Jason Ward",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Besieged Courtyard",
-            "Slug": "Besieged-Courtyard-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Besieged-Courtyard.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Cair Andros.",
-                    "Battleground."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Besieged Courtyard has 5 or more damage, discard it and exhaust each ready character."
-                ],
-                "Shadow": "Shadow: Choose one: either attacking enemy makes an additional attack after this one, or deal 10 damage to a Battleground location.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Wibben",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Walls of Cair Andros",
-            "Slug": "Walls-of-Cair-Andros-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Walls-of-Cair-Andros.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Cair Andros.",
-                    "Battleground."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Walls of Cair Andros has 4 or more damage, discard it and each player must assign 4 damage amoung characters he controls."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +X, where X is the amount of damage on the active location.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Darek Zabrocki",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Anduin Wharf",
-            "Slug": "Anduin-Wharf-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Anduin-Wharf.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "6"
-                },
-                "Traits": [
-                    "Cair Andros.",
-                    "Battleground.",
-                    "Riverland."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Anduin Wharf has 6 or more damage, discard it and reveal 2 cards from the top of the encounter deck.",
-                    "While Anduin Wharf is the active location, allies cost 1 additional matching resource to play from hand."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Wibben",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Ruin and Wroth",
-            "Slug": "Ruin-and-Wroth-TSoCAN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Cair-Andros-Nightmare/Ruin-and-Wroth.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Doomed 2."
-                ],
-                "Text": [
-                    "Doomed 2.",
-                    "When Revealed: Deal 2 shadow cards to each enemy in play. Deal 2 damage to each Battleground location in play."
-                ],
-                "Shadow": "Shadow: Discard an attachment you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Siege of Cair Andros Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Siege of Cair Andros Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Julian Kok",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

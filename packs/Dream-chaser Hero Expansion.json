@@ -7,45 +7,388 @@
     "Cards": null,
     "cards": [
         {
-            "Title": "Círdan the Shipwright",
-            "Slug": "Cirdan-the-Shipwright-DCH",
+            "Title": "Robin Smallburrow",
+            "Slug": "Robin-Smallburrow-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Robin-Smallburrow.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Shirriff."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you travel to a location, spend 1 Spirit resource to raise the engagement cost of each enemy in play by X until the end of the round, where X is that location`s quest points. Any player may trigger this response.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Gave me a chance of walking round the country and seeing folk, and hearing the news, and knowing where the good beer was.`\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 59,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12059",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 641555,
+            "Categories": null
+        },
+        {
+            "Title": "Ceorl",
+            "Slug": "Ceorl-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Ceorl.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Spirit resource to ready Ceorl. Then, you may give control of Ceorl to another player. Any player may trigger this action. (Limit once per phase).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He drew himself up. Then he knelt, offering his notched sword to the king. `Command me, lord!` he cried.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12009",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 548967,
+            "Categories": null
+        },
+        {
+            "Title": "Lanwyn",
+            "Slug": "Lanwyn-DCH",
             "IsUnique": true,
             "CardType": "Hero",
             "CardSubType": "None",
             "Sphere": "Spirit",
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Círdan-the-Shipwright.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Lanwyn.jpg",
                 "Stats": {
-                    "ThreatCost": "12",
-                    "Willpower": "4",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
                 },
                 "Traits": [
-                    "Noldor.",
-                    "Noble."
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.\nResponse: After an encounter card with surge is revealed, either ready Lanwyn or give her +2 Willpower until the end of the phase. (Limit twice per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`The Men of Dale used to have the trick of understanding their language, and used them for messengers to fly to the Men of the Lake...`\n-Thorin, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12006",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 537570,
+            "Categories": null
+        },
+        {
+            "Title": "Denethor",
+            "Slug": "Denethor-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Denethor.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble.",
+                    "Steward."
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Draw 1 additional card at the beginning of the resource phase.",
-                    "Forced: After drawing cards at the beginning of the resource phase, choose and discard 1 of those cards."
+                    "Setup: Add 2 resources to Denethor`s resource pool.\nAction: Move 1 resource from Denethor`s resource pool to another Gondor hero`s resource pool. (Limit once per round.)\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Very tall he was, and his beard was long, and he was grey and old, save that his eyes were keen as stars...\r\n-The Return of the King"
+                "FlavorText": "`...why should I sit here in my tower and think, and watch, and wait, spending even my sons? For I can still wield a brand.`\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Dream-chaser Hero Expansion",
             "EncounterInfo": null,
             "Number": 1,
             "Quantity": 1,
-            "Artist": "Aleksander Karcz",
+            "Artist": "Joshua Cairós",
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "12001",
             "RingsDbPopularity": 8,
             "RingsDbVotes": 29404,
+            "Categories": null
+        },
+        {
+            "Title": "Battle-fury",
+            "Slug": "Battle-fury-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Battle-fury.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only before the staging step.\nQuest Action: Exhaust a hero you control to immediately declare it as an attacker (and resolve its attack) against any eligible enemy target. Then, the players as a group may spend 1 Spirit resource to commit that hero to the quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Fey he seemed, or the battle-fury of his fathers ran like new fire in his veins...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12034",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 411824,
+            "Categories": null
+        },
+        {
+            "Title": "Arrows from the Trees",
+            "Slug": "Arrows-from-the-Trees-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Arrows-from-the-Trees.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only after making engagement checks.\nEncounter Action: If no enemies were engaged this phase, deal 1 damage to each enemy in the staging area. Then, the players as a group may spend 3 Tactics resources to deal 2 additional damage to each enemy in the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 3,
+            "Artist": "Tristan Denecke",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12064",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 303007,
+            "Categories": null
+        },
+        {
+            "Title": "Raiment of War",
+            "Slug": "Raiment-of-War-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Raiment-of-War.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor.",
+                    "Weapon."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Warrior character. Raiment of War counts as 2 Restricted attachments.\nAttached character gets +1 Attack, +1 Defense and +2 hit points.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Now men came bearing raiment of war from the king`s hoard...\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Beth Sobel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12032",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 293161,
+            "Categories": null
+        },
+        {
+            "Title": "Guarded Ceaselessly",
+            "Slug": "Guarded-Ceaselessly-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Guarded-Ceaselessly.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location.\nAction: Exhaust a Ranger or Scout character to give attached location -2 Threat until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`In this high play you may see the two powers that are opposed to one another; and ever they strive now in thought...`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 62,
+            "Quantity": 3,
+            "Artist": "Leanna Teneycke",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12062",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 289148,
+            "Categories": null
+        },
+        {
+            "Title": "Interrogation",
+            "Slug": "Interrogation-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Interrogation.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose an enemy with an attached Trap card. Look at the top X cards of the encounter deck, where X is that enemy`s printed Threat. You may discard 1 of those cards. Return the rest to the top of the deck, in the same order.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 66,
+            "Quantity": 3,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12066",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 264176,
+            "Categories": null
+        },
+        {
+            "Title": "Prince Imrahil",
+            "Slug": "Prince-Imrahil-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Prince-Imrahil.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Spend 1 resource from Prince Imrahil`s resource pool to search the top 5 cards of your deck for an ally who shares at least 1 Trait with him, and put that ally into play. Shuffle your deck. At the end of the phase, if that ally is still in play, shuffle it into your deck. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Micah Epstein",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 228118,
             "Categories": null
         },
         {
@@ -70,23 +413,2452 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After drawing your setup hand, instead of taking a mulligan, you may discard any number of cards from your hand. Then, draw that many cards.",
-                    "Action: If you have no cards in your hand, draw 6 cards. (Limit once per game.)"
+                    "Response: After drawing your setup hand, instead of taking a mulligan, you may discard any number of cards from your hand. Then, draw that many cards.\nAction: If you have no cards in your hand, draw 6 cards. (Limit once per game.)\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`What power still remains lies with us...`\r\n-The Fellowship of the Ring"
+                "FlavorText": "`What power still remains lies with us...`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 224363,
+            "Categories": null
+        },
+        {
+            "Title": "Dwarven Sellsword",
+            "Slug": "Dwarven-Sellsword-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Dwarven-Sellsword.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the end of the round, discard Dwarven Sellsword unless the players as a group spend 1 Leadership resource.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...he did not altogether approve of dwarves and their love of gold...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12010",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 185761,
+            "Categories": null
+        },
+        {
+            "Title": "Revealed in Wrath",
+            "Slug": "Revealed-in-Wrath-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Revealed-in-Wrath.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a Noldor hero.\nAction: Choose a non-unique enemy. Until the end of the phase, treat the chosen enemy`s printed text box as if it were blank (except for Traits).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...seeing an Elf-lord revealed in his wrath, they were dismayed, and their horses were stricken with madness.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 37,
+            "Quantity": 3,
+            "Artist": "Sebastian Giacobino",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12037",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 176008,
+            "Categories": null
+        },
+        {
+            "Title": "Elfhelm",
+            "Slug": "Elfhelm-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Elfhelm.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Scout.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each Spirit hero with an attached Mount gets +1 Willpower.\nEach Tactics hero with an attached Mount gets +1 Attack.\nEach Leadership hero with an attached Mount gets +1 Defense.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Ahead nearer the walls Elfhelm`s men were among the siege-engines, hewing, slaying, driving their foes into the fire-pits.\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Dream-chaser Hero Expansion",
             "EncounterInfo": null,
             "Number": 2,
             "Quantity": 1,
-            "Artist": "Lukasz Jaskolski",
+            "Artist": "Sergey Glushakov",
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "12002",
             "RingsDbPopularity": 4,
             "RingsDbVotes": 170563,
+            "Categories": null
+        },
+        {
+            "Title": "Entangling Nets",
+            "Slug": "Entangling-Nets-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Entangling-Nets.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Trap."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play Entagling Nets into the staging area, unattached.\nIf unattached, attach Entangling Nets to the next eligible enemy that enters the staging area.\nAttached enemy gets -2 Attack and -2 Defense.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 60,
+            "Quantity": 3,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12060",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 166227,
+            "Categories": null
+        },
+        {
+            "Title": "Knife-work",
+            "Slug": "Knife-work-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Knife-work.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a player. Each enemy engaged with that player gets -1 Defense until the end of the phase. Then, the players as a group may spend 2 Lore resources to have the chosen player draw 1 card each time he attacks and destroys an enemy this phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Good!` said Legolas. `But my count is now two dozen. It has been knife-work up here.` -The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 35,
+            "Quantity": 3,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12035",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 153334,
+            "Categories": null
+        },
+        {
+            "Title": "Mirkwood Explorer",
+            "Slug": "Mirkwood-Explorer-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Mirkwood-Explorer.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Woodman.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Mirkwood Explorer quests successfully, place 1 progress on it.\nAction: Exhaust Mirkwood Explorer to move all progress from it to a location in play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 58,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12058",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 144593,
+            "Categories": null
+        },
+        {
+            "Title": "Lindon Navigator",
+            "Slug": "Lindon-Navigator-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Lindon-Navigator.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Lindon Navigator does not exhaust to commit to a quest, and can commit to quests while exhausted.\nForced: After resolving a quest to which Lindon Navigator was committed, either discard it from play or discard 1 card from your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 57,
+            "Quantity": 3,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12057",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 8881,
+            "Categories": null
+        },
+        {
+            "Title": "Grappling Hook",
+            "Slug": "Grappling-Hook-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Grappling-Hook.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nQuest Action: Discard Grappling Hook and exhaust attached character to commit attached character to the quest, using its Attack instead of its Willpower (or instead of its Defense if the current quest has the siege keyword).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 31,
+            "Quantity": 3,
+            "Artist": "Kara Williams",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12031",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 72317,
+            "Categories": null
+        },
+        {
+            "Title": "Last Stand",
+            "Slug": "Last-Stand-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Last-Stand.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Warrior character is destroyed while defending against an enemy attack, deal damage to the attacking enemy equal to that character`s printed Attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "In a grave along under the shadow of the Hornburg lay Háma, captain of the King`s guard. He fell before the Gate.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 3,
+            "Artist": "Arden Beckwith",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12036",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 72105,
+            "Categories": null
+        },
+        {
+            "Title": "Veteran Sword-elf",
+            "Slug": "Veteran-Sword-elf-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Veteran-Sword-elf.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Veteran Sword-elf gets +1 Attack and +1 Defense for each copy of Veteran Sword-elf in your discard pile.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The elves were the first to charge. Their hatred for the goblins is cold and bitter.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 3,
+            "Artist": "Ramon Puasa Jr.",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12030",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 7566,
+            "Categories": null
+        },
+        {
+            "Title": "Argalad",
+            "Slug": "Argalad-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Argalad.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Scout."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.\nAction: Exhaust Argalad to choose an enemy in the staging area. Until the end of the phase, that enemy gets -X Threat, where X is Argalad`s Attack. If this effect reduces the enemy`s Threat to 0, deal 1 damage to it. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Andreia Ugrai",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 65448,
+            "Categories": null
+        },
+        {
+            "Title": "Eldahir",
+            "Slug": "Eldahir-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Eldahir.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Noble."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nAction: Spend 1 Lore resource to look at a facedown shadow card dealt to an engaged enemy. If that card has a shadow effect, Eldahir gets +2 Defense until the end of the phase. Any player may trigger this action. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12011",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 64519,
+            "Categories": null
+        },
+        {
+            "Title": "Heed the Dream",
+            "Slug": "Heed-the-Dream-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Heed-the-Dream.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a player. That player searches the top 5 cards of his deck for a card, adds it to his hand, and shuffles his deck. Then, players as a group may spend 3 Leadership resources to have that player search his deck for another card, add it to his hand, and shuffle his deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 65,
+            "Quantity": 3,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12065",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 57587,
+            "Categories": null
+        },
+        {
+            "Title": "Vigilant Guard",
+            "Slug": "Vigilant-Guard-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Vigilant-Guard.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Skill."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Warrior character. Limit 1 per character.\nAttached character gets +2 hit points.\nResponse: When another character would be assigned any amount of damage, place 1 of that damage on attached character instead.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 33,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12033",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 50891,
+            "Categories": null
+        },
+        {
+            "Title": "Na'asiyah",
+            "Slug": "Na'asiyah-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Na'asiyah.jpg",
+                "Stats": {
+                    "ThreatCost": "8",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Corsair.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Resources in Na`asiyah`s resource pool cannot be used to pay for allies.\nAction: While Na`asiyah is attacking or defending, pay 1 resource from her resource pool to give her +2 Attack or +2 Defense for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Sara Winters",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 45865,
+            "Categories": null
+        },
+        {
+            "Title": "Explorer's Almanac",
+            "Slug": "Explorer's-Almanac-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Explorer's-Almanac.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location in the staging area.\nProgress from questing successfully may be placed on the attached location before it is placed on the current quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 61,
+            "Quantity": 3,
+            "Artist": "Ed Mattinian",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12061",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 44171,
+            "Categories": null
+        },
+        {
+            "Title": "Skyward Volley",
+            "Slug": "Skyward-Volley-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Skyward-Volley.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "As an additional cost to play Skyward Volley, exhaust a ranged character you control.\nCombat Action: Deal 2 damage to an enemy engaged with a player. Resolve that effect again for each copy of Skyward Volley currently in your discard pile (you may choose different targets).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 38,
+            "Quantity": 3,
+            "Artist": "Christina Davis",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12038",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 39532,
+            "Categories": null
+        },
+        {
+            "Title": "Círdan the Shipwright",
+            "Slug": "Cirdan-the-Shipwright-DCH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Círdan-the-Shipwright.jpg",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "4",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Draw 1 additional card at the beginning of the resource phase.\nForced: After drawing cards at the beginning of the resource phase, choose and discard 1 of those cards.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Very tall he was, and his beard was long, and he was grey and old, save that his eyes were keen as stars...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 34317,
+            "Categories": null
+        },
+        {
+            "Title": "Ranger Spear",
+            "Slug": "Ranger-Spear-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Ranger-Spear.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Ranger character. Restricted.\nAttached character gets +1 Attack (+2 Attack instead when attacking an enemy with an attachment on it).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Two had spears in their hands with broad bright heads.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 63,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12063",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 30460,
+            "Categories": null
+        },
+        {
+            "Title": "Knight of the White Tower",
+            "Slug": "Knight-of-the-White-Tower-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Knight-of-the-White-Tower.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Knight of the White Tower`s resource cost must be paid from a single hero’s resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...to be only a man of arms of the Guard of the Tower of Gondor is held worthy in the City, and such men have honour in the land.` -Beregond, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Warden of the Havens",
+            "Slug": "Warden-of-the-Havens-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Warden-of-the-Havens.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the top card of your discard pile is an attachment, Warden of the Havens gets +2 Defense and gains sentinel.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...and if he comes, assailing the White Towers and the Havens, hereafter the Elves may have no escape from the lengthening shadows of Middle-earth.`\n-Galdor, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Dleoblack",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Armored Destrier",
+            "Slug": "Armored-Destrier-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Armored-Destrier.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Leadership or sentinel hero. Restricted.\nResponse: After attached hero defends against an attack, exhaust Armored Destrier to ready attached hero. Then, discard a shadow card from another enemy engaged with the defending player.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Dúnedain Remedy",
+            "Slug": "Dunedain-Remedy-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Dúnedain-Remedy.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Signal."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.\nResponse: After Dúnedain Remedy is attached to a hero, heal 1 damage on that hero.\nAction: Pay 1 resource from attached hero`s resource pool to attach Dúnedain Remedy to another hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "In Service of the Steward",
+            "Slug": "In-Service-of-the-Steward-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/In-Service-of-the-Steward.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a character.\nAttached character gains the Gondor trait.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "But be it know that I have sworn him to my service...\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 16,
+            "Quantity": 3,
+            "Artist": "Jason Cheeseman Meyer",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Mariner's Compass",
+            "Slug": "Mariner's-Compass-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Mariner's-Compass.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Leadership or a Scout character.\nResponse: At the beginning of the travel phase, exhaust Mariner`s Compass and attached character to search the top 5 cards of the encounter deck for a location. Switch that location with a location in the staging area. Shuffle the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rod of the Steward",
+            "Slug": "Rod-of-the-Steward-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Rod-of-the-Steward.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Gondor hero.\nAction: Spend 2 resources from attached hero`s resource pool to draw 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`The last Steward of Gondor begs leave to surrender his office.` And he held out a white rod.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 18,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rune-master",
+            "Slug": "Rune-master-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Rune-master.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Ranger or Leadership hero.\nResponse: After a Signal attachment is attached to a hero, exhaust Rune-master to add 1 resource to that hero`s resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Anchor Watch",
+            "Slug": "Anchor-Watch-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Anchor-Watch.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After an enemy is declared as an attacker against you, declare an exhausted character you control as the defender. Resolve that effect again for each copy of Anchor Watch currently in your discard pile (all chosen characters are defending against this attack).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "Adam Schumpert",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Captain's Wisdom",
+            "Slug": "Captain's-Wisdom-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Captain's-Wisdom.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Resource Action: Exhaust a Noble hero you control to add 2 resources to that hero`s resource pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...in these days men are slow to believe that a captain can be wise and learned in the scrolls of lore and song, as he is, and yet man of hardihood and swift judgement in the field.\n-Beregond, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 21,
+            "Quantity": 3,
+            "Artist": "Titus Lunter",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hold the Line",
+            "Slug": "Hold-the-Line-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Hold-the-Line.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: When an enemy attacks a player, that player may declare up to 3 eligible characters as defenders against this attack. Then, the players as a group may spend 2 Tactics resources to ready each defending character that takes no damage from this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Terrible to Behold",
+            "Slug": "Terrible-to-Behold-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Terrible-to-Behold.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you declare a Noble character as a defender against an attack made by an engaged enemy, return that enemy to the staging area. Then, cancel the attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "So great a power and royalty was revealed in Aragorn...that many of the wild men paused, and looked back over their shoulders to the valley, and some looked up doubtfully at the sky.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 3,
+            "Artist": "Jason Cheeseman Meyer",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Azain Silverbeard",
+            "Slug": "Azain-Silverbeard-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Azain-Silverbeard.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Azain Silverbeard participates in an attack that destroys an enemy, spend 1 Tactics resource to deal 2 damage to another enemy that shares a Trait with the destroyed enemy. Any player may trigger this response.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 24,
+            "Quantity": 3,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Déorwine",
+            "Slug": "Deorwine-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Déorwine.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Rohan.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nResponse: While Déorwine is defending, spend 1 Leadership resource to cancel a shadow effect dealt to the attacking enemy. Any player may trigger this action.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 25,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Marksman of Lórien",
+            "Slug": "Marksman-of-Lorien-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Marksman-of-Lórien.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "3",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.\nResponse: After Marksman of Lórien enters play, choose an enemy. That enemy gets -2 Defense until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Keen are the eyes of the Elves.`\n-Aragorn, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12026",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Master Ironsmith",
+            "Slug": "Master-Ironsmith-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Master-Ironsmith.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Craftsman."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Master Ironsmith from your hand, if you paid all of its resource cost from a single hero`s resource pool, attach a Weapon or Armor attachment from your hand or discard pile to that hero without paying its resource cost.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 27,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12027",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Mithlond Sea-watcher",
+            "Slug": "Mithlond-Sea-watcher-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Mithlond-Sea-watcher.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the top card of your discard pile is an ally, Mithlond Sea-watcher gets +2 Attack and gains ranged.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "But it was an old tradition that away over there stood the Grey Havens, from which at times elven-ships set sail, never to return.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 28,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12028",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Soldier of Dol Amroth",
+            "Slug": "Soldier-of-Dol-Amroth-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Soldier-of-Dol-Amroth.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Soldier of Dol Amroth enters play, reduce the cost of the next Tactics card you play this phase by 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...he and his knights still held themselves like lords in whom the race of Númenor ran true\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12029",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Glorfindel",
+            "Slug": "Glorfindel-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Glorfindel.jpg",
+                "Stats": {
+                    "ResourceCost": "5",
+                    "Willpower": "3",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Glorfindel can be played from your discard pile.\nAction: Discard a card from your hand to ready Glorfindel. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Glorfindel is an Elf-lord of a house of princes.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 39,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Linhir Sea-captain",
+            "Slug": "Linhir-Sea-captain-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Linhir-Sea-captain.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Gondor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Linhir Sea-captain from your hand, if you paid all of its resource cost from a single hero`s resource pool, both that hero and Linhir Sea-captain do not exhaust to quest this round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 40,
+            "Quantity": 3,
+            "Artist": "Kim Sokol",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rhovanion Outrider",
+            "Slug": "Rhovanion-Outrider-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Rhovanion-Outrider.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Rhovanion Outrider commits to the quest, place 1 progress on a location in the staging area. If that location is not explored by this effect, give Rhovanion Outrider +1 Willpower until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 41,
+            "Quantity": 3,
+            "Artist": "Beth Sobel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sailor of Lune",
+            "Slug": "Sailor-of-Lune-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Sailor-of-Lune.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the top card of your discard pile is an event, Sailor of Lune gets +1 Willpower and gains: `Cannot be damaged while committed to the quest.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`They are sailing, sailing, sailing over the Sea, they are going into the West and leaving us,` said Sam, half chanting the words, shaking his head sadly and solemnly.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 42,
+            "Quantity": 3,
+            "Artist": "Owen William Weber",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Sam Gamgee",
+            "Slug": "Sam-Gamgee-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Sam-Gamgee.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost to play Sam Gamgee by 2 if you control Frodo Baggins.\nResponse: After a player raises his threat, that player may spend 1 Spirit resource to ready Sam Gamgee. He gets +1 Willpower, +1 Attack and +1 Defense until the end of the round. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 43,
+            "Quantity": 3,
+            "Artist": "Andrew Johanson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Súlien",
+            "Slug": "Sulien-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Súlien.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "3",
+                    "Attack": "0",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Spend 1 Lore resource to exhaust Súlien. Then, each location in the staging area gets –1 Threat until the end of the phase. Any player may trigger this action.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 44,
+            "Quantity": 3,
+            "Artist": "Andreia Ugrai",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Woodland Courier",
+            "Slug": "Woodland-Courier-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Woodland-Courier.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Woodland Courier enters play, place 1 progress on a location (2 progress instead if that location has the Forest trait).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 45,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hithlain",
+            "Slug": "Hithlain-DCH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Hithlain.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location. Limit 1 per location.\nResponse: After a player plays a Silvan ally from his hand, place 1 progress on attached location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He made his end of the rope fast about another tree, and then ran lightly along it, over the river and back again, as if he were on a round.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 46,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "To the Sea, to the Sea!",
+            "Slug": "To-the-Sea-to-the-Sea-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/To-the-Sea-to-the-Sea.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Noldor character.\nAction: Exhaust To the Sea, to the Sea! and discard X cards from your hand to reduce the cost of the next Noldor ally played this phase by X (to a minimum of 1).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "To the Sea, to the Sea! The white gulls are crying,\nThe wind is blowing, and the white foam is flying.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 47,
+            "Quantity": 3,
+            "Artist": "Tawny Fritzinger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Windfola",
+            "Slug": "Windfola-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Windfola.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Mount."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Spirit hero, or to Éowyn. Restricted.\nAttached character gets +1 Willpower.\nResponse: After attached character is removed from the quest, exhaust Windfola to commit attached hero to the quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the great grey steed Windfola made little of the burden; for Dernhelm was less in weight than many men, though lithe and well-knit in frame. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 48,
+            "Quantity": 3,
+            "Artist": "Sandara Tang",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elevenses",
+            "Slug": "Elevenses-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Elevenses.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only after the staging step.\nQuest Action: Choose X questing Hobbit characters you control. Ready each chosen character and remove them from the quest. Then, reduce your threat by X.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`The road goes on for ever,` said Pippin; `but I can`t without a rest. It is high time for lunch.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 49,
+            "Quantity": 3,
+            "Artist": "Craig Maher",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elwing's Flight",
+            "Slug": "Elwing's-Flight-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Elwing's-Flight.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Quest Action: Ready a questing character and give that character +1 Willpower until the end of the phase. Resolve that effect again for each copy of Elwing`s Flight currently in your discard pile (you may choose different targets).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There flying Elwing came to him\nand flame was in the darkness lit;\nmore bright than light of diamond\nthe fire upon her carcanet.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 50,
+            "Quantity": 3,
+            "Artist": "A. M. Sartor",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Inspiring Presence",
+            "Slug": "Inspiring-Presence-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Inspiring-Presence.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose a hero you control. Each hero with lower threat cost than the chosen hero gets +2 Defense until the end of the phase. Then, the players as a group may spend 2 Leadership resources to give +2 Attack to each hero with lower threat cost than the chosen hero until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Wherever he came men`s hearts would lift again, and the winged shadows pass from memory.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 51,
+            "Quantity": 3,
+            "Artist": "Dmitry Prosvirnin",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Scouting Party",
+            "Slug": "Scouting-Party-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Scouting-Party.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you commit characters to the quest, if each character you have commited to the quest is a Scout, each of these characters gets +2 Willpower until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 52,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Tides of Fate",
+            "Slug": "Tides-of-Fate-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Tides-of-Fate.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: When a shadow card increases an enemy`s Attack by any amount, increase the defending character`s Defense by 3 for that attack. Then, the players as a group may spend 2 Tactics resources to ready the defending character and give it +3 Attack for its next attack this phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the tides of fate had turned against them and their doom was at hand.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 53,
+            "Quantity": 3,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Guardian of Ithilien",
+            "Slug": "Guardian-of-Ithilien-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Guardian-of-Ithilien.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Guardian of Ithilien enters play, return an enemy engaged with you to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "From such men the Lord Denethor chose his forayers…to harry the Orcs and other enemies that roamed between the Ephel Dúath and the River.\n-The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 54,
+            "Quantity": 3,
+            "Artist": "Taylor Ingvarsson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Imladris Caregiver",
+            "Slug": "Imladris-Caregiver-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Imladris-Caregiver.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Healer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Discard a card from your hand to heal 1 damage on any character. (Limit twice per round).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You are in Rivendell, and you need not worry about anything for the present.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 55,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ioreth",
+            "Slug": "Ioreth-DCH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Ioreth.jpg",
+                "Stats": {
+                    "ResourceCost": "0",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Gondor.",
+                    "Healer."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack or defend.\nAction: Spend 1 Lore resource and exhaust Ioreth. Then, heal 3 points of damage on a character. Any player may trigger this action.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Thus spake Ioreth, wise-woman of Gondor: The hands of the king are the hands of a healer, and so shall the rightful king be known.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 56,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12056",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Evening Star",
+            "Slug": "The-Evening-Star-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/The-Evening-Star.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Place 2 progress on any location. Resolve that effect again for each copy of The Evening Star currently in your discard pile (you may choose new targets).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...for ever still a herald on\nar errand that should never rest\nto bear his shining lamp afar,\nthe Flammifer of Westernesse.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 67,
+            "Quantity": 3,
+            "Artist": "Katy Grierson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Houses of Healing",
+            "Slug": "The-Houses-of-Healing-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/The-Houses-of-Healing.jpg",
+                "Stats": {
+                    "ResourceCost": "5"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You may exhaust any number of Healer characters you control as part of this card`s cost. Reduce the cost to play this card by 1 for each Healer character you exhaust in this way.\nRefresh Action: Choose a hero in any player`s discard pile. Put that hero into play under its owner`s control, with 1 damage token on it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 68,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ered Luin Miner",
+            "Slug": "Ered-Luin-Miner-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Ered-Luin-Miner.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Ered Luin Miner is discarded from your deck, put it into play under your control.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Tools were to be found in plenty that the miners and quarriers and builders of old had used; and at such work the dwarves were still very skilled.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 69,
+            "Quantity": 3,
+            "Artist": "Lukasz Jaskolski",
+            "HasErrata": true,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Guardian of Rivendell",
+            "Slug": "Guardian-of-Rivendell-DCH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Guardian-of-Rivendell.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Noldor.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "As an additional cost to play Guardian of Rivendell from your hand, you must discard 2 cards from your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Indeed there is a power in Rivendell to withstand the might of Mordor, for a while.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 70,
+            "Quantity": 3,
+            "Artist": "Tawny Fritzinger",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Narya",
+            "Slug": "Narya-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Narya.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Ring.",
+                    "Artifact."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Círdan the Shipwright or Gandalf.\nAttached character gains a Leadership resource icon.\nAction: Exhaust Narya and attached character to choose and ready up to 2 allies. Each of those allies gets +1 Attack and +1 Defense until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.`\n-Círdan, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 71,
+            "Quantity": 3,
+            "Artist": "Lucas Durham",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Prince of Dol Amroth",
+            "Slug": "Prince-of-Dol-Amroth-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Prince-of-Dol-Amroth.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Prince Imrahil.\nPrice Imrahil gains the Outlands trait.\nWhile you control Outlands allies that belong to 4 different spheres, add 1 additional resource to Prince Imrahil`s resource pool when you collect resources during the resource phase (if Prince Imrahil is a hero).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 72,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Strider",
+            "Slug": "Strider-DCH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Strider.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a hero.\nWhile you control 2 or fewer heroes, attached hero does not exhaust to commit to the quest.\nWhile you control 5 or fewer characters, attached hero gets +2 Willpower.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Strider can take you by paths that are seldom tridden. Will you have him?`\n-Aragorn, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 73,
+            "Quantity": 3,
+            "Artist": "Ken McCuen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Justice Shall Be Done",
+            "Slug": "Justice-Shall-Be-Done-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Justice-Shall-Be-Done.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "Limit 1 per deck.\nPlanning Action: Add Justice Shall Be Done to the victory display to draw 3 cards and add 3 resources to the resource pool of each hero you control. At the end of the round, you are eliminated from the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...it is the last move in a great jeopardy, and for one side or the other it will bring the end of the game.`\n-Aragorn, The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 74,
+            "Quantity": 3,
+            "Artist": "Dmitry Prosvirnin",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Vanish from Sight",
+            "Slug": "Vanish-from-Sight-DCH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Dream-chaser-Hero-Expansion/Vanish-from-Sight.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control 2 or fewer heroes.\nAction: Until the end of the phase, if your threat is higher than 20, treat your threat as if it is 20.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I see now little hope, if we do not soon vanish from sight for a while, and cover our trail.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Dream-chaser Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 75,
+            "Quantity": 3,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
             "Categories": null
         }
     ]

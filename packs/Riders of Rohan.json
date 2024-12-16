@@ -2,7 +2,7 @@
     "Name": "Riders of Rohan",
     "Slug": "Riders-of-Rohan",
     "Abbreviation": "RoR",
-    "Cycle": "Starter Deck",
+    "Cycle": "Starter Decks",
     "SetType": "Starter_Deck",
     "Cards": null,
     "cards": [
@@ -22,7 +22,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Response: Cancel the `when revealed` effects of a card that was just revealed from the encounter deck."
+                    "Response: Cancel the `when revealed` effects of a card that was just revealed from the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`There is naught that you can do, other than to resist, with hope or without it`\r\n-Elrond, The Fellowship of the Ring"
@@ -62,8 +62,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "At the end of the round, discard Gandalf from play.",
-                    "Response: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5."
+                    "At the end of the round, discard Gandalf from play.\nResponse: After Gandalf enters play, (choose 1): draw 3 cards, deal 4 damage to 1 enemy in play, or reduce your threat by 5.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -97,7 +96,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Combat Action: Choose an enemy engaged with a player. That enemy cannot attack that player this phase."
+                    "Combat Action: Choose an enemy engaged with a player. That enemy cannot attack that player this phase.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A few brave men were strung before them to make a feint of resistance, and many there fell before the rest drew back and fled to either side. -The Hobbit"
@@ -133,8 +132,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a location.",
-                    "Response: After attached location is explored, the first player draws 3 cards."
+                    "Attach to a location.\nResponse: After attached location is explored, the first player draws 3 cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The Mathom-house it was called; for anything that Hobbits had no immediate use for, but were unwilling to throw away, they called a mathom. Their dwellings were apt to become rather crowded with mathoms... -The Fellowship of the Ring"
@@ -174,7 +172,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After you play West Road Traveller from your hand, switch the active location with any other location in the staging area."
+                    "Response: After you play West Road Traveller from your hand, switch the active location with any other location in the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The dark world was rushing by, and the wind sang loudly in his ears. -The Return of the King"
@@ -212,8 +210,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Tactics or Rohan hero. Restricted.",
-                    "Response: After attached hero participates in an attack that destroys an enemy, exhaust Rohan Warhorse to ready attached hero."
+                    "Attach to a Tactics or Rohan hero. Restricted.\nResponse: After attached hero participates in an attack that destroys an enemy, exhaust Rohan Warhorse to ready attached hero.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Their horses were of great stature, strong and clean-limbed... -The Two Towers"
@@ -253,7 +250,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Westfold Horse-breeder enters play, search the top 10 cards of your deck for a Mount attachment and add it to your hand. Shuffle your deck."
+                    "Response: After Westfold Horse-breeder enters play, search the top 10 cards of your deck for a Mount attachment and add it to your hand. Shuffle your deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`They love their horses next to their kin.` -Boromir, The Fellowship of the Ring"
@@ -294,7 +291,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Exhaust and discard The Riddermark`s Finest to place 2 progress tokens on any location."
+                    "Action: Exhaust and discard The Riddermark`s Finest to place 2 progress tokens on any location.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`And there are no horses like the ones that are bred in that great vale between the Misty Mountains and the White.`\r\n-Gandalf, The Fellowship of the Ring"
@@ -334,7 +331,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Éomund leaves play, ready all Rohan characters in play."
+                    "Response: After Éomund leaves play, ready all Rohan characters in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`You I have not seen before, for you are young, but I have spoken with Éomund your father...` -Aragorn, The Two Towers"
@@ -375,7 +372,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Discard Westfold Outrider to choose an enemy not engaged with you. Engage the chosen enemy."
+                    "Action: Discard Westfold Outrider to choose an enemy not engaged with you. Engage the chosen enemy.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Erkenbrand of Westfold has drawn off those men he could gather towards his fastness at Helm`s Deep. The rest are scattered.`-Rider of Rohan, The Two Towers"
@@ -415,7 +412,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Discard Westfold Horse-Breaker to choose and ready a hero."
+                    "Action: Discard Westfold Horse-Breaker to choose and ready a hero.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Your own valour has done more, and the stout legs of the Westfold-men marching through the night.` -Gandalf, The Two Towers"
@@ -453,9 +450,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Tactics or Rohan hero. Restricted.",
-                    "Attached hero gets +1 Attack (+2 Attack instead if attached hero is Éomer).",
-                    "Response: After attached hero attacks alone, exhaust Firefoot to choose a non-unique enemy engaged with you. Excess damage dealt by this attack is assigned to the chosen enemy."
+                    "Attach to a Tactics or Rohan hero. Restricted.\nAttached hero gets +1 Attack (+2 Attack instead if attached hero is Éomer).\nResponse: After attached hero attacks alone, exhaust Firefoot to choose a non-unique enemy engaged with you. Excess damage dealt by this attack is assigned to the chosen enemy.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -494,8 +489,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Rohan character. Restricted.",
-                    "Attached character gets +1 Attack. (+2 Attack instead if attacking an enemy in the staging area)."
+                    "Attach to a Rohan character. Restricted.\nAttached character gets +1 Attack. (+2 Attack instead if attacking an enemy in the staging area).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Right through the press drove Théoden Thengel`s son, and his spear was shivered as he threw down thier chieftan. -The Return of the King"
@@ -535,8 +529,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If there is at least 1 Rohan hero in play, lower the cost to play Guthlaf by 1.",
-                    "If there is at least 1 Gondor hero in play, Guthlaf gains sentinel."
+                    "If there is at least 1 Rohan hero in play, lower the cost to play Guthlaf by 1.\nIf there is at least 1 Gondor hero in play, Guthlaf gains sentinel.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -575,11 +568,10 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Tactics character. Limit 1 per character. Restricted.",
-                    "Attached characters gets +1 Attack for each attachment it has with the restricted keyword."
+                    "Attach to a Tactics character. Limit 1 per character. Restricted.\nAttached characters gets +1 Attack for each attachment it has with the restricted keyword.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Gimli Glóin`s son, have you your axe ready?`\r\n-Éomer, The Return of the King"
+                "FlavorText": "`Gimli Glóin`s son, have you your axe ready?`\n-Éomer, The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -618,7 +610,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After a character leaves play, Éomer gets +2 Attack until the end of the round. (Limit once per round.)"
+                    "Response: After a character leaves play, Éomer gets +2 Attack until the end of the round. (Limit once per round.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`I am named Éomer son of Éomund, and am called the Third Marshal of Riddermark.` -The Two Towers"
@@ -661,7 +653,7 @@
                     "Ranged."
                 ],
                 "Text": [
-                    "Ranged."
+                    "Ranged.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A few of the riders appeared to be bowmen, skilled at shooting from a running horse. -The Two Towers"
@@ -695,7 +687,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Action: Until the end of the phase, all Rohan characters get +2 Willpower."
+                    "Action: Until the end of the phase, all Rohan characters get +2 Willpower.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "With astonishing speed and skill they checked their steeds, wheeled, and came charging round. -The Two Towers"
@@ -736,7 +728,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Riddermark Knight is declared as an attacker, it gets +2 Attack for this attack. At the end of this attack, discard Riddermark Knight."
+                    "Response: After Riddermark Knight is declared as an attacker, it gets +2 Attack for this attack. At the end of this attack, discard Riddermark Knight.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -772,8 +764,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Attach to a Gondor or Rohan hero.",
-                    "Response: after attached hero commits to a quest, spend 1 resource from attached hero`s resource pool to ready attached hero."
+                    "Attach to a Gondor or Rohan hero.\nResponse: after attached hero commits to a quest, spend 1 resource from attached hero`s resource pool to ready attached hero.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...fresh horses were always in readiness to bear his errand-riders to Rohan in the Noth... -The Return of the King"
@@ -812,11 +803,10 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a Rohan hero or Merry. Restricted.",
-                    "Response: When a character leaves play, if that character shares at least one trait with the attached hero, exhaust Horn of the Mark to draw 1 card."
+                    "Attach to a Rohan hero or Merry. Restricted.\nResponse: When a character leaves play, if that character shares at least one trait with the attached hero, exhaust Horn of the Mark to draw 1 card.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Then Éowyn gave to Merry an ancient horn, small but cunningly wrought all of fair silver with a baldric of green.\r\n-The Return of the King"
+                "FlavorText": "Then Éowyn gave to Merry an ancient horn, small but cunningly wrought all of fair silver with a baldric of green.\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -847,10 +837,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Response: At the beginning of the quest phase, search the top 5 cards of the encounter deck for an enemy and put it into play engaged with you. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck."
+                    "Response: At the beginning of the quest phase, search the top 5 cards of the encounter deck for an enemy and put it into play engaged with you. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`We must press our Enemy, and no longer wait upon him for the move.`\r\n-Aragorn, The Return of the King"
+                "FlavorText": "`We must press our Enemy, and no longer wait upon him for the move.`\n-Aragorn, The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -888,10 +878,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Hirgon quests successfully, play a Tactics ally from your hand, reducing its cost by 1 (to a minimum of 1). Then, you may raise your threat by 1 to give that ally +1 Attack and +1 Defense until the end of the round."
+                    "Response: After Hirgon quests successfully, play a Tactics ally from your hand, reducing its cost by 1 (to a minimum of 1). Then, you may raise your threat by 1 to give that ally +1 Attack and +1 Defense until the end of the round.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Hirgon I am, errand-rider of Denethor, who bring you this token of war.`\r\n-The Return of the King"
+                "FlavorText": "`Hirgon I am, errand-rider of Denethor, who bring you this token of war.`\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -927,12 +917,10 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Limit 1 per deck. Attach to a Gondor hero.",
-                    "Attached hero gets +1 Willpower.",
-                    "Valour Response: After attached hero quests successfully, add The Red Arrow to the victory display to search the top 5 cards of your deck for an ally and put it into play."
+                    "Limit 1 per deck. Attach to a Gondor hero.\nAttached hero gets +1 Willpower.\nValour Response: After attached hero quests successfully, add The Red Arrow to the victory display to search the top 5 cards of your deck for an ally and put it into play.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`The Red Arrow has not been seen in the Mark in all my years!`\r\n-Théoden, The Return of the King"
+                "FlavorText": "`The Red Arrow has not been seen in the Mark in all my years!`\n-Théoden, The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -970,10 +958,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Westfold Lancer quests successfully, discard it to choose a non-unique enemy in the staging area. Deal 2 damage to the chosen enemy."
+                    "Response: After Westfold Lancer quests successfully, discard it to choose a non-unique enemy in the staging area. Deal 2 damage to the chosen enemy.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "...the white fury of the Northmen burned the hotter, and more skilled was their knighthood with long spears...\r\n-The Return of the King"
+                "FlavorText": "...the white fury of the Northmen burned the hotter, and more skilled was their knighthood with long spears...\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -1004,7 +992,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Action: Until the end of the phase, each Rohan character with a Mount attachment gets +3 Attack."
+                    "Action: Until the end of the phase, each Rohan character with a Mount attachment gets +3 Attack.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Arise, arise, riders of Théoden!` -Théoden, The Return of the King"
@@ -1038,7 +1026,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Combat Action: Each Rohan hero can be declared as an attacker against enemies in the staging area this phase."
+                    "Combat Action: Each Rohan hero can be declared as an attacker against enemies in the staging area this phase.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Oaths ye have taken: now fulfill them all, to lord and land and league of friendship!` -Théoden, The Return of the King"
@@ -1079,8 +1067,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If Éomer is in play, Lothíriel gains the Rohan trait.",
-                    "Response: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck."
+                    "If Éomer is in play, Lothíriel gains the Rohan trait.\nResponse: After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a Trait with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1121,10 +1108,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After Fastred defends an enemy attack, return that enemy to the staging area to reduce your threat by 2. (Limit once per phase.)"
+                    "Response: After Fastred defends an enemy attack, return that enemy to the staging area to reduce your threat by 2. (Limit once per phase.)\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`King`s man! King`s man!` his heart cried within him.\r\n-The Return of the King"
+                "FlavorText": "`King`s man! King`s man!` his heart cried within him.\n-The Return of the King"
             },
             "Back": null,
             "CardSet": "Riders of Rohan",
@@ -1155,8 +1142,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While paying for The Muster of Rohan, each Rohan hero you control is considered to have a Spirit icon.",
-                    "Planning Action: Search the top 10 cards of your deck for up to 4 Rohan allies and put them into play. Shuffle your deck. If any of those allies are still in play at the end of the round, discard them."
+                    "While paying for The Muster of Rohan, each Rohan hero you control is considered to have a Spirit icon.\nPlanning Action: Search the top 10 cards of your deck for up to 4 Rohan allies and put them into play. Shuffle your deck. If any of those allies are still in play at the end of the round, discard them.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1190,8 +1176,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Play only if you control a unique character with the Rohan trait and another unique character with the Gondor trait.",
-                    "Response: At the beginning of the combat phase, you resolve the step in which you attack enemies before resolving enemy attacks this phase. (Each other player resolves the combat phase as normal after you resolve your attacks.)"
+                    "Play only if you control a unique character with the Rohan trait and another unique character with the Gondor trait.\nResponse: At the beginning of the combat phase, you resolve the step in which you attack enemies before resolving enemy attacks this phase. (Each other player resolves the combat phase as normal after you resolve your attacks.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1231,8 +1216,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While committed to a quest, Escort from Edoras gets +2 Willpower.",
-                    "Forced: After resolving a quest to which Escort from Edoras was committed, discard Escort from Edoras from play."
+                    "While committed to a quest, Escort from Edoras gets +2 Willpower.\nForced: After resolving a quest to which Escort from Edoras was committed, discard Escort from Edoras from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null

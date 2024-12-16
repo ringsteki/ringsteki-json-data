@@ -1,0 +1,193 @@
+{
+    "Name": "The Hobbit",
+    "Slug": "The-Hobbit",
+    "Abbreviation": "TH",
+    "Cycle": "ALeP Standalone",
+    "SetType": "A_Long_extended_Party",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "Beorn",
+            "Slug": "Beorn-Hero-TH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit/Beorn-Hero.png",
+                "Stats": {
+                    "ThreatCost": "12",
+                    "Willpower": "0",
+                    "Attack": "5",
+                    "Defense": "1",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Beorning.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel. Cannot have attachments. Immune to player card effects.\nBeorn does not exhaust to defend.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Steven Shan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00005",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-TH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Baggins",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit/Bilbo-Baggins.png",
+                "Stats": {
+                    "ThreatCost": "0",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot gain resources from player card effects. The first player gains control of Bilbo Baggins and can trigger Action and Response effects on cards in the boons area.\nAction: Spend 1 Baggins resource. Then, each player may draw 1 card.\nIf Bilbo Baggins leaves play, the players lose the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Midjourney",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Beyond the Original Bargain",
+            "Slug": "Beyond-the-Original-Bargain-TH",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit/Beyond-the-Original-Bargain.png",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "If you choose Beyond the Original Bargain as your contract, you can choose 2 additional contracts for this game. Each contract you choose must be different.\nYour starting threat is increased by 4.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "“I have got you out of two messes already…”\n—Bilbo Baggins, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Hobbit",
+            "EncounterInfo": null,
+            "Number": 69,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Thorin’s Company",
+            "Slug": "Thorin's-Company-TH",
+            "IsUnique": false,
+            "CardType": "Contract",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit/Thorin's-Company.png",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This contract cannot be chosen unless you are playing a scenario featuring Baggins Bilbo Baggins.\nSetup: Search the top 13 cards of your deck, choose 2 allies among those cards and put them into play under your control. The total printed cost of cards you put into play in this way cannot exceed 6. Shuffle the remaining cards into your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit",
+            "EncounterInfo": null,
+            "Number": 70,
+            "Quantity": 1,
+            "Artist": "Chris Rahn",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Master Burglar",
+            "Slug": "Master-Burglar-TH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Hobbit/Master-Burglar.png",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Limit 1 per deck. Attach to Bilbo Baggins. He gets +2 Willpower and –1 threat cost.\nIf you have won The Hobbit ALeP community scenario with 10 or more boons in play, you may attach this card from your collection to an eligible printed hero when you put your starting heroes into play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Hobbit",
+            "EncounterInfo": null,
+            "Number": 71,
+            "Quantity": 1,
+            "Artist": "Surya Prasetya",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

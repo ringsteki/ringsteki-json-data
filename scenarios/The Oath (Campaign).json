@@ -5,57 +5,41 @@
     "Number": 1,
     "AllCards": [
         {
-            "Title": "After the Raid",
-            "Slug": "After-the-Raid-TDoM",
+            "Title": "Obsidian Arrows",
+            "Slug": "Obsidian-Arrows-TDoM",
             "IsUnique": false,
-            "CardType": "Quest",
+            "CardType": "Treachery",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/After-the-Raid-1A.jpg",
-                "Stats": {
-                    "StageNumber": "1A"
-                },
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Obsidian-Arrows.jpg",
+                "Stats": {},
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Search the encounter deck for 1 copy of The Eaves of Mirkwood and Goblin Troop. Add The Eaves of Mirkwood to the staging area and set Goblin Troop aside, out of play. Shuffle of the encounter deck."
+                    "When Revealed: Deal 2 damage to a character you control.\n"
                 ],
-                "Shadow": null,
-                "FlavorText": "Marauding Goblins have raided a woodman village on the eaves of Mirkwood forest. The Goblins killed the guards and took many of the villages captive. Those left behind beg you to rescue their loved ones."
+                "Shadow": "Shadow: Deal 1 damage to a character you control.",
+                "FlavorText": null
             },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/After-the-Raid-1B.jpg",
-                "Stats": {
-                    "StageNumber": "1B",
-                    "QuestPoints": "9"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [],
-                "Shadow": null,
-                "FlavorText": "You swear an oath to the survivors that you will rescue the captured woodmen and bring justice to the Goblins who attacked them, then you enter Mirkwood forest to find their trail."
-            },
+            "Back": null,
             "CardSet": "The Dark of Mirkwood",
             "EncounterInfo": {
-                "EncounterSet": "The Oath (Campaign)",
+                "EncounterSet": "The Goblins (Campaign)",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [
-                    "The Goblins (Campaign)"
-                ],
-                "StageNumber": 1,
-                "StageLetter": "A"
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
             },
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Stanislav Dikolenko",
+            "Number": 26,
+            "Quantity": 2,
+            "Artist": "Aurelien Hubert",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02026",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 910046,
             "Categories": null
         },
         {
@@ -107,9 +91,9 @@
             "Artist": "Jeff Lee Johnson",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02002",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 587205,
             "Categories": null
         },
         {
@@ -163,9 +147,52 @@
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02003",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356521,
+            "Categories": null
+        },
+        {
+            "Title": "The Eaves of Mirkwood",
+            "Slug": "The-Eaves-of-Mirkwood-TDoM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Eaves-of-Mirkwood.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While The Eaves of Mirkwood is the active location, encounter card effects cannot be canceled."
+                ],
+                "Shadow": null,
+                "FlavorText": "By the afternoon they had reached the eaves of Mirkwood, and were resting almost beneath the great overhanging boughs of its outer trees.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Oath (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 2,
+            "Artist": "Timo Karhula",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02010",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 306786,
             "Categories": null
         },
         {
@@ -209,9 +236,92 @@
             "Artist": "Andrew Ryan",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 197882,
+            "Categories": null
+        },
+        {
+            "Title": "Eyes in the Dark",
+            "Slug": "Eyes-in-the-Dark-TDoM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Eyes-in-the-Dark.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.\nWhen Revealed: Each player must choose: Either raise your threat by 1 for each questing character you control, or discard a questing character you control.\n"
+                ],
+                "Shadow": "Shadow: If this attack is undefended, discard an ally you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Goblins (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 25,
+            "Quantity": 2,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02025",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 17752,
+            "Categories": null
+        },
+        {
+            "Title": "The Oath",
+            "Slug": "The-Oath-Campaign-TDoM",
+            "IsUnique": false,
+            "CardType": "Campaign",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Oath-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Campaign Mode.\nSetup: Each player chooses 1 Adaptation boon attachment and attaches it to one of their heroes. Shuffle the Stalking Goblin burden enemy into the encounter deck. Add Stalking Goblin and each attached Adaptation to the Campaign Pool.\nForced: At the end of each round, place 1 resource token here.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Resolution: If there are 6 or more resource tokens here, the thought of the captured villagers suffering weighs heavily on you. Add the Guilty Conscience treachery burden to the Campaign Pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You have defeated the enemy rearguard, but the rest have escaped into the Mountains of Mirkwood with their prisoners. You must track the goblins to their hold if you are to fulfill your oath."
+            },
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": null,
+            "Number": 50,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02050",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 11475,
             "Categories": null
         },
         {
@@ -255,52 +365,63 @@
             "Artist": "Matt Stewart",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00009",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 156564,
             "Categories": null
         },
         {
-            "Title": "The Eaves of Mirkwood",
-            "Slug": "The-Eaves-of-Mirkwood-TDoM",
+            "Title": "After the Raid",
+            "Slug": "After-the-Raid-TDoM",
             "IsUnique": false,
-            "CardType": "Location",
+            "CardType": "Quest",
             "CardSubType": "None",
             "Sphere": null,
             "Front": {
                 "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Eaves-of-Mirkwood.jpg",
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/After-the-Raid-1A.jpg",
                 "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "2"
+                    "StageNumber": "1A"
                 },
-                "Traits": [
-                    "Forest."
-                ],
+                "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While The Eaves of Mirkwood is the active location, encounter card effects cannot be canceled."
+                    "Setup: Search the encounter deck for 1 copy of The Eaves of Mirkwood and Goblin Troop. Add The Eaves of Mirkwood to the staging area and set Goblin Troop aside, out of play. Shuffle of the encounter deck."
                 ],
                 "Shadow": null,
-                "FlavorText": "By the afternoon they had reached the eaves of Mirkwood, and were resting almost beneath the great overhanging boughs of its outer trees.\r\n-The Hobbit"
+                "FlavorText": "Marauding Goblins have raided a woodman village on the eaves of Mirkwood forest. The Goblins killed the guards and took many of the villages captive. Those left behind beg you to rescue their loved ones."
             },
-            "Back": null,
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/After-the-Raid-1B.jpg",
+                "Stats": {
+                    "StageNumber": "1B",
+                    "QuestPoints": "9"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [],
+                "Shadow": null,
+                "FlavorText": "You swear an oath to the survivors that you will rescue the captured woodmen and bring justice to the Goblins who attacked them, then you enter Mirkwood forest to find their trail."
+            },
             "CardSet": "The Dark of Mirkwood",
             "EncounterInfo": {
                 "EncounterSet": "The Oath (Campaign)",
                 "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
+                "IncludedEncounterSets": [
+                    "The Goblins (Campaign)"
+                ],
+                "StageNumber": 1,
+                "StageLetter": "A"
             },
-            "Number": 10,
-            "Quantity": 2,
-            "Artist": "Timo Karhula",
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00010",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 9188,
             "Categories": null
         },
         {
@@ -322,8 +443,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "X is the number of locations in the staging area.",
-                    "Travel: Each player must discard 1 random card from his hand to travel here."
+                    "X is the number of locations in the staging area.\nTravel: Each player must discard 1 random card from his hand to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -342,7 +462,7 @@
             "Artist": "John Howe",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00011",
+            "RingsDbCardId": "02011",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -369,7 +489,7 @@
                     "Response: After you travel to Forest Gate, the first player draws 2 cards."
                 ],
                 "Shadow": null,
-                "FlavorText": "Soon the light in the gate was like a little bright hole far behind, and the quiet was so deep that their feet seemed to thump along while the trees leaned over them and listened.\r\n-The Hobbit"
+                "FlavorText": "Soon the light in the gate was like a little bright hole far behind, and the quiet was so deep that their feet seemed to thump along while the trees leaned over them and listened.\n-The Hobbit"
             },
             "Back": null,
             "CardSet": "The Dark of Mirkwood",
@@ -385,7 +505,7 @@
             "Artist": "Ben Zweifel",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00012",
+            "RingsDbCardId": "02012",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -428,7 +548,7 @@
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00013",
+            "RingsDbCardId": "02013",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -454,8 +574,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Travel: Reveal the top card of the encounter deck to travel here.",
-                    "Response: When Goblin Trail leaves play as an explored location, place 6 progress on the current quest."
+                    "Travel: Reveal the top card of the encounter deck to travel here.\nResponse: When Goblin Trail leaves play as an explored location, place 6 progress on the current quest.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -474,7 +593,7 @@
             "Artist": "Jokubas Uoginitas",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00014",
+            "RingsDbCardId": "02014",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -498,8 +617,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After the players travel to Abandoned Camp, the first player discards the top card of their deck, If that card is any ally, put it into play under their control.",
-                    "Travel: Discard the top card of the encounter deck. If that card is an enemy, add it to the staging area."
+                    "Response: After the players travel to Abandoned Camp, the first player discards the top card of their deck, If that card is any ally, put it into play under their control.\nTravel: Discard the top card of the encounter deck. If that card is an enemy, add it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -518,7 +636,7 @@
             "Artist": "Dana Li",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00015",
+            "RingsDbCardId": "02015",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -556,7 +674,7 @@
             "Artist": "Alexandru Sabo",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00016",
+            "RingsDbCardId": "02016",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -594,7 +712,7 @@
             "Artist": "Matthew Cowdery",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00017",
+            "RingsDbCardId": "02017",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -632,7 +750,7 @@
             "Artist": "Daryl Mandryk",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00018",
+            "RingsDbCardId": "02018",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -660,8 +778,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "While Goblin Troop is engaged with you, each other Goblin enemy engaged with you gets +1 Attack and +1 Defense."
+                    "Cannot have attachments.\nWhile Goblin Troop is engaged with you, each other Goblin enemy engaged with you gets +1 Attack and +1 Defense.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -680,7 +797,7 @@
             "Artist": "Matt Stewart",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00019",
+            "RingsDbCardId": "02019",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -708,8 +825,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.",
-                    "Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls."
+                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.\nForced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -728,7 +844,7 @@
             "Artist": "Alexandr Shaldin",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00020",
+            "RingsDbCardId": "02020",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -758,7 +874,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge."
+                    "Surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Shadow: Attacking enemy makes an additional attack immediately after this one. (Deal a new shadow card for that attack.)"
@@ -777,7 +893,7 @@
             "Artist": "Stephane Gantiez",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00021",
+            "RingsDbCardId": "02021",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -824,7 +940,7 @@
             "Artist": "Jarreau Wimberly",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00022",
+            "RingsDbCardId": "02022",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -852,7 +968,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Wild Wargs engages you, discard the top card of the encounter deck. If that card is a Goblin enemy, put it into play engaged with you."
+                    "Forced: After Wild Wargs engages you, discard the top card of the encounter deck. If that card is a Goblin enemy, put it into play engaged with you.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Where the Warg howls, there the Orc prowls.`"
@@ -871,7 +987,7 @@
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00023",
+            "RingsDbCardId": "02023",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -909,86 +1025,7 @@
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00024",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Eyes in the Dark",
-            "Slug": "Eyes-in-the-Dark-TDoM",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Eyes-in-the-Dark.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Doomed 1."
-                ],
-                "Text": [
-                    "Doomed 1.",
-                    "When Revealed: Each player must choose: Either raise your threat by 1 for each questing character you control, or discard a questing character you control."
-                ],
-                "Shadow": "Shadow: If this attack is undefended, discard an ally you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Goblins (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 25,
-            "Quantity": 2,
-            "Artist": "Sam Lamont",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00025",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Obsidian Arrows",
-            "Slug": "Obsidian-Arrows-TDoM",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Obsidian-Arrows.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Deal 2 damage to a character you control."
-                ],
-                "Shadow": "Shadow: Deal 1 damage to a character you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Goblins (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 26,
-            "Quantity": 2,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00026",
+            "RingsDbCardId": "02024",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1016,7 +1053,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Stalking Goblin engages you, search the encounter deck, discard pile, and your collection (in that order) for a Goblin Sniper and add it to the staging area. Shuffle the encounter deck."
+                    "Forced: After Stalking Goblin engages you, search the encounter deck, discard pile, and your collection (in that order) for a Goblin Sniper and add it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": "Shadow: Add Stalking Goblin to the staging area.",
                 "FlavorText": null
@@ -1035,57 +1072,12 @@
             "Artist": "JB Casacop",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00041",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Oath",
-            "Slug": "The-Oath-Campaign-TDoM",
-            "IsUnique": false,
-            "CardType": "Campaign",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Oath-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Campaign Mode.",
-                    "Setup: Each player chooses 1 Adaptation boon attachment and attaches it to one of their heroes. Shuffle the Stalking Goblin burden enemy into the encounter deck. Add Stalking Goblin and each attached Adaptation to the Campaign Pool.",
-                    "Forced: At the end of each round, place 1 resource token here."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Resolution: If there are 6 or more resource tokens here, the thought of the captured villagers suffering weighs heavily on you. Add the Guilty Conscience treachery burden to the Campaign Pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "You have defeated the enemy rearguard, but the rest have escaped into the Mountains of Mirkwood with their prisoners. You must track the goblins to their hold if you are to fulfill your oath."
-            },
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": null,
-            "Number": 50,
-            "Quantity": 1,
-            "Artist": "Stanislav Dikolenko",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00050",
+            "RingsDbCardId": "02041",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         }
     ],
-    "Cycle": "Scenario Pack",
+    "Cycle": "Shadows of Mirkwood",
     "SetType": "Scenario_Pack"
 }

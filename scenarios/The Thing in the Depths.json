@@ -5,6 +5,360 @@
     "Number": 2,
     "AllCards": [
         {
+            "Title": "Slithering Arm",
+            "Slug": "Slithering-Arm-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Slithering-Arm.jpg",
+                "Stats": {
+                    "EngagementCost": "0",
+                    "Threat": "0",
+                    "Attack": "4",
+                    "Defense": "1",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Tentacle."
+                ],
+                "Keywords": [
+                    "Surge.",
+                    "Grapple (most enemies grappled)."
+                ],
+                "Text": [
+                    "Surge. Grapple (most enemies grappled).\nForced: After Slitering Arm engages a player, it makes an immediate attack against that player.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Thing in the Depths Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12006",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 537570,
+            "Categories": null
+        },
+        {
+            "Title": "The Thing in the Depths Nightmare",
+            "Slug": "The-Thing-in-the-Depths-Nightmare-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/The-Thing-in-the-Depths-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: After The Thing in the Depths enemy enters play, it attacks each player in turn order from the staging area (deal and resolve a shadow card for each attack).\nStage 3B gains: `Forced: At the beginning of the quest phase, if there are fewer locations in play than the number of players, discard cards from the top of the encounter deck until a location is discarded. Reveal that location.\nForced: At the end of the refresh phase, resolve the grapple keyword on each Tentacle enemy in play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the The Thing in the Depths scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n2x Corsair Infiltrator\n1x Crew Quarters\n1x Crushing Arm\n1x Grasping Arm\n1x Giant Arm\nThen shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Thing in the Depths encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12001",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 29404,
+            "Categories": null
+        },
+        {
+            "Title": "Tumultuous Waters",
+            "Slug": "Tumultuous-Waters-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Tumultuous-Waters.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Weather."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Exhaust each character with 1 or less Willpower. Remove all resources from each ready hero and objective-ally.\n"
+                ],
+                "Shadow": "Shadow: If the defending character has 1 or less Willpower, treat this attack as undefended.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 228118,
+            "Categories": null
+        },
+        {
+            "Title": "Deep Maelstrom",
+            "Slug": "Deep-Maelstrom-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Deep-Maelstrom.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: For each location in play that is not grappled, reveal the top card of the encounter deck. If no cards are revealed by this effect, Deep Maelstrom gains Doomed 5. Cannot be canceled.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each enemy grappled with a location.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Thing in the Depths Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 224363,
+            "Categories": null
+        },
+        {
+            "Title": "Captain's Quarters",
+            "Slug": "Captain's-Quarters-TTiTDN",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Captain's-Quarters.jpg",
+                "Stats": {
+                    "Threat": "5",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Ship."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Captain`s Quarters is grappled, Raider characters are considered to have no resources.\nTravel: Add 2 resources to Captain Sahír (even if he is out of play) and 1 resource to each other Raider card in play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Brenda Bae",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12002",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 170563,
+            "Categories": null
+        },
+        {
+            "Title": "Crashing Arm",
+            "Slug": "Crashing-Arm-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Crashing-Arm.jpg",
+                "Stats": {
+                    "EngagementCost": "27",
+                    "Threat": "2",
+                    "Attack": "6",
+                    "Defense": "1",
+                    "HitPoints": "7"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Tentacle."
+                ],
+                "Keywords": [
+                    "Grapple (fewest enemies grappled)."
+                ],
+                "Text": [
+                    "Grapple (fewest enemies grappled).\nForced: After Crashing Arm is detaced from a location, deal it 3 shadow cards.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Thing in the Depths Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 65448,
+            "Categories": null
+        },
+        {
+            "Title": "Aft Cabin",
+            "Slug": "Aft-Cabin-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Aft-Cabin.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Ship.",
+                    "Deck."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Aft Cabin is in the staging area, each enemy grappled with each Deck location adds 3 Threat instead of 2 Threat.\nForced: After an enemy is detached from Aft Cabin, that enemy gets +3 Defense until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Stormcaller Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 45865,
+            "Categories": null
+        },
+        {
+            "Title": "Corsair Duelist",
+            "Slug": "Corsair-Duelist-TTiTDN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Corsair-Duelist.jpg",
+                "Stats": {
+                    "EngagementCost": "36",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Corsair.",
+                    "Raider."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Corsair Duelist enters play with 2 resources on it.\nForced: When Corsair Duelist would be defeated, remove 1 resource and all damage from it instead.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each resource on it.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Thing in the Depths Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Corsair Raiders Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "12005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 34317,
+            "Categories": null
+        },
+        {
             "Title": "Umbar Raider",
             "Slug": "Umbar-Raider-TGH",
             "IsUnique": false,
@@ -27,8 +381,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Umbar Raider gets +1 Attack for each resource on it.",
-                    "Forced: After Umbar Raider attacks you, move 1 resource from one of your heroes’ resource pools to Umbar Raider."
+                    "Umbar Raider gets +1 Attack for each resource on it.\nForced: After Umbar Raider attacks you, move 1 resource from one of your heroes’ resource pools to Umbar Raider.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`And there men of Lamedon contested the fords with fell folk of Umbar and Harad who had sailed up the river.` —Legolas, The Return of the King"
@@ -75,8 +428,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Corsair Infiltrator attacks, deal it 1 additional shadow card for each resource on it.",
-                    "Forced: After the engaged player collects resources at the beginning of the resource phase, that player moves 1 resource from one of his heroes` pools to Corsair Infiltrator."
+                    "Forced: When Corsair Infiltrator attacks, deal it 1 additional shadow card for each resource on it.\nForced: After the engaged player collects resources at the beginning of the resource phase, that player moves 1 resource from one of his heroes` pools to Corsair Infiltrator.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -123,8 +475,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Raid Leader gets +1 Defense for each resource on it.",
-                    "Forced: When Raid Leader engages you, move 1 resource from each of your heroes` resource pools to Raid Leader."
+                    "Raid Leader gets +1 Defense for each resource on it.\nForced: When Raid Leader engages you, move 1 resource from each of your heroes` resource pools to Raid Leader.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`The Corsairs are upon us! It is the last stroke of doom!` —Men of Gondor, The Return of the King"
@@ -162,7 +513,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Place 1 resource on each Raider enemy in play. Each engaged non-Ship enemy makes an immediate attack. If there are no engaged non-Ship enemies, Battle-Hardened gains surge."
+                    "When Revealed: Place 1 resource on each Raider enemy in play. Each engaged non-Ship enemy makes an immediate attack. If there are no engaged non-Ship enemies, Battle-Hardened gains surge.\n"
                 ],
                 "Shadow": "Shadow: If the attacking enemy is a Raider, place 2 resources on it.",
                 "FlavorText": null
@@ -208,10 +559,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The first player gains control of Captain Sahír.",
-                    "Captain Sahír gets +1 Willpower and +1 Attack for each resource on him (max +6).",
-                    "Action: Spend 1 resource from a hero you control to place 1 resource on Captain Sahír. (Limit once per round).",
-                    "If Captain Sahír leaves play, the players lose."
+                    "The first player gains control of Captain Sahír.\nCaptain Sahír gets +1 Willpower and +1 Attack for each resource on him (max +6).\nAction: Spend 1 resource from a hero you control to place 1 resource on Captain Sahír. (Limit once per round).\nIf Captain Sahír leaves play, the players lose.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -281,10 +629,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The last player gains controls of Na`asiyah.",
-                    "Action: While Na`asiyah is attacking or defending, spend 1 resource from her to give her +2 Attack or +2 Defense for this attack.",
-                    "Action: Spend 1 resource from a hero you control to place 1 resource on Na`asiyah. (Limit once per round).",
-                    "If Na`asiyah leaves play, the players lose."
+                    "The last player gains controls of Na`asiyah.\nAction: While Na`asiyah is attacking or defending, spend 1 resource from her to give her +2 Attack or +2 Defense for this attack.\nAction: Spend 1 resource from a hero you control to place 1 resource on Na`asiyah. (Limit once per round).\nIf Na`asiyah leaves play, the players lose.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -346,7 +691,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Build the encounter deck using only The Stormcaller and Corsair Raiders encounter sets, setting The Thing in the Depths and The Stormcaller Elite encounter sets aside, out of play (enemy side faceup). Search the encounter deck for Helm of the Stormcaller and 1 copy of Umbar Raider, and add them to the staging area. Shuffle the encounter deck."
+                    "Setup: Build the encounter deck using only The Stormcaller and Corsair Raiders encounter sets, setting The Thing in the Depths and The Stormcaller Elite encounter sets aside, out of play (enemy side faceup). Search the encounter deck for Helm of the Stormcaller and 1 copy of Umbar Raider, and add them to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Swinging across on ropes, your company boards the Stormcaller, and a fierce battle ensues!"
@@ -361,9 +706,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Captain Sahír and Na’asiyah gain indestructible.",
-                    "Forced: At the end of the round, if Captain Sahír and Na’asiyah are not in play, add 1 resource to each of them.",
-                    "Progress cannot be placed on this stage unless Helm of the Stormcaller is in the victory display."
+                    "Captain Sahír and Na’asiyah gain indestructible.\nForced: At the end of the round, if Captain Sahír and Na’asiyah are not in play, add 1 resource to each of them.\nProgress cannot be placed on this stage unless Helm of the Stormcaller is in the victory display.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -419,7 +762,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Flip Captain Sahír and Na’asiyah to their objective sides, removing all tokens from them. Search the encounter deck, discard pile and all play areas for each encounter card from the Corsair Raiders encounter set and remove each of those cards from the game. Add The Thing in the Depths to the staging area. Shuffle the encounter discard pile and the set aside The Thing in the Depths encounter set into the encounter deck. Advance to stage 3."
+                    "When Revealed: Flip Captain Sahír and Na’asiyah to their objective sides, removing all tokens from them. Search the encounter deck, discard pile and all play areas for each encounter card from the Corsair Raiders encounter set and remove each of those cards from the game. Add The Thing in the Depths to the staging area. Shuffle the encounter discard pile and the set aside The Thing in the Depths encounter set into the encounter deck. Advance to stage 3.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -461,7 +804,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Discard cards from the top of the encounter deck until X Tentacle enemies are discarded, where X is 1 more than the number of players in the game. Resolve the Grapple keyword on each of those enemies."
+                    "When Revealed: Discard cards from the top of the encounter deck until X Tentacle enemies are discarded, where X is 1 more than the number of players in the game. Resolve the Grapple keyword on each of those enemies.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "With your fleet too far to assist, you must help the Corsairs defend the Stormcaller from destruction, or else you will surely join them in the bottom of the ocean."
@@ -476,9 +819,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "During the travel phase, the players may travel to a location in the staging area even if another location is currently active. If they do, return the currently active location to the staging area.",
-                    "At the end of the round, if the total Threat of any one Ship location is 9 or higher, the Stormcaller is destroyed, and the players lose the game.",
-                    "When Thing in the Depths is destroyed, the players win the game."
+                    "During the travel phase, the players may travel to a location in the staging area even if another location is currently active. If they do, return the currently active location to the staging area.\nAt the end of the round, if the total Threat of any one Ship location is 9 or higher, the Stormcaller is destroyed, and the players lose the game.\nWhen Thing in the Depths is destroyed, the players win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -524,9 +865,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Helm of the Stormcaller gets +1 quest point for each resource token on a Raider enemy in play.",
-                    "Forced: When Helm of the Stormcaller becomes the active location, add Captain Sahír and Na’asiyah to the staging area from out of play (enemy side faceup)."
+                    "Immune to player card effects.\nHelm of the Stormcaller gets +1 quest point for each resource token on a Raider enemy in play.\nForced: When Helm of the Stormcaller becomes the active location, add Captain Sahír and Na’asiyah to the staging area from out of play (enemy side faceup).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -570,7 +909,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After you travel to Forecastle Deck, search the encounter deck and discard pile for an enemy and reveal it. Shuffle the encounter deck."
+                    "Forced: After you travel to Forecastle Deck, search the encounter deck and discard pile for an enemy and reveal it. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if defending character has no resources on it or in its resource pool).",
                 "FlavorText": null
@@ -614,7 +953,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Weather Deck is in the staging area, each other Deck location in play gains `Travel: Each player must exhaust a character he controls to travel here.`"
+                    "While Weather Deck is in the staging area, each other Deck location in play gains `Travel: Each player must exhaust a character he controls to travel here.`\n"
                 ],
                 "Shadow": "Shadow: Exhaust a character you control.",
                 "FlavorText": null
@@ -657,7 +996,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Cargo Hold is the active location, each enemy gets +1 Defense."
+                    "While Cargo Hold is the active location, each enemy gets +1 Defense.\n"
                 ],
                 "Shadow": "Shadow: Until the end of the phase, attacking enemy gets +2 Defense.",
                 "FlavorText": null
@@ -700,7 +1039,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Add 1 resource to each Raider card in play to travel here."
+                    "Travel: Add 1 resource to each Raider card in play to travel here.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -744,7 +1083,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Quarter Deck is the active location, deal each enemy an additional shadow card at the beginning of the combat phase."
+                    "While Quarter Deck is the active location, deal each enemy an additional shadow card at the beginning of the combat phase.\n"
                 ],
                 "Shadow": "Shadow: Discard an attachment you control.",
                 "FlavorText": null
@@ -782,7 +1121,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Exhaust each character with 1 or less Defense."
+                    "When Revealed: Exhaust each character with 1 or less Defense.\n"
                 ],
                 "Shadow": "Shadow: If the defending character has 0 Defense, discard it. Otherwise, the defending character gets –2 Defense for this attack.",
                 "FlavorText": null
@@ -830,9 +1169,7 @@
                     "Victory 10."
                 ],
                 "Text": [
-                    "Immune to player card effects. Cannot be engaged.",
-                    "The Thing in the Depths gets +3 hit points per player.",
-                    "Forced: When a Creature enemy is destroyed, deal damage to The Thing in the Depths equal to that enemy’s Threat."
+                    "Immune to player card effects. Cannot be engaged.\nThe Thing in the Depths gets +3 hit points per player.\nForced: When a Creature enemy is destroyed, deal damage to The Thing in the Depths equal to that enemy’s Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -881,9 +1218,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Eye of the Beast cannot attack.",
-                    "While Eye of the Beast is engaged with a player, The Thing in the Depths attacks that player during the combat phase (deal and resolve a shadow card for this attack)."
+                    "Surge.\nEye of the Beast cannot attack.\nWhile Eye of the Beast is engaged with a player, The Thing in the Depths attacks that player during the combat phase (deal and resolve a shadow card for this attack).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -932,8 +1267,7 @@
                     "Grapple ( lowest printed Threat )."
                 ],
                 "Text": [
-                    "Grapple ( lowest printed Threat ).",
-                    "Forced: At the end of the combat phase, if Thrashing Arm is engaged with you, deal 3 damage to a character you control."
+                    "Grapple ( lowest printed Threat ).\nForced: At the end of the combat phase, if Thrashing Arm is engaged with you, deal 3 damage to a character you control.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -983,8 +1317,7 @@
                     "Grapple ( highest printed quest points )."
                 ],
                 "Text": [
-                    "Surge. Grapple ( highest printed quest points ).",
-                    "Forced: After Crushing Arm is detached from a location, it makes an immediate attack against the first player."
+                    "Surge. Grapple ( highest printed quest points ).\nForced: After Crushing Arm is detached from a location, it makes an immediate attack against the first player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1033,8 +1366,7 @@
                     "Grapple ( highest printed Threat )."
                 ],
                 "Text": [
-                    "Grapple ( highest printed Threat ).",
-                    "Forced: When Grasping Arm attacks, the engaged player must exhaust a character he controls."
+                    "Grapple ( highest printed Threat ).\nForced: When Grasping Arm attacks, the engaged player must exhaust a character he controls.\n"
                 ],
                 "Shadow": "Shadow: If this attack is undefended, resolve Grasping Arm`s Grapple keyword.",
                 "FlavorText": null
@@ -1083,8 +1415,7 @@
                     "Grapple ( lowest printed quest points )."
                 ],
                 "Text": [
-                    "Grapple ( lowest printed quest points ).",
-                    "Giant Arm gets +2 Attack when attacking allies."
+                    "Grapple ( lowest printed quest points ).\nGiant Arm gets +2 Attack when attacking allies.\n"
                 ],
                 "Shadow": "Shadow: After this attack, either put Giant Arm into play engaged with you and deal it a shadow card, or resolve its Grapple ability.",
                 "FlavorText": null
@@ -1122,7 +1453,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Discard the top 3 cards of the encounter deck. Resolve the Grapple keyword on each enemy discarded by this effect."
+                    "When Revealed: Discard the top 3 cards of the encounter deck. Resolve the Grapple keyword on each enemy discarded by this effect.\n"
                 ],
                 "Shadow": "Shadow: Assign damage among characters you control equal to the number of enemies grappled with locations in the staging area.",
                 "FlavorText": null
@@ -1160,7 +1491,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The Thing in the Depths attacks each player in turn order from the staging area (deal and resolve a shadow card for each attack)."
+                    "When Revealed: The Thing in the Depths attacks each player in turn order from the staging area (deal and resolve a shadow card for each attack).\n"
                 ],
                 "Shadow": "Shadow: After this attack, The Thing in the Depths makes an attack against the defending player (deal a shadow card for this attack).",
                 "FlavorText": null
@@ -1180,376 +1511,6 @@
             "HasErrata": false,
             "OctgnGuid": "b1898a55-730c-493e-9fcd-24a51d817b64",
             "RingsDbCardId": "12056",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Thing in the Depths Nightmare",
-            "Slug": "The-Thing-in-the-Depths-Nightmare-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/The-Thing-in-the-Depths-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Forced: After The Thing in the Depths enemy enters play, it attacks each player in turn order from the staging area (deal and resolve a shadow card for each attack).",
-                    "Stage 3B gains: `Forced: At the beginning of the quest phase, if there are fewer locations in play than the number of players, discard cards from the top of the encounter deck until a location is discarded. Reveal that location.",
-                    "Forced: At the end of the refresh phase, resolve the grapple keyword on each Tentacle enemy in play."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the The Thing in the Depths scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "2x Corsair Infiltrator",
-                    "1x Crew Quarters",
-                    "1x Crushing Arm",
-                    "1x Grasping Arm",
-                    "1x Giant Arm",
-                    "Then shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Thing in the Depths encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Captain's Quarters",
-            "Slug": "Captain's-Quarters-TTiTDN",
-            "IsUnique": true,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Captain's-Quarters.jpg",
-                "Stats": {
-                    "Threat": "5",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Ship."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Captain`s Quarters is grappled, Raider characters are considered to have no resources.",
-                    "Travel: Add 2 resources to Captain Sahír (even if he is out of play) and 1 resource to each other Raider card in play."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Brenda Bae",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Aft Cabin",
-            "Slug": "Aft-Cabin-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Aft-Cabin.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Ship.",
-                    "Deck."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Aft Cabin is in the staging area, each enemy grappled with each Deck location adds 3 Threat instead of 2 Threat.",
-                    "Forced: After an enemy is detached from Aft Cabin, that enemy gets +3 Defense until the end of the round."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Tumultuous Waters",
-            "Slug": "Tumultuous-Waters-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Tumultuous-Waters.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Weather."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Exhaust each character with 1 or less Willpower. Remove all resources from each ready hero and objective-ally."
-                ],
-                "Shadow": "Shadow: If the defending character has 1 or less Willpower, treat this attack as undefended.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Stormcaller Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Corsair Duelist",
-            "Slug": "Corsair-Duelist-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Corsair-Duelist.jpg",
-                "Stats": {
-                    "EngagementCost": "36",
-                    "Threat": "3",
-                    "Attack": "3",
-                    "Defense": "1",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Corsair.",
-                    "Raider."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Corsair Duelist enters play with 2 resources on it.",
-                    "Forced: When Corsair Duelist would be defeated, remove 1 resource and all damage from it instead."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each resource on it.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Corsair Raiders Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Slithering Arm",
-            "Slug": "Slithering-Arm-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Slithering-Arm.jpg",
-                "Stats": {
-                    "EngagementCost": "0",
-                    "Threat": "0",
-                    "Attack": "4",
-                    "Defense": "1",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Tentacle."
-                ],
-                "Keywords": [
-                    "Surge.",
-                    "Grapple (most enemies grappled)."
-                ],
-                "Text": [
-                    "Surge. Grapple (most enemies grappled).",
-                    "Forced: After Slitering Arm engages a player, it makes an immediate attack against that player."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Thing in the Depths Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Crashing Arm",
-            "Slug": "Crashing-Arm-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Crashing-Arm.jpg",
-                "Stats": {
-                    "EngagementCost": "27",
-                    "Threat": "2",
-                    "Attack": "6",
-                    "Defense": "1",
-                    "HitPoints": "7"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Tentacle."
-                ],
-                "Keywords": [
-                    "Grapple (fewest enemies grappled)."
-                ],
-                "Text": [
-                    "Grapple (fewest enemies grappled).",
-                    "Forced: After Crashing Arm is detaced from a location, deal it 3 shadow cards."
-                ],
-                "Shadow": "Shadow: Attacking enemy makes an additional attack after this one.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Thing in the Depths Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Deep Maelstrom",
-            "Slug": "Deep-Maelstrom-TTiTDN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Thing-in-the-Depths-Nightmare/Deep-Maelstrom.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: For each location in play that is not grappled, reveal the top card of the encounter deck. If no cards are revealed by this effect, Deep Maelstrom gains Doomed 5. Cannot be canceled."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each enemy grappled with a location.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Thing in the Depths Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Thing in the Depths Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

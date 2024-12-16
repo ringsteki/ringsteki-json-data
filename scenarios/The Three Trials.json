@@ -5,6 +5,358 @@
     "Number": 2,
     "AllCards": [
         {
+            "Title": "Wolf Spirit",
+            "Slug": "Wolf-Spirit-TTTN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Wolf-Spirit.jpg",
+                "Stats": {
+                    "EngagementCost": "30",
+                    "Threat": "2",
+                    "Attack": "5",
+                    "Defense": "1",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Undead.",
+                    "Spirit.",
+                    "Wolf."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Wolf`s Guardian is in play or in the victory display, each Wolf enemy gets +1 Attack.\nForced: At the beginning of the encounter phase, Wolf Spirit engages the player who controls Key of the Wolf or is engaged with Wolf`s Guardian, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 3,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08002",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 331787,
+            "Categories": null
+        },
+        {
+            "Title": "Raven Spirit",
+            "Slug": "Raven-Spirit-TTTN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Raven-Spirit.jpg",
+                "Stats": {
+                    "EngagementCost": "40",
+                    "Threat": "3",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Undead.",
+                    "Spirit.",
+                    "Raven."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Raven`s Guardian is in play or in the victory display, each Raven enemy gets +1 Threat.\nForced: At the beginning of the encounter phase, Raven Spirit engages the player who controls Key of the Raven or is engaged with Raven`s Guardian, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 299559,
+            "Categories": null
+        },
+        {
+            "Title": "Trial of Ancestors",
+            "Slug": "Trial-of-Ancestors-TTTN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Trial-of-Ancestors.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Attach to the current quest. (Counts as Condition attachment with the text: `Each non-unique characters gets -1 Willpower and cannot attack enemies that share a Trait with the current trial`s Key objective.`)\n"
+                ],
+                "Shadow": "Shadow: If the defending character is not unique, attacking enemy gets +10 Attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Davis Engel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 253433,
+            "Categories": null
+        },
+        {
+            "Title": "The Three Trials Nightmare",
+            "Slug": "The-Three-Trials-Nightmare-TTTN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/The-Three-Trials-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nEach engaged Guardian enemy contributes its Threat to the total Threat in the staging area.\nWhile the Trial of Intuition is the current trial, each Guardian enemy cannot be damaged, and each Barrow location cannot be the active location and is immune to player card effects.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`I am not ready for such a trial, if indeed I shall ever be so...`\n-Gandalf, The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for The Three Trials scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n3x Spirit of the Wild\n3x Grim Foothills\n1x Tangled Woods\n3x Turned Around\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Three Trials encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08001",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 15291,
+            "Categories": null
+        },
+        {
+            "Title": "Sacred Forest",
+            "Slug": "Sacred-Forest-TTTN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Sacred-Forest.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Sacred Forest is in the staging area, each Guardian enemy gains: `Forced: After any number of time counters are removed from this enemy, heal 2 damage on it for each time counter removed.`\nTravel: Remove each time counter from an enemy in play to travel here.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 95881,
+            "Categories": null
+        },
+        {
+            "Title": "Haunted Pillars",
+            "Slug": "Haunted-Pillars-TTTN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Haunted-Pillars.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Forest.",
+                    "Hills."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When faced with the option to travel, players must travel to Haunted Pillars, if able.\nWhen Revealed: Either return the active location to the staging area, or Haunted Pillars gains surge.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +3 Defense until the end of the phase.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 2,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08006",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 91897,
+            "Categories": null
+        },
+        {
+            "Title": "Boar Spirit",
+            "Slug": "Boar-Spirit-TTTN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Boar-Spirit.jpg",
+                "Stats": {
+                    "EngagementCost": "20",
+                    "Threat": "1",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Undead.",
+                    "Spirit.",
+                    "Boar."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "If Boar`s Guardian is in play or in the victory display, each Boar enemy gets +1 Defense.\nForced: At the beginning of the encounter phase, Boar Spirit engages the player who controls Key of the Boar or is engaged with Boar`s Guardian, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Anthony Devine",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08003",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 41112,
+            "Categories": null
+        },
+        {
+            "Title": "Cursed Burden",
+            "Slug": "Cursed-Burden-TTTN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Cursed-Burden.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Attach to a hero with a Key objective attached, if able. (Counts as a Condition attachment with the text: `Limit 1 per hero. Attached hero cannot commit to the quest, and cannot attack or defend against enemies with a Trait shared by any of that hero`s attached Key objectives.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Three Trials Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "The Three Trials Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Jessica Savard",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "08007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 27260,
+            "Categories": null
+        },
+        {
             "Title": "Ancient Forest",
             "Slug": "Ancient-Forest-Location-VoI",
             "IsUnique": false,
@@ -23,7 +375,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Ancient Forest is in the staging area, each Forest location in the staging area gets +1 Threat and +3 quest points. This ability does not stack with other copies of Ancient Forest."
+                    "While Ancient Forest is in the staging area, each Forest location in the staging area gets +1 Threat and +3 quest points. This ability does not stack with other copies of Ancient Forest.\n"
                 ],
                 "Shadow": "Shadow: Defending player exhausts a character he controls.",
                 "FlavorText": null
@@ -66,7 +418,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Tangled Woods is in the staging area, each Forest location in plays gains: `Travel: Exhaust a hero to travel here.` This ability does not stack with other copies of Tangled Woods."
+                    "While Tangled Woods is in the staging area, each Forest location in plays gains: `Travel: Exhaust a hero to travel here.` This ability does not stack with other copies of Tangled Woods.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The forest was dark and close. -The Two Towers"
@@ -104,7 +456,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Either remove 1 time counter from a card in play, or return the active location to the staging area."
+                    "When Revealed: Either remove 1 time counter from a card in play, or return the active location to the staging area.\n"
                 ],
                 "Shadow": "Shadow: If this attack is undefended, return the active location to the staging area.",
                 "FlavorText": null
@@ -144,7 +496,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Set aside all 3 Guardian enemies, all 3 Key objectives, all 3 Barrow locations, and Hallowed Circle."
+                    "Setup: Set aside all 3 Guardian enemies, all 3 Key objectives, all 3 Barrow locations, and Hallowed Circle.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "At the edge of a cursed forest, the Boar Shaman explains that you must undertake three trials in order to recover the Antlered Crown, or face death. Each trial will test your worthiness. Guardian spirits watch over three sacred swords, protecting them from the undeserving."
@@ -159,7 +511,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The players advance to a stage 2A quest of their choice."
+                    "When Revealed: The players advance to a stage 2A quest of their choice.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Three ancient barrows mark the locations for the trials, each the resting place of a different guardian spirit. The Boar Clan waits at the forest`s edge for any sign of your victory... or your death. Your only option is to press onward, heading towards the site of one of the three trials..."
@@ -200,7 +552,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and attach it to that enemy."
+                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and attach it to that enemy.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A rotting corpse guards the inner chamber of this barrow, holding in its grasp a worn sword that looks like one of the keys the Boar Shaman described to you. When you reach for the key, the guardian springs to life and attacks you!"
@@ -215,8 +567,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.",
-                    "When the players control the current trial`s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Barrow locations cannot be the active location and are immune to player card effects.\nWhen the players control the current trial`s Key objective, add all Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -257,7 +608,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Randomly choose 1 of the remaining set aside Barrow locations and add it to the staging area. Then, randomly choose 1 of the remaining set aside Key objectives and attach it to that Barrow location. Find the set aside Guardian enemy that shares a Trait with the Key objective in play and reveal it, adding it to the staging area."
+                    "When Revealed: Randomly choose 1 of the remaining set aside Barrow locations and add it to the staging area. Then, randomly choose 1 of the remaining set aside Key objectives and attach it to that Barrow location. Find the set aside Guardian enemy that shares a Trait with the Key objective in play and reveal it, adding it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A huge barrow towers before you, cold mist enveloping the entrance. The key is somewhere inside, but a heavy chill fills you with dread and unease..."
@@ -272,8 +623,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.",
-                    "When the players control the current trial`s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Guardian enemies cannot be damaged or leave play except by quest effect.\nWhen the players control the current trial`s Key objective, add all Guardian enemies in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -314,7 +664,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Shuffle the encounter discard pile into the encounter deck. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and suffle it into the bottom 10 cards of the encounter deck."
+                    "When Revealed: Randomly choose 1 of the remaining set aside Guardian enemies and 1 of the remaining set aside Barrow locations, reveal them, and add them to the staging area. Shuffle the encounter discard pile into the encounter deck. Find the set aside Key objective that shares a Trait with the just revealed Guardian enemy and suffle it into the bottom 10 cards of the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have found the barrow where the trial should take place, but the key cannot be found. You are sure the key`s guardian is watching you... Where is the key?"
@@ -329,8 +679,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)",
-                    "When the players control the current trial`s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead."
+                    "Each Guardian enemy engages the first player. Any time players would place progress on this quest, discard an equal number of cards from the encounter deck instead. (Progress is placed on the active location before triggering this effect.)\nWhen the players control the current trial`s Key objective, add all Guardian enemies and Barrow locations in play to the victory display and immediately advance to a stage 2A of the players` choice. If all stage 2 quests have been defeated, advance to stage 3A, instead.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -371,7 +720,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Hallowed Circle to the staging area. Reveal each Guardian enemy in the victory display, adding them to the staging area."
+                    "When Revealed: Add Hallowed Circle to the staging area. Reveal each Guardian enemy in the victory display, adding them to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have finally completed the trials and recovered each key. None have made it this far before. You hasten to the hallowed circle in the center of the forest. All that`s left is to insert the hilts of these swords into the marked stone the shaman described, and the Antlered Crown will be yours. As you advance, a thick fog gathers around you and growing dread tugs at your mind."
@@ -386,8 +735,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.",
-                    "Players cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game."
+                    "Each Guardian enemy engages the player who controls the Key objective with a Trait shared by that enemy.\nPlayers cannot defeat this stage unless Hallowed Circle is in the victory display. If the players defeat this stage, they win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Out of the fog, the angry guardian spirits emerge once more, determined to stop you from retrieving the crown. You desperately rush to the circle while fending them off."
@@ -438,8 +786,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Cannot have non-Key attachments.",
-                    "Time 2. Forced: After the last time counter is removed from Boar`s Guardian, the engaged player must discard an ally he controls. Place 2 time counters on Boar`s Guardian."
+                    "Cannot have non-Key attachments.\nTime 2. Forced: After the last time counter is removed from Boar`s Guardian, the engaged player must discard an ally he controls. Place 2 time counters on Boar`s Guardian.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -489,8 +836,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Cannot have non-Key attachments.",
-                    "Time 3. Forced: After the last time counter is removed from Wolf`s Guardian, it makes an immediate attack against the engaged player. Place 3 time counters on Wolf`s Guardian."
+                    "Cannot have non-Key attachments.\nTime 3. Forced: After the last time counter is removed from Wolf`s Guardian, it makes an immediate attack against the engaged player. Place 3 time counters on Wolf`s Guardian.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -540,8 +886,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Cannot have non-Key attachments.",
-                    "Time 4. Forced: After the last time counter is removed from Raven`s Guardian, deal 1 damage to each character controlled by the engaged player. Place 4 time counters on Raven`s Guardian."
+                    "Cannot have non-Key attachments.\nTime 4. Forced: After the last time counter is removed from Raven`s Guardian, deal 1 damage to each character controlled by the engaged player. Place 4 time counters on Raven`s Guardian.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -583,8 +928,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Boar and attach it to a hero he controls.",
-                    "If Key of the Boar is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Boar and attach it to a hero he controls.\nIf Key of the Boar is discarded, add it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Boar back into the encounter deck.",
                 "FlavorText": null
@@ -626,8 +970,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Wolf and attach it to a hero he controls.",
-                    "If Key of the Wolf is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Wolf and attach it to a hero he controls.\nIf Key of the Wolf is discarded, add it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Wolf back into the encounter deck.",
                 "FlavorText": null
@@ -669,8 +1012,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "If unattached, the first player must claim Key of the Raven and attach it to a hero he controls.",
-                    "If Key of the Raven is discarded, add it to the staging area."
+                    "If unattached, the first player must claim Key of the Raven and attach it to a hero he controls.\nIf Key of the Raven is discarded, add it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: Shuffle Key of the Raven back into the encounter deck.",
                 "FlavorText": null
@@ -717,7 +1059,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "Forced: When a Guardian enemy attacks, deal it 1 additional shadow card."
+                    "Forced: When a Guardian enemy attacks, deal it 1 additional shadow card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "They heard of the Great Barrows, and the green mounds, and the stone-rings upon the hills and in the hollows among the hills. -The Fellowship of the Ring"
@@ -762,7 +1104,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "The players, as a group, cannot have more than 5 allies in play. (If there are more than 5 allies in play, discard allies until only 5 remain.)"
+                    "The players, as a group, cannot have more than 5 allies in play. (If there are more than 5 allies in play, discard allies until only 5 remain.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Raising himself on one arm he looked, and saw now in the pale light that they were in a kind of passage which behind them turned a corner. -The Fellowship of the Ring"
@@ -809,7 +1151,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "Forced: After a Guardian enemy attacks, raise each player`s threat by X, where X is that enemy`s Threat."
+                    "Forced: After a Guardian enemy attacks, raise each player`s threat by X, where X is that enemy`s Threat.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Stone rings grinned out of the ground like broken teeth in the moonlight. -The Fellowship of the Ring"
@@ -855,9 +1197,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects. X is the number of players in the game.",
-                    "Travel: The players must exhaust 3 Key objectives.",
-                    "Forced: After the players travel here, each engaged Guardian enemy makes an immediate attack."
+                    "Immune to player card effects. X is the number of players in the game.\nTravel: The players must exhaust 3 Key objectives.\nForced: After the players travel here, each engaged Guardian enemy makes an immediate attack.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -904,8 +1244,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "Spirit of the Wild gets +1 Threat and +1 Attack for each Key objectives the players control."
+                    "Cannot have attachments.\nSpirit of the Wild gets +1 Threat and +1 Attack for each Key objectives the players control.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack for each Key objective the players control.",
                 "FlavorText": null
@@ -948,7 +1287,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Search the encounter deck and discard pile for a Spirit enemy and add it to the staging area."
+                    "Travel: Search the encounter deck and discard pile for a Spirit enemy and add it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, remove a time counter from an enemy, if able.",
                 "FlavorText": null
@@ -993,9 +1332,7 @@
                     "Doomed 2."
                 ],
                 "Text": [
-                    "Doomed 2.",
-                    "X is the number of players in the game.",
-                    "While Grim Foothills is in the staging area, progress must be placed on Grim Foothills before it can be placed on the active location."
+                    "Doomed 2.\nX is the number of players in the game.\nWhile Grim Foothills is in the staging area, progress must be placed on Grim Foothills before it can be placed on the active location.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1033,7 +1370,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each non-unique character in play. If the players control 3 Key objectives, Curse of the Wild Men gains surge."
+                    "When Revealed: Deal 1 damage to each non-unique character in play. If the players control 3 Key objectives, Curse of the Wild Men gains surge.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 AQttack for each Key objective the players control.",
                 "FlavorText": null
@@ -1071,7 +1408,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each Guardian enemy makes an attack. If there are no Guardian enemies in play, reveal a random Guardian enemy from the victory display, and add it to the staging area."
+                    "When Revealed: Each Guardian enemy makes an attack. If there are no Guardian enemies in play, reveal a random Guardian enemy from the victory display, and add it to the staging area.\n"
                 ],
                 "Shadow": "Shadow: If the attacking enemy is a Guardian, it makes an additional attack after this one.",
                 "FlavorText": null
@@ -1109,7 +1446,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove X time counters from each enemy in play with the time keyword, where X is the number of players."
+                    "When Revealed: Remove X time counters from each enemy in play with the time keyword, where X is the number of players.\n"
                 ],
                 "Shadow": "Shadow: If attacking enemy is a Guardian, deal it 2 additional shadow cards for this attack.",
                 "FlavorText": null
@@ -1129,366 +1466,6 @@
             "HasErrata": false,
             "OctgnGuid": "f24f8d3e-3193-4111-9fea-ecdbbafd921a",
             "RingsDbCardId": "08055",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Three Trials Nightmare",
-            "Slug": "The-Three-Trials-Nightmare-TTTN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/The-Three-Trials-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Each engaged Guardian enemy contributes its Threat to the total Threat in the staging area.",
-                    "While the Trial of Intuition is the current trial, each Guardian enemy cannot be damaged, and each Barrow location cannot be the active location and is immune to player card effects."
-                ],
-                "Shadow": null,
-                "FlavorText": "`I am not ready for such a trial, if indeed I shall ever be so...`\r\n-Gandalf, The Two Towers"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for The Three Trials scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n3x Spirit of the Wild\n3x Grim Foothills\n1x Tangled Woods\n3x Turned Around\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard The Three Trials encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Wolf Spirit",
-            "Slug": "Wolf-Spirit-TTTN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Wolf-Spirit.jpg",
-                "Stats": {
-                    "EngagementCost": "30",
-                    "Threat": "2",
-                    "Attack": "5",
-                    "Defense": "1",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Undead.",
-                    "Spirit.",
-                    "Wolf."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Wolf`s Guardian is in play or in the victory display, each Wolf enemy gets +1 Attack.",
-                    "Forced: At the beginning of the encounter phase, Wolf Spirit engages the player who controls Key of the Wolf or is engaged with Wolf`s Guardian, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 3,
-            "Artist": "Anthony Devine",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Boar Spirit",
-            "Slug": "Boar-Spirit-TTTN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Boar-Spirit.jpg",
-                "Stats": {
-                    "EngagementCost": "20",
-                    "Threat": "1",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Undead.",
-                    "Spirit.",
-                    "Boar."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Boar`s Guardian is in play or in the victory display, each Boar enemy gets +1 Defense.",
-                    "Forced: At the beginning of the encounter phase, Boar Spirit engages the player who controls Key of the Boar or is engaged with Boar`s Guardian, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Anthony Devine",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Raven Spirit",
-            "Slug": "Raven-Spirit-TTTN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Raven-Spirit.jpg",
-                "Stats": {
-                    "EngagementCost": "40",
-                    "Threat": "3",
-                    "Attack": "3",
-                    "Defense": "3",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Undead.",
-                    "Spirit.",
-                    "Raven."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "If Raven`s Guardian is in play or in the victory display, each Raven enemy gets +1 Threat.",
-                    "Forced: At the beginning of the encounter phase, Raven Spirit engages the player who controls Key of the Raven or is engaged with Raven`s Guardian, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Anthony Devine",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Sacred Forest",
-            "Slug": "Sacred-Forest-TTTN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Sacred-Forest.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Forest."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Sacred Forest is in the staging area, each Guardian enemy gains: `Forced: After any number of time counters are removed from this enemy, heal 2 damage on it for each time counter removed.`",
-                    "Travel: Remove each time counter from an enemy in play to travel here."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Yoann Boissonnet",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Haunted Pillars",
-            "Slug": "Haunted-Pillars-TTTN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Haunted-Pillars.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Forest.",
-                    "Hills."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When faced with the option to travel, players must travel to Haunted Pillars, if able.",
-                    "When Revealed: Either return the active location to the staging area, or Haunted Pillars gains surge."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +3 Defense until the end of the phase.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 2,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cursed Burden",
-            "Slug": "Cursed-Burden-TTTN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Cursed-Burden.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to a hero with a Key objective attached, if able. (Counts as a Condition attachment with the text: `Limit 1 per hero. Attached hero cannot commit to the quest, and cannot attack or defend against enemies with a Trait shared by any of that hero`s attached Key objectives.`)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Jessica Savard",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Trial of Ancestors",
-            "Slug": "Trial-of-Ancestors-TTTN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Three-Trials-Nightmare/Trial-of-Ancestors.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Attach to the current quest. (Counts as Condition attachment with the text: `Each non-unique characters gets -1 Willpower and cannot attack enemies that share a Trait with the current trial`s Key objective.`)"
-                ],
-                "Shadow": "Shadow: If the defending character is not unique, attacking enemy gets +10 Attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Three Trials Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "The Three Trials Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "Davis Engel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

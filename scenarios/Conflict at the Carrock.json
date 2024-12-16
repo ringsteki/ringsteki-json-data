@@ -5,6 +5,459 @@
     "Number": 2,
     "AllCards": [
         {
+            "Title": "Louis",
+            "Slug": "Louis-CatCN",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Louis.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "Forced: After Louis attacks, the defending player must raise his threat by 3.\nWhile Louis is in the victory display, each Troll enemy gains, `Forced: After this enemy attacks, the defending player must raise his threat by 1.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 593115,
+            "Categories": null
+        },
+        {
+            "Title": "Savage Hill-troll",
+            "Slug": "Savage-Hill-troll-CatCN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Savage-Hill-troll.jpg",
+                "Stats": {
+                    "EngagementCost": "21",
+                    "Threat": "1",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 1."
+                ],
+                "Text": [
+                    "While Savage Hill-troll is in the victory display, each Troll enemy gets +1 hit point.\n"
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Troll, defending character does not ready during the refresh phase this round.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 4,
+            "Artist": "Jim Pavelec",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02002",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 587205,
+            "Categories": null
+        },
+        {
+            "Title": "Rob and Bob",
+            "Slug": "Rob-and-Bob-CatCN",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Rob-and-Bob.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "4",
+                    "Attack": "5",
+                    "Defense": "4",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Rob and Bob makes its first attack each round, if there are two or more players, it engages the next player and makes an additional attack (discard and deal a new shadow card for this attack).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Yes, I am afraid trolls do behave like that, even those with only one head each.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Jim Pavelec",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02003",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356521,
+            "Categories": null
+        },
+        {
+            "Title": "Morris",
+            "Slug": "Morris-CatCN",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Morris.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "3",
+                    "Attack": "4",
+                    "Defense": "2",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "Immune to player events.\nWhile Morris is in the victory display, each Troll enemy gets +1 Attack and gains `Immune to player events.`.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02005",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356408,
+            "Categories": null
+        },
+        {
+            "Title": "Rupert",
+            "Slug": "Rupert-CatCN",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Rupert.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "2",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "Rupert`s Defense cannot be reduced.\nWhile Rupert is in the victory display, the Defense of each Troll enemy cannot be reduced.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Sidharth Chatursedi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02006",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 309994,
+            "Categories": null
+        },
+        {
+            "Title": "Time for Supper",
+            "Slug": "Time-for-Supper-CatCN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Time-for-Supper.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player chooses a hero in any player`s discard pile and removes that hero from the game. Then, heal all damage from each Troll enemy in play. If no damage is removed from any Troll enemy as a result of this effect, Time for Supper gains surge.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "In the end they decided to mince them fine and boil them. So they got a black pot, and they took out their knives.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02010",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 306786,
+            "Categories": null
+        },
+        {
+            "Title": "Troll Lair",
+            "Slug": "Troll-Lair-CatCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Troll-Lair.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Troll Lair is in the staging area, players cannot reduce their threat.\n"
+                ],
+                "Shadow": "Shadow: If attacking enemy is a Troll, remove 4 damage tokens from it.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Ed Mattinian",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 197882,
+            "Categories": null
+        },
+        {
+            "Title": "Hives and Hives",
+            "Slug": "Hives-and-Hives-CatCN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Hives-and-Hives.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Wilderlands."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After any amount of progress is placed on Hives and Hives, deal 1 damage to each character in play.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
+                "FlavorText": "There was a buzzing and a whirring and a droning in the air. Bees were busy everywhere. And such bees! Bilbo had never seen anything like them.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Jose Vega",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 156564,
+            "Categories": null
+        },
+        {
+            "Title": "Stuart",
+            "Slug": "Stuart-CatCN",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Stuart.jpg",
+                "Stats": {
+                    "EngagementCost": "34",
+                    "Threat": "2",
+                    "Attack": "4",
+                    "Defense": "4",
+                    "HitPoints": "10"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [
+                    "Victory 2."
+                ],
+                "Text": [
+                    "Cannot have player attachments.\nWhile Stuart is in the victory display, each Troll enemy gets +1 Defense and gains `Cannot have player attachments.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Conflict at the Carrock Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 148433,
+            "Categories": null
+        },
+        {
+            "Title": "Conflict at the Carrock Nightmare",
+            "Slug": "Conflict-at-the-Carrock-Nightmare-CatCN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Conflict-at-the-Carrock-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nStage 1A should read, `Remove 5 unique Troll cards` instead of 4.\nStage 2B should read, `When Revealed: Place Louis, Morris, Rupert and Stuart into the staging area.`\nForced: At the end of the quest phase, if no progress was placed on the current quest this phase, place 1 progress on the current quest (bypassing the active location).\nReponse: After defeating a unique Troll enemy, you may choose and discard 1 `Sacked!` card from play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Conflict at the Carrock scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x Grimbeorn the Old\n1x Louis\n1x Morris\n1x Stuart\n1x Rupert\n3x Bee Pastures\n3x Oak-wood Grove\n1x Roasted Slowly\n3x Misty Mountain Goblins\n2x Banks of the Anduin\n1x Wolf Rider\n2x Goblin Sniper\n2x Wargs\n2x Despair\n2x The Brown Lands\n2x The East Bight\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Conflict at the Carrock encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Conflict at the Carrock Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Jake Murray",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 9188,
+            "Categories": null
+        },
+        {
             "Title": "Wolf Rider",
             "Slug": "Wolf-Rider-Core",
             "IsUnique": false,
@@ -29,7 +482,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge."
+                    "Surge.\n"
                 ],
                 "Shadow": "Shadow: Wolf Rider attacks the defending player. That player may declare 1 character as a defender. Deal Wolf Rider its own Shadow card. After combat, return Wolf Rider to the top of the encounter deck.",
                 "FlavorText": null
@@ -77,10 +530,10 @@
                     "Victory 4."
                 ],
                 "Text": [
-                    "Excess combat damage dealt by Hill Troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) must be assigned as an increase to your threat."
+                    "Excess combat damage dealt by Hill Troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) must be assigned as an increase to your threat.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`Mutton yesterday, mutton today, and blimey, if it don`t look like mutton again tomorrow.`\r\n-Troll, The Hobbit"
+                "FlavorText": "`Mutton yesterday, mutton today, and blimey, if it don`t look like mutton again tomorrow.`\n-Troll, The Hobbit"
             },
             "Back": null,
             "CardSet": "Core Set",
@@ -124,7 +577,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls."
+                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -172,7 +625,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Forced: Each time Marsh Adder attacks you, raise your threat by 1."
+                    "Forced: Each time Marsh Adder attacks you, raise your threat by 1.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Under the boughs of Mirkwood there was deadly strife of Elves and Men and fell beasts.\r\n-The Fellowship of the Ring"
@@ -218,7 +671,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks."
+                    "Forced: If Wargs is dealt a shadow card with no effect, return Wargs to the staging area after it attacks.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets 1 Attack. (2 Attack instead if this attack is undefended.)",
                 "FlavorText": null
@@ -256,7 +709,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove 4 progress tokens from the current quest card. (If there are fewer than 4 progress tokens on the quest, remove all progress tokens from that quest.)"
+                    "When Revealed: Remove 4 progress tokens from the current quest card. (If there are fewer than 4 progress tokens on the quest, remove all progress tokens from that quest.)\n"
                 ],
                 "Shadow": "Shadow: Defending character does not count its Defense.",
                 "FlavorText": null
@@ -299,7 +752,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After the players travel to The Brown Lands, place 1 progress token on it."
+                    "Forced: After the players travel to The Brown Lands, place 1 progress token on it.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "They had come to the Brown Lands that lay, vast and desolate, between Southern Mirkwood and the hills of the Emyn Muil. What pestilence or war or evil deed of the Enemy had so blasted all that region even Aragorn could not tell.\r\n-The Fellowship of the Ring"
@@ -342,7 +795,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When faced with the option to travel, the players must travel to The East Bight if there is no active location."
+                    "When faced with the option to travel, the players must travel to The East Bight if there is no active location.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`...to the east the lands are waste, and full of Sauron`s creatures...`\r\n-Haldir, The Fellowship of the Ring"
@@ -389,7 +842,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Misty Mountain Goblins attacks, remove 1 progress token from the current quest."
+                    "Forced: After Misty Mountain Goblins attacks, remove 1 progress token from the current quest.\n"
                 ],
                 "Shadow": "Shadow: Remove 1 progress token from the current quest. (3 progress tokens instead if this attack is undefended.)",
                 "FlavorText": null
@@ -427,7 +880,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Reveal X additional cards from the encounter deck. X is the number of players in the game."
+                    "When Revealed: Reveal X additional cards from the encounter deck. X is the number of players in the game.\n"
                 ],
                 "Shadow": "Shadow: Deal X shadow cards to this attacker. X is the number of players in the game.",
                 "FlavorText": null
@@ -470,7 +923,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: If Banks of the Anduin leaves play, return it to the top of the encounter deck instead of placing it in the discard pile."
+                    "Forced: If Banks of the Anduin leaves play, return it to the top of the encounter deck instead of placing it in the discard pile.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Here and there through openings Frodo could catch sudden glimpses of rolling mounds, and far beyond them hills in the sunset, and away on the edge of sight a dark line, where marches the southernmost ranks of the Misty Mountains.\r\n-The Fellowship of the Ring"
@@ -515,7 +968,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "Forced: While Gladden Fields is the active location, each player must raise his threat by an additional point during the refresh phase."
+                    "Forced: While Gladden Fields is the active location, each player must raise his threat by an additional point during the refresh phase.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`On a time they took a boat and went down to the Gladden Fields, where there were great beds of iris and flowering reeds.`\r\n-Gandalf, The Fellowship of the Ring"
@@ -555,7 +1008,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Add The Carrock to the staging area. Remove 4 unique Troll cards and 4 copies of the `Sacked!` card from the encounter deck and set them aside, out of play. Then shuffle 1 `Sacked!` card per player back into the encounter deck."
+                    "Setup: Add The Carrock to the staging area. Remove 4 unique Troll cards and 4 copies of the `Sacked!` card from the encounter deck and set them aside, out of play. Then shuffle 1 `Sacked!` card per player back into the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "While searching for Gollum in the Anduin valley, you recieve word that a group of Trolls have come to the Carrock."
@@ -570,7 +1023,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After placing the 7th progress token on Grimbeorn`s Quest, The Carrock becomes the active location. Discard the previous active location from play."
+                    "Forced: After placing the 7th progress token on Grimbeorn`s Quest, The Carrock becomes the active location. Discard the previous active location from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As this area is under the watch of the Beornings, you seek out their leader, Grimbeorn the Old, and discover he has already set out in a rage. You follow, hoping to find him before he confronts the Trolls."
@@ -625,8 +1078,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Place the unique Troll cards previously set aside into the staging area.",
-                    "Players cannot defeat this stage if there are any Troll enemies in play."
+                    "When Revealed: Place the unique Troll cards previously set aside into the staging area.\nPlayers cannot defeat this stage if there are any Troll enemies in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -673,9 +1125,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Grimbeorn the Old does not exhaust to defend against Troll enemies.",
-                    "If Grimbeorn the Old has 8 or more resource tokens on him, he joins the first player as an ally.",
-                    "Action: Spend 1 Leadership resource to place that resource on Grimbeorn the Old."
+                    "Grimbeorn the Old does not exhaust to defend against Troll enemies.\nIf Grimbeorn the Old has 8 or more resource tokens on him, he joins the first player as an ally.\nAction: Spend 1 Leadership resource to place that resource on Grimbeorn the Old.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -721,8 +1171,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Louis is engaged with a player, all Troll enemies gain, `Forced: After this enemy attacks, the defending player must raise his threat by 3.`",
-                    "Response: After defeating Louis, you may choose and discard 1 `Sacked!` card from play."
+                    "While Louis is engaged with a player, all Troll enemies gain, `Forced: After this enemy attacks, the defending player must raise his threat by 3.`\nResponse: After defeating Louis, you may choose and discard 1 `Sacked!` card from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -768,8 +1217,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Morris is engaged with a player, all Troll enemies get +1 Attack.",
-                    "Response: After defeating Morris, you may choose and discard 1 `Sacked!` card from play."
+                    "While Morris is engaged with a player, all Troll enemies get +1 Attack.\nResponse: After defeating Morris, you may choose and discard 1 `Sacked!` card from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -815,8 +1263,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Stuart is engaged with a player, all Troll enemies get +1 Defense.",
-                    "Response: After defeating Stuart, you may choose and discard 1 `Sacked!` card from play."
+                    "While Stuart is engaged with a player, all Troll enemies get +1 Defense.\nResponse: After defeating Stuart, you may choose and discard 1 `Sacked!` card from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -862,8 +1309,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Rupert attacks, shuffle all copies of the `Sacked!` card from the discard pile back into the encounter deck.",
-                    "Response: After defeating Rupert, you may choose and discard 1 `Sacked!` card from play."
+                    "Forced: After Rupert attacks, shuffle all copies of the `Sacked!` card from the discard pile back into the encounter deck.\nResponse: After defeating Rupert, you may choose and discard 1 `Sacked!` card from play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -909,7 +1355,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: If Muck Adder damages a character, discard that character from play."
+                    "Forced: If Muck Adder damages a character, discard that character from play.\n"
                 ],
                 "Shadow": "Shadow: Defending character gets -1 Defense for the duration of this attack.",
                 "FlavorText": null
@@ -952,8 +1398,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Players cannot travel to The Carrock except through quest card effects.While The Carrock is the active location, Troll enemies get +1 Attack and +1 Defense."
+                    "Immune to player card effects.\nPlayers cannot travel to The Carrock except through quest card effects.While The Carrock is the active location, Troll enemies get +1 Attack and +1 Defense.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -996,7 +1441,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While it is in the staging area, River Langflood gets +1 Threat for each Troll enemy in play."
+                    "While it is in the staging area, River Langflood gets +1 Threat for each Troll enemy in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1039,7 +1484,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After you travel to Bee Pastures, search the encounter deck and discard pile for Grimbeorn the Old and add him to the staging area. Then, shuffle the encounter deck."
+                    "Response: After you travel to Bee Pastures, search the encounter deck and discard pile for Grimbeorn the Old and add him to the staging area. Then, shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1082,7 +1527,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Oak-wood Grove is the active location, resource tokens from any sphere may be spent as Leadership resource tokens."
+                    "While Oak-wood Grove is the active location, resource tokens from any sphere may be spent as Leadership resource tokens.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1120,7 +1565,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player raises his threat by the total Threat of all cards in the staging area. Any player may choose to discard from play 1 Creature ally card he controls to cancel this effect."
+                    "When Revealed: Each player raises his threat by the total Threat of all cards in the staging area. Any player may choose to discard from play 1 Creature ally card he controls to cancel this effect.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Then, one of the ponies took fright at nothing and bolted. -The Hobbit"
@@ -1158,7 +1603,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Attach to a hero with no `Sacked!` cards attached controlled by the first player. (Cannot be canceled.) Counts as a condition attachment with the text: `Attached hero cannot attack, defend, commit to a quest, trigger its effect, or collect resources.`"
+                    "When Revealed: Attach to a hero with no `Sacked!` cards attached controlled by the first player. (Cannot be canceled.) Counts as a condition attachment with the text: `Attached hero cannot attack, defend, commit to a quest, trigger its effect, or collect resources.`\n"
                 ],
                 "Shadow": "Shadow: If attacking enemy is a Troll, resolve this card`s `when revealed` effect.",
                 "FlavorText": null
@@ -1196,7 +1641,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Destroy all heroes with the card `Sacked!` attached. Then, shuffle Roasted Slowly back into the encounter deck."
+                    "When Revealed: Destroy all heroes with the card `Sacked!` attached. Then, shuffle Roasted Slowly back into the encounter deck.\n"
                 ],
                 "Shadow": "Shadow: If attacking enemy is a Troll, remove 2 damage tokens from it.",
                 "FlavorText": null
@@ -1221,486 +1666,6 @@
             "Categories": null
         },
         {
-            "Title": "Conflict at the Carrock Nightmare",
-            "Slug": "Conflict-at-the-Carrock-Nightmare-CatCN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Conflict-at-the-Carrock-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Stage 1A should read, `Remove 5 unique Troll cards` instead of 4.",
-                    "Stage 2B should read, `When Revealed: Place Louis, Morris, Rupert and Stuart into the staging area.`",
-                    "Forced: At the end of the quest phase, if no progress was placed on the current quest this phase, place 1 progress on the current quest (bypassing the active location).",
-                    "Reponse: After defeating a unique Troll enemy, you may choose and discard 1 `Sacked!` card from play."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Conflict at the Carrock scenario.",
-                    "Remove the following cards, in the specified quantities, from the standard encounter deck:",
-                    "1x Grimbeorn the Old",
-                    "1x Louis",
-                    "1x Morris",
-                    "1x Stuart",
-                    "1x Rupert",
-                    "3x Bee Pastures",
-                    "3x Oak-wood Grove",
-                    "1x Roasted Slowly",
-                    "3x Misty Mountain Goblins",
-                    "2x Banks of the Anduin",
-                    "1x Wolf Rider",
-                    "2x Goblin Sniper",
-                    "2x Wargs",
-                    "2x Despair",
-                    "2x The Brown Lands",
-                    "2x The East Bight",
-                    "Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Conflict at the Carrock encounter deck.",
-                    "Finally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Jake Murray",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Savage Hill-troll",
-            "Slug": "Savage-Hill-troll-CatCN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Savage-Hill-troll.jpg",
-                "Stats": {
-                    "EngagementCost": "21",
-                    "Threat": "1",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [
-                    "Victory 1."
-                ],
-                "Text": [
-                    "While Savage Hill-troll is in the victory display, each Troll enemy gets +1 hit point."
-                ],
-                "Shadow": "Shadow: If attacking enemy is a Troll, defending character does not ready during the refresh phase this round.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 4,
-            "Artist": "Jim Pavelec",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rob and Bob",
-            "Slug": "Rob-and-Bob-CatCN",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Rob-and-Bob.jpg",
-                "Stats": {
-                    "EngagementCost": "34",
-                    "Threat": "4",
-                    "Attack": "5",
-                    "Defense": "4",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Rob and Bob makes its first attack each round, if there are two or more players, it engages the next player and makes an additional attack (discard and deal a new shadow card for this attack)."
-                ],
-                "Shadow": null,
-                "FlavorText": "Yes, I am afraid trolls do behave like that, even those with only one head each.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 1,
-            "Artist": "Jim Pavelec",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Louis",
-            "Slug": "Louis-CatCN",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Louis.jpg",
-                "Stats": {
-                    "EngagementCost": "34",
-                    "Threat": "4",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [
-                    "Victory 2."
-                ],
-                "Text": [
-                    "Forced: After Louis attacks, the defending player must raise his threat by 3.",
-                    "While Louis is in the victory display, each Troll enemy gains, `Forced: After this enemy attacks, the defending player must raise his threat by 1.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 1,
-            "Artist": "Jake Murray",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Morris",
-            "Slug": "Morris-CatCN",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Morris.jpg",
-                "Stats": {
-                    "EngagementCost": "34",
-                    "Threat": "3",
-                    "Attack": "4",
-                    "Defense": "2",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [
-                    "Victory 2."
-                ],
-                "Text": [
-                    "Immune to player events.",
-                    "While Morris is in the victory display, each Troll enemy gets +1 Attack and gains `Immune to player events.`."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 1,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Rupert",
-            "Slug": "Rupert-CatCN",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Rupert.jpg",
-                "Stats": {
-                    "EngagementCost": "34",
-                    "Threat": "2",
-                    "Attack": "5",
-                    "Defense": "3",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [
-                    "Victory 2."
-                ],
-                "Text": [
-                    "Rupert`s Defense cannot be reduced.",
-                    "While Rupert is in the victory display, the Defense of each Troll enemy cannot be reduced."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 1,
-            "Artist": "Sidharth Chatursedi",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Stuart",
-            "Slug": "Stuart-CatCN",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Stuart.jpg",
-                "Stats": {
-                    "EngagementCost": "34",
-                    "Threat": "2",
-                    "Attack": "4",
-                    "Defense": "4",
-                    "HitPoints": "10"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [
-                    "Victory 2."
-                ],
-                "Text": [
-                    "Cannot have player attachments.",
-                    "While Stuart is in the victory display, each Troll enemy gets +1 Defense and gains `Cannot have player attachments.`"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 1,
-            "Artist": "Mariusz Gandzel",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Troll Lair",
-            "Slug": "Troll-Lair-CatCN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Troll-Lair.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Forest."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Troll Lair is in the staging area, players cannot reduce their threat."
-                ],
-                "Shadow": "Shadow: If attacking enemy is a Troll, remove 4 damage tokens from it.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Ed Mattinian",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Hives and Hives",
-            "Slug": "Hives-and-Hives-CatCN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Hives-and-Hives.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Wilderlands."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After any amount of progress is placed on Hives and Hives, deal 1 damage to each character in play."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
-                "FlavorText": "There was a buzzing and a whirring and a droning in the air. Bees were busy everywhere. And such bees! Bilbo had never seen anything like them.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 3,
-            "Artist": "Jose Vega",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Time for Supper",
-            "Slug": "Time-for-Supper-CatCN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Conflict-at-the-Carrock-Nightmare/Time-for-Supper.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The first player chooses a hero in any player`s discard pile and removes that hero from the game. Then, heal all damage from each Troll enemy in play. If no damage is removed from any Troll enemy as a result of this effect, Time for Supper gains surge."
-                ],
-                "Shadow": null,
-                "FlavorText": "In the end they decided to mince them fine and boil them. So they got a black pot, and they took out their knives.\r\n-The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Conflict at the Carrock Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Conflict at the Carrock Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 10,
-            "Quantity": 3,
-            "Artist": "Álvaro Calvo Escudero",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00010",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
             "Title": "Grimbeorn's Folly",
             "Slug": "Grimbeorn's-Folly-CatCN",
             "IsUnique": false,
@@ -1716,7 +1681,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Add Rob and Bob to the staging area. Then, each player must search the encounter deck and discard pile for a non-unique Troll enemy and add it to the staging area, if able. Shuffle the encounter deck."
+                    "When Revealed: Add Rob and Bob to the staging area. Then, each player must search the encounter deck and discard pile for a non-unique Troll enemy and add it to the staging area, if able. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Just as you think the fight is over, you find tracks that lead you to what appears to be the leader of this group of Trolls. You can see Grimbeorn the Old, captured and ready to be cooked. It`s up to you to save him!"
@@ -1731,7 +1696,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Rob and Bob have been defeated, the players have rescued Grimbeon the Old from certain death, and won the game."
+                    "When Rob and Bob have been defeated, the players have rescued Grimbeon the Old from certain death, and won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "A nice pickle they were all in now. -The Hobbit"
@@ -1752,7 +1717,7 @@
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00011",
+            "RingsDbCardId": "02011",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

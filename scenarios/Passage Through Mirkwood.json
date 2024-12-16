@@ -5,6 +5,400 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Forest Flies",
+            "Slug": "Forest-Flies-PTMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Forest-Flies.jpg",
+                "Stats": {
+                    "EngagementCost": "27",
+                    "Threat": "4",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Insect."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After you engage Forest Flies, deal 1 damage to each exhausted character you control.\n"
+                ],
+                "Shadow": "Shadow: If attacking enemy is an Insect, deal it 2 additional shadow cards.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 593115,
+            "Categories": null
+        },
+        {
+            "Title": "Ungoliant's Spawn",
+            "Slug": "Ungoliant's-Spawn-PTMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Ungoliant's-Spawn.jpg",
+                "Stats": {
+                    "EngagementCost": "32",
+                    "Threat": "3",
+                    "Attack": "5",
+                    "Defense": "3",
+                    "HitPoints": "9"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Spider."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Until the end of the phase, each character currently committed to the quest gets -2 Willpower and is discarded if its Willpower is 0.\n"
+                ],
+                "Shadow": "Shadow: Raise defending player`s threat by 5. (Raise defending player`s threat by 10 instead if undefended.)",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Christopher Burdett",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02002",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 587205,
+            "Categories": null
+        },
+        {
+            "Title": "Ungoliant's Brood",
+            "Slug": "Ungoliant's-Brood-PTMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Ungoliant's-Brood.jpg",
+                "Stats": {
+                    "EngagementCost": "31",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Spider."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After you engage Ungoliant`s Brood, your cards cannot ready for the remainder of the round.\n"
+                ],
+                "Shadow": "Shadow: If this attack is undefended, exhaust all characters you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "S. C. Watson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02003",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356521,
+            "Categories": null
+        },
+        {
+            "Title": "Spiders of Mirkwood",
+            "Slug": "Spiders-of-Mirkwood-PTMN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Spiders-of-Mirkwood.jpg",
+                "Stats": {
+                    "EngagementCost": "18",
+                    "Threat": "3",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Spider."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While it is engaged with you, Spiders of Mirkwood gets +1 for each exhausted character you control.\n"
+                ],
+                "Shadow": "Shadow: Choose and exhaust 1 character you control. If this attack is undefended, also deal that character 2 damage.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Andrew Ryan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02005",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356408,
+            "Categories": null
+        },
+        {
+            "Title": "The Spider's Web",
+            "Slug": "The-Spider's-Web-PTMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/The-Spider's-Web.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The player with the highest threat exhausts all heroes he controls. Then, attach this card to one of that player`s heroes. (Counts as a Condition attachment with the text, `Each time attached hero readies, deal it 1 damage.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02006",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 309994,
+            "Categories": null
+        },
+        {
+            "Title": "Abandoned Camp",
+            "Slug": "Abandoned-Camp-PTMN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Abandoned-Camp.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Mirkwood."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Immune to player card effects.\nForced: After Abandoned Camp leaves play, each player must deal 2 damage to each exhausted character he controls.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Dana Li",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02008",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 197882,
+            "Categories": null
+        },
+        {
+            "Title": "Glade of the Spawn",
+            "Slug": "Glade-of-the-Spawn-PTMN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Glade-of-the-Spawn.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Mirkwood."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Glade of the Spawn is the active location, it gains: `Forced: After a Spider enemy enters play, each player must choose and exhaust 1 character he controls.`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...black even for that forest, like a patch of midnight that had never been cleared away.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "S. C. Watson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02009",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 156564,
+            "Categories": null
+        },
+        {
+            "Title": "Backtrack!",
+            "Slug": "Backtrack-PTMN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Backtrack.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: The topmost enemy or location card in the encounter discard pile is returned to the staging area.\n"
+                ],
+                "Shadow": "Shadow: Deal and resolve the topmost Shadow effect in the encounter discard pile for this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Passage Through Mirkwood Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 148433,
+            "Categories": null
+        },
+        {
+            "Title": "Passage Through Mirkwood Nightmare",
+            "Slug": "Passage-Through-Mirkwood-Nightmare-PTMN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Passage-Through-Mirkwood-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: During setup, each player reveals 1 card from the encounter deck and adds it to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Passage Through Mirkwood scenario found in the LOTR LCG core set.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\nUngoliant`s Spawn x1\nBlack Forest Bats x1\nForest Spider x3\nDol Guldur Orcs x3\nOld Forest Road x1\nForest Gate x2\nMountains of Mirkwood x3\nCaught in a Web x2\n\n\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Passage Through Mirkwood Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Stacey Diana Clark",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 9188,
+            "Categories": null
+        },
+        {
             "Title": "King Spider",
             "Slug": "King-Spider-Core",
             "IsUnique": false,
@@ -27,7 +421,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must choose and exhaust 1 character he controls."
+                    "When Revealed: Each player must choose and exhaust 1 character he controls.\n"
                 ],
                 "Shadow": "Shadow: Defending player must choose and exhaust 1 character he controls. (2 characters instead if this attack is undefended.)",
                 "FlavorText": null
@@ -76,7 +470,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Forced: After Hummerhorns engages you, deal 5 damage to a single hero you control."
+                    "Forced: After Hummerhorns engages you, deal 5 damage to a single hero you control.\n"
                 ],
                 "Shadow": "Shadow: Deal 1 damage to each character the defending player controls. (2 damage instead if this attack is undefended.)",
                 "FlavorText": null
@@ -123,7 +517,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each character currently committed to a quest gets -1 Willpower until the end of the phase."
+                    "When Revealed: Each character currently committed to a quest gets -1 Willpower until the end of the phase.\n"
                 ],
                 "Shadow": "Shadow: Raise defending player`s threat by 4. (Raise defending player`s threat by 8 instead if this attack is undefended.)",
                 "FlavorText": null
@@ -166,10 +560,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Each player must exhaust 1 hero he controls to travel here."
+                    "Travel: Each player must exhaust 1 hero he controls to travel here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "As he drew nearer, he saw that it was made with spider-webs one behind and over and tangled with another.\r\n-The Hobbit"
+                "FlavorText": "As he drew nearer, he saw that it was made with spider-webs one behind and over and tangled with another.\n-The Hobbit"
             },
             "Back": null,
             "CardSet": "Core Set",
@@ -210,7 +604,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here.Response: After Mountains of Mirkwood leaves play as an explored location, each player may search the top 5 cards of his deck for 1 card and add it to his hand. Shuffle the rest of the searched cards back into their owners` decks."
+                    "Travel: Reveal the top card of the encounter deck and add it to the staging area to travel here.Response: After Mountains of Mirkwood leaves play as an explored location, each player may search the top 5 cards of his deck for 1 card and add it to his hand. Shuffle the rest of the searched cards back into their owners` decks.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -248,7 +642,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player discards all event cards in his hand."
+                    "When Revealed: Each player discards all event cards in his hand.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...he would see gleams in the darkness around them, and sometimes pairs of yellow or red or green eyes would stare at him from a little distance, and then slowly fade and disappear and slowly shine out again in another place.\r\n-The Hobbit"
@@ -286,7 +680,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The player with the highest threat level attaches this card to one of his heroes. (Counts as a Condition attachment with the text: `Attached hero does not ready during the refresh phase unless you pay 2 resources from that hero`s pool.`)"
+                    "When Revealed: The player with the highest threat level attaches this card to one of his heroes. (Counts as a Condition attachment with the text: `Attached hero does not ready during the refresh phase unless you pay 2 resources from that hero`s pool.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -333,7 +727,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character."
+                    "When Revealed: The first player chooses 1 character currently committed to a quest. Deal 2 damage to that character.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets 1 Attack. (3 Attack instead if this attack is undefended.)",
                 "FlavorText": null
@@ -382,8 +776,7 @@
                     "Victory 4."
                 ],
                 "Text": [
-                    "Chieftain Ufthak get 2 Attack for each resource token on him.",
-                    "Forced: After Chieftain Ufthak attacks, place 1 resource token on him."
+                    "Chieftain Ufthak get 2 Attack for each resource token on him.\nForced: After Chieftain Ufthak attacks, place 1 resource token on him.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -430,7 +823,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card."
+                    "Forced: When Dol Guldur Beastmaster attacks, deal it 1 additional shadow card.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -468,7 +861,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each enemy and each location currently in the staging area gets 1 Threat until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge."
+                    "When Revealed: Each enemy and each location currently in the staging area gets 1 Threat until the end of the phase. If there are no cards in the staging area, Driven by Shadow gains surge.\n"
                 ],
                 "Shadow": "Shadow: Choose and discard 1 attachment from the defending character. (If this attack is undefended, discard all attachments you control.)",
                 "FlavorText": null
@@ -506,7 +899,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each exhausted character."
+                    "When Revealed: Deal 1 damage to each exhausted character.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze. A fierce eager will was there. - The Fellowship of the Ring"
@@ -550,7 +943,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: The first player must discard 2 cards from his hand at random to travel here."
+                    "Travel: The first player must discard 2 cards from his hand at random to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`It is clad in a forest of dark fir, where the trees strive one against another and their branches rot and wither. In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling.`\r\n-Haldir, The Fellowship of the Ring"
@@ -593,7 +986,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Enchanted Stream is the active location, players cannot draw cards."
+                    "While Enchanted Stream is the active location, players cannot draw cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`There is one stream, I know, black and strong which crosses the path. That you should neither drink of, nor bathe in; for I have heard that it carries enchantment and a great drowsiness and forgetfulness.`\r\n-Beorn, The Hobbit"
@@ -640,7 +1033,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Forest Spider engages a player, it gets 1 Attack until the end of the round."
+                    "Forced: After Forest Spider engages a player, it gets 1 Attack until the end of the round.\n"
                 ],
                 "Shadow": "Shadow: Defending player must choose and discard 1 attachment he controls.",
                 "FlavorText": null
@@ -731,7 +1124,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must choose 1 character currently committed to a quest, and remove that character from the quest. (The chosen character does not ready.)"
+                    "When Revealed: Each player must choose 1 character currently committed to a quest, and remove that character from the quest. (The chosen character does not ready.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "They could not stand that, nor the huge bats, black as a top-hat, either...\r\n-The Hobbit"
@@ -774,7 +1167,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After you travel to Old Forest Road, the first player may choose and ready 1 character he controls."
+                    "Response: After you travel to Old Forest Road, the first player may choose and ready 1 character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "...Beorn had warned them that that way was now often used by the goblins, while the forest-road itself, he had heard, was overgrown and disused on the eastern end and led to impassable marshes where the path had long been lost.\r\n-The Hobbit"
@@ -817,7 +1210,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Response: After you travel to Forest Gate, the first player may draw 2 cards."
+                    "Response: After you travel to Forest Gate, the first player may draw 2 cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The path itself was narrow and wound in and out among the trunks. Soon the light in the gate was like a little bright hole far behind, and the quiet was so deep that their feet seemed to thump along while the trees leaned over them and listened.\r\n-The Hobbit"
@@ -857,7 +1250,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Search the encounter deck for 1 copy of the Forest Spider and 1 copy of the Old Forest Road, and add them to the staging area. Then, shuffle the encounter deck."
+                    "Setup: Search the encounter deck for 1 copy of the Forest Spider and 1 copy of the Old Forest Road, and add them to the staging area. Then, shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You are traveling through Mirkwood forest, carrying an urgent message from King Thanduil to the Lady Galadriel of Lorien. As you move along the dark trail, the spiders gather around you..."
@@ -925,7 +1318,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When you defeat this stage, proceed to one of the 2 `A Chosen Path` stages, at random."
+                    "Forced: When you defeat this stage, proceed to one of the 2 `A Chosen Path` stages, at random.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Unsure of what lies ahead but spurred by the urgency of your message, you choose a path and proceed... "
@@ -980,8 +1373,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.",
-                    "The players must find and defeat Ungoliant`s Spawn to win this game."
+                    "When Revealed: Each player must search the encounter deck and discard pile for 1 Spider card of his choice, and add it to the staging area.\nThe players must find and defeat Ungoliant`s Spawn to win this game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The shadows grow darker, and you realize that a foul presence is aiming to draw you from the path. You must defeat it to pass this way."
@@ -1036,7 +1428,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Players cannot defeat this stage while Ungoliant`s Spawn is in play. If players defeat this stage, they have won the game."
+                    "Players cannot defeat this stage while Ungoliant`s Spawn is in play. If players defeat this stage, they have won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You attempt to follow a secret, hidden trail to avoid the enemy..."
@@ -1058,403 +1450,6 @@
             "HasErrata": false,
             "OctgnGuid": "",
             "RingsDbCardId": "01122",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Passage Through Mirkwood Nightmare",
-            "Slug": "Passage-Through-Mirkwood-Nightmare-PTMN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Passage-Through-Mirkwood-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.",
-                    "Forced: During setup, each player reveals 1 card from the encounter deck and adds it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Passage Through Mirkwood scenario found in the LOTR LCG core set.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\nUngoliant`s Spawn x1\nBlack Forest Bats x1\nForest Spider x3\nDol Guldur Orcs x3\nOld Forest Road x1\nForest Gate x2\nMountains of Mirkwood x3\nCaught in a Web x2\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Passage Through Mirkwood encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Stacey Diana Clark",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Ungoliant's Spawn",
-            "Slug": "Ungoliant's-Spawn-PTMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Ungoliant's-Spawn.jpg",
-                "Stats": {
-                    "EngagementCost": "32",
-                    "Threat": "3",
-                    "Attack": "5",
-                    "Defense": "3",
-                    "HitPoints": "9"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Spider."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Until the end of the phase, each character currently committed to the quest gets -2 Willpower and is discarded if its Willpower is 0."
-                ],
-                "Shadow": "Shadow: Raise defending player`s threat by 5. (Raise defending player`s threat by 10 instead if undefended.)",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Christopher Burdett",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Ungoliant's Brood",
-            "Slug": "Ungoliant's-Brood-PTMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Ungoliant's-Brood.jpg",
-                "Stats": {
-                    "EngagementCost": "31",
-                    "Threat": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Spider."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After you engage Ungoliant`s Brood, your cards cannot ready for the remainder of the round."
-                ],
-                "Shadow": "Shadow: If this attack is undefended, exhaust all characters you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "S. C. Watson",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Forest Flies",
-            "Slug": "Forest-Flies-PTMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Forest-Flies.jpg",
-                "Stats": {
-                    "EngagementCost": "27",
-                    "Threat": "4",
-                    "Attack": "1",
-                    "Defense": "0",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Insect."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After you engage Forest Flies, deal 1 damage to each exhausted character you control."
-                ],
-                "Shadow": "Shadow: If attacking enemy is an Insect, deal it 2 additional shadow cards.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Spiders of Mirkwood",
-            "Slug": "Spiders-of-Mirkwood-PTMN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Spiders-of-Mirkwood.jpg",
-                "Stats": {
-                    "EngagementCost": "18",
-                    "Threat": "3",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Spider."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While it is engaged with you, Spiders of Mirkwood gets +1 for each exhausted character you control."
-                ],
-                "Shadow": "Shadow: Choose and exhaust 1 character you control. If this attack is undefended, also deal that character 2 damage.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Andrew Ryan",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Spider's Web",
-            "Slug": "The-Spider's-Web-PTMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/The-Spider's-Web.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The player with the highest threat exhausts all heroes he controls. Then, attach this card to one of that player`s heroes. (Counts as a Condition attachment with the text, `Each time attached hero readies, deal it 1 damage.`)"
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Backtrack!",
-            "Slug": "Backtrack-PTMN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Backtrack.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: The topmost enemy or location card in the encounter discard pile is returned to the staging area."
-                ],
-                "Shadow": "Shadow: Deal and resolve the topmost Shadow effect in the encounter discard pile for this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Magali Villeneuve",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Abandoned Camp",
-            "Slug": "Abandoned-Camp-PTMN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Abandoned-Camp.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "2"
-                },
-                "Traits": [
-                    "Mirkwood."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Immune to player card effects.",
-                    "Forced: After Abandoned Camp leaves play, each player must deal 2 damage to each exhausted character he controls."
-                ],
-                "Shadow": "Shadow: If this attack is undefended, discard all attachment cards players control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Dana Li",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Glade of the Spawn",
-            "Slug": "Glade-of-the-Spawn-PTMN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Passage-Through-Mirkwood-Nightmare/Glade-of-the-Spawn.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Mirkwood."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Glade of the Spawn is the active location, it gains: `Forced: After a Spider enemy enters play, each player must choose and exhaust 1 character he controls.`"
-                ],
-                "Shadow": null,
-                "FlavorText": "...black even for that forest, like a patch of midnight that had never been cleared away. -The Hobbit"
-            },
-            "Back": null,
-            "CardSet": "Passage Through Mirkwood Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Passage Through Mirkwood Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 2,
-            "Artist": "S. C. Watson",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

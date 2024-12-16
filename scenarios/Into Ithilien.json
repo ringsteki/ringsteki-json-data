@@ -5,6 +5,400 @@
     "Number": 2,
     "AllCards": [
         {
+            "Title": "Ithilien Overlook",
+            "Slug": "Ithilien-Overlook-IIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Ithilien-Overlook.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [
+                    "Archery 2."
+                ],
+                "Text": [
+                    "Archery 2.\nWhen assigning archery damage to a character, you must continue assigning archery damage to that character until that character is destroyed or there is no more archery damage to assign.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 3,
+            "Artist": "Adam Lane",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06005",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 1120201,
+            "Categories": null
+        },
+        {
+            "Title": "Dense Thickets",
+            "Slug": "Dense-Thickets-IIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Dense-Thickets.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "8"
+                },
+                "Traits": [
+                    "Forest."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Dense Thickets is in the staging area, each Forest location in play gets +1 Threat.\n"
+                ],
+                "Shadow": "Shadow: Excess damage dealt by this attack (damage that is dealt beyond the remaining hit points of the character damaged by this attack) must be assigned to a Ranger objective in play.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Wibben",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06006",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 708768,
+            "Categories": null
+        },
+        {
+            "Title": "Obsidian Arrows",
+            "Slug": "Obsidian-Arrows-IIN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Obsidian-Arrows.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The current quest gains archery 2 until the end of the round. Then, assign all archery damage to characters in play as if it were the beginning of the combat phase.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +X Attack. X is that enemy`s archery value.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 2,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06008",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 337340,
+            "Categories": null
+        },
+        {
+            "Title": "Savage Fray",
+            "Slug": "Savage-Fray-IIN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Savage-Fray.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 2."
+                ],
+                "Text": [
+                    "Doomed 2.\nWhen Revealed: If the current quest has a keyword, until the end of the round, switch that keyword from battle to siege, or siege to battle, if able. If the current quest does not have a keyword, Savage Fray gains surge.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 9,
+            "Quantity": 2,
+            "Artist": "Tiziano Baracchi",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06009",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 329880,
+            "Categories": null
+        },
+        {
+            "Title": "Haradrim Captain",
+            "Slug": "Haradrim-Captain-IIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Haradrim-Captain.jpg",
+                "Stats": {
+                    "EngagementCost": "44",
+                    "Threat": "4",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Harad."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each Harad enemy in the staging area gains archery 1.\nEach engaged Harad enemy gets +1 Defense.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if it has the Harad trait).",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 2,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06004",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 326659,
+            "Categories": null
+        },
+        {
+            "Title": "Haradrim Marksman",
+            "Slug": "Haradrim-Marksman-IIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Haradrim-Marksman.jpg",
+                "Stats": {
+                    "EngagementCost": "36",
+                    "Threat": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Harad."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the current quest has battle, Haradrim Marksman gets +2 Threat and gains archery 2.\nWhile the current quest has siege, Haradrim Marksman gets +2 Attack and allies cannot be declared as defenders against its attacks.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 3,
+            "Artist": "Florian Devos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06003",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 248453,
+            "Categories": null
+        },
+        {
+            "Title": "Mûmak Elite",
+            "Slug": "Mumak-Elite-IIN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Mûmak-Elite.jpg",
+                "Stats": {
+                    "EngagementCost": "38",
+                    "Threat": "5",
+                    "Attack": "7",
+                    "Defense": "5",
+                    "HitPoints": "12"
+                },
+                "Traits": [
+                    "Harad.",
+                    "Creature."
+                ],
+                "Keywords": [
+                    "Archery X."
+                ],
+                "Text": [
+                    "Cannot have attachments. Archery X.\nX is the number of players in the game.\nMûmak Elite cannot take more than 3 damage each round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 2,
+            "Quantity": 2,
+            "Artist": "Anthony Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06002",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241901,
+            "Categories": null
+        },
+        {
+            "Title": "Into Ithilien Nightmare",
+            "Slug": "Into-Ithilien-Nightmare-IIN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Into-Ithilien-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nSetup: Set both copies of Mûmak Elite aside, out of play.\nForced: When quest stages 2A or 4A are revealed, add 1 of the previously set aside copies of Mûmak Elite to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "For a moment he caught a glimpse of swarthy maen in red running down the slope some way off with green-clad warriors leaping after them, hewing them down as they fled. Arrows were thick in the air.\n-The Two Towers"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Into Ithilien scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x Blocking Wargs\n2x Watcher in the Wood\n3x Secluded Glade\n3x Forest Bat\n3x Southon Mercenaries\n1x Overgrown Trail\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Into Ithilien encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06001",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 11684,
+            "Categories": null
+        },
+        {
+            "Title": "Cormallen Fields",
+            "Slug": "Cormallen-Fields-IIN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Cormallen-Fields.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "5"
+                },
+                "Traits": [
+                    "Plains.",
+                    "Riverland."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the current quest has battle, Cormallen Fields gets +2 Threat.\nWhile the current quest has siege, when faced with the option to travel, the players must travel to Cormallen Fields, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into Ithilien Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into Ithilien Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 2,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "06007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 143331,
+            "Categories": null
+        },
+        {
             "Title": "Celador",
             "Slug": "Celador-HoN",
             "IsUnique": true,
@@ -21,9 +415,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Celador is in the staging area, he is committed to the current quest.",
-                    "Forced: After players quest unsuccessfully or a character leaves play, deal 1 damage to Celador.",
-                    "If Celador leaves play, remove him from the game."
+                    "While Celador is in the staging area, he is committed to the current quest.\nForced: After players quest unsuccessfully or a character leaves play, deal 1 damage to Celador.\nIf Celador leaves play, remove him from the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -64,8 +456,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Ithilien Guardian is in the staging area, he is committed to the current quest.",
-                    "When Revealed: Add Ithilien Guardian to the staging area and Ithilien Guardian gains surge."
+                    "While Ithilien Guardian is in the staging area, he is committed to the current quest.\nWhen Revealed: Add Ithilien Guardian to the staging area and Ithilien Guardian gains surge.\n"
                 ],
                 "Shadow": "Shadow: Deal 2 damage to the attacking enemy.",
                 "FlavorText": null
@@ -111,7 +502,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Southron Company gets +2 Threat and +2 Attack while the current quest card has the battle or siege keyword."
+                    "Southron Company gets +2 Threat and +2 Attack while the current quest card has the battle or siege keyword.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+2 Attack instead if the current quest card has a keyword.)",
                 "FlavorText": null
@@ -155,7 +546,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Ithilien Road is the active location, the engagement cost of each enemy in the staging area is 0."
+                    "While Ithilien Road is the active location, the engagement cost of each enemy in the staging area is 0.\n"
                 ],
                 "Shadow": "Shadow: Return attacking enemy to the staging area after it attacks.",
                 "FlavorText": null
@@ -195,8 +586,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Deal 1 damage to each character committed to the quest."
+                    "Surge.\nWhen Revealed: Deal 1 damage to each character committed to the quest.\n"
                 ],
                 "Shadow": "Shadow: Deal 1 damage to the defending character.",
                 "FlavorText": null
@@ -239,7 +629,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Exhaust a Ranger character to place 3 progress tokens on Overgrown Trail."
+                    "Action: Exhaust a Ranger character to place 3 progress tokens on Overgrown Trail.\n"
                 ],
                 "Shadow": "Shadow: Remove X progress tokens from the current quest, where X is the attacking enemy`s Threat.",
                 "FlavorText": null
@@ -282,7 +672,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects."
+                    "Immune to player card effects.\n"
                 ],
                 "Shadow": "Shadow: Remove X progress tokens from the current quest, where X is the attacking enemy`s Threat.",
                 "FlavorText": "`...the garden of Gondor now desolate kept still a dishevelled dryad loveliness.` -The Two Towers"
@@ -320,7 +710,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player removes 1 character he controls from the quest, if able. Then, if any player has no characters committed to the quest, remove all characters from the quest."
+                    "When Revealed: Each player removes 1 character he controls from the quest, if able. Then, if any player has no characters committed to the quest, remove all characters from the quest.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Seven companions we had: one we lost at Moria, the others we left at Parth Galen above Rauros...` -Frodo Baggins, The Two Towers"
@@ -367,7 +757,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Until the end of the round, Morgul Spider gets +1 Attack for each character not currently committed to a quest."
+                    "When Revealed: Until the end of the round, Morgul Spider gets +1 Attack for each character not currently committed to a quest.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Far and wide her lesser broods, bastards of the miserable mates, her own offspring, that she slew, spread from glen to glen... -The Two Towers"
@@ -413,7 +803,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player deals 2 damage to a questing hero and removes that hero from the quest."
+                    "When Revealed: The first player deals 2 damage to a questing hero and removes that hero from the quest.\n"
                 ],
                 "Shadow": "Shadow: Defending player raises his threat by X where X is the attacking enemy`s Threat.",
                 "FlavorText": null
@@ -451,7 +841,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Raise each player`s threat by the number of questing characters. (If the current quest has the battle or siege keyword, Watcher in the Wood gains surge.)"
+                    "When Revealed: Raise each player`s threat by the number of questing characters. (If the current quest has the battle or siege keyword, Watcher in the Wood gains surge.)\n"
                 ],
                 "Shadow": "Shadow: Each player raises his threat by the number of enemies engaged with him.",
                 "FlavorText": null
@@ -499,8 +889,7 @@
                     "Archery X."
                 ],
                 "Text": [
-                    "Archery X.",
-                    "X is the number of players in the game."
+                    "Archery X.\nX is the number of players in the game.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+3 Attack instead if it has the Harad trait.)",
                 "FlavorText": null
@@ -546,7 +935,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When Haradrim Elite enters play, it makes an immediate attack from the staging area against the first player."
+                    "Forced: When Haradrim Elite enters play, it makes an immediate attack from the staging area against the first player.\n"
                 ],
                 "Shadow": "Shadow: This enemy attacks again after this attack resolves. (Deal a new shadow card for that attack.)",
                 "FlavorText": null
@@ -593,8 +982,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "No attachments can be attached to Mûmak.",
-                    "Mûmak cannot take more than 3 damage each round."
+                    "No attachments can be attached to Mûmak.\nMûmak cannot take more than 3 damage each round.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`His upturned hornlike tusks were bound with bands of gold and dripped with blood.` -The Two Towers"
@@ -634,8 +1022,7 @@
                     "Doomed 3."
                 ],
                 "Text": [
-                    "Doomed 3.",
-                    "When Revealed: Each player must search the encounter deck and discard pile for 1 Harad enemy and add it to the staging area, if able. Shuffle the encounter deck."
+                    "Doomed 3.\nWhen Revealed: Each player must search the encounter deck and discard pile for 1 Harad enemy and add it to the staging area, if able. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "... wild Southron men with red banners, shouting with harsh tongues, surging up, overtaking the retreat. -The Return of the King"
@@ -677,7 +1064,7 @@
                     "Battle."
                 ],
                 "Text": [
-                    "Setup: Add Celador to the staging area. Search the encounter deck for a copy of Ithilien Road and make it the active location. Each player must search the encounter deck for a copy of Southron Company and add it to the staging area. Shuffle the encounter deck."
+                    "Setup: Add Celador to the staging area. Search the encounter deck for a copy of Ithilien Road and make it the active location. Each player must search the encounter deck for a copy of Southron Company and add it to the staging area. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You`ve arrived in Ithilien with a sealed message for Faramir, only to learn that he has gone north to defend Cair Andros from massing enemy forces."
@@ -692,8 +1079,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Battle.",
-                    "If the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2)."
+                    "Battle.\nIf the players complete this stage with Celador in the staging area, advance to stage 3A (bypassing stage 2).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Faramir has left a company of rangers in Ithilien, tasked on ambushing Southrons as the march toward Cair Andros. Their captain, Celador, offers to lead you to Cair Andros after the approaching enemy is destroyed..."
@@ -752,9 +1138,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Siege. Archery X.",
-                    "X is the number of players in the game.",
-                    "After this stage is completed advance to stage 4A (bypassing stage 3)."
+                    "Siege. Archery X.\nX is the number of players in the game.\nAfter this stage is completed advance to stage 4A (bypassing stage 3).\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -810,8 +1194,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player takes contorl of all Ranger objectives in the staging area.",
-                    "Enemies do not make engagement checks and cannot be optionally engaged."
+                    "When Revealed: The first player takes contorl of all Ranger objectives in the staging area.\nEnemies do not make engagement checks and cannot be optionally engaged.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -867,9 +1250,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If any players threat is 37 or higher, Approaching Cair Andros gains Siege.",
-                    "Forced: At the end of each round, raise each player`s threat by 2.",
-                    "If the players defeat this stage, they have won the game."
+                    "If any players threat is 37 or higher, Approaching Cair Andros gains Siege.\nForced: At the end of each round, raise each player`s threat by 2.\nIf the players defeat this stage, they have won the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -892,405 +1273,6 @@
             "HasErrata": false,
             "OctgnGuid": "4823aae3-46ef-4a75-89f9-cbd3aa1b9033",
             "RingsDbCardId": "05071",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Into Ithilien Nightmare",
-            "Slug": "Into-Ithilien-Nightmare-IIN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Into-Ithilien-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.\n\nSetup: Set both copies of Mûmak Elite aside, out of play.\n\nForced: When quest stages 2A or 4A are revealed, add 1 of the previously set aside copies of Mûmak Elite to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": "For a moment he caught a glimpse of swarthy maen in red running down the slope some way off with green-clad warriors leaping after them, hewing them down as they fled. Arrows were thick in the air. -The Two Towers"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Into Ithilien scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n1x Blocking Wargs\n2x Watcher in the Wood\n3x Secluded Glade\n3x Forest Bat\n3x Southon Mercenaries\n1x Overgrown Trail\n\nThen, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Into Ithilien encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effects remain active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Mûmak Elite",
-            "Slug": "Mumak-Elite-IIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Mûmak-Elite.jpg",
-                "Stats": {
-                    "EngagementCost": "38",
-                    "Threat": "5",
-                    "Attack": "7",
-                    "Defense": "5",
-                    "HitPoints": "12"
-                },
-                "Traits": [
-                    "Harad.",
-                    "Creature."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot have attachments. Archery X.",
-                    "X is the number of players in the game.",
-                    "Mûmak Elite cannot take more than 3 damage each round."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 2,
-            "Quantity": 2,
-            "Artist": "Anthony Feliciano",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Haradrim Marksman",
-            "Slug": "Haradrim-Marksman-IIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Haradrim-Marksman.jpg",
-                "Stats": {
-                    "EngagementCost": "36",
-                    "Threat": "2",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Harad."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While the current quest has battle, Haradrim Marksman gets +2 Threat and gains archery 2.",
-                    "While the current quest has siege, Haradrim Marksman gets +2 Attack and allies cannot be declared as defenders against its attacks."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 3,
-            "Artist": "Florian Devos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Haradrim Captain",
-            "Slug": "Haradrim-Captain-IIN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Haradrim-Captain.jpg",
-                "Stats": {
-                    "EngagementCost": "44",
-                    "Threat": "4",
-                    "Attack": "4",
-                    "Defense": "3",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Harad."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Each Harad enemy in the staging area gains archery 1.",
-                    "Each engaged Harad enemy gets +1 Defense."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if it has the Harad trait).",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 2,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Ithilien Overlook",
-            "Slug": "Ithilien-Overlook-IIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Ithilien-Overlook.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Forest."
-                ],
-                "Keywords": [
-                    "Archery 2."
-                ],
-                "Text": [
-                    "Archery 2.",
-                    "When assigning archery damage to a character, you must continue assigning archery damage to that character until that character is destroyed or there is no more archery damage to assign."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 3,
-            "Artist": "Adam Lane",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Dense Thickets",
-            "Slug": "Dense-Thickets-IIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Dense-Thickets.jpg",
-                "Stats": {
-                    "Threat": "1",
-                    "QuestPoints": "8"
-                },
-                "Traits": [
-                    "Forest."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Dense Thickets is in the staging area, each Forest location in play gets +1 Threat."
-                ],
-                "Shadow": "Shadow: Excess damage dealt by this attack (damage that is dealt beyond the remaining hit points of the character damaged by this attack) must be assigned to a Ranger objective in play.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Wibben",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cormallen Fields",
-            "Slug": "Cormallen-Fields-IIN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Cormallen-Fields.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "5"
-                },
-                "Traits": [
-                    "Plains.",
-                    "Riverland."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While the current quest has battle, Cormallen Fields gets +2 Threat.",
-                    "While the current quest has siege, when faced with the option to travel, the players must travel to Cormallen Fields, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 2,
-            "Artist": "Rafał Hrynkiewicz",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Obsidian Arrows",
-            "Slug": "Obsidian-Arrows-IIN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Obsidian-Arrows.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The current quest gains archery 2 until the end of the round. Then, assign all archery damage to characters in play as if it were the beginning of the combat phase."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +X Attack. X is that enemy`s archery value.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 2,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Savage Fray",
-            "Slug": "Savage-Fray-IIN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-Ithilien-Nightmare/Savage-Fray.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Doomed 2."
-                ],
-                "Text": [
-                    "Doomed 2.",
-                    "When Revealed: If the current quest has a keyword, until the end of the round, switch that keyword from battle to siege, or siege to battle, if able. If the current quest does not have a keyword, Savage Fray gains surge."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into Ithilien Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into Ithilien Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 9,
-            "Quantity": 2,
-            "Artist": "Tiziano Baracchi",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00009",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

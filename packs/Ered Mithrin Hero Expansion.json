@@ -1,0 +1,2888 @@
+{
+    "Name": "Ered Mithrin Hero Expansion",
+    "Slug": "Ered-Mithrin-Hero-Expansion",
+    "Abbreviation": "EMH",
+    "Cycle": "Ered Mithrin",
+    "SetType": "Hero_Expansion",
+    "Cards": null,
+    "cards": [
+        {
+            "Title": "Warrior of Dale",
+            "Slug": "Warrior-of-Dale-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Warrior-of-Dale.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost to play Weapon attachments on Warrior of Dale by 1.\nWarrior of Dale gets +1 Attack and gains ranged while it has a Weapon attachment.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 28,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19028",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 311508,
+            "Categories": null
+        },
+        {
+            "Title": "Dáin Ironfoot",
+            "Slug": "Dain-Ironfoot-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Dáin-Ironfoot.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Noble.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Dáin Ironfoot is defending, he gains, `Action: Discard the top card of your deck to give Dáin Ironfoot +1 Defense for this attack. (Limit 3 times per phase.)`\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`The time of my thought is my own to spend.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19006",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241398,
+            "Categories": null
+        },
+        {
+            "Title": "Round Shield",
+            "Slug": "Round-Shield-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Round-Shield.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a character. Restricted.\nResponse: After a shadow effect is triggered during combat, exhaust Round Shield to give attached character +2 Defense for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 31,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19031",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 241233,
+            "Categories": null
+        },
+        {
+            "Title": "Map of Rhovanion",
+            "Slug": "Map-of-Rhovanion-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Map-of-Rhovanion.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dale or Scout character. Limit 1 per character.\nResponse: After attached character commits to the quest, place 1 progress on the active location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You are come to the very edge of the Wild...`\n-Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 61,
+            "Quantity": 3,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19061",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 179314,
+            "Categories": null
+        },
+        {
+            "Title": "Sting",
+            "Slug": "Sting-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Sting.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Guarded (enemy).",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Guarded (enemy).\nAttach to a Hobbit hero. Restricted.\nAttached hero gets +1 Willpower, +1 Attack, and +1 Defense.\nResponse: After attached hero is declared as an attacker or defender against an enemy, deal 1 damage to that enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 33,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19033",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 173200,
+            "Categories": null
+        },
+        {
+            "Title": "Leather Boots",
+            "Slug": "Leather-Boots-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Leather-Boots.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Lore or Ranger character. Limit 1 per character.\nResponse: After a Location is revealed from the encounter deck, exhaust Leather Boots to ready attached character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "His legs were stretched out before him, showing high boots of supple leather the fitted him well...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 60,
+            "Quantity": 3,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19060",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 150315,
+            "Categories": null
+        },
+        {
+            "Title": "Bow of Yew",
+            "Slug": "Bow-of-Yew-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Bow-of-Yew.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Dale or Warrior character. Restricted.\nResponse: After attached character is declared as an attacker, exhaust Bow of Yew to deal 1 damage to the defending enemy.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`They would shoot at us with their great bows of yew...`\n-The Lord of the Eagles, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 29,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19029",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 142009,
+            "Categories": null
+        },
+        {
+            "Title": "Grimbeorn the Old",
+            "Slug": "Grimbeorn-the-Old-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Grimbeorn-the-Old.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "0",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Beorning.",
+                    "Warrior."
+                ],
+                "Keywords": [
+                    "Sentinel."
+                ],
+                "Text": [
+                    "Sentinel.\nResponse: After Grimbeorn the Old defends an attack, spend 1 resource from his pool to declare him as an attacker against that enemy (and resolve his attack). The defending enemy gets -2 Defense for this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 4,
+            "Quantity": 1,
+            "Artist": "Jason Jenicke",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19004",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 137020,
+            "Categories": null
+        },
+        {
+            "Title": "Warrior Sword",
+            "Slug": "Warrior-Sword-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Warrior-Sword.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Tactics or Warrior character. Restricted.\nLimit 1 per character.\nAttached character gets +1 Attack for each enemy engaged with you. (Limit +3 Attack.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "He gripped tighter on the hilt of his sword and went on doggedly.-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 32,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19032",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 122836,
+            "Categories": null
+        },
+        {
+            "Title": "Brand son of Bain",
+            "Slug": "Brand-son-of-Bain-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Brand-son-of-Bain.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Each Dale character you control with a player attachment gets +1 Willpower.\nResponse: After you play an attachment on a Dale character without an attachment, draw a card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`He is a strong king, and his realm now reaches south and east of Esgaroth.`\n-Glóin, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Antonio José Manzanedo",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 8647,
+            "Categories": null
+        },
+        {
+            "Title": "Drinking Song",
+            "Slug": "Drinking-Song-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Drinking-Song.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Count the number of cards in your hand and shuffle your hand into your deck. Then, draw an equal number of cards. Draw 1 additional card if you control a unique Hobbit character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Ho! Ho! Ho! to the bottle I go\nTo heal my heart and drown my woe.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 65,
+            "Quantity": 3,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19065",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 119858,
+            "Categories": null
+        },
+        {
+            "Title": "Thranduil",
+            "Slug": "Thranduil-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Thranduil.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Play a Silvan ally from your hand. You do not need a resource match for this ally. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`It is a crime to wander in my realm without leave.`\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Magali Villeneuve",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19002",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 112674,
+            "Categories": null
+        },
+        {
+            "Title": "Radagast",
+            "Slug": "Radagast-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Radagast.jpg",
+                "Stats": {
+                    "ThreatCost": "11",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Istari."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "You may use resources from Radagast`s pool to pay for Creature allies of any sphere.\nResponse: After you play a Creature card, Radagast does not exhaust to quest this round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`..he has much lore of herbs and beasts, and birds are especially his friends.`\n-Gandalf, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19008",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 105888,
+            "Categories": null
+        },
+        {
+            "Title": "Loyal Hound",
+            "Slug": "Loyal-Hound-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Loyal-Hound.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "2",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nResponse: Discard Loyal Hound to cancel up to 2 damage just dealt to a hero you control.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 57,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19057",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 104236,
+            "Categories": null
+        },
+        {
+            "Title": "Bilbo Baggins",
+            "Slug": "Bilbo-Baggins-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Bilbo-Baggins.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Burglar."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Bilbo Baggins commits to the quest, choose an enemy in the staging area. Until the end of the phase, Bilbo Baggins gets +X Willpower where X is that enemy`s Threat. If the players quest successfully, deal 1 damage to that enemy (2 damage instead if it is guarding a card).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 3,
+            "Quantity": 1,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19003",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 95018,
+            "Categories": null
+        },
+        {
+            "Title": "Mirkwood Hunter",
+            "Slug": "Mirkwood-Hunter-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Mirkwood-Hunter.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Woodman.",
+                    "Ranger."
+                ],
+                "Keywords": [
+                    "Ranged."
+                ],
+                "Text": [
+                    "Ranged.\nReduce the cost to play Mirkwood Hunter by 1 for each attachment on the active location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...they were brave and well-armed and even the Wargs dared not attack them if there were many together...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 58,
+            "Quantity": 3,
+            "Artist": "Nikolas Hagialas",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19058",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 90319,
+            "Categories": null
+        },
+        {
+            "Title": "Outmatched",
+            "Slug": "Outmatched-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Outmatched.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition.",
+                    "Trap."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Play into your play area unattached.\nIf unattached, attach to the next eligible enemy that engages you.\nResponse: After attached enemy resolves its attack, ready the defending character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 30,
+            "Quantity": 3,
+            "Artist": "Preston Stone",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19030",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 89267,
+            "Categories": null
+        },
+        {
+            "Title": "Bard son of Brand",
+            "Slug": "Bard-son-of-Brand-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Bard-son-of-Brand.jpg",
+                "Stats": {
+                    "ThreatCost": "9",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Noble."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While playing an Item attachment, Bard son of Brand is considered to have the printed Leadership, Lore, and Tactics icons.\nResponse: When a character leaves play, return each attachment attached to that character to its owners hand. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 5,
+            "Quantity": 1,
+            "Artist": "Antonio José Manzanedo",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19005",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 85260,
+            "Categories": null
+        },
+        {
+            "Title": "Woodmen's Path",
+            "Slug": "Woodmen's-Path-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Woodmen's-Path.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location with no progress tokens on it.\nWhile attached location is the active location, reduce its quest point value to 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "It was a path made by strong arms and heavy feet.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 63,
+            "Quantity": 3,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19063",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 84519,
+            "Categories": null
+        },
+        {
+            "Title": "Guardian of Esgaroth",
+            "Slug": "Guardian-of-Esgaroth-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Guardian-of-Esgaroth.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Dale."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Guardian of Esgaroth gets +1 Willpower, +1 Attack, +1 Defense, and +1 hit point for each different player card attachment it has. (Limit +3 to each.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The men of the lake-town Esgaroth were mostly indoors, for the breeze was from the black East and chill, but a few were walking on the quays, and watching...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 10,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19010",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 72587,
+            "Categories": null
+        },
+        {
+            "Title": "Woodmen's Clearing",
+            "Slug": "Woodmen's-Clearing-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Woodmen's-Clearing.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a location. Limit 1 per location.\nResponse: When attached location leaves play as an explored location, the first player reduces his threat by 3.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 62,
+            "Quantity": 3,
+            "Artist": "Mariusz Gandzel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19062",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 71920,
+            "Categories": null
+        },
+        {
+            "Title": "Long Lake Trader",
+            "Slug": "Long-Lake-Trader-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Long-Lake-Trader.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Exhaust Long Lake Trader to move an Item attachment from a character you control to another eligible character.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Nowhere are there any men so friendly to us as the Men of Dale.`\n-Glóin, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 56,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19056",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 7329,
+            "Categories": null
+        },
+        {
+            "Title": "Meneldor",
+            "Slug": "Meneldor-EMH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Meneldor.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Eagle."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have restricted attachments.\nResponse: After Meneldor enters or leaves play, place 2 progress on a location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...Meneldor young and swift. -The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 27,
+            "Quantity": 3,
+            "Artist": "Dmitry Prosvirnin",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19027",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 68852,
+            "Categories": null
+        },
+        {
+            "Title": "Haldan",
+            "Slug": "Haldan-EMH",
+            "IsUnique": true,
+            "CardType": "Hero",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Haldan.jpg",
+                "Stats": {
+                    "ThreatCost": "10",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Woodman.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While the active location has an attachment on it, Haldan does not exhaust to quest.\nResponse: When the active location is explored, draw 1 card for each attachment on it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 67436,
+            "Categories": null
+        },
+        {
+            "Title": "Bartering",
+            "Slug": "Bartering-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Bartering.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Choose a ready player attachment on a character you control. Return that attachment to its owner`s hand to reduce the cost of the next attachment played this phase by X, where X is the chosen attachment`s cost.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 64,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19064",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 55589,
+            "Categories": null
+        },
+        {
+            "Title": "Glamdring",
+            "Slug": "Glamdring-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Glamdring.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location).",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero or Gandalf. Restricted.\nAttached character gets +2 Attack.\nResponse: After attached character destroys an enemy, draw 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 59,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19059",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 52538,
+            "Categories": null
+        },
+        {
+            "Title": "Greenwood Defender",
+            "Slug": "Greenwood-Defender-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Greenwood-Defender.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Silvan.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Greenwood Defender enters play, it does not exhaust to defend until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...after the coming of Men they took ever more and more to the gloaming and the dusk.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 9,
+            "Quantity": 3,
+            "Artist": "Derek D. Edgell",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19009",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 40944,
+            "Categories": null
+        },
+        {
+            "Title": "Flight of the Eagles",
+            "Slug": "Flight-of-the-Eagles-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Flight-of-the-Eagles.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Return an Eagle ally to your hand to shuffle a set-aside Eagle of the North into the encounter deck. Then, remove Flight of the Eagles from the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Behind them in long swift lines came all their vassals from the northern mountains, speeding on a gathering wind.\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 35,
+            "Quantity": 3,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19035",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 31118,
+            "Categories": null
+        },
+        {
+            "Title": "Beorn's Rage",
+            "Slug": "Beorn's-Rage-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Beorn's-Rage.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a Beorning character is declared as an attacker or defender against an enemy, that enemy gets -2 Attack and -2 Defense until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Swiftly he returned and his wrath was redoubled, so that nothing could withstand him, and no weapon seemed to bite upon him. -The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 34,
+            "Quantity": 3,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19034",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 28173,
+            "Categories": null
+        },
+        {
+            "Title": "Giant Bear",
+            "Slug": "Giant-Bear-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Giant-Bear.jpg",
+                "Stats": {
+                    "ResourceCost": "5",
+                    "Willpower": "0",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Beorning."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nAction: Ready Giant Bear. At the end of the phase in which you trigger this effect, shuffle Giant Bear into your deck. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`As a bear he ranged far and wide`\n-Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 26,
+            "Quantity": 3,
+            "Artist": "Brendan C. Murphy",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19026",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 5389,
+            "Categories": null
+        },
+        {
+            "Title": "Messenger Raven",
+            "Slug": "Messenger-Raven-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Messenger-Raven.jpg",
+                "Stats": {
+                    "ResourceCost": "1",
+                    "Willpower": "1",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack, defend, of have attachments.\nRefresh Action: Return Messenger Raven to it`s owner`s hand and name a card type. Choose a player to look at the top card of his deck. If that card is the named type, add it to its owner`s hand. If it is not, discard it.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 11,
+            "Quantity": 3,
+            "Artist": "Derek D. Edgell",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Redwater Sentry",
+            "Slug": "Redwater-Sentry-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Redwater-Sentry.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "0",
+                    "Attack": "1",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost to play Armor attachments on Redwater Sentry by 1.\nRedward Sentry gets +1 Defense and gains sentinel while it has an Armor attachment.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 12,
+            "Quantity": 3,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19012",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Soldier of Erebor",
+            "Slug": "Soldier-of-Erebor-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Soldier-of-Erebor.jpg",
+                "Stats": {
+                    "ResourceCost": "5",
+                    "Willpower": "0",
+                    "Attack": "3",
+                    "Defense": "3",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Discard the top 3 cards from your deck to ready Soldier of Erebor. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 13,
+            "Quantity": 3,
+            "Artist": "Matthew Cowdery",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19013",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wiglaf",
+            "Slug": "Wiglaf-EMH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Wiglaf.jpg",
+                "Stats": {
+                    "ResourceCost": "5",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout.",
+                    "Warrior."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Wiglaf, play an Item attachment on him from your hand for no cost.\nAction: Exhaust an attachment on Wiglaf to ready him. (Limit once per phase.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 14,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19014",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ancestral Armor",
+            "Slug": "Ancestral-Armor-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Ancestral-Armor.jpg",
+                "Stats": {
+                    "ResourceCost": "4"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Leadership or Noble character. Restricted. Limit 1 per character\nAttached character gets +2 Defense and +2 hit points.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 15,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19015",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Hauberk of Mail",
+            "Slug": "Hauberk-of-Mail-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Hauberk-of-Mail.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dale or Warrior character. Limit 1 per character.\nAttached character gets +1 Defense (and +1 hit point if attached character has the sentinel keyword).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Each one of his folk was clad in hauberk of steel mail that hung to his knees...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 16,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19016",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Orcrist",
+            "Slug": "Orcrist-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Orcrist.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Weapon."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location).",
+                    "Restricted."
+                ],
+                "Text": [
+                    "Guarded (enemy or location).\nAttach to a hero. Restricted.\nAttached hero gets +2 Attack.\nResponse: After attached hero drestroys an enemy, add 1 resource to attached hero`s pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 17,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19017",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Squire's Helm",
+            "Slug": "Squire's-Helm-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Squire's-Helm.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to an ally. Restricted.\nLimit 1 per ally.\nAttached ally gets +2 hit points.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`There are no great weapon-hoards here, lord,` answered Éomer. `Maybe a light helm might be found to fit him...`\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 18,
+            "Quantity": 3,
+            "Artist": "Sara Biddle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19018",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Elvenking",
+            "Slug": "The-Elvenking-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-Elvenking.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Silvan hero.\nAction: Exhaust The Elvenking and return a Silvan ally you control to your hand to ready attached hero.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "In a great hall with pillars hewn out of the living stong sat the Elvenking on a chair of carven wood.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 19,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19019",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Elf Guide",
+            "Slug": "Elf-Guide-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Elf-Guide.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Return a Silvan ally you control to your hand to choose a hero. Add 1 resource to that hero`s pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 20,
+            "Quantity": 3,
+            "Artist": "John Howe",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19020",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Man the Walls",
+            "Slug": "Man-the-Walls-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Man-the-Walls.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if no other copies of Man the Walls have been played this round.\nPlanning Action: Reduce the cost of the next ally played by each player this phase by 1. Those allies cannot quest this round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 21,
+            "Quantity": 3,
+            "Artist": "Tomasz Jedruszek",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19021",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The King's Return",
+            "Slug": "The-King's-Return-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-King's-Return.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Action: Search your deck for a Guarded attachment and put it into play. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "His crown shall be upholden,\nHis harp shall be restrung,\nHis halls shall echo golden\nTo songs of yore re-sung\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 22,
+            "Quantity": 3,
+            "Artist": "Tyler Edlin",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19022",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Traffic from Dale",
+            "Slug": "Traffic-from-Dale-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Leadership",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Traffic-from-Dale.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Planning Action: Choose a Dale hero you control. Add 1 resource to its pool for each character you control with a player attachment. You can only play 1 copy of Traffic from Dale each round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The talk was all of the trade that came and went on the waterways and the growth of the traffic on the river...\nThe Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 23,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19023",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Beorning Skin-changer",
+            "Slug": "Beorning-Skin-changer-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Beorning-Skin-changer.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Beorning."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Choose a Beorning ally with printed cost 3 or more in your hand or discard pile. Discard Beorning Skin-changer to put that ally into play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`...sometimes he is a huge black bear, sometimes he is a great strong black-haired man with huge arms and a great beard.`\n-Gandalf, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 24,
+            "Quantity": 3,
+            "Artist": "Jason Jenicke",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19024",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Bywater Shirriff",
+            "Slug": "Bywater-Shirriff-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Bywater-Shirriff.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Hobbit.",
+                    "Shirriff."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Bywater Shirriff gets +1 Willpower, +1 Attack, and +1 Defense while you are engaged with an enemy with engagement cost higher than your threat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The Shirriffs was the name that the Hobbits gave to their police, or the nearest equivalent that they possessed.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 25,
+            "Quantity": 3,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19025",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gwaihir's Debt",
+            "Slug": "Gwaihir's-Debt-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Gwaihir's-Debt.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if you control a unique character with the Istari trait and another unique character with the Eagle trait.\nAction: Search the top 5 cards of your deck for an Eagle or Istari ally and put it into play. Shuffle your deck. At the end of the round, if that ally is still in play, return it to your hand.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 36,
+            "Quantity": 3,
+            "Artist": "Justin Gerard",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19036",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Swift and Strong",
+            "Slug": "Swift-and-Strong-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Swift-and-Strong.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a character you control attacks and destroys an enemy, exhaust a Weapon attached to that character to ready that character and give it +2 Attack for its next attack this phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The sword is sharp, the spear is long,\nThe arrow swift, the Gate is strong.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 37,
+            "Quantity": 3,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19037",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Valour of the North",
+            "Slug": "Valour-of-the-North-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Tactics",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Valour-of-the-North.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: After a character is declared as an attacker or defender against an enemy with an attachment, that character gets +3 Attack and +3 Defense until the end of this attack.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Dwarf-mail may be good, but they will soon be hard put to it.`\n-Bard the Bowman, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 38,
+            "Quantity": 3,
+            "Artist": "Ivan Dixon",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19038",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Descendant of Girion",
+            "Slug": "Descendant-of-Girion-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Descendant-of-Girion.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Reduce the cost to play Item attachments on Descendant of Girion by 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "-Glóin, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 39,
+            "Quantity": 3,
+            "Artist": "Unknown",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19039",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Erebor Toymaker",
+            "Slug": "Erebor-Toymaker-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Erebor-Toymaker.jpg",
+                "Stats": {
+                    "ResourceCost": "3",
+                    "Willpower": "2",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dwarf.",
+                    "Craftsman."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After you play Erebor Toymaker from your hand, reduce the cost of the next attachment played this phase by 2.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There were toys the like of which they had never seen before, all beautiful and some obviously magical.\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 40,
+            "Quantity": 3,
+            "Artist": "Ryan Valle",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19040",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Galion",
+            "Slug": "Galion-EMH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Galion.jpg",
+                "Stats": {
+                    "ResourceCost": "0",
+                    "Willpower": "0",
+                    "Attack": "0",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Silvan."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot attack or defend.\nResponse: After Galion enters play, he gets +1 Willpower until the end of the round.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Here am I waiting and waiting down hero, while you fellows drink and make merry and forget your tasks. Small wonder if I fall asleep from weariness!`\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 41,
+            "Quantity": 3,
+            "Artist": "Torbjörn Källström",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19041",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Long Lake Fisherman",
+            "Slug": "Long-Lake-Fisherman-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Long-Lake-Fisherman.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: After Long Lake Fisherman enters play, name a number. Then, search the top 5 cards of your deck for a card whose printed cost is equal to that number and add it to your hand. Shuffle your deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 42,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19042",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "North Realm Lookout",
+            "Slug": "North-Realm-Lookout-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/North-Realm-Lookout.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Dale.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "North Realm Lookout gets +1 Willpower and does not exhaust to quest while it has an Item attachment.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There were people on the look-out on the banks.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 43,
+            "Quantity": 3,
+            "Artist": "JB Casacop",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19043",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Wild Stallion",
+            "Slug": "Wild-Stallion-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Wild-Stallion.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nPlanning Action: Attach Wild Stallion to an ally you control. (Counts as a Mount attachment with the text: `Restricted. Limit 1 per ally. Attached ally gets +1 Willpower, +1 Attack, +1 Defense, and +1 hit point.`)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 44,
+            "Quantity": 3,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19044",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Armor of Erebor",
+            "Slug": "Armor-of-Erebor-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Armor-of-Erebor.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a Dale or Dwarf character. Restricted.\nAttached character gets +1 Defense and gains sentinel.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`We make good armour and keen swords, but we cannot again make mail or blade to match those that were made before the dragon came.`\n-Glóin, The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 45,
+            "Quantity": 3,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19045",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Grey Cloak",
+            "Slug": "Grey-Cloak-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Grey-Cloak.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Item."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Spirit or Scout character. Limit 1 per character.\nEncounter Action: Exhaust attached character and discard Grey Cloak to choose a non-unique enemy in the staging area. That enemy does not make engagement checks against you this phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 46,
+            "Quantity": 3,
+            "Artist": "Tropa Entertainment",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19046",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "King of Dale",
+            "Slug": "King-of-Dale-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/King-of-Dale.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Title."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to a Dale or Esgaroth hero.\nPlanning Action: Exhaust King of Dale to reduce the cost of the next Dale ally you play this phase by 1 for each different player attachment on attached hero. That ally does not require a resource match.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Then Bard II, Brand`s son, became King of Dale..\n-The Return of the King"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 47,
+            "Quantity": 3,
+            "Artist": "Antonio José Manzanedo",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19047",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Mithril Shirt",
+            "Slug": "Mithril-Shirt-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Mithril-Shirt.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Armor."
+                ],
+                "Keywords": [
+                    "Guarded (location)."
+                ],
+                "Text": [
+                    "Guarded (location).\nAttach to a hero.\nResponse: When attached hero is dealt any amount of damage, reduce that damage by 1.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "It was of silver-steel which the Elves call mithril, and with it went a belt of pearls and crystals.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 48,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19048",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Valiant Determination",
+            "Slug": "Valiant-Determination-EMH",
+            "IsUnique": false,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Valiant-Determination.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Condition."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to an ally.\nAttached ally does not exhaust to quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 49,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19049",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Quicker Than Sight",
+            "Slug": "Quicker-Than-Sight-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Quicker-Than-Sight.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: Return a Silvan ally you control to your hand to cancel a shadow effect just triggered during combat.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`You would die before your stroke fell.`\n-Legolas, The Two Towers"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 50,
+            "Quantity": 3,
+            "Artist": "Monztre",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19050",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Reforged",
+            "Slug": "Reforged-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Reforged.jpg",
+                "Stats": {
+                    "ResourceCost": "X"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose an attachment with a printed cost of X in any player`s discard pile and play that attachment for no cost. (The chosen attachment can belong to any sphere of influence.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "The Sword of Elendil was forged anew by Elvish smiths... -The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 51,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19051",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "South Away!",
+            "Slug": "South-Away-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/South-Away.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [
+                    "Song."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Travel Action: Choose a location in the staging area with a player card attachment and make it the active location, returning any previous active location to the staging area. Reduce each player`s threat by X, where X is the number of attachments on the active location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "South away! and South away!\nSeek the sunlight and the day.\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 52,
+            "Quantity": 3,
+            "Artist": "Yoann Boissonnet",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19052",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "To Arms!",
+            "Slug": "To-Arms-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Spirit",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/To-Arms.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Choose an ally with a player attachment. Ready that ally.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the grim-voiced fellow ran hotfoot to the Master. `The dragon is coming or I am a fool!` he cried. `Cut the bridges! To arms! To arms!`\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 53,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19053",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Forest Road Traveler",
+            "Slug": "Forest-Road-Traveler-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Forest-Road-Traveler.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "1",
+                    "HitPoints": "2"
+                },
+                "Traits": [
+                    "Woodman.",
+                    "Scout."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forest Road Traveler gets +1 Willpower, +1 Attack, and +1 Defense for each attachment on the active location.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "Only on the Road would travellers be found...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 54,
+            "Quantity": 3,
+            "Artist": "Derek D. Edgell",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19054",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Gaffer Gamgee",
+            "Slug": "Gaffer-Gamgee-EMH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Gaffer-Gamgee.jpg",
+                "Stats": {
+                    "ResourceCost": "2",
+                    "Willpower": "1",
+                    "Attack": "1",
+                    "Defense": "0",
+                    "HitPoints": "1"
+                },
+                "Traits": [
+                    "Hobbit."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Combat Action: Return Gaffer Gamgee to your hand to choose an enemy with engagement cost higher than your threat. Until the end of the round, that enemy cannot attack you.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`Why? Why`s none of my business, or yours.`\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 55,
+            "Quantity": 3,
+            "Artist": "Romana Kendelic",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19055",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Familiar Lands",
+            "Slug": "Familiar-Lands-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Familiar-Lands.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Action: Each location with an attachment gets -2 Threat until the end of the phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 66,
+            "Quantity": 3,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19066",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Great Hunt",
+            "Slug": "The-Great-Hunt-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-Great-Hunt.jpg",
+                "Stats": {
+                    "ResourceCost": "3"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You must use resources from 3 different heroes` pools to pay for this card.\nCombat Action: Choose and discard a non-unique enemy in the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...it seemed they could hear the noise of a great hunt going by to the north of the path...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 67,
+            "Quantity": 3,
+            "Artist": "Carlos Palma Cruchaga",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19067",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Hidden Way",
+            "Slug": "The-Hidden-Way-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": "Lore",
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-Hidden-Way.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Response: At the beginning of the quest phase, search the top 5 cards of the encounter deck for a location and make it the active location, returning any previous active location to the staging area. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 68,
+            "Quantity": 3,
+            "Artist": "Preston Stone",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19068",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Eagle of the North",
+            "Slug": "Eagle-of-the-North-EMH",
+            "IsUnique": false,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Eagle-of-the-North.jpg",
+                "Stats": {
+                    "ResourceCost": "-",
+                    "Willpower": "2",
+                    "Attack": "3",
+                    "Defense": "1",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Eagle."
+                ],
+                "Keywords": [
+                    "Encounter.",
+                    "Surge."
+                ],
+                "Text": [
+                    "Encounter. Surge.\nCannot have restricted attachments.\nWhen Revealed: The first player chooses a player to take control of Eagle of the North. The chosen player may choose and discard a non-unique enemy in the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 69,
+            "Quantity": 3,
+            "Artist": "Álvaro Calvo Escudero",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19069",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Thalion",
+            "Slug": "Thalion-EMH",
+            "IsUnique": true,
+            "CardType": "Ally",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Thalion.jpg",
+                "Stats": {
+                    "ResourceCost": "4",
+                    "Willpower": "2",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Dúnedain.",
+                    "Ranger."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While there is at least 1 side quest in the victory display, ready Thalion at the beginning of the combat phase.\nWhile there are at least 3 side quests in the victory display, Thalion loses the ally card type, gains the hero card type and the resource icons of each sphere on a side quest in the victory display.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 70,
+            "Quantity": 3,
+            "Artist": "Aleksander Karcz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19070",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Necklace of Girion",
+            "Slug": "Necklace-of-Girion-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Necklace-of-Girion.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location)."
+                ],
+                "Text": [
+                    "Guarded (enemy or location).\nAttach to a hero.\nAttached hero gets +2 Willpower and collects an additional resource during the resource phase.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "...the necklace of Girion, Lord of Dale, made of five hundred emeralds green as grass, which he gave for the arming of his eldest son...\n-The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 71,
+            "Quantity": 3,
+            "Artist": "Drazenka Kimpel",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19071",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Radagast's Staff",
+            "Slug": "Radagast's-Staff-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Radagast's-Staff.jpg",
+                "Stats": {
+                    "ResourceCost": "2"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item.",
+                    "Staff."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Attach to Radagast.\nAction: Exhaust Radagast`s Staff to choose one: Reduce the cost of the next Creature ally you play this phase by 2, ready a Creature ally, or return a non-unique Creature enemy engaged with you to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 72,
+            "Quantity": 3,
+            "Artist": "Sebastian Zakrzewski",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19072",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Ring of Thrór",
+            "Slug": "Ring-of-Thror-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/Ring-of-Thrór.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Ring."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location)."
+                ],
+                "Text": [
+                    "Guarded (enemy or location).\nAttach to a Dwarf hero.\nAction: Exhaust Ring of Thrór and discard the top card of your deck to ready attached hero. If the discarded card is an attachment, put it into play.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 73,
+            "Quantity": 3,
+            "Artist": "Emilio Rodriguez",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19073",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Arkenstone",
+            "Slug": "The-Arkenstone-EMH",
+            "IsUnique": true,
+            "CardType": "Attachment",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-Arkenstone.jpg",
+                "Stats": {
+                    "ResourceCost": "1"
+                },
+                "Traits": [
+                    "Artifact.",
+                    "Item."
+                ],
+                "Keywords": [
+                    "Guarded (enemy or location)."
+                ],
+                "Text": [
+                    "Guarded (enemy or location).\nAttach to a hero.\nEach unique character you control gains +1 Willpower.\nAction: Reduce your threat by 2 to attach The Arkenstone to a hero controlled by another player and raise that player`s threat by 2. (Limit once per round.)\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 74,
+            "Quantity": 3,
+            "Artist": "Emilio Rodriguez",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19074",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "The Shirefolk",
+            "Slug": "The-Shirefolk-EMH",
+            "IsUnique": false,
+            "CardType": "Event",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Ered-Mithrin-Hero-Expansion/The-Shirefolk.jpg",
+                "Stats": {
+                    "ResourceCost": "0"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Play only if each of your heroes is a Hobbit.\nAction: Reduce your threat by 4.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "`If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.`\n-Thorin Oakenshield, The Hobbit"
+            },
+            "Back": null,
+            "CardSet": "Ered Mithrin Hero Expansion",
+            "EncounterInfo": null,
+            "Number": 75,
+            "Quantity": 3,
+            "Artist": "Carmen Cianelti",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "19075",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        }
+    ]
+}

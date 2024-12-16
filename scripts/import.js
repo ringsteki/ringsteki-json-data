@@ -3,14 +3,13 @@ var path = require("path");
 var fs = require("fs");
 const { exit } = require("process");
 
-const hallOfBeorn =
-  "http://hallofbeorn-env.us-east-1.elasticbeanstalk.com/Export";
+const hallOfBeorn = "http://hallofbeorn.com/Export";
 
 const hob_cookies =
-  "DefaultSort=SortPopularity; ProductFilter=ProductAll; OwnedProducts=; SetSearch=SearchCommunity";
+  "ProductFilter=ProductAll; OwnedProducts=; CommunitySearch=SearchAlep; DefaultSort=SortPopularity; DefaultLimit=Limit600;";
 
-const LAST_PACK_COMPLETED = -1;
-const LAST_SCENARIO_COMPLETED = -1;
+const LAST_PACK_COMPLETED = 199;
+const LAST_SCENARIO_COMPLETED = 149;
 
 const axiosCache = {};
 
@@ -800,7 +799,7 @@ const doImport = async () => {
         });
       console.log("\tgot all cards. Saving json...");
       pack.cards = cards.data instanceof Array ? cards.data : [];
-      pack.cards = pack.cards.map((c) => fixupCard(c)).filter((c) => !!c);
+      // pack.cards = pack.cards.map((c) => fixupCard(c)).filter((c) => !!c);
 
       fs.writeFileSync(
         path.join(packDir, pack.Name + ".json"),
@@ -835,11 +834,6 @@ const doImport = async () => {
     //   stopSkipping = true;
     // }
 
-    if (index < LAST_SCENARIO_COMPLETED) {
-      console.log("Skipping..");
-      continue;
-    }
-
     //Update the scenario to include Cycle
     scenario.Cycle =
       hobSetsByName[scenario.Title.toLowerCase()]?.Cycle ||
@@ -855,6 +849,21 @@ const doImport = async () => {
       scenario.Cycle,
       scenario.SetType
     );
+
+    if (index < LAST_SCENARIO_COMPLETED) {
+      console.log("Skipping..");
+      continue;
+    }
+
+    if (scenario.SetType === "First_Age") {
+      console.log("Skipping First_Age..");
+      continue;
+    }
+
+    if (scenario.SetType === undefined || scenario.Cycle === undefined) {
+      console.log("Skipping Unknown SetType or Cycle..");
+      continue;
+    }
 
     const scenCardsUrl = `${hallOfBeorn}/?Scenario=${encodeURIComponent(
       scenario.Title

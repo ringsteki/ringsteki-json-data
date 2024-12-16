@@ -5,6 +5,375 @@
     "Number": 1,
     "AllCards": [
         {
+            "Title": "Twisting Shadows",
+            "Slug": "Twisting-Shadows-ItPN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Twisting-Shadows.jpg",
+                "Stats": {
+                    "Threat": "X",
+                    "QuestPoints": "X"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Dark."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is the number of Dark locations in play.\nWhen Revealed: Remove all progress from each Dark location in play.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each Dark location in play.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 6,
+            "Quantity": 3,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04006",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 449678,
+            "Categories": null
+        },
+        {
+            "Title": "Patrol Sentry",
+            "Slug": "Patrol-Sentry-ItPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Patrol-Sentry.jpg",
+                "Stats": {
+                    "EngagementCost": "20",
+                    "Threat": "1",
+                    "Attack": "4",
+                    "Defense": "3",
+                    "HitPoints": "5"
+                },
+                "Traits": [
+                    "Goblin.",
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Forced: After Cave Torch exhausts, Patrol Sentry makes an immediate attack against the engaged player, if able.\n"
+                ],
+                "Shadow": "Shadow: Add Patrol Sentry to the staging area.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 3,
+            "Quantity": 4,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04003",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 359764,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Lurker",
+            "Slug": "Goblin-Lurker-ItPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Lurker.jpg",
+                "Stats": {
+                    "EngagementCost": "50",
+                    "Threat": "3",
+                    "Attack": "2",
+                    "Defense": "2",
+                    "HitPoints": "4"
+                },
+                "Traits": [
+                    "Goblin.",
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot be optionally engaged.\nIf the active location is a Dark location, Goblin Lurker gets +3 Attack and -40 engagement cost.\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if the active location is a Dark location.)",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 4,
+            "Quantity": 3,
+            "Artist": "Piya Wannachaiwong",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04004",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 219294,
+            "Categories": null
+        },
+        {
+            "Title": "Into the Pit Nightmare",
+            "Slug": "Into-the-Pit-Nightmare-ItPN",
+            "IsUnique": false,
+            "CardType": "Nightmare_Setup",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Into-the-Pit-Nightmare-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Nightmare mode.\nForced: After Cave Torch exhausts, place 1 damage token on this card. Then, if there are 5 or more damage tokens on this card, remove Cave Torch from the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "All about them as they lay hung the darkness, hollow and immense, and they were oppressed by the lonliness and vastness of the dolven halls and endlessly branching stairs and passages. -The Fellowship of the Ring"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Begin with the standard quest deck and encounter deck for the Into the Pit scenario.\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n1x Goblin Patrol\n2x Stairs of Nßin\n2x Goblin Follower\n2x Crumbling Ruin\n3x Cave In\n2x Fouled Well\n2x Goblin Tunnels\n5x Goblin Swordsman\nAdd the new quest card in this Nightmare Deck to the normal quest deck, in stage order. Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Into the Pit encounter deck.\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": null,
+            "Number": 1,
+            "Quantity": 1,
+            "Artist": "Guillaume Ducos",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04001",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 9952,
+            "Categories": null
+        },
+        {
+            "Title": "Shadow Dweller",
+            "Slug": "Shadow-Dweller-ItPN",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Shadow-Dweller.jpg",
+                "Stats": {
+                    "EngagementCost": "0",
+                    "Threat": "1",
+                    "Attack": "7",
+                    "Defense": "7",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Creature."
+                ],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nShadow Dweller does not make engagement checks while Cave Torch is in play.\n"
+                ],
+                "Shadow": "Shadow: Shuffle Shadow Dweller back into the encounter deck.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 5,
+            "Quantity": 2,
+            "Artist": "Mark Bulahao",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04005",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 66082,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Ambush",
+            "Slug": "Goblin-Ambush-ItPN",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2A.jpg",
+                "Stats": {
+                    "StageNumber": "2A"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: The first player must search the encounter deck and discard pile for X Orc enemies and add them to the staging area, where X is 1 plus the number of players in the game. One of these choices must be Patrol Sentry and one must be Patrol Leader, if able.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You hear the sounds of many scampering feet. As you move closer to investiage, you find your party set upon on all sides by a patrol of Orcs!"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2B.jpg",
+                "Stats": {
+                    "StageNumber": "2B",
+                    "QuestPoints": "X"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "X is 1 plus the number of players in the game.\nForced: After an enemy is defeated, place 1 progress on this stage.\nProgress cannot be placed on Goblin Ambush expect by the above effect.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "A"
+            },
+            "Number": 2,
+            "Quantity": 1,
+            "Artist": "Jason Ward",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04002",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 39176,
+            "Categories": null
+        },
+        {
+            "Title": "Narrow Fissure",
+            "Slug": "Narrow-Fissure-ItPN",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Narrow-Fissure.jpg",
+                "Stats": {
+                    "Threat": "3",
+                    "QuestPoints": "1"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Hazard."
+                ],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.\nEach Dark location in play gets +2 quest points.\nWhile Cave Torch is ready, progress cannot be placed on Narrow Fissure.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "There were fissures and chasms in the walls...\n-The Fellowship of the Ring"
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 7,
+            "Quantity": 3,
+            "Artist": "Katy Grierson",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04007",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 37274,
+            "Categories": null
+        },
+        {
+            "Title": "Shadow-fall",
+            "Slug": "Shadow-fall-ItPN",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Shadow-fall.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Surge."
+                ],
+                "Text": [
+                    "Surge.\nWhen Revealed: Attach to a non-Dark location in play. (Counts as a Condition attachment with the text: `Attached location gains the Dark trait and gets +3 quest points.`)\n"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +3 Defense this phase.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "Into the Pit Nightmare",
+            "EncounterInfo": {
+                "EncounterSet": "Into the Pit Nightmare",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 8,
+            "Quantity": 3,
+            "Artist": "Anthony Feliciano",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "04008",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 31736,
+            "Categories": null
+        },
+        {
             "Title": "Patrol Leader",
             "Slug": "Patrol-Leader-KD",
             "IsUnique": false,
@@ -27,7 +396,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: Before Patrol Leader is dealt damage, discard the top card of the encounter deck. If the discarded card is an enemy, cancel that damage."
+                    "Forced: Before Patrol Leader is dealt damage, discard the top card of the encounter deck. If the discarded card is an enemy, cancel that damage.\n"
                 ],
                 "Shadow": "Shadow: Cancel all damage dealt to this enemy.",
                 "FlavorText": null
@@ -68,7 +437,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Doomed 2. Surge."
+                    "Doomed 2. Surge.\n"
                 ],
                 "Shadow": "Shadow: Defending player raises his threat by 2.",
                 "FlavorText": null
@@ -113,8 +482,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Immune to card effects.",
-                    "Players cannot optionally engage enemies and no engagement checks are made.Forced: After East-gate leaves play as an explored location, add First Hall to the staging area."
+                    "Immune to card effects.\nPlayers cannot optionally engage enemies and no engagement checks are made.Forced: After East-gate leaves play as an explored location, add First Hall to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -159,7 +527,7 @@
                     "Victory 1."
                 ],
                 "Text": [
-                    "Travel: Each player must raise his threat by 3 to travel here.Forced: After First Hall leaves play as an explored location, add Bridge of Khazad-dum to the staging area."
+                    "Travel: Each player must raise his threat by 3 to travel here.Forced: After First Hall leaves play as an explored location, add Bridge of Khazad-dum to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -205,7 +573,7 @@
                     "Victory 2."
                 ],
                 "Text": [
-                    "While Bridge of Khazad-dûm is the active location, players cannot play cards."
+                    "While Bridge of Khazad-dûm is the active location, players cannot play cards.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -248,7 +616,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: The first player must exhaust 1 character he controls to travel here."
+                    "Travel: The first player must exhaust 1 character he controls to travel here.\n"
                 ],
                 "Shadow": "Shadow: Defending player must choose and exhaust 1 character he controls.",
                 "FlavorText": null
@@ -295,7 +663,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Goblin Follower engages the last player."
+                    "When Revealed: Goblin Follower engages the last player.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+2 Attack instead if attacking the last player.)",
                 "FlavorText": null
@@ -339,7 +707,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Branching Paths is in the staging area, each Dark location gets +1 Threat.Forced: After Branching Paths leaves play as an explored location, look at the top 3 cards of the encounter deck. Players must choose 1 of those to reveal and add to the staging area, moving the other 2 to the bottom of the deck."
+                    "While Branching Paths is in the staging area, each Dark location gets +1 Threat.Forced: After Branching Paths leaves play as an explored location, look at the top 3 cards of the encounter deck. Players must choose 1 of those to reveal and add to the staging area, moving the other 2 to the bottom of the deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -383,7 +751,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Players must exhaust a Cave Torch to travel here."
+                    "Travel: Players must exhaust a Cave Torch to travel here.\n"
                 ],
                 "Shadow": "Shadow: Cancel all combat damage dealt to attacking enemy.",
                 "FlavorText": null
@@ -427,7 +795,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Action: Raise each player`s threat by 1 to place 1 progress token on Zigil Mineshaft."
+                    "Action: Raise each player`s threat by 1 to place 1 progress token on Zigil Mineshaft.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -467,8 +835,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "When Revealed: Shuffle all locations in the encounter discard pile back into the encounter deck."
+                    "Surge.\nWhen Revealed: Shuffle all locations in the encounter discard pile back into the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -506,7 +873,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each enemy and location currently in the staging area gets +1 Threat until the end of the phase. (+3 Threat instead if it is a Dark location.) Players may exhaust a Cave Torch to cancel this effect."
+                    "When Revealed: Each enemy and location currently in the staging area gets +1 Threat until the end of the phase. (+3 Threat instead if it is a Dark location.) Players may exhaust a Cave Torch to cancel this effect.\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -548,8 +915,7 @@
                     "Restricted."
                 ],
                 "Text": [
-                    "Attach to a hero. Restricted.",
-                    "Action: Exhaust Cave Torch to place up to 3 progress tokens on a Dark location.Forced: After Cave Torch exhausts, discard the top card of the encounter deck. If that card is an enemy, add it to the staging area."
+                    "Attach to a hero. Restricted.\nAction: Exhaust Cave Torch to place up to 3 progress tokens on a Dark location.Forced: After Cave Torch exhausts, discard the top card of the encounter deck. If that card is an enemy, add it to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -589,7 +955,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Remove all progress tokens from the current quest card and active location. If Cave In removed no progress tokens, it gains surge."
+                    "When Revealed: Remove all progress tokens from the current quest card and active location. If Cave In removed no progress tokens, it gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -629,7 +995,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must exhaust a character and discard the top card of his deck, if able. If the printed cost of the discarded card is equal to or higher than the remaining hit points of the exhausted character, discard the exhausted character."
+                    "When Revealed: Each player must exhaust a character and discard the top card of his deck, if able. If the printed cost of the discarded card is equal to or higher than the remaining hit points of the exhausted character, discard the exhausted character.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -667,7 +1033,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Deal 1 damage to each exhausted character. (2 damage instead if the active location is a Dark location.)"
+                    "When Revealed: Deal 1 damage to each exhausted character. (2 damage instead if the active location is a Dark location.)\n"
                 ],
                 "Shadow": "Shadow: Deal 1 damage to the defending character. (Attacking enemy gets +2 Attack instead if this attack is undefended.)",
                 "FlavorText": null
@@ -707,7 +1073,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player must discard 1 questing character he controls, if able. This effect cannot be canceled."
+                    "When Revealed: The first player must discard 1 questing character he controls, if able. This effect cannot be canceled.\n"
                 ],
                 "Shadow": "Shadow: Discard the defending character from play.",
                 "FlavorText": null
@@ -753,7 +1119,7 @@
                     "Victory 3."
                 ],
                 "Text": [
-                    "When Revealed: Immediately travel to Dreadful Gap. If another location is currently active, return it to the staging area.X is the number of characters in play."
+                    "When Revealed: Immediately travel to Dreadful Gap. If another location is currently active, return it to the staging area.X is the number of characters in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -798,7 +1164,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player may choose and discard 1 card at random from his hand. If all players did not discard 1 card, Fouled Well gains surge."
+                    "When Revealed: Each player may choose and discard 1 card at random from his hand. If all players did not discard 1 card, Fouled Well gains surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -846,7 +1212,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Each player with a threat of 25 or higher cannot optionally engage Goblin Scout."
+                    "Each player with a threat of 25 or higher cannot optionally engage Goblin Scout.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -893,7 +1259,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Goblin Swordsman gets +2 Attack if its attack is undefended."
+                    "Goblin Swordsman gets +2 Attack if its attack is undefended.\n"
                 ],
                 "Shadow": "Shadow: Add Goblin Swordsman to the staging area.",
                 "FlavorText": null
@@ -931,7 +1297,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: The first player attaches Watchful Eyes to one of his heroes. (Counts as a Condition attachment with the text: `Limit 1 per hero. Forced: If attached hero is exhausted at the end of the combat phase, reveal 1 card from the encounter deck and add it to the staging area.`)"
+                    "When Revealed: The first player attaches Watchful Eyes to one of his heroes. (Counts as a Condition attachment with the text: `Limit 1 per hero. Forced: If attached hero is exhausted at the end of the combat phase, reveal 1 card from the encounter deck and add it to the staging area.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -975,7 +1341,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Goblin Tunnels is in the staging area, it gains: `Forced: After a Goblin is revealed from the encounter deck, remove a progress token from the current quest card.`"
+                    "While Goblin Tunnels is in the staging area, it gains: `Forced: After a Goblin is revealed from the encounter deck, remove a progress token from the current quest card.`\n"
                 ],
                 "Shadow": "Shadow: attacking enemy gets +1 Attack. (+3 Attack instead if attacking enemy is a Goblin.)",
                 "FlavorText": null
@@ -1015,7 +1381,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Setup: Search the encounter deck for East-gate and Cave Torch. Put East-gate into play as the active location, and have the first player attach Cave Torch to a hero of his choice. Set First Hall and Bridge of Khazad-dum aside, out of play. Shuffle the encounter deck."
+                    "Setup: Search the encounter deck for East-gate and Cave Torch. Put East-gate into play as the active location, and have the first player attach Cave Torch to a hero of his choice. Set First Hall and Bridge of Khazad-dum aside, out of play. Shuffle the encounter deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "You have been sent by the White Council to Moria, to deliver a message to Balin and his Dwarven colony. No one has heard from him in a while."
@@ -1030,8 +1396,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Reveal 1 encounter card per player, and add it to the staging area.",
-                    "Player cannot advance to the next stage of the scenario unless Bridge of Khazad-dum is in their victory display."
+                    "When Revealed: Reveal 1 encounter card per player, and add it to the staging area.\nPlayer cannot advance to the next stage of the scenario unless Bridge of Khazad-dum is in their victory display.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The doors of the East-gate hang crooked on their henges. The darkness inside the doorway is still and impenetrable, shutting out the last beams of a sinking sun."
@@ -1087,7 +1452,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If there are no enemies in play, immediately advance to the next stage of the scenario. (Players can also advance by placing 11 progress tokens on Goblin Patrol.)"
+                    "If there are no enemies in play, immediately advance to the next stage of the scenario. (Players can also advance by placing 11 progress tokens on Goblin Patrol.)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1143,7 +1508,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "If players defeat this stage, they win the game."
+                    "If players defeat this stage, they win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1166,383 +1531,6 @@
             "HasErrata": false,
             "OctgnGuid": "51223bd0-ffd1-11df-a976-0801207c9004",
             "RingsDbCardId": "03066",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Into the Pit Nightmare",
-            "Slug": "Into-the-Pit-Nightmare-ItPN",
-            "IsUnique": false,
-            "CardType": "Nightmare_Setup",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Into-the-Pit-Nightmare-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Nightmare mode.\n\nForced: After Cave Torch exhausts, place 1 damage token on this card. Then, if there are 5 or more damage tokens on this card, remove Cave Torch from the game."
-                ],
-                "Shadow": null,
-                "FlavorText": "All about them as they lay hung the darkness, hollow and immense, and they were oppressed by the lonliness and vastness of the dolven halls and endlessly branching stairs and passages. -The Fellowship of the Ring"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Begin with the standard quest deck and encounter deck for the Into the Pit scenario.\n\nRemove the following cards, in the specified quantities, from the standard encounter deck:\n\n1x Goblin Patrol\n2x Stairs of Náin\n2x Goblin Follower\n2x Crumbling Ruin\n3x Cave In\n2x Fouled Well\n2x Goblin Tunnels\n5x Goblin Swordsman\n\nAdd the new quest card in this Nightmare Deck to the normal quest deck, in stage order. Then, shuffle the encounter cards in this Nightmare Deck into the remainder of the standard Into the Pit encounter deck.\n\nFinally, flip this setup card over and place it next to the quest deck. Its effect remains active throughout the game, which is now ready to begin."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": null,
-            "Number": 1,
-            "Quantity": 1,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00001",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Goblin Ambush",
-            "Slug": "Goblin-Ambush-ItPN",
-            "IsUnique": false,
-            "CardType": "Quest",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2A.jpg",
-                "Stats": {
-                    "StageNumber": "2A"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: The first player must search the encounter deck and discard pile for X Orc enemies and add them to the staging area, where X is 1 plus the number of players in the game. One of these choices must be Patrol Sentry and one must be Patrol Leader, if able."
-                ],
-                "Shadow": null,
-                "FlavorText": "You hear the sounds of many scampering feet. As you move closer to investiage, you find your party set upon on all sides by a patrol of Orcs!"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Ambush-2B.jpg",
-                "Stats": {
-                    "StageNumber": "2B",
-                    "QuestPoints": "X"
-                },
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "X is 1 plus the number of players in the game.",
-                    "Forced: After an enemy is defeated, place 1 progress on this stage.",
-                    "Progress cannot be placed on Goblin Ambush expect by the above effect."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": 2,
-                "StageLetter": "A"
-            },
-            "Number": 2,
-            "Quantity": 1,
-            "Artist": "Jason Ward",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00002",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Patrol Sentry",
-            "Slug": "Patrol-Sentry-ItPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Patrol-Sentry.jpg",
-                "Stats": {
-                    "EngagementCost": "20",
-                    "Threat": "1",
-                    "Attack": "4",
-                    "Defense": "3",
-                    "HitPoints": "5"
-                },
-                "Traits": [
-                    "Goblin.",
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Forced: After Cave Torch exhausts, Patrol Sentry makes an immediate attack against the engaged player, if able."
-                ],
-                "Shadow": "Shadow: Add Patrol Sentry to the staging area.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 3,
-            "Quantity": 4,
-            "Artist": "Guillaume Ducos",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00003",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Goblin Lurker",
-            "Slug": "Goblin-Lurker-ItPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Goblin-Lurker.jpg",
-                "Stats": {
-                    "EngagementCost": "50",
-                    "Threat": "3",
-                    "Attack": "2",
-                    "Defense": "2",
-                    "HitPoints": "4"
-                },
-                "Traits": [
-                    "Goblin.",
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot be optionally engaged.",
-                    "If the active location is a Dark location, Goblin Lurker gets +3 Attack and -40 engagement cost."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack (+3 Attack instead if the active location is a Dark location.)",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 4,
-            "Quantity": 3,
-            "Artist": "Piya Wannachaiwong",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Shadow Dweller",
-            "Slug": "Shadow-Dweller-ItPN",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Shadow-Dweller.jpg",
-                "Stats": {
-                    "EngagementCost": "0",
-                    "Threat": "1",
-                    "Attack": "7",
-                    "Defense": "7",
-                    "HitPoints": "8"
-                },
-                "Traits": [
-                    "Creature."
-                ],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "Shadow Dweller does not make engagement checks while Cave Torch is in play."
-                ],
-                "Shadow": "Shadow: Shuffle Shadow Dweller back into the encounter deck.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 5,
-            "Quantity": 2,
-            "Artist": "Mark Bulahao",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Twisting Shadows",
-            "Slug": "Twisting-Shadows-ItPN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Twisting-Shadows.jpg",
-                "Stats": {
-                    "Threat": "X",
-                    "QuestPoints": "X"
-                },
-                "Traits": [
-                    "Underground.",
-                    "Dark."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "X is the number of Dark locations in play.",
-                    "When Revealed: Remove all progress from each Dark location in play."
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack for each Dark location in play.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 6,
-            "Quantity": 3,
-            "Artist": "Michael Rasmussen",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Narrow Fissure",
-            "Slug": "Narrow-Fissure-ItPN",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Narrow-Fissure.jpg",
-                "Stats": {
-                    "Threat": "3",
-                    "QuestPoints": "1"
-                },
-                "Traits": [
-                    "Underground.",
-                    "Hazard."
-                ],
-                "Keywords": [
-                    "Doomed 1."
-                ],
-                "Text": [
-                    "Doomed 1.",
-                    "Each Dark location in play gets +2 quest points.",
-                    "While Cave Torch is ready, progress cannot be placed on Narrow Fissure."
-                ],
-                "Shadow": null,
-                "FlavorText": "There were fissures and chasms in the walls...\r\n-The Fellowship of the Ring"
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 7,
-            "Quantity": 3,
-            "Artist": "Katy Grierson",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Shadow-fall",
-            "Slug": "Shadow-fall-ItPN",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/Into-the-Pit-Nightmare/Shadow-fall.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Surge."
-                ],
-                "Text": [
-                    "Surge.",
-                    "When Revealed: Attach to a non-Dark location in play. (Counts as a Condition attachment with the text: `Attached location gains the Dark trait and gets +3 quest points.`)"
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +3 Defense this phase.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "Into the Pit Nightmare",
-            "EncounterInfo": {
-                "EncounterSet": "Into the Pit Nightmare",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 8,
-            "Quantity": 3,
-            "Artist": "Anthony Feliciano",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00008",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null

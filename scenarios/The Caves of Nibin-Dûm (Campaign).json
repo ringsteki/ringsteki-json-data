@@ -5,6 +5,88 @@
     "Number": 2,
     "AllCards": [
         {
+            "Title": "Obsidian Arrows",
+            "Slug": "Obsidian-Arrows-TDoM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Obsidian-Arrows.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Deal 2 damage to a character you control.\n"
+                ],
+                "Shadow": "Shadow: Deal 1 damage to a character you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Goblins (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 26,
+            "Quantity": 2,
+            "Artist": "Aurelien Hubert",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02026",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 910046,
+            "Categories": null
+        },
+        {
+            "Title": "Lightless Passage",
+            "Slug": "Lightless-Passage-TDoM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Lightless-Passage.jpg",
+                "Stats": {
+                    "Threat": "4",
+                    "QuestPoints": "4"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Dark."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Travel: Players must exhaust a Cave Torch to travel here."
+                ],
+                "Shadow": "Shadow: Cancel all combat damage dealt to attacking enemy.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 33,
+            "Quantity": 2,
+            "Artist": "Stu Barnes",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02033",
+            "RingsDbPopularity": 10,
+            "RingsDbVotes": 907981,
+            "Categories": null
+        },
+        {
             "Title": "The Dark of Nibin-Dûm",
             "Slug": "The-Dark-of-Nibin-Dum-TDoM",
             "IsUnique": false,
@@ -55,9 +137,53 @@
             "Artist": "Jason Jenicke",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00004",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02004",
+            "RingsDbPopularity": 9,
+            "RingsDbVotes": 593115,
+            "Categories": null
+        },
+        {
+            "Title": "Branching Paths",
+            "Slug": "Branching-Paths-TDoM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Branching-Paths.jpg",
+                "Stats": {
+                    "Threat": "1",
+                    "QuestPoints": "3"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Dark."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Branching Paths is in the staging area, each Dark location gets +1 Threat.\nForced: After Branching Paths leaves play as an explored location, look at the top 3 cards of the encounter deck. Players must choose 1 of those to reveal and add to the staging area, moving the other 2 to the bottom of the deck.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 34,
+            "Quantity": 2,
+            "Artist": "David A. Nash",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02034",
+            "RingsDbPopularity": 8,
+            "RingsDbVotes": 492246,
             "Categories": null
         },
         {
@@ -91,8 +217,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "During the encounter phase, treat each enemy`s engagement cost as if it were 0.",
-                    "The stage gets +4 quest points for each enemy in play."
+                    "During the encounter phase, treat each enemy`s engagement cost as if it were 0.\nThe stage gets +4 quest points for each enemy in play.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "The Goblins are led by a large chieftain who whips them into a frenzy. His soldiers attack you with reckless savagery and you struggle to gain the upper hand."
@@ -112,9 +237,55 @@
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00005",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02005",
+            "RingsDbPopularity": 7,
+            "RingsDbVotes": 356408,
+            "Categories": null
+        },
+        {
+            "Title": "Great Cave-troll",
+            "Slug": "Great-Cave-troll-TDoM",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Great-Cave-troll.jpg",
+                "Stats": {
+                    "EngagementCost": "36",
+                    "Threat": "3",
+                    "Attack": "6",
+                    "Defense": "4",
+                    "HitPoints": "6"
+                },
+                "Traits": [
+                    "Troll."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Cannot have attachments.\nFor each point of excess combat damage dealt by Great Cave-troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) remove 1 progress from the current quest.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 30,
+            "Quantity": 2,
+            "Artist": "Nicholas Gregory",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02030",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 332238,
             "Categories": null
         },
         {
@@ -148,9 +319,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: Reveal an additional encounter card during the quest phase.",
-                    "Progress cannot be placed on Cracked Pillar while it is in the staging area.",
-                    "After Cracked Pillar leaves play as an explored location, advance to stage 4A."
+                    "Forced: Reveal an additional encounter card during the quest phase.\nProgress cannot be placed on Cracked Pillar while it is in the staging area.\nAfter Cracked Pillar leaves play as an explored location, advance to stage 4A.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "As you search for a way across, you see that one tall pillar near the edge of the chasm has cracked where it meets the ceiling. If you topple the pillar, it could serve to bridge the gap."
@@ -170,9 +339,92 @@
             "Artist": "Stanislav Dikolenko",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00006",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02006",
+            "RingsDbPopularity": 6,
+            "RingsDbVotes": 309994,
+            "Categories": null
+        },
+        {
+            "Title": "Eyes in the Dark",
+            "Slug": "Eyes-in-the-Dark-TDoM",
+            "IsUnique": false,
+            "CardType": "Treachery",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Eyes-in-the-Dark.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [
+                    "Doomed 1."
+                ],
+                "Text": [
+                    "Doomed 1.\nWhen Revealed: Each player must choose: Either raise your threat by 1 for each questing character you control, or discard a questing character you control.\n"
+                ],
+                "Shadow": "Shadow: If this attack is undefended, discard an ally you control.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Goblins (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 25,
+            "Quantity": 2,
+            "Artist": "Sam Lamont",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02025",
+            "RingsDbPopularity": 5,
+            "RingsDbVotes": 17752,
+            "Categories": null
+        },
+        {
+            "Title": "The Caves of Nibin-Dûm",
+            "Slug": "The-Caves-of-Nibin-Dum-Campaign-TDoM",
+            "IsUnique": false,
+            "CardType": "Campaign",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Caves-of-Nibin-Dûm-SetupA.jpg",
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "You are playing Campaign Mode.\nSetup: Each player adds a copy of the `No Time to Waste!` boon to their hand after drawing their starting hand (including taking a mulligan). Add each copy of `No Time to Waste!` in a player`s hand to the Campaign Pool. Shuffle the Shiny Distraction burden into the encounter deck and add it to the Campaign Pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "That, of course, is the dangerous part about caves: you don`t know how far they go back...\n-The Hobbit"
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": null,
+                "Stats": {},
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Resolution: Check the final threat of the player with the highest threat: If it is under 40, you have rescued a retired Ranger who shares his wisdom with you. Each player may add 1 copy of Ranger Sense to their deck and to the Campaign Pool. At the start of your next campaign, each player may also shuffle 1 copy of Ranger Sense into their deck and add it to the Campaign Pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You have rescued the captives and fulfilled your oath. What Goblins remain flee in terror of your wrath, and your return journey is untroubled. The villagers who survived thank you endlessly for returning them to their village. They invited you to stay and live among them in honor, but your allegiance is to other lords and many journeys still await you. After a good night`s rest, you depart in the morning."
+            },
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": null,
+            "Number": 51,
+            "Quantity": 1,
+            "Artist": "Jason Jenicke",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02051",
+            "RingsDbPopularity": 4,
+            "RingsDbVotes": 174327,
             "Categories": null
         },
         {
@@ -206,8 +458,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "While there are at least 8 progress tokens on this stage, Goblin Chieftain loses the text: `Cannot take damage.`",
-                    "This stage cannot be defeated while Goblin Chieftain is in play. When this stage is defeated, the heroes rescue the captives, fulfilling their oaths, and the players win the game!"
+                    "While there are at least 8 progress tokens on this stage, Goblin Chieftain loses the text: `Cannot take damage.`\nThis stage cannot be defeated while Goblin Chieftain is in play. When this stage is defeated, the heroes rescue the captives, fulfilling their oaths, and the players win the game!\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -227,9 +478,232 @@
             "Artist": "Alexander Kozachenko",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00007",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
+            "RingsDbCardId": "02007",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 148433,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Tunnels",
+            "Slug": "Goblin-Tunnels-TDoM",
+            "IsUnique": false,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Goblin-Tunnels.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "7"
+                },
+                "Traits": [
+                    "Underground.",
+                    "Dark."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Goblin Tunnels is in the staging area, it gains: `Forced: After a Goblin is revealed from the encounter deck, remove a progress token from the current quest card.`"
+                ],
+                "Shadow": "Shadow: Attacking enemy gets +1 Attack. (+3 Attack instead if attacking enemy is a Goblin.)",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 32,
+            "Quantity": 2,
+            "Artist": "Michael Rasmussen",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02032",
+            "RingsDbPopularity": 3,
+            "RingsDbVotes": 140571,
+            "Categories": null
+        },
+        {
+            "Title": "Cave Torch",
+            "Slug": "Cave-Torch-TDoM",
+            "IsUnique": false,
+            "CardType": "Objective",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cave-Torch.jpg",
+                "Stats": {},
+                "Traits": [
+                    "Light."
+                ],
+                "Keywords": [
+                    "Restricted."
+                ],
+                "Text": [
+                    "Attach to a hero. Restricted.\nAction: Exhause Cave Torch to place up to 3 progress tokens on a Dark location.\nForced: After Cave Torch exhausts, discard the top card of the encounter deck. If that card is an enemy, add it to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 29,
+            "Quantity": 1,
+            "Artist": "David Lecossu",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02029",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 103530,
+            "Categories": null
+        },
+        {
+            "Title": "Goblin Chieftain",
+            "Slug": "Goblin-Chieftain-TDoM",
+            "IsUnique": true,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Goblin-Chieftain.jpg",
+                "Stats": {
+                    "EngagementCost": "40",
+                    "Threat": "X",
+                    "Attack": "X",
+                    "Defense": "X",
+                    "HitPoints": "8"
+                },
+                "Traits": [
+                    "Goblin.",
+                    "Orc."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "X is the stage number of the quest.\nCannot take damage. Cannot have attachments.\nForced: After Goblin Chieftain attacks, either remove X progress from the quest, or return it to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 27,
+            "Quantity": 1,
+            "Artist": "Alexander Kozachenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02027",
+            "RingsDbPopularity": 2,
+            "RingsDbVotes": 79623,
+            "Categories": null
+        },
+        {
+            "Title": "Cavern Warg",
+            "Slug": "Cavern-Warg-TDoM",
+            "IsUnique": false,
+            "CardType": "Enemy",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cavern-Warg.jpg",
+                "Stats": {
+                    "EngagementCost": "33",
+                    "Threat": "2",
+                    "Attack": "3",
+                    "Defense": "2",
+                    "HitPoints": "3"
+                },
+                "Traits": [
+                    "Creature.",
+                    "Warg."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "Response: When Cavern Warg attacks you, exhaust Cave Torch to cancel the attack and return Cavern Warg to the staging area."
+                ],
+                "Shadow": "Shadow: If this attack destroys a character, return attacking enemy to the staging area after this attack.",
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 31,
+            "Quantity": 2,
+            "Artist": "Stanislav Dikolenko",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02031",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 59605,
+            "Categories": null
+        },
+        {
+            "Title": "Cracked Pillar",
+            "Slug": "Cracked-Pillar-TDoM",
+            "IsUnique": true,
+            "CardType": "Location",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cracked-Pillar.jpg",
+                "Stats": {
+                    "Threat": "2",
+                    "QuestPoints": "2"
+                },
+                "Traits": [
+                    "Underground."
+                ],
+                "Keywords": [],
+                "Text": [
+                    "While Cracked Pillar is in the staging area, it gains: `The first player may declare an attack against Cracked Pillar during the combat phase as if it was an enemy engaged with him. Use Cracked Pillar`s Threat as its Defense during this attack.`\nTravel: Remove 4 damage from Cracked Pillar to travel here.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "Back": null,
+            "CardSet": "The Dark of Mirkwood",
+            "EncounterInfo": {
+                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": null,
+                "StageLetter": null
+            },
+            "Number": 28,
+            "Quantity": 1,
+            "Artist": "Leanna Crossan",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "02028",
+            "RingsDbPopularity": 1,
+            "RingsDbVotes": 46575,
             "Categories": null
         },
         {
@@ -255,8 +729,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "While Goblin Troop is engaged with you, each other Goblin enemy engaged with you gets +1 Attack and +1 Defense."
+                    "Cannot have attachments.\nWhile Goblin Troop is engaged with you, each other Goblin enemy engaged with you gets +1 Attack and +1 Defense.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +2 Attack.",
                 "FlavorText": null
@@ -275,7 +748,7 @@
             "Artist": "Matt Stewart",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00019",
+            "RingsDbCardId": "02019",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -303,8 +776,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.",
-                    "Forced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls."
+                    "During the encounter phase, players cannot optionally engage Goblin Sniper if there are other enemies in the staging area.\nForced: If Goblin Sniper is in the staging area at the end of the combat phase, each player deals 1 point of damage to 1 character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -323,7 +795,7 @@
             "Artist": "Alexandr Shaldin",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00020",
+            "RingsDbCardId": "02020",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -353,7 +825,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge."
+                    "Surge.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Shadow: Attacking enemy makes an additional attack immediately after this one. (Deal a new shadow card for that attack.)"
@@ -372,7 +844,7 @@
             "Artist": "Stephane Gantiez",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00021",
+            "RingsDbCardId": "02021",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -419,7 +891,7 @@
             "Artist": "Jarreau Wimberly",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00022",
+            "RingsDbCardId": "02022",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -447,7 +919,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Wild Wargs engages you, discard the top card of the encounter deck. If that card is a Goblin enemy, put it into play engaged with you."
+                    "Forced: After Wild Wargs engages you, discard the top card of the encounter deck. If that card is a Goblin enemy, put it into play engaged with you.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "`Where the Warg howls, there the Orc prowls.`"
@@ -466,7 +938,7 @@
             "Artist": "Piya Wannachaiwong",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00023",
+            "RingsDbCardId": "02023",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -504,450 +976,7 @@
             "Artist": "Diego Gisbert Llorens",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00024",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Eyes in the Dark",
-            "Slug": "Eyes-in-the-Dark-TDoM",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Eyes-in-the-Dark.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [
-                    "Doomed 1."
-                ],
-                "Text": [
-                    "Doomed 1.",
-                    "When Revealed: Each player must choose: Either raise your threat by 1 for each questing character you control, or discard a questing character you control."
-                ],
-                "Shadow": "Shadow: If this attack is undefended, discard an ally you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Goblins (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 25,
-            "Quantity": 2,
-            "Artist": "Sam Lamont",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00025",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Obsidian Arrows",
-            "Slug": "Obsidian-Arrows-TDoM",
-            "IsUnique": false,
-            "CardType": "Treachery",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Obsidian-Arrows.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "When Revealed: Deal 2 damage to a character you control."
-                ],
-                "Shadow": "Shadow: Deal 1 damage to a character you control.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Goblins (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 26,
-            "Quantity": 2,
-            "Artist": "Aurelien Hubert",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00026",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Goblin Chieftain",
-            "Slug": "Goblin-Chieftain-TDoM",
-            "IsUnique": true,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Goblin-Chieftain.jpg",
-                "Stats": {
-                    "EngagementCost": "40",
-                    "Threat": "X",
-                    "Attack": "X",
-                    "Defense": "X",
-                    "HitPoints": "8"
-                },
-                "Traits": [
-                    "Goblin.",
-                    "Orc."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "X is the stage number of the quest.",
-                    "Cannot take damage. Cannot have attachments.",
-                    "Forced: After Goblin Chieftain attacks, either remove X progress from the quest, or return it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 27,
-            "Quantity": 1,
-            "Artist": "Alexander Kozachenko",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00027",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cracked Pillar",
-            "Slug": "Cracked-Pillar-TDoM",
-            "IsUnique": true,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cracked-Pillar.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "2"
-                },
-                "Traits": [
-                    "Underground."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Cracked Pillar is in the staging area, it gains: `The first player may declare an attack against Cracked Pillar during the combat phase as if it was an enemy engaged with him. Use Cracked Pillar`s Threat as its Defense during this attack.`",
-                    "Travel: Remove 4 damage from Cracked Pillar to travel here."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 28,
-            "Quantity": 1,
-            "Artist": "Leanna Crossan",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00028",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cave Torch",
-            "Slug": "Cave-Torch-TDoM",
-            "IsUnique": false,
-            "CardType": "Objective",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cave-Torch.jpg",
-                "Stats": {},
-                "Traits": [
-                    "Light."
-                ],
-                "Keywords": [
-                    "Restricted."
-                ],
-                "Text": [
-                    "Attach to a hero. Restricted.",
-                    "Action: Exhause Cave Torch to place up to 3 progress tokens on a Dark location.",
-                    "Forced: After Cave Torch exhausts, discard the top card of the encounter deck. If that card is an enemy, add it to the staging area."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 29,
-            "Quantity": 1,
-            "Artist": "David Lecossu",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00029",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Great Cave-troll",
-            "Slug": "Great-Cave-troll-TDoM",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Great-Cave-troll.jpg",
-                "Stats": {
-                    "EngagementCost": "36",
-                    "Threat": "3",
-                    "Attack": "6",
-                    "Defense": "4",
-                    "HitPoints": "6"
-                },
-                "Traits": [
-                    "Troll."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Cannot have attachments.",
-                    "For each point of excess combat damage dealt by Great Cave-troll (damage that is dealt beyond the remaining hit points of the character damaged by its attack) remove 1 progress from the current quest."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 30,
-            "Quantity": 2,
-            "Artist": "Nicholas Gregory",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00030",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Cavern Warg",
-            "Slug": "Cavern-Warg-TDoM",
-            "IsUnique": false,
-            "CardType": "Enemy",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Cavern-Warg.jpg",
-                "Stats": {
-                    "EngagementCost": "33",
-                    "Threat": "2",
-                    "Attack": "3",
-                    "Defense": "2",
-                    "HitPoints": "3"
-                },
-                "Traits": [
-                    "Creature.",
-                    "Warg."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Response: When Cavern Warg attacks you, exhaust Cave Torch to cancel the attack and return Cavern Warg to the staging area."
-                ],
-                "Shadow": "Shadow: If this attack destroys a character, return attacking enemy to the staging area after this attack.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 31,
-            "Quantity": 2,
-            "Artist": "Stanislav Dikolenko",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00031",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Goblin Tunnels",
-            "Slug": "Goblin-Tunnels-TDoM",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Goblin-Tunnels.jpg",
-                "Stats": {
-                    "Threat": "2",
-                    "QuestPoints": "7"
-                },
-                "Traits": [
-                    "Underground.",
-                    "Dark."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Goblin Tunnels is in the staging area, it gains: `Forced: After a Goblin is revealed from the encounter deck, remove a progress token from the current quest card.`"
-                ],
-                "Shadow": "Shadow: Attacking enemy gets +1 Attack. (+3 Attack instead if attacking enemy is a Goblin.)",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 32,
-            "Quantity": 2,
-            "Artist": "Michael Rasmussen",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00032",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Lightless Passage",
-            "Slug": "Lightless-Passage-TDoM",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Lightless-Passage.jpg",
-                "Stats": {
-                    "Threat": "4",
-                    "QuestPoints": "4"
-                },
-                "Traits": [
-                    "Underground.",
-                    "Dark."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "Travel: Players must exhaust a Cave Torch to travel here."
-                ],
-                "Shadow": "Shadow: Cancel all combat damage dealt to attacking enemy.",
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 33,
-            "Quantity": 2,
-            "Artist": "Stu Barnes",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00033",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "Branching Paths",
-            "Slug": "Branching-Paths-TDoM",
-            "IsUnique": false,
-            "CardType": "Location",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/Branching-Paths.jpg",
-                "Stats": {
-                    "Threat": "1",
-                    "QuestPoints": "3"
-                },
-                "Traits": [
-                    "Underground.",
-                    "Dark."
-                ],
-                "Keywords": [],
-                "Text": [
-                    "While Branching Paths is in the staging area, each Dark location gets +1 Threat.",
-                    "Forced: After Branching Paths leaves play as an explored location, look at the top 3 cards of the encounter deck. Players must choose 1 of those to reveal and add to the staging area, moving the other 2 to the bottom of the deck."
-                ],
-                "Shadow": null,
-                "FlavorText": null
-            },
-            "Back": null,
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": {
-                "EncounterSet": "The Caves of Nibin-Dûm (Campaign)",
-                "EasyModeQuantity": 0,
-                "IncludedEncounterSets": [],
-                "StageNumber": null,
-                "StageLetter": null
-            },
-            "Number": 34,
-            "Quantity": 2,
-            "Artist": "David A. Nash",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00034",
+            "RingsDbCardId": "02024",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -991,7 +1020,7 @@
             "Artist": "Leanna Crossan",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00035",
+            "RingsDbCardId": "02035",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1015,8 +1044,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Travel: Reveal the top card of the encounter deck to travel here.",
-                    "Response: After Goblin Dungeon leaves play as an explored location, the first player searches the top 5 cards of his deck for an ally and puts it into play under his control. Shuffle the rest of the searched cards back into his deck."
+                    "Travel: Reveal the top card of the encounter deck to travel here.\nResponse: After Goblin Dungeon leaves play as an explored location, the first player searches the top 5 cards of his deck for an ally and puts it into play under his control. Shuffle the rest of the searched cards back into his deck.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1035,7 +1063,7 @@
             "Artist": "Leanna Crossan",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00036",
+            "RingsDbCardId": "02036",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1059,8 +1087,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Crumbling Stairs is in the staging area, progress cannot be placed on it.",
-                    "Forced: When Crumbling Stairs leaves play as an explored location, discard the top card of the encounter deck. If the discarded card is a location, put it into play as the active location."
+                    "While Crumbling Stairs is in the staging area, progress cannot be placed on it.\nForced: When Crumbling Stairs leaves play as an explored location, discard the top card of the encounter deck. If the discarded card is a location, put it into play as the active location.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1079,7 +1106,7 @@
             "Artist": "Alyn Spiller",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00037",
+            "RingsDbCardId": "02037",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1117,7 +1144,7 @@
             "Artist": "Magali Villeneuve",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00038",
+            "RingsDbCardId": "02038",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1155,7 +1182,7 @@
             "Artist": "Nicholas Gregory",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00039",
+            "RingsDbCardId": "02039",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1193,7 +1220,7 @@
             "Artist": "Tiziano Baracchi",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00040",
+            "RingsDbCardId": "02040",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1217,7 +1244,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
-                    "When Revealed: Each player may add 1 resource to each of their heroes` pools. Each player that does raises their threat by 5."
+                    "When Revealed: Each player may add 1 resource to each of their heroes` pools. Each player that does raises their threat by 5.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1236,7 +1263,7 @@
             "Artist": "Andreas Zafiratos",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00042",
+            "RingsDbCardId": "02042",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
@@ -1257,7 +1284,7 @@
                     "Surge."
                 ],
                 "Text": [
-                    "When Revealed: Attach to the hero with the highest threat cost. (Counts as an Adaptation attachment with the text: `Forced: Raise your threat by 2 at the end of the round. Action: Spend 2 resources from attached hero`s pool to discard this card.`)"
+                    "When Revealed: Attach to the hero with the highest threat cost. (Counts as an Adaptation attachment with the text: `Forced: Raise your threat by 2 at the end of the round. Action: Spend 2 resources from attached hero`s pool to discard this card.`)\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -1276,56 +1303,12 @@
             "Artist": "Lin Hsiang",
             "HasErrata": false,
             "OctgnGuid": "",
-            "RingsDbCardId": "00043",
-            "RingsDbPopularity": 0,
-            "RingsDbVotes": 0,
-            "Categories": null
-        },
-        {
-            "Title": "The Caves of Nibin-Dûm",
-            "Slug": "The-Caves-of-Nibin-Dum-Campaign-TDoM",
-            "IsUnique": false,
-            "CardType": "Campaign",
-            "CardSubType": "None",
-            "Sphere": null,
-            "Front": {
-                "Subtitle": null,
-                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Dark-of-Mirkwood/The-Caves-of-Nibin-Dûm-SetupA.jpg",
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "You are playing Campaign Mode.",
-                    "Setup: Each player adds a copy of the `No Time to Waste!` boon to their hand after drawing their starting hand (including taking a mulligan). Add each copy of `No Time to Waste!` in a player`s hand to the Campaign Pool. Shuffle the Shiny Distraction burden into the encounter deck and add it to the Campaign Pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "That, of course, is the dangerous part about caves: you don`t know how far they go back...\r\n-The Hobbit"
-            },
-            "Back": {
-                "Subtitle": null,
-                "ImagePath": null,
-                "Stats": {},
-                "Traits": [],
-                "Keywords": [],
-                "Text": [
-                    "Resolution: Check the final threat of the player with the highest threat: If it is under 40, you have rescued a retired Ranger who shares his wisdom with you. Each player may add 1 copy of Ranger Sense to their deck and to the Campaign Pool. At the start of your next campaign, each player may also shuffle 1 copy of Ranger Sense into their deck and add it to the Campaign Pool."
-                ],
-                "Shadow": null,
-                "FlavorText": "You have rescued the captives and fulfilled your oath. What Goblins remain flee in terror of your wrath, and your return journey is untroubled. The villagers who survived thank you endlessly for returning them to their village. They invited you to stay and live among them in honor, but your allegiance is to other lords and many journeys still await you. After a good night`s rest, you depart in the morning."
-            },
-            "CardSet": "The Dark of Mirkwood",
-            "EncounterInfo": null,
-            "Number": 51,
-            "Quantity": 1,
-            "Artist": "Jason Jenicke",
-            "HasErrata": false,
-            "OctgnGuid": "",
-            "RingsDbCardId": "00051",
+            "RingsDbCardId": "02043",
             "RingsDbPopularity": 0,
             "RingsDbVotes": 0,
             "Categories": null
         }
     ],
-    "Cycle": "Scenario Pack",
+    "Cycle": "Shadows of Mirkwood",
     "SetType": "Scenario_Pack"
 }

@@ -30,10 +30,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: When the players advance to stage 2A (and before resolving its `when revealed` effect), shuffle each set aside Dúnedain of Annúminas into the encounter deck. Then shuffle X copies of Host of Angmar into the encounter deck, where X is one less than the number of players in the game, to a minimum of 1.If a player is eliminated from the game, deal 9 damage to Annúminas."
+                    "Forced: When the players advance to stage 2A (and before resolving its `when revealed` effect), shuffle each set aside Dúnedain of Annúminas into the encounter deck. Then shuffle X copies of Host of Angmar into the encounter deck, where X is one less than the number of players in the game, to a minimum of 1.If a player is eliminated from the game, deal 9 damage to Annúminas.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "...chief among their foes was was the dread realm of Angmar and its sorcerer king.\r\n-The Return of the King"
+                "FlavorText": "...chief among their foes was was the dread realm of Angmar and its sorcerer king.\n-The Return of the King"
             },
             "CardSet": "The Siege of Annúminas",
             "EncounterInfo": null,
@@ -73,12 +73,10 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each stage 2 can only be defeated at the beginning of the round, and only if each other stage 2 is complete.While the players are at stage 2, each stage gains: `Forced: At the end of the round, each Host of Angmar in the staging area moves to the next staging area in descending alphabetical order. If it cannot move, discard it and deal 9 damage to Annúminas.`",
-                    "For example: At the end of the round, there is a Host of Angmar in the staging area at stage 2F. After the teams at stage 2B and 2D resolve their end-of-round effects, the Host of Angmar in the staging area at stage 2F moves to the staging area of 2D.",
-                    "If the last player at a stage is eliminated, the enemy has broken through the city`s defenses and all teams lose the game."
+                    "Each stage 2 can only be defeated at the beginning of the round, and only if each other stage 2 is complete.While the players are at stage 2, each stage gains: `Forced: At the end of the round, each Host of Angmar in the staging area moves to the next staging area in descending alphabetical order. If it cannot move, discard it and deal 9 damage to Annúminas.`\nFor example: At the end of the round, there is a Host of Angmar in the staging area at stage 2F. After the teams at stage 2B and 2D resolve their end-of-round effects, the Host of Angmar in the staging area at stage 2F moves to the staging area of 2D.\nIf the last player at a stage is eliminated, the enemy has broken through the city`s defenses and all teams lose the game.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`...in their latter days they defended the hills for a while against the evil that came out of Angmar.`\r\n-Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`...in their latter days they defended the hills for a while against the evil that came out of Angmar.`\n-Aragorn, The Fellowship of the Ring"
             },
             "CardSet": "The Siege of Annúminas",
             "EncounterInfo": null,
@@ -123,8 +121,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the beginning of the round (before the resource phase), place 1 resource here. Then, if there are 4 resources here, advance to stage 2.",
-                    "Response: At the end of the round, remove 10 progress from this stage to increase the city strength of Annúminas by 10."
+                    "Forced: At the beginning of the round (before the resource phase), place 1 resource here. Then, if there are 4 resources here, advance to stage 2.\nResponse: At the end of the round, remove 10 progress from this stage to increase the city strength of Annúminas by 10.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": "Many hands hurry to reinforce the gate with heavy timbers and large stones while the enemy draws steadily nearer."
@@ -178,9 +175,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "This stage gets -10 quest points for each Host of Angmar in a victory display.",
-                    "Forced: After the players have committed characters to the quest, the highest Attack enemy in the staging area makes an attack against each player in turn order. If no attacks are made in this way, reveal the top card of the encounter deck.",
-                    "Response: At the end of the round, choose a stage. Each player at that stage heals 1 damage from a character he controls."
+                    "This stage gets -10 quest points for each Host of Angmar in a victory display.\nForced: After the players have committed characters to the quest, the highest Attack enemy in the staging area makes an attack against each player in turn order. If no attacks are made in this way, reveal the top card of the encounter deck.\nResponse: At the end of the round, choose a stage. Each player at that stage heals 1 damage from a character he controls.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -234,9 +229,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Progress cannot be placed here while Battering Ram is in play.",
-                    "Response: At the end of the round, raise each player`s threat by 1 and reveal an encounter card to choose a non-unique enemy worth no victory points at another stage. Discard the chosen enemy.",
-                    "If the Lieutenant of Angmar is in a victory display at the end of the round, the players have routed the enemy and win the game."
+                    "Progress cannot be placed here while Battering Ram is in play.\nResponse: At the end of the round, raise each player`s threat by 1 and reveal an encounter card to choose a non-unique enemy worth no victory points at another stage. Discard the chosen enemy.\nIf the Lieutenant of Angmar is in a victory display at the end of the round, the players have routed the enemy and win the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -260,6 +253,330 @@
             "Categories": null
         },
         {
+            "Title": "Raise the Levee",
+            "Slug": "Raise-the-Levee-C-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Raise-the-Levee-C-1C.jpg",
+                "Stats": {
+                    "StageNumber": "1C"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Lieutenant of Angmar, Battering Ram, Enemy Camp, Siege Tunnel, each copy of Host of Angmar, and each copy of Dúnedain of Annúminas aside, out of play. Shuffle the encounter deck. Each player discards cards from the top of the encounter deck until he discards an enemy or location. Add each enemy and location discarded in this way to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "An army from Angmar marches on the Dúnedain city of Annúminas. You ring the alarm bells and hurry to gather what strength you can."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Raise-the-Levee-C-1D.jpg",
+                "Stats": {
+                    "StageNumber": "1D",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the round (before the resource phase), place 1 resource here. Then, if there are 4 resources here, advance to stage 2.\nResponse: At the end of the round, remove 10 progress from this stage. Then, the first player at each stage takes control of a set aside Dúnedain of Annúminas.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You race along the shores of Lake Nenuial to gather the Dúnedain inside the walls. `To arms!` you shout. `Everyone into the city! Angmar approaches!`"
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "C"
+            },
+            "Number": 6,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00006",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Guard the Gate",
+            "Slug": "Guard-the-Gate-C-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Guard-the-Gate-C-2C.jpg",
+                "Stats": {
+                    "StageNumber": "2C"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded. X is one less than the number of players in the game, to a minimum of 1. Add each enemy discarded this way to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve gathered everyone you can into Annúminas but the host of Angmar is hot on your heels. Once you reach the city gate, you draw your weapons and turn to face the charging Orcs. They cannot be allowed to enter this way."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Guard-the-Gate-C-2D.jpg",
+                "Stats": {
+                    "StageNumber": "2D",
+                    "QuestPoints": "50"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets -10 quest points for each Host of Angmar in a victory display.\nForced: Reveal 1 additional card during the quest phase.\nResponse: At the end of the round, choose a stage. Each player at that stage chooses a hero he controls and adds 1 resource to that hero`s pool.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "C"
+            },
+            "Number": 7,
+            "Quantity": 1,
+            "Artist": "Joshua Cairós",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00007",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Rescue the Captives",
+            "Slug": "Rescue-the-Captives-C-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Rescue-the-Captives-C-3C.jpg",
+                "Stats": {
+                    "StageNumber": "3C"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. The first player adds Enemy Camp to the staging area. Each other player reveals an encounter card. Each player at each stage chooses a hero he controls, discards all tokens and attachments from it, and places it facedown under the main quest at their stage.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve driven back the Orcs, but they`ve captured some of your companions. You won`t abandon your friends, so you follow them to the enemy camp."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Rescue-the-Captives-C-3D.jpg",
+                "Stats": {
+                    "StageNumber": "3D",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Process cannot be placed here while Enemy Camp is in play.\nResponse: At the end of the round, raise each player`s threat by 1 and reveal an encounter card to choose a non-unique enemy worth no victory points at another stage. Discard the chosen enemy.\nIf the Lieutenant of Angmar is in the victory display at the end of the round, the players have routed the enemy and won the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 3,
+                "StageLetter": "C"
+            },
+            "Number": 8,
+            "Quantity": 1,
+            "Artist": "Rafał Hrynkiewicz",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00008",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Delay the Enemy",
+            "Slug": "Delay-the-Enemy-E-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Delay-the-Enemy-E-1E.jpg",
+                "Stats": {
+                    "StageNumber": "1E"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Setup: Set Lieutenant of Angmar, Battering Ram, Enemy Camp, Siege Tunnel, each copy of Host of Angmar, and each copy of Dúnedain of Annúminas aside, out of play. Each player searches the encounter deck for a different enemy and adds it to the staging area. One of these enemies must be Vanguard of Carn Dûm. Shuffle the encounter deck."
+                ],
+                "Shadow": null,
+                "FlavorText": "An army from Angmar marches on the Dúnedain city of Annúminas. Your friends need time to prepare the defense, so you ride out to meet the enemy."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Delay-the-Enemy-E-1F.jpg",
+                "Stats": {
+                    "StageNumber": "1F",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Forced: At the beginning of the round (before the resource phase), place 1 resource here. Then, if there are 4 resources here, advance to stage 2.Response: At the end of the round, remove 10 progress from this stage, then the players at each other stage reveal 1 fewer encounter card during their next quest phase (to a minimum of 0).\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "It`s up to you to harry the Orcs and slow their approach to the city."
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 1,
+                "StageLetter": "E"
+            },
+            "Number": 9,
+            "Quantity": 1,
+            "Artist": "Javier Charro Martinez",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00009",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Man the Walls",
+            "Slug": "Man-the-Walls-E-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Man-the-Walls-E-2E.jpg",
+                "Stats": {
+                    "StageNumber": "2E"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until X enemies are discarded. X is one less than the number of players in the game, to a minimum of 1. Add each enemy discarded this way to the staging area.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve done all you can to slow the enemy, so you retreat inside Annúminas and man the walls. Grappling hooks and ladders are raised against the battlements and arrows whistle overhead as the host of Angmar attacks the city."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Man-the-Walls-E-2F.jpg",
+                "Stats": {
+                    "StageNumber": "2F",
+                    "QuestPoints": "50"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "This stage gets -10 quest points for each Host of Angmar in a victory display.Forced: At the beginning of the round, add 1 set aside Host of Angmar (from any stage`s set aside area) to this staging area.\nResponse: At the end of the round, choose a stage. Each player at that stage draws 1 card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 2,
+                "StageLetter": "E"
+            },
+            "Number": 10,
+            "Quantity": 1,
+            "Artist": "Andreia Ugrai",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00010",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
+            "Title": "Stop the Attack",
+            "Slug": "Stop-the-Attack-E-TSoA",
+            "IsUnique": false,
+            "CardType": "Quest",
+            "CardSubType": "None",
+            "Sphere": null,
+            "Front": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Stop-the-Attack-E-3E.jpg",
+                "Stats": {
+                    "StageNumber": "3E"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "When Revealed: Shuffle the encounter discard pile into the encounter deck. The first player adds Siege Tunnel to the staging area. Each other player reveals an encounter card.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": "You`ve driven the enemy from the battlements when you hear a commotion from below. Orcs have tunneled under the walls and atack you from the rear. You charge down the stairs to stem the tide of Orcs and block the tunnel entrance."
+            },
+            "Back": {
+                "Subtitle": null,
+                "ImagePath": "https://s3.amazonaws.com/hallofbeorn-resources/Images/Cards/The-Siege-of-Annuminas/Stop-the-Attack-E-3F.jpg",
+                "Stats": {
+                    "StageNumber": "3F",
+                    "QuestPoints": "-"
+                },
+                "Traits": [],
+                "Keywords": [],
+                "Text": [
+                    "Progress cannot be placed here while Siege Tunnel is in play.Response: At the end of the round, raise each player`s threat by 1 and reveal an encounter card to choose a non-unique enemy worth no victory points at another stage. Discard the chosen enemy.\nIf the Lieutenant of Angmar is in the victory display at the end of the round, the players have routed the enemy and won the game.\n"
+                ],
+                "Shadow": null,
+                "FlavorText": null
+            },
+            "CardSet": "The Siege of Annúminas",
+            "EncounterInfo": {
+                "EncounterSet": "The Siege of Annúminas",
+                "EasyModeQuantity": 0,
+                "IncludedEncounterSets": [],
+                "StageNumber": 3,
+                "StageLetter": "E"
+            },
+            "Number": 11,
+            "Quantity": 1,
+            "Artist": "Marius Bota",
+            "HasErrata": false,
+            "OctgnGuid": "",
+            "RingsDbCardId": "00011",
+            "RingsDbPopularity": 0,
+            "RingsDbVotes": 0,
+            "Categories": null
+        },
+        {
             "Title": "Annúminas",
             "Slug": "Annuminas-TSoA",
             "IsUnique": true,
@@ -275,8 +592,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: At the end of the round, deal 1 damage to Annúminas for each enemy at each stage.",
-                    "If the city strength of Annúminas reaches 0, the city is overrun by the forces of Angmar and all teams lose the game."
+                    "Forced: At the end of the round, deal 1 damage to Annúminas for each enemy at each stage.\nIf the city strength of Annúminas reaches 0, the city is overrun by the forces of Angmar and all teams lose the game.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -325,9 +641,7 @@
                     "Victory 4."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Lieutenant of Angmar cannot take damage unless there is at least 10 progress on the main quest.",
-                    "Forced: At the end of the round, Lieutenant of Angmar moves to the staging area with the lowest total Threat and makes an immediate attack against the first player."
+                    "Immune to player card effects.\nLieutenant of Angmar cannot take damage unless there is at least 10 progress on the main quest.\nForced: At the end of the round, Lieutenant of Angmar moves to the staging area with the lowest total Threat and makes an immediate attack against the first player.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -372,9 +686,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "X is 1 more than the number of resources on Battering Ram. Immune to player card effects.",
-                    "Forced: At the end of the round, place 1 resource on Battering Ram. Then, deal X damage to Annúminas.",
-                    "Travel: Reveal 1 encounter card per player to travel here."
+                    "X is 1 more than the number of resources on Battering Ram. Immune to player card effects.\nForced: At the end of the round, place 1 resource on Battering Ram. Then, deal X damage to Annúminas.\nTravel: Reveal 1 encounter card per player to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -419,9 +731,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Forced: At the end of the round, if Enemy Camp is in play, discard 1 random facedown hero from under each stage 3. If Enemy Camp is in the victory display, return each hero under each stage 3 to its owner`s control instead.",
-                    "Travel: Reveal 1 encounter card per player to travel here."
+                    "Immune to player card effects.\nForced: At the end of the round, if Enemy Camp is in play, discard 1 random facedown hero from under each stage 3. If Enemy Camp is in the victory display, return each hero under each stage 3 to its owner`s control instead.\nTravel: Reveal 1 encounter card per player to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -466,9 +776,7 @@
                     "Victory 5."
                 ],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Forced: At the end of the round, each team discards from the top of their encounter deck until an enemy is discarded and adds that enemy to their staging area.",
-                    "Travel: Reveal 1 encounter card per player to travel here."
+                    "Immune to player card effects.\nForced: At the end of the round, each team discards from the top of their encounter deck until an enemy is discarded and adds that enemy to their staging area.\nTravel: Reveal 1 encounter card per player to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -517,9 +825,7 @@
                     "Victory 4."
                 ],
                 "Text": [
-                    "Archery 2.",
-                    "Immune to player card effects.",
-                    "Forced: After Host of Angmar attacks and destroys a character, either remove 2 progress from the main quest, or return Host of Angmar to the staging area."
+                    "Archery 2.\nImmune to player card effects.\nForced: After Host of Angmar attacks and destroys a character, either remove 2 progress from the main quest, or return Host of Angmar to the staging area.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -568,8 +874,7 @@
                     "Sentinel."
                 ],
                 "Text": [
-                    "Surge. Ranged. Sentinel.",
-                    "When Revealed: Any player may spend 1 resource to take control of Dúnedain of Annúminas. Otherwise, discard it."
+                    "Surge. Ranged. Sentinel.\nWhen Revealed: Any player may spend 1 resource to take control of Dúnedain of Annúminas. Otherwise, discard it.\n"
                 ],
                 "Shadow": "Shadow: Ready the defending character and give it +2 Defense for this attack.",
                 "FlavorText": null
@@ -613,11 +918,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "X is 1 more than the number of enemies in play.",
-                    "Travel: Each player engages an enemy in the staging area to travel here."
+                    "X is 1 more than the number of enemies in play.\nTravel: Each player engages an enemy in the staging area to travel here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`...the Men of Westernesse were diminished, and their city of of Annúminas beside lake Evendim fell into ruin...`\r\n-Elrond, The Fellowship of the Ring"
+                "FlavorText": "`...the Men of Westernesse were diminished, and their city of of Annúminas beside lake Evendim fell into ruin...`\n-Elrond, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Siege of Annúminas",
@@ -658,9 +962,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Immune to player card effects.",
-                    "Forced: At the end of the round, place 1 resource on City Wall. Then, if there are 3 resources here, discard City Wall to deal 4 damage to Annúminas and reveal an encounter card.",
-                    "Travel: Reveal the top card of the encounter deck to travel here."
+                    "Immune to player card effects.\nForced: At the end of the round, place 1 resource on City Wall. Then, if there are 3 resources here, discard City Wall to deal 4 damage to Annúminas and reveal an encounter card.\nTravel: Reveal the top card of the encounter deck to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -703,11 +1005,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Arnor Battlefield is in the staging area, each non-unique enemy gets -5 engagement cost.",
-                    "Travel: Each player deals 1 damage to a hero he controls to travel here."
+                    "While Arnor Battlefield is in the staging area, each non-unique enemy gets -5 engagement cost.\nTravel: Each player deals 1 damage to a hero he controls to travel here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "A smoke as of fire and battle arose, and again the sun went down in a burning red that faded into a grey mist...\r\n-The Fellowship of the Ring"
+                "FlavorText": "A smoke as of fire and battle arose, and again the sun went down in a burning red that faded into a grey mist...\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Siege of Annúminas",
@@ -747,8 +1048,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Hills of Evendim is in the staging area, `when revealed` effects cannot be canceled.",
-                    "Travel: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until an enemy is discarded. Add the discarded enemy to the staging area to travel here."
+                    "While Hills of Evendim is in the staging area, `when revealed` effects cannot be canceled.\nTravel: Shuffle the encounter discard pile into the encounter deck and discard cards from the top until an enemy is discarded. Add the discarded enemy to the staging area to travel here.\n"
                 ],
                 "Shadow": null,
                 "FlavorText": null
@@ -791,11 +1091,10 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "While Shores of Lake Nenuial is in the staging area, progress cannot be placed on other locations in the staging area.",
-                    "Travel: Raise each player`s threat by 2 to travel here."
+                    "While Shores of Lake Nenuial is in the staging area, progress cannot be placed on other locations in the staging area.\nTravel: Raise each player`s threat by 2 to travel here.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "`...that is so long ago that the hills have forgotten them, though a shadow still lies on the land.`\r\n-Aragorn, The Fellowship of the Ring"
+                "FlavorText": "`...that is so long ago that the hills have forgotten them, though a shadow still lies on the land.`\n-Aragorn, The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Siege of Annúminas",
@@ -840,11 +1139,10 @@
                     "Surge."
                 ],
                 "Text": [
-                    "Surge.",
-                    "Forced: After Warg of Carn Dûm engages you, either remove 1 progress from the main quest, or exhaust a character you control."
+                    "Surge.\nForced: After Warg of Carn Dûm engages you, either remove 1 progress from the main quest, or exhaust a character you control.\n"
                 ],
                 "Shadow": null,
-                "FlavorText": "Up from the dark plain below came the crying of fell voices, and the howling of many wolves\r\n-The Fellowship of the Ring"
+                "FlavorText": "Up from the dark plain below came the crying of fell voices, and the howling of many wolves\n-The Fellowship of the Ring"
             },
             "Back": null,
             "CardSet": "The Siege of Annúminas",
@@ -889,8 +1187,7 @@
                     "Archery 1."
                 ],
                 "Text": [
-                    "Archery 1.",
-                    "Forced: When Orc of Angmar attacks, either remove 1 progress from the main quest, or it gets +2 Defense until the end of the phase."
+                    "Archery 1.\nForced: When Orc of Angmar attacks, either remove 1 progress from the main quest, or it gets +2 Defense until the end of the phase.\n"
                 ],
                 "Shadow": "Shadow: Defender gets -2 Defense until end of round.",
                 "FlavorText": null
@@ -938,8 +1235,7 @@
                     "Archery 1."
                 ],
                 "Text": [
-                    "Archery 1.",
-                    "Forced: After Angmar Warg-rider engages you, either remove 2 progress from the main quest, or it makes an immediate attack."
+                    "Archery 1.\nForced: After Angmar Warg-rider engages you, either remove 2 progress from the main quest, or it makes an immediate attack.\n"
                 ],
                 "Shadow": "Shadow: Exhaust a character you control.",
                 "FlavorText": null
@@ -985,7 +1281,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Forced: After Savage Werewolf attacks and destroys a character, remove 3 progress from the main quest."
+                    "Forced: After Savage Werewolf attacks and destroys a character, remove 3 progress from the main quest.\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy makes an additional attack against you after this one.",
                 "FlavorText": null
@@ -1031,8 +1327,7 @@
                 ],
                 "Keywords": [],
                 "Text": [
-                    "Cannot have attachments.",
-                    "While Vanguard of Carn Dûm is in the staging area, no more than 5 progress can be placed on the main quest each round."
+                    "Cannot have attachments.\nWhile Vanguard of Carn Dûm is in the staging area, no more than 5 progress can be placed on the main quest each round.\n"
                 ],
                 "Shadow": "Shadow: Defender cannot ready this round.",
                 "FlavorText": null
@@ -1070,7 +1365,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player must choose: either return the highest Threat enemy engaged with you to the staging area, or search the encounter deck and discard pile for an enemy and put it into play engaged with you."
+                    "When Revealed: Each player must choose: either return the highest Threat enemy engaged with you to the staging area, or search the encounter deck and discard pile for an enemy and put it into play engaged with you.\n"
                 ],
                 "Shadow": "Shadow: If this attack destroys a character, reveal the top card of the encounter deck.",
                 "FlavorText": null
@@ -1110,8 +1405,7 @@
                     "Doomed 1."
                 ],
                 "Text": [
-                    "Doomed 1.",
-                    "When Revealed: Each player must choose: either discard the highest cost attachment you control, or assign X damage among characters you control, where X is the number of attachments you control."
+                    "Doomed 1.\nWhen Revealed: Each player must choose: either discard the highest cost attachment you control, or assign X damage among characters you control, where X is the number of attachments you control.\n"
                 ],
                 "Shadow": "Shadow: Discard an attachment you control.",
                 "FlavorText": null
@@ -1149,7 +1443,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "Each player must choose: either deal 1 damage to each questing character you control, or each questing character you control gets -1 Willpower until the end of the phase."
+                    "Each player must choose: either deal 1 damage to each questing character you control, or each questing character you control gets -1 Willpower until the end of the phase.\n"
                 ],
                 "Shadow": "Shadow: Either remove 2 progress from the main quest, or return attacking enemy to the staging area after this attack.",
                 "FlavorText": null
@@ -1187,7 +1481,7 @@
                 "Traits": [],
                 "Keywords": [],
                 "Text": [
-                    "When Revealed: Each player deals 1 damage to a hero he controls. If that hero is questing, remove it from the quest. Until the end of the round, treat each damaged character`s text box as if it were blank (except for Traits)."
+                    "When Revealed: Each player deals 1 damage to a hero he controls. If that hero is questing, remove it from the quest. Until the end of the round, treat each damaged character`s text box as if it were blank (except for Traits).\n"
                 ],
                 "Shadow": "Shadow: Attacking enemy gets +1 Attack (+2 Attack instead if the defender is damaged).",
                 "FlavorText": null
@@ -1212,6 +1506,6 @@
             "Categories": null
         }
     ],
-    "Cycle": "Fellowship",
+    "Cycle": "Print on Demand",
     "SetType": "Fellowship_Deck"
 }
